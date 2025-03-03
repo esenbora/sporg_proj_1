@@ -1,4 +1,4 @@
-'# SPORG' 
+# SPORG
 =======
 # Transfermarkt Data Scraping Project
 Bu proje, Transfermarkt websitesinden çeşitli futbol verilerini çekmek için kullanılan Python scriptlerini içerir.
