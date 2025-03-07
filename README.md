@@ -1,7 +1,7 @@
 # SPORG
 =======
 # Transfermarkt Data Scraping Project
-Bu proje, Transfermarkt websitesinden çeşitli futbol verilerini çekmek için kullanılan Python scriptlerini içerir.
+This project contains Python scripts used to scrape various football data from Transfermarkt and FBREF websites.
 
 ## Özellikler
 
@@ -10,49 +10,45 @@ Bu proje, Transfermarkt websitesinden çeşitli futbol verilerini çekmek için 
 - Tüm veriler CSV formatında kaydedilir
 - Ayni zamanda json formatinda da kaydedilir
 
-## Desteklenen Ligler
+## Competitions
 
-- Bundesliga (Almanya)
-- Ligue 1 (Fransa)
-- Premier League (İngiltere)
-- LaLiga (İspanya)
-- Serie A (İtalya)
+- Bundesliga (Germany)
+- Ligue 1 (France)
+- Premier League (England)
+- LaLiga (Spain)
+- Serie A (Italy)
 
-## Kurulum
+## Setup
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## Kullanım
+## Usage
 
-Sezondaki takımlar için:
+For teams in the season:
   League Team Scraper.ipynb
 
-
-Takımların kadro bilgileri için:
+For teams squad information:
   Team Squad Info Scraper.ipynb
 
-## Dosya Yapısı
+## Directory Structure
 
 ```
 .
 ├── data/
-│   ├── squad information/        # Takım kadro bilgileri
-│   └── teams in the season/      # Ligdeki takımlar
-├── screenshots/
-│   ├── league/        # Lig puan durumu screenshot'ları
-│   ├── transfer/      # Transfer bilançosu screenshot'ları
-│   └── uefa/          # UEFA katsayı screenshot'ları
-├── venv
-├── .ipynb_checkpoints
+│   ├── league-fixture/           # info about every game in a comp's season
+│   ├── squad-information/        # info about each team's squad
+│   └── teams-in-the-season/      # teams that participated during a season
+├── .gitignore
+├── FBREF Scraper.py
 ├── League Team Scraper.ipynb
 ├── Team Squad Info Scraper.ipynb
 ├── requirements.txt
 └── README.md
 ```
 
-## Notlar
+## Notes
 
-- Tüm veriler 2020/21'den 2024/25'e kadar olan sezonları kapsar
-- Veriler İngizice olarak çekilir
+- Data covers seasons from 2020/21 to 2024/25
+- Data is scraped in English
