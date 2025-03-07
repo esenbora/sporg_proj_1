@@ -1,0 +1,251 @@
+Wk,Day,Date,Time,Home,Away,xG,xG.1,Score,Attendance,Referee,season,game_id
+1.0,Sat,2019-08-24,18:00,Parma,Juventus,0.3,1.4,0–1,20073.0,Fabio Maresca,2019-2020,0
+1.0,Sat,2019-08-24,20:45,Fiorentina,Napoli,1.7,2.0,3–4,33614.0,Davide Massa,2019-2020,1
+1.0,Sun,2019-08-25,18:00,Udinese,Milan,0.8,0.7,1–0,24584.0,Fabrizio Pasqua,2019-2020,2
+1.0,Sun,2019-08-25,20:45,SPAL,Atalanta,1.6,1.8,2–3,11706.0,Gianluca Manganiello,2019-2020,3
+1.0,Sun,2019-08-25,20:45,Roma,Genoa,2.5,1.3,3–3,38779.0,Giampaolo Calvarese,2019-2020,4
+1.0,Sun,2019-08-25,20:45,Torino,Sassuolo,1.2,1.3,2–1,16536.0,Maurizio Mariani,2019-2020,5
+1.0,Sun,2019-08-25,20:45,Hellas Verona,Bologna,0.2,1.8,1–1,16324.0,Antonio Giua,2019-2020,6
+1.0,Sun,2019-08-25,20:45,Sampdoria,Lazio,0.7,1.8,0–3,19500.0,Gianluca Rocchi,2019-2020,7
+1.0,Sun,2019-08-25,20:45,Cagliari,Brescia,1.2,1.3,0–1,16099.0,Eugenio Abbattista,2019-2020,8
+1.0,Mon,2019-08-26,20:45,Inter,Lecce,1.7,0.6,4–0,64188.0,Federico La Penna,2019-2020,9
+2.0,Fri,2019-08-30,20:45,Bologna,SPAL,4.0,0.8,1–0,25086.0,Marco Di Bello,2019-2020,11
+2.0,Sat,2019-08-31,18:00,Milan,Brescia,1.5,0.7,1–0,56691.0,Rosario Abisso,2019-2020,12
+2.0,Sat,2019-08-31,20:45,Juventus,Napoli,1.8,1.4,4–3,39203.0,Daniele Orsato,2019-2020,13
+2.0,Sun,2019-09-01,18:00,Lazio,Roma,2.2,1.3,1–1,52000.0,Marco Guida,2019-2020,14
+2.0,Sun,2019-09-01,20:45,Sassuolo,Sampdoria,2.2,1.3,4–1,9608.0,Luca Pairetto,2019-2020,15
+2.0,Sun,2019-09-01,20:45,Udinese,Parma,1.4,1.3,1–3,20410.0,Marco Piccinini,2019-2020,16
+2.0,Sun,2019-09-01,20:45,Genoa,Fiorentina,2.1,1.9,2–1,20000.0,Piero Giacomelli,2019-2020,17
+2.0,Sun,2019-09-01,20:45,Cagliari,Inter,0.5,1.7,1–2,16412.0,Fabio Maresca,2019-2020,18
+2.0,Sun,2019-09-01,20:45,Lecce,Hellas Verona,0.9,1.4,0–1,24418.0,Juan Sacchi,2019-2020,19
+2.0,Sun,2019-09-01,20:45,Atalanta,Torino,1.8,0.8,2–3,8182.0,Daniele Doveri,2019-2020,20
+3.0,Sat,2019-09-14,15:00,Fiorentina,Juventus,1.8,0.4,0–0,40000.0,Massimiliano Irrati,2019-2020,22
+3.0,Sat,2019-09-14,18:00,Napoli,Sampdoria,1.6,2.2,2–0,40000.0,Federico La Penna,2019-2020,23
+3.0,Sat,2019-09-14,20:45,Inter,Udinese,1.6,0.3,1–0,57991.0,Maurizio Mariani,2019-2020,24
+3.0,Sun,2019-09-15,12:30,Genoa,Atalanta,1.4,2.5,1–2,23395.0,Michael Fabbri,2019-2020,25
+3.0,Sun,2019-09-15,15:00,Brescia,Bologna,1.3,3.0,3–4,15000.0,Gianluca Rocchi,2019-2020,26
+3.0,Sun,2019-09-15,15:00,SPAL,Lazio,1.3,1.4,2–1,13650.0,Giampaolo Calvarese,2019-2020,27
+3.0,Sun,2019-09-15,15:00,Parma,Cagliari,1.8,0.5,1–3,14068.0,Fabrizio Pasqua,2019-2020,28
+3.0,Sun,2019-09-15,18:00,Roma,Sassuolo,2.6,1.3,4–2,34407.0,Daniele Chiffi,2019-2020,29
+3.0,Sun,2019-09-15,20:45,Hellas Verona,Milan,0.5,1.4,0–1,24363.0,Gianluca Manganiello,2019-2020,30
+3.0,Mon,2019-09-16,20:45,Torino,Lecce,2.0,1.1,1–2,21620.0,Antonio Giua,2019-2020,31
+4.0,Fri,2019-09-20,20:45,Cagliari,Genoa,1.2,1.1,3–1,14574.0,Gianluca Manganiello,2019-2020,33
+4.0,Sat,2019-09-21,15:00,Udinese,Brescia,0.6,0.8,0–1,19611.0,Paolo Valeri,2019-2020,34
+4.0,Sat,2019-09-21,18:00,Juventus,Hellas Verona,1.9,1.6,2–1,39945.0,Federico La Penna,2019-2020,35
+4.0,Sat,2019-09-21,20:45,Milan,Inter,1.0,2.1,0–2,70440.0,Daniele Doveri,2019-2020,36
+4.0,Sun,2019-09-22,12:30,Sassuolo,SPAL,1.6,1.1,3–0,10937.0,Maurizio Mariani,2019-2020,37
+4.0,Sun,2019-09-22,15:00,Bologna,Roma,1.3,1.5,1–2,25513.0,Luca Pairetto,2019-2020,38
+4.0,Sun,2019-09-22,15:00,Sampdoria,Torino,1.6,0.3,1–0,19041.0,Piero Giacomelli,2019-2020,39
+4.0,Sun,2019-09-22,15:00,Lecce,Napoli,1.5,2.9,1–4,21644.0,Marco Piccinini,2019-2020,40
+4.0,Sun,2019-09-22,18:00,Atalanta,Fiorentina,1.6,1.0,2–2,10314.0,Daniele Orsato,2019-2020,41
+4.0,Sun,2019-09-22,20:45,Lazio,Parma,1.7,0.5,2–0,31404.0,Rosario Abisso,2019-2020,42
+5.0,Tue,2019-09-24,19:00,Hellas Verona,Udinese,1.0,0.6,0–0,13740.0,Daniele Chiffi,2019-2020,44
+5.0,Tue,2019-09-24,21:00,Brescia,Juventus,0.7,1.7,1–2,14000.0,Fabrizio Pasqua,2019-2020,45
+5.0,Wed,2019-09-25,19:00,Roma,Atalanta,1.8,1.8,0–2,31832.0,Massimiliano Irrati,2019-2020,46
+5.0,Wed,2019-09-25,21:00,Fiorentina,Sampdoria,1.6,0.5,2–1,33469.0,Daniele Doveri,2019-2020,47
+5.0,Wed,2019-09-25,21:00,Napoli,Cagliari,2.0,0.5,0–1,25408.0,Marco Di Bello,2019-2020,48
+5.0,Wed,2019-09-25,21:00,Genoa,Bologna,0.3,1.7,0–0,20497.0,Davide Massa,2019-2020,49
+5.0,Wed,2019-09-25,21:00,Inter,Lazio,1.5,1.2,1–0,56175.0,Fabio Maresca,2019-2020,50
+5.0,Wed,2019-09-25,21:00,SPAL,Lecce,1.0,2.2,1–3,13292.0,Gianluca Rocchi,2019-2020,51
+5.0,Wed,2019-09-25,21:00,Parma,Sassuolo,1.7,0.5,1–0,14569.0,Livio Marinelli,2019-2020,52
+5.0,Thu,2019-09-26,21:00,Torino,Milan,1.2,2.8,2–1,23997.0,Marco Guida,2019-2020,53
+6.0,Sat,2019-09-28,15:00,Juventus,SPAL,2.0,0.2,2–0,38995.0,Marco Piccinini,2019-2020,55
+6.0,Sat,2019-09-28,18:00,Sampdoria,Inter,1.1,2.2,1–3,23694.0,Giampaolo Calvarese,2019-2020,56
+6.0,Sat,2019-09-28,20:45,Sassuolo,Atalanta,0.5,2.3,1–4,11604.0,Paolo Valeri,2019-2020,57
+6.0,Sun,2019-09-29,12:30,Napoli,Brescia,2.0,1.1,2–1,45770.0,Gianluca Manganiello,2019-2020,58
+6.0,Sun,2019-09-29,15:00,Udinese,Bologna,0.7,1.3,1–0,21361.0,Antonio Giua,2019-2020,59
+6.0,Sun,2019-09-29,15:00,Lecce,Roma,0.7,2.1,0–1,26044.0,Rosario Abisso,2019-2020,60
+6.0,Sun,2019-09-29,15:00,Lazio,Genoa,1.4,0.9,4–0,26000.0,Luca Pairetto,2019-2020,61
+6.0,Sun,2019-09-29,18:00,Cagliari,Hellas Verona,1.8,1.6,1–1,15846.0,Manuel Volpi,2019-2020,62
+6.0,Sun,2019-09-29,20:45,Milan,Fiorentina,0.6,2.5,1–3,48367.0,Piero Giacomelli,2019-2020,63
+6.0,Mon,2019-09-30,20:45,Parma,Torino,3.6,2.2,3–2,15001.0,Federico La Penna,2019-2020,64
+7.0,Sat,2019-10-05,15:00,SPAL,Parma,1.2,0.4,1–0,11776.0,Marco Guida,2019-2020,66
+7.0,Sat,2019-10-05,18:00,Hellas Verona,Sampdoria,0.7,0.8,2–0,17787.0,Michael Fabbri,2019-2020,67
+7.0,Sat,2019-10-05,20:45,Genoa,Milan,1.6,1.6,1–2,22486.0,Maurizio Mariani,2019-2020,68
+7.0,Sun,2019-10-06,12:30,Fiorentina,Udinese,1.1,0.9,1–0,37963.0,Alessandro Prontera,2019-2020,69
+7.0,Sun,2019-10-06,15:00,Bologna,Lazio,3.2,1.8,2–2,22052.0,Daniele Orsato,2019-2020,70
+7.0,Sun,2019-10-06,15:00,Roma,Cagliari,1.7,1.1,1–1,34385.0,Davide Massa,2019-2020,71
+7.0,Sun,2019-10-06,15:00,Atalanta,Lecce,3.4,1.3,3–1,20771.0,Marco Di Bello,2019-2020,72
+7.0,Sun,2019-10-06,18:00,Torino,Napoli,0.6,0.9,0–0,24343.0,Daniele Doveri,2019-2020,73
+7.0,Sun,2019-10-06,20:45,Inter,Juventus,1.6,1.5,1–2,75923.0,Gianluca Rocchi,2019-2020,74
+8.0,Sat,2019-10-19,15:00,Lazio,Atalanta,2.9,2.6,3–3,30000.0,Gianluca Rocchi,2019-2020,76
+8.0,Sat,2019-10-19,18:00,Napoli,Hellas Verona,2.4,1.7,2–0,38686.0,Marco Piccinini,2019-2020,77
+8.0,Sat,2019-10-19,20:45,Juventus,Bologna,2.0,0.9,2–1,40461.0,Massimiliano Irrati,2019-2020,78
+8.0,Sun,2019-10-20,12:30,Sassuolo,Inter,0.7,2.6,3–4,17935.0,Piero Giacomelli,2019-2020,79
+8.0,Sun,2019-10-20,15:00,Udinese,Torino,1.7,0.6,1–0,24049.0,Rosario Abisso,2019-2020,80
+8.0,Sun,2019-10-20,15:00,Cagliari,SPAL,1.0,0.7,2–0,15713.0,Daniele Chiffi,2019-2020,81
+8.0,Sun,2019-10-20,15:00,Sampdoria,Roma,0.6,0.5,0–0,20211.0,Fabio Maresca,2019-2020,82
+8.0,Sun,2019-10-20,18:00,Parma,Genoa,2.2,1.5,5–1,15299.0,Paolo Valeri,2019-2020,83
+8.0,Sun,2019-10-20,20:45,Milan,Lecce,1.8,1.4,2–2,48703.0,Fabrizio Pasqua,2019-2020,84
+8.0,Mon,2019-10-21,21:00,Brescia,Fiorentina,0.5,0.8,0–0,16000.0,Giampaolo Calvarese,2019-2020,85
+9.0,Fri,2019-10-25,20:45,Hellas Verona,Sassuolo,1.3,1.4,0–1,11453.0,Luca Pairetto,2019-2020,87
+9.0,Sat,2019-10-26,15:00,Lecce,Juventus,1.1,3.6,1–1,26591.0,Paolo Valeri,2019-2020,88
+9.0,Sat,2019-10-26,18:00,Inter,Parma,2.5,1.0,2–2,67076.0,Daniele Chiffi,2019-2020,89
+9.0,Sat,2019-10-26,20:45,Genoa,Brescia,1.1,1.2,3–1,20949.0,Rosario Abisso,2019-2020,90
+9.0,Sun,2019-10-27,12:30,Bologna,Sampdoria,1.9,0.6,2–1,24099.0,Daniele Doveri,2019-2020,91
+9.0,Sun,2019-10-27,15:00,SPAL,Napoli,0.7,0.8,1–1,14726.0,Federico La Penna,2019-2020,92
+9.0,Sun,2019-10-27,15:00,Atalanta,Udinese,5.4,0.4,7–1,18677.0,Fabio Maresca,2019-2020,93
+9.0,Sun,2019-10-27,15:00,Torino,Cagliari,1.2,0.5,1–1,21213.0,Michael Fabbri,2019-2020,94
+9.0,Sun,2019-10-27,18:00,Roma,Milan,1.1,0.6,2–1,44333.0,Daniele Orsato,2019-2020,95
+9.0,Sun,2019-10-27,20:45,Fiorentina,Lazio,0.6,2.1,1–2,33281.0,Marco Guida,2019-2020,96
+10.0,Tue,2019-10-29,19:00,Parma,Hellas Verona,1.4,0.3,0–1,14638.0,Gianluca Manganiello,2019-2020,98
+10.0,Tue,2019-10-29,21:00,Brescia,Inter,1.8,0.8,1–2,16500.0,Michael Fabbri,2019-2020,99
+10.0,Wed,2019-10-30,19:00,Napoli,Atalanta,2.7,1.8,2–2,30061.0,Piero Giacomelli,2019-2020,100
+10.0,Wed,2019-10-30,21:00,Juventus,Genoa,2.7,0.4,2–1,38732.0,Antonio Giua,2019-2020,101
+10.0,Wed,2019-10-30,21:00,Lazio,Torino,2.1,0.8,4–0,25000.0,Daniele Orsato,2019-2020,102
+10.0,Wed,2019-10-30,21:00,Sassuolo,Fiorentina,0.8,1.0,1–2,11863.0,Maurizio Mariani,2019-2020,103
+10.0,Wed,2019-10-30,21:00,Udinese,Roma,0.7,3.2,0–4,23854.0,Massimiliano Irrati,2019-2020,104
+10.0,Wed,2019-10-30,21:00,Sampdoria,Lecce,1.6,1.0,1–1,18685.0,Davide Massa,2019-2020,105
+10.0,Wed,2019-10-30,21:00,Cagliari,Bologna,1.2,1.1,3–2,16076.0,Juan Sacchi,2019-2020,106
+10.0,Thu,2019-10-31,21:00,Milan,SPAL,2.0,0.5,1–0,46475.0,Marco Piccinini,2019-2020,107
+11.0,Sat,2019-11-02,15:00,Roma,Napoli,2.2,1.7,2–1,34502.0,Gianluca Rocchi,2019-2020,109
+11.0,Sat,2019-11-02,18:00,Bologna,Inter,0.5,2.3,1–2,28498.0,Federico La Penna,2019-2020,110
+11.0,Sat,2019-11-02,20:45,Torino,Juventus,0.4,1.2,0–1,26664.0,Daniele Doveri,2019-2020,111
+11.0,Sun,2019-11-03,12:30,Atalanta,Cagliari,1.2,0.9,0–2,18617.0,Rosario Abisso,2019-2020,112
+11.0,Sun,2019-11-03,15:00,Hellas Verona,Brescia,0.9,0.9,2–1,16525.0,Maurizio Mariani,2019-2020,113
+11.0,Sun,2019-11-03,15:00,Genoa,Udinese,1.2,1.4,1–3,20030.0,Fabrizio Pasqua,2019-2020,114
+11.0,Sun,2019-11-03,15:00,Lecce,Sassuolo,0.4,2.2,2–2,22087.0,Riccardo Ros,2019-2020,115
+11.0,Sun,2019-11-03,18:00,Fiorentina,Parma,1.4,0.7,1–1,32479.0,Luca Pairetto,2019-2020,116
+11.0,Sun,2019-11-03,20:45,Milan,Lazio,0.8,1.0,1–2,41000.0,Giampaolo Calvarese,2019-2020,117
+11.0,Mon,2019-11-04,20:45,SPAL,Sampdoria,0.6,0.8,0–1,11617.0,Daniele Chiffi,2019-2020,118
+12.0,Fri,2019-11-08,20:45,Sassuolo,Bologna,2.2,0.6,3–1,13184.0,Marco Piccinini,2019-2020,120
+12.0,Sat,2019-11-09,15:00,Brescia,Torino,0.6,3.3,0–4,13500.0,Marco Guida,2019-2020,121
+12.0,Sat,2019-11-09,18:00,Inter,Hellas Verona,2.4,1.3,2–1,66202.0,Paolo Valeri,2019-2020,122
+12.0,Sat,2019-11-09,20:45,Napoli,Genoa,1.3,1.2,0–0,22947.0,Giampaolo Calvarese,2019-2020,123
+12.0,Sun,2019-11-10,12:30,Cagliari,Fiorentina,2.8,1.0,5–2,16316.0,Federico La Penna,2019-2020,124
+12.0,Sun,2019-11-10,15:00,Udinese,SPAL,1.7,2.1,0–0,21621.0,Davide Massa,2019-2020,125
+12.0,Sun,2019-11-10,15:00,Sampdoria,Atalanta,1.1,0.6,0–0,19799.0,Massimiliano Irrati,2019-2020,126
+12.0,Sun,2019-11-10,15:00,Lazio,Lecce,3.8,2.5,4–2,35000.0,Gianluca Manganiello,2019-2020,127
+12.0,Sun,2019-11-10,18:00,Parma,Roma,0.9,0.8,2–0,18532.0,Michael Fabbri,2019-2020,128
+12.0,Sun,2019-11-10,20:45,Juventus,Milan,1.0,0.8,1–0,40478.0,Fabio Maresca,2019-2020,129
+13.0,Sat,2019-11-23,15:00,Atalanta,Juventus,2.7,1.2,1–3,20899.0,Gianluca Rocchi,2019-2020,131
+13.0,Sat,2019-11-23,18:00,Milan,Napoli,0.9,1.2,1–1,61658.0,Daniele Orsato,2019-2020,132
+13.0,Sat,2019-11-23,20:45,Torino,Inter,0.6,1.4,0–3,26059.0,Fabio Maresca,2019-2020,133
+13.0,Sun,2019-11-24,12:30,Bologna,Parma,0.9,1.3,2–2,21419.0,Rosario Abisso,2019-2020,134
+13.0,Sun,2019-11-24,15:00,Hellas Verona,Fiorentina,1.4,0.8,1–0,22581.0,Antonio Giua,2019-2020,135
+13.0,Sun,2019-11-24,15:00,Sassuolo,Lazio,1.0,0.9,1–2,10000.0,Daniele Chiffi,2019-2020,136
+13.0,Sun,2019-11-24,15:00,Roma,Brescia,2.2,0.4,3–0,33695.0,Marco Di Bello,2019-2020,137
+13.0,Sun,2019-11-24,18:00,Sampdoria,Udinese,2.2,0.3,2–1,17031.0,Luca Pairetto,2019-2020,138
+13.0,Mon,2019-11-25,15:00,Lecce,Cagliari,3.4,1.0,2–2,21435.0,Maurizio Mariani,2019-2020,139
+13.0,Mon,2019-11-25,20:45,SPAL,Genoa,2.5,1.5,1–1,12423.0,Piero Giacomelli,2019-2020,140
+14.0,Sat,2019-11-30,15:00,Brescia,Atalanta,1.2,2.7,0–3,14000.0,Daniele Doveri,2019-2020,142
+14.0,Sat,2019-11-30,18:00,Genoa,Torino,1.0,1.4,0–1,20000.0,Davide Massa,2019-2020,143
+14.0,Sat,2019-11-30,20:45,Fiorentina,Lecce,1.5,1.1,0–1,33912.0,Marco Piccinini,2019-2020,144
+14.0,Sun,2019-12-01,12:30,Juventus,Sassuolo,4.6,0.7,2–2,40597.0,Federico La Penna,2019-2020,145
+14.0,Sun,2019-12-01,15:00,Lazio,Udinese,2.9,0.7,3–0,20000.0,Marco Di Bello,2019-2020,146
+14.0,Sun,2019-12-01,15:00,Parma,Milan,0.3,1.8,0–1,18431.0,Paolo Valeri,2019-2020,147
+14.0,Sun,2019-12-01,15:00,Inter,SPAL,1.9,1.2,2–1,61221.0,Massimiliano Irrati,2019-2020,148
+14.0,Sun,2019-12-01,18:00,Napoli,Bologna,2.1,1.2,1–2,26012.0,Fabrizio Pasqua,2019-2020,149
+14.0,Sun,2019-12-01,20:45,Hellas Verona,Roma,1.0,1.6,1–3,17405.0,Marco Guida,2019-2020,150
+14.0,Mon,2019-12-02,20:45,Cagliari,Sampdoria,0.8,1.3,4–3,15658.0,Gianluca Aureliano,2019-2020,151
+15.0,Fri,2019-12-06,20:45,Inter,Roma,1.5,0.2,0–0,67008.0,Giampaolo Calvarese,2019-2020,153
+15.0,Sat,2019-12-07,15:00,Atalanta,Hellas Verona,2.4,0.9,3–2,19335.0,Paolo Valeri,2019-2020,154
+15.0,Sat,2019-12-07,18:00,Udinese,Napoli,0.5,1.1,1–1,20405.0,Maurizio Mariani,2019-2020,155
+15.0,Sat,2019-12-07,20:45,Lazio,Juventus,3.0,1.6,3–1,65000.0,Michael Fabbri,2019-2020,156
+15.0,Sun,2019-12-08,12:30,Lecce,Genoa,1.1,2.2,2–2,21740.0,Gianluca Rocchi,2019-2020,157
+15.0,Sun,2019-12-08,15:00,SPAL,Brescia,2.2,1.9,0–1,12442.0,Daniele Orsato,2019-2020,158
+15.0,Sun,2019-12-08,15:00,Sassuolo,Cagliari,1.8,0.5,2–2,12666.0,Luca Pairetto,2019-2020,159
+15.0,Sun,2019-12-08,15:00,Torino,Fiorentina,0.9,1.9,2–1,19955.0,Piero Giacomelli,2019-2020,160
+15.0,Sun,2019-12-08,18:00,Sampdoria,Parma,2.0,0.6,0–1,19516.0,Rosario Abisso,2019-2020,161
+15.0,Sun,2019-12-08,20:45,Bologna,Milan,1.4,2.3,2–3,23707.0,Daniele Chiffi,2019-2020,162
+16.0,Sat,2019-12-14,15:00,Brescia,Lecce,3.6,1.3,3–0,13131.0,Massimiliano Irrati,2019-2020,164
+16.0,Sat,2019-12-14,18:30,Napoli,Parma,2.2,1.2,1–2,25000.0,Marco Di Bello,2019-2020,165
+16.0,Sat,2019-12-14,20:45,Genoa,Sampdoria,1.0,0.3,0–1,30658.0,Daniele Doveri,2019-2020,166
+16.0,Sun,2019-12-15,12:30,Hellas Verona,Torino,2.4,1.6,3–3,14612.0,Federico La Penna,2019-2020,167
+16.0,Sun,2019-12-15,15:00,Bologna,Atalanta,1.3,2.4,2–1,21277.0,Davide Massa,2019-2020,168
+16.0,Sun,2019-12-15,15:00,Milan,Sassuolo,2.2,1.0,0–0,58005.0,Gianluca Manganiello,2019-2020,169
+16.0,Sun,2019-12-15,15:00,Juventus,Udinese,1.6,1.4,3–1,39127.0,Fabrizio Pasqua,2019-2020,170
+16.0,Sun,2019-12-15,18:00,Roma,SPAL,3.3,1.1,3–1,34761.0,Antonio Giua,2019-2020,171
+16.0,Sun,2019-12-15,20:45,Fiorentina,Inter,0.7,0.8,1–1,37537.0,Maurizio Mariani,2019-2020,172
+16.0,Mon,2019-12-16,20:45,Cagliari,Lazio,1.5,2.0,1–2,16299.0,Fabio Maresca,2019-2020,173
+17.0,Wed,2019-12-18,18:55,Sampdoria,Juventus,0.7,0.9,1–2,23136.0,Gianluca Rocchi,2019-2020,175
+7.0,Wed,2019-12-18,20:45,Brescia,Sassuolo,1.5,0.6,0–2,14574.0,Marco Di Bello,2019-2020,177
+17.0,Fri,2019-12-20,20:45,Fiorentina,Roma,1.6,1.7,1–4,3305.0,Daniele Orsato,2019-2020,179
+17.0,Sat,2019-12-21,15:00,Udinese,Cagliari,2.0,0.7,2–1,19822.0,Marco Piccinini,2019-2020,180
+17.0,Sat,2019-12-21,18:00,Inter,Genoa,2.5,0.7,4–0,57490.0,Luca Pairetto,2019-2020,181
+17.0,Sat,2019-12-21,20:45,Torino,SPAL,1.4,1.0,1–2,18553.0,Michael Fabbri,2019-2020,182
+17.0,Sun,2019-12-22,12:30,Atalanta,Milan,2.1,0.4,5–0,20940.0,Federico La Penna,2019-2020,183
+17.0,Sun,2019-12-22,15:00,Lecce,Bologna,1.3,4.1,2–3,24178.0,Rosario Abisso,2019-2020,184
+17.0,Sun,2019-12-22,15:00,Parma,Brescia,0.9,2.0,1–1,16686.0,Francesco Fourneau,2019-2020,185
+17.0,Sun,2019-12-22,20:45,Sassuolo,Napoli,1.3,1.4,1–2,12570.0,Daniele Chiffi,2019-2020,186
+18.0,Sun,2020-01-05,12:30,Brescia,Lazio,0.3,1.9,1–2,14370.0,Gianluca Manganiello,2019-2020,188
+18.0,Sun,2020-01-05,15:00,SPAL,Hellas Verona,1.7,2.1,0–2,14078.0,Marco Guida,2019-2020,189
+18.0,Sun,2020-01-05,18:00,Genoa,Sassuolo,2.9,0.9,2–1,21033.0,Massimiliano Irrati,2019-2020,190
+18.0,Sun,2020-01-05,20:45,Roma,Torino,2.1,2.0,0–2,38954.0,Marco Di Bello,2019-2020,191
+18.0,Mon,2020-01-06,12:30,Bologna,Fiorentina,0.8,0.4,1–1,22653.0,Paolo Valeri,2019-2020,192
+18.0,Mon,2020-01-06,15:00,Milan,Sampdoria,1.5,0.9,0–0,58572.0,Davide Massa,2019-2020,193
+18.0,Mon,2020-01-06,15:00,Juventus,Cagliari,2.8,0.6,4–0,40598.0,Piero Giacomelli,2019-2020,194
+18.0,Mon,2020-01-06,15:00,Atalanta,Parma,2.2,0.2,5–0,19213.0,Fabrizio Pasqua,2019-2020,195
+18.0,Mon,2020-01-06,18:00,Lecce,Udinese,0.7,0.7,0–1,21321.0,Antonio Giua,2019-2020,196
+18.0,Mon,2020-01-06,20:45,Napoli,Inter,1.6,1.4,1–3,31191.0,Daniele Doveri,2019-2020,197
+19.0,Sat,2020-01-11,15:00,Cagliari,Milan,0.7,1.2,0–2,16412.0,Rosario Abisso,2019-2020,199
+19.0,Sat,2020-01-11,18:00,Lazio,Napoli,1.3,0.7,1–0,40000.0,Daniele Orsato,2019-2020,200
+19.0,Sat,2020-01-11,20:45,Inter,Atalanta,0.7,2.5,1–1,70042.0,Gianluca Rocchi,2019-2020,201
+19.0,Sun,2020-01-12,12:30,Udinese,Sassuolo,1.3,0.8,3–0,21731.0,Manuel Volpi,2019-2020,202
+19.0,Sun,2020-01-12,15:00,Fiorentina,SPAL,1.8,1.0,1–0,33970.0,Daniele Doveri,2019-2020,203
+19.0,Sun,2020-01-12,15:00,Torino,Bologna,0.5,2.1,1–0,15000.0,Marco Piccinini,2019-2020,204
+19.0,Sun,2020-01-12,15:00,Sampdoria,Brescia,2.7,0.9,5–1,20117.0,Giampaolo Calvarese,2019-2020,205
+19.0,Sun,2020-01-12,18:00,Hellas Verona,Genoa,2.5,0.8,2–1,14849.0,Maurizio Mariani,2019-2020,206
+19.0,Sun,2020-01-12,20:45,Roma,Juventus,2.6,1.4,1–2,60513.0,Marco Guida,2019-2020,207
+19.0,Mon,2020-01-13,20:45,Parma,Lecce,1.8,0.9,2–0,15258.0,Michael Fabbri,2019-2020,208
+20.0,Sat,2020-01-18,15:00,Lazio,Sampdoria,4.5,0.5,5–1,30000.0,Daniele Chiffi,2019-2020,210
+20.0,Sat,2020-01-18,18:00,Sassuolo,Torino,1.0,1.0,2–1,10500.0,Davide Massa,2019-2020,211
+20.0,Sat,2020-01-18,20:45,Napoli,Fiorentina,0.7,1.0,0–2,22219.0,Fabrizio Pasqua,2019-2020,212
+20.0,Sun,2020-01-19,12:30,Milan,Udinese,2.6,1.1,3–2,56107.0,Luca Pairetto,2019-2020,213
+20.0,Sun,2020-01-19,15:00,Brescia,Cagliari,1.4,3.7,2–2,12133.0,Antonio Giua,2019-2020,214
+20.0,Sun,2020-01-19,15:00,Lecce,Inter,1.2,1.7,1–1,25966.0,Piero Giacomelli,2019-2020,215
+20.0,Sun,2020-01-19,15:00,Bologna,Hellas Verona,1.1,2.1,1–1,20697.0,Giovanni Ayroldi,2019-2020,216
+20.0,Sun,2020-01-19,18:00,Genoa,Roma,1.6,2.3,1–3,20951.0,Fabio Maresca,2019-2020,217
+20.0,Sun,2020-01-19,20:45,Juventus,Parma,1.2,0.3,2–1,37790.0,Marco Di Bello,2019-2020,218
+20.0,Mon,2020-01-20,20:45,Atalanta,SPAL,2.5,1.3,1–2,16636.0,Federico La Penna,2019-2020,219
+21.0,Fri,2020-01-24,20:45,Brescia,Milan,1.2,2.1,0–1,19451.0,Paolo Valeri,2019-2020,221
+21.0,Sat,2020-01-25,15:00,SPAL,Bologna,1.8,2.0,1–3,12622.0,Michael Fabbri,2019-2020,222
+21.0,Sat,2020-01-25,18:00,Fiorentina,Genoa,1.4,1.7,0–0,32903.0,Daniele Orsato,2019-2020,223
+21.0,Sat,2020-01-25,20:45,Torino,Atalanta,0.6,4.9,0–7,18824.0,Marco Guida,2019-2020,224
+21.0,Sun,2020-01-26,12:30,Inter,Cagliari,1.4,0.9,1–1,70465.0,Gianluca Manganiello,2019-2020,225
+21.0,Sun,2020-01-26,15:00,Parma,Udinese,1.3,1.9,2–0,14250.0,Simone Sozza,2019-2020,226
+21.0,Sun,2020-01-26,15:00,Hellas Verona,Lecce,2.6,0.6,3–0,15425.0,Rosario Abisso,2019-2020,227
+21.0,Sun,2020-01-26,15:00,Sampdoria,Sassuolo,1.4,0.3,0–0,19260.0,Marco Piccinini,2019-2020,228
+21.0,Sun,2020-01-26,18:00,Roma,Lazio,2.0,1.1,1–1,59902.0,Giampaolo Calvarese,2019-2020,229
+21.0,Sun,2020-01-26,20:45,Napoli,Juventus,1.4,1.0,2–1,39111.0,Maurizio Mariani,2019-2020,230
+22.0,Sat,2020-02-01,15:00,Bologna,Brescia,2.0,0.9,2–1,21665.0,Daniele Doveri,2019-2020,232
+22.0,Sat,2020-02-01,18:00,Cagliari,Parma,2.6,2.2,2–2,16051.0,Massimiliano Irrati,2019-2020,233
+22.0,Sat,2020-02-01,20:45,Sassuolo,Roma,2.3,2.8,4–2,13411.0,Luca Pairetto,2019-2020,234
+22.0,Sun,2020-02-02,12:30,Juventus,Fiorentina,2.9,0.8,3–0,40171.0,Fabrizio Pasqua,2019-2020,235
+22.0,Sun,2020-02-02,15:00,Lazio,SPAL,2.3,0.9,5–1,4000.0,Antonio Giua,2019-2020,236
+22.0,Sun,2020-02-02,15:00,Milan,Hellas Verona,1.7,1.3,1–1,55355.0,Daniele Chiffi,2019-2020,237
+22.0,Sun,2020-02-02,15:00,Atalanta,Genoa,2.6,1.5,2–2,18755.0,Davide Massa,2019-2020,238
+22.0,Sun,2020-02-02,18:00,Lecce,Torino,2.1,0.9,4–0,21947.0,Gianluca Rocchi,2019-2020,239
+22.0,Sun,2020-02-02,20:45,Udinese,Inter,0.7,2.5,0–2,23215.0,Marco Di Bello,2019-2020,240
+22.0,Mon,2020-02-03,20:45,Sampdoria,Napoli,1.9,1.3,2–4,20017.0,Federico La Penna,2019-2020,241
+17.0,Wed,2020-02-05,20:45,Lazio,Hellas Verona,1.3,0.8,0–0,40000.0,Rosario Abisso,2019-2020,243
+23.0,Fri,2020-02-07,20:45,Roma,Bologna,1.7,1.1,2–3,31808.0,Marco Guida,2019-2020,245
+23.0,Sat,2020-02-08,15:00,Fiorentina,Atalanta,0.7,1.7,1–2,35034.0,Maurizio Mariani,2019-2020,246
+23.0,Sat,2020-02-08,18:00,Torino,Sampdoria,0.7,1.8,1–3,20664.0,Paolo Valeri,2019-2020,247
+23.0,Sat,2020-02-08,20:45,Hellas Verona,Juventus,1.9,0.9,2–1,28654.0,Davide Massa,2019-2020,248
+23.0,Sun,2020-02-09,12:30,SPAL,Sassuolo,1.4,2.3,1–2,12988.0,Piero Giacomelli,2019-2020,249
+23.0,Sun,2020-02-09,15:00,Genoa,Cagliari,1.2,1.2,1–0,21301.0,Giampaolo Calvarese,2019-2020,250
+23.0,Sun,2020-02-09,15:00,Napoli,Lecce,3.5,1.7,2–3,40825.0,Antonio Giua,2019-2020,251
+23.0,Sun,2020-02-09,15:00,Brescia,Udinese,0.6,2.3,1–1,13586.0,Marco Piccinini,2019-2020,252
+23.0,Sun,2020-02-09,18:00,Parma,Lazio,1.0,1.6,0–1,17859.0,Marco Di Bello,2019-2020,253
+23.0,Sun,2020-02-09,20:45,Inter,Milan,2.0,2.2,4–2,75817.0,Fabio Maresca,2019-2020,254
+24.0,Sat,2020-02-15,15:00,Lecce,SPAL,1.6,1.6,2–1,24129.0,Marco Guida,2019-2020,256
+24.0,Sat,2020-02-15,18:00,Bologna,Genoa,0.6,1.5,0–3,21513.0,Davide Massa,2019-2020,257
+24.0,Sat,2020-02-15,20:45,Atalanta,Roma,1.6,0.4,2–1,19830.0,Daniele Orsato,2019-2020,258
+24.0,Sun,2020-02-16,12:30,Udinese,Hellas Verona,0.8,1.2,0–0,22308.0,Eugenio Abbattista,2019-2020,259
+24.0,Sun,2020-02-16,15:00,Juventus,Brescia,2.6,0.3,2–0,40841.0,Daniele Chiffi,2019-2020,260
+24.0,Sun,2020-02-16,15:00,Sassuolo,Parma,1.5,0.8,0–1,12099.0,Maurizio Mariani,2019-2020,261
+24.0,Sun,2020-02-16,15:00,Sampdoria,Fiorentina,1.7,3.0,1–5,20284.0,Massimiliano Irrati,2019-2020,262
+24.0,Sun,2020-02-16,18:00,Cagliari,Napoli,0.3,0.9,0–1,13535.0,Daniele Doveri,2019-2020,263
+24.0,Sun,2020-02-16,20:45,Lazio,Inter,1.7,0.6,2–1,62500.0,Gianluca Rocchi,2019-2020,264
+24.0,Mon,2020-02-17,20:45,Milan,Torino,1.1,0.4,1–0,46114.0,Michael Fabbri,2019-2020,265
+25.0,Fri,2020-02-21,20:45,Brescia,Napoli,1.2,1.5,1–2,14703.0,Daniele Orsato,2019-2020,267
+25.0,Sat,2020-02-22,15:00,Bologna,Udinese,1.3,0.6,1–1,21523.0,Fabrizio Pasqua,2019-2020,268
+25.0,Sat,2020-02-22,18:00,SPAL,Juventus,1.2,2.0,1–2,15262.0,Federico La Penna,2019-2020,269
+25.0,Sat,2020-02-22,20:45,Fiorentina,Milan,2.0,0.7,1–1,39769.0,Giampaolo Calvarese,2019-2020,270
+25.0,Sun,2020-02-23,12:30,Genoa,Lazio,1.3,1.4,2–3,25000.0,Fabio Maresca,2019-2020,271
+25.0,Sun,2020-02-23,18:00,Roma,Lecce,3.7,0.7,4–0,34293.0,Piero Giacomelli,2019-2020,272
+26.0,Sat,2020-02-29,15:00,Lazio,Bologna,1.7,1.7,2–0,40000.0,Rosario Abisso,2019-2020,274
+26.0,Sat,2020-02-29,20:45,Napoli,Torino,1.8,0.7,2–1,23586.0,Maurizio Mariani,2019-2020,275
+26.0,Sun,2020-03-01,15:00,Lecce,Atalanta,0.4,4.6,2–7,21344.0,Davide Massa,2019-2020,276
+26.0,Sun,2020-03-01,18:00,Cagliari,Roma,1.1,2.7,3–4,14848.0,Marco Di Bello,2019-2020,277

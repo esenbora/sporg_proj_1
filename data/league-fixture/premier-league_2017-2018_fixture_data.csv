@@ -1,0 +1,381 @@
+Wk,Day,Date,Time,Home,Away,xG,xG.1,Score,Attendance,Referee,season,game_id
+1.0,Fri,2017-08-11,19:45,Arsenal,Leicester City,2.5,1.5,4–3,59387.0,Mike Dean,2017-2018,0
+1.0,Sat,2017-08-12,12:30,Watford,Liverpool,2.1,2.6,3–3,20407.0,Anthony Taylor,2017-2018,1
+1.0,Sat,2017-08-12,15:00,Crystal Palace,Huddersfield,1.1,1.5,0–3,25448.0,Jonathan Moss,2017-2018,2
+1.0,Sat,2017-08-12,15:00,West Brom,Bournemouth,1.3,0.5,1–0,25011.0,Robert Madley,2017-2018,3
+1.0,Sat,2017-08-12,15:00,Chelsea,Burnley,1.5,0.6,2–3,41616.0,Craig Pawson,2017-2018,4
+1.0,Sat,2017-08-12,15:00,Everton,Stoke City,0.6,0.4,1–0,39045.0,Niel Swarbrick,2017-2018,5
+1.0,Sat,2017-08-12,15:00,Southampton,Swansea City,2.0,0.3,0–0,31447.0,Mike Jones,2017-2018,6
+1.0,Sat,2017-08-12,17:30,Brighton,Manchester City,0.3,1.9,0–2,30415.0,Michael Oliver,2017-2018,7
+1.0,Sun,2017-08-13,13:30,Newcastle Utd,Tottenham,0.8,2.5,0–2,52077.0,Andre Marriner,2017-2018,8
+1.0,Sun,2017-08-13,16:00,Manchester Utd,West Ham,2.1,0.5,4–0,74928.0,Martin Atkinson,2017-2018,9
+2.0,Sat,2017-08-19,12:30,Swansea City,Manchester Utd,0.4,3.0,0–4,20862.0,Jonathan Moss,2017-2018,11
+2.0,Sat,2017-08-19,15:00,Bournemouth,Watford,1.0,2.4,0–2,10501.0,Roger East,2017-2018,12
+2.0,Sat,2017-08-19,15:00,Southampton,West Ham,2.1,2.0,3–2,31424.0,Lee Mason,2017-2018,13
+2.0,Sat,2017-08-19,15:00,Leicester City,Brighton,2.0,0.2,2–0,31902.0,Lee Probert,2017-2018,14
+2.0,Sat,2017-08-19,15:00,Burnley,West Brom,1.3,0.9,0–1,19619.0,Martin Atkinson,2017-2018,15
+2.0,Sat,2017-08-19,15:00,Liverpool,Crystal Palace,2.5,0.7,1–0,53138.0,Kevin Friend,2017-2018,16
+2.0,Sat,2017-08-19,17:30,Stoke City,Arsenal,0.7,1.5,1–0,29459.0,Andre Marriner,2017-2018,17
+2.0,Sun,2017-08-20,13:30,Huddersfield,Newcastle Utd,0.3,0.7,1–0,24128.0,Craig Pawson,2017-2018,18
+2.0,Sun,2017-08-20,16:00,Tottenham,Chelsea,0.7,0.7,1–2,73587.0,Anthony Taylor,2017-2018,19
+2.0,Mon,2017-08-21,20:00,Manchester City,Everton,1.1,0.6,1–1,49108.0,Robert Madley,2017-2018,20
+3.0,Sat,2017-08-26,12:30,Bournemouth,Manchester City,0.5,1.4,1–2,10419.0,Mike Dean,2017-2018,22
+3.0,Sat,2017-08-26,15:00,Huddersfield,Southampton,1.4,0.7,0–0,23548.0,Stuart Attwell,2017-2018,23
+3.0,Sat,2017-08-26,15:00,Watford,Brighton,0.3,1.1,0–0,20181.0,Graham Scott,2017-2018,24
+3.0,Sat,2017-08-26,15:00,Crystal Palace,Swansea City,0.9,0.7,0–2,23477.0,Andre Marriner,2017-2018,25
+3.0,Sat,2017-08-26,15:00,Newcastle Utd,West Ham,2.3,0.6,3–0,52093.0,Niel Swarbrick,2017-2018,26
+3.0,Sat,2017-08-26,17:30,Manchester Utd,Leicester City,2.8,0.9,2–0,75021.0,Michael Oliver,2017-2018,27
+3.0,Sun,2017-08-27,13:30,Chelsea,Everton,1.0,0.4,2–0,41382.0,Jonathan Moss,2017-2018,28
+3.0,Sun,2017-08-27,13:30,West Brom,Stoke City,0.8,1.3,1–1,22704.0,Anthony Taylor,2017-2018,29
+3.0,Sun,2017-08-27,16:00,Tottenham,Burnley,2.3,0.9,1–1,67862.0,Lee Mason,2017-2018,30
+3.0,Sun,2017-08-27,16:00,Liverpool,Arsenal,3.1,0.6,4–0,53206.0,Craig Pawson,2017-2018,31
+4.0,Sat,2017-09-09,12:30,Manchester City,Liverpool,2.4,0.7,5–0,54172.0,Jonathan Moss,2017-2018,33
+4.0,Sat,2017-09-09,15:00,Everton,Tottenham,0.9,1.8,0–3,38835.0,Graham Scott,2017-2018,34
+4.0,Sat,2017-09-09,15:00,Arsenal,Bournemouth,2.2,0.6,3–0,59262.0,Anthony Taylor,2017-2018,35
+4.0,Sat,2017-09-09,15:00,Leicester City,Chelsea,1.4,0.8,1–2,30923.0,Lee Mason,2017-2018,36
+4.0,Sat,2017-09-09,15:00,Brighton,West Brom,0.4,1.0,3–1,30381.0,Chris Kavanagh,2017-2018,37
+4.0,Sat,2017-09-09,15:00,Southampton,Watford,0.3,0.7,0–2,31435.0,Lee Probert,2017-2018,38
+4.0,Sat,2017-09-09,17:30,Stoke City,Manchester Utd,1.2,2.1,2–2,29320.0,Niel Swarbrick,2017-2018,39
+4.0,Sun,2017-09-10,13:30,Burnley,Crystal Palace,0.3,2.0,1–0,18862.0,Michael Oliver,2017-2018,40
+4.0,Sun,2017-09-10,16:00,Swansea City,Newcastle Utd,1.2,1.0,0–1,20872.0,Mike Jones,2017-2018,41
+4.0,Mon,2017-09-11,20:00,West Ham,Huddersfield,1.7,0.4,2–0,56977.0,Kevin Friend,2017-2018,42
+5.0,Fri,2017-09-15,20:00,Bournemouth,Brighton,1.2,0.9,2–1,10369.0,Craig Pawson,2017-2018,44
+5.0,Sat,2017-09-16,12:30,Crystal Palace,Southampton,2.0,1.0,0–1,24199.0,Robert Madley,2017-2018,45
+5.0,Sat,2017-09-16,15:00,Newcastle Utd,Stoke City,2.0,0.7,2–1,51795.0,Stuart Attwell,2017-2018,46
+5.0,Sat,2017-09-16,15:00,Huddersfield,Leicester City,0.7,1.3,1–1,24129.0,Jonathan Moss,2017-2018,47
+5.0,Sat,2017-09-16,15:00,Liverpool,Burnley,2.2,0.2,1–1,53231.0,Roger East,2017-2018,48
+5.0,Sat,2017-09-16,15:00,West Brom,West Ham,0.7,0.3,0–0,24942.0,Paul Tierney,2017-2018,49
+5.0,Sat,2017-09-16,15:00,Watford,Manchester City,0.5,3.3,0–6,20305.0,Anthony Taylor,2017-2018,50
+5.0,Sat,2017-09-16,17:30,Tottenham,Swansea City,1.1,0.2,0–0,65366.0,Mike Dean,2017-2018,51
+5.0,Sun,2017-09-17,13:30,Chelsea,Arsenal,0.8,1.4,0–0,41478.0,Michael Oliver,2017-2018,52
+5.0,Sun,2017-09-17,16:00,Manchester Utd,Everton,2.9,1.1,4–0,75042.0,Andre Marriner,2017-2018,53
+6.0,Sat,2017-09-23,12:30,West Ham,Tottenham,0.6,1.2,2–3,56988.0,Michael Oliver,2017-2018,55
+6.0,Sat,2017-09-23,15:00,Southampton,Manchester Utd,1.0,1.2,0–1,31930.0,Craig Pawson,2017-2018,56
+6.0,Sat,2017-09-23,15:00,Stoke City,Chelsea,0.8,1.4,0–4,29661.0,Mike Dean,2017-2018,57
+6.0,Sat,2017-09-23,15:00,Manchester City,Crystal Palace,4.5,0.6,5–0,53526.0,Niel Swarbrick,2017-2018,58
+6.0,Sat,2017-09-23,15:00,Burnley,Huddersfield,0.3,0.3,0–0,20759.0,Chris Kavanagh,2017-2018,59
+6.0,Sat,2017-09-23,15:00,Swansea City,Watford,1.7,1.2,1–2,20372.0,Lee Mason,2017-2018,60
+6.0,Sat,2017-09-23,15:00,Everton,Bournemouth,2.0,0.3,2–1,38133.0,Martin Atkinson,2017-2018,61
+6.0,Sat,2017-09-23,17:30,Leicester City,Liverpool,2.8,1.7,2–3,32004.0,Anthony Taylor,2017-2018,62
+6.0,Sun,2017-09-24,16:00,Brighton,Newcastle Utd,1.0,1.5,1–0,30468.0,Andre Marriner,2017-2018,63
+6.0,Mon,2017-09-25,20:00,Arsenal,West Brom,2.2,0.9,2–0,59134.0,Robert Madley,2017-2018,64
+7.0,Sat,2017-09-30,12:30,Huddersfield,Tottenham,0.2,1.5,0–4,24169.0,Niel Swarbrick,2017-2018,66
+7.0,Sat,2017-09-30,15:00,Stoke City,Southampton,2.4,1.4,2–1,29285.0,Mike Jones,2017-2018,67
+7.0,Sat,2017-09-30,15:00,West Ham,Swansea City,0.7,0.2,1–0,56922.0,Roger East,2017-2018,68
+7.0,Sat,2017-09-30,15:00,Manchester Utd,Crystal Palace,2.8,0.4,4–0,75118.0,Mike Dean,2017-2018,69
+7.0,Sat,2017-09-30,15:00,Bournemouth,Leicester City,1.4,0.6,0–0,10444.0,Graham Scott,2017-2018,70
+7.0,Sat,2017-09-30,15:00,West Brom,Watford,1.9,1.4,2–2,24606.0,Michael Oliver,2017-2018,71
+7.0,Sat,2017-09-30,17:30,Chelsea,Manchester City,0.5,0.9,0–1,41530.0,Martin Atkinson,2017-2018,72
+7.0,Sun,2017-10-01,12:00,Arsenal,Brighton,2.4,0.4,2–0,59378.0,Kevin Friend,2017-2018,73
+7.0,Sun,2017-10-01,14:15,Everton,Burnley,1.1,0.4,0–1,38448.0,Jonathan Moss,2017-2018,74
+7.0,Sun,2017-10-01,16:30,Newcastle Utd,Liverpool,0.3,1.3,1–1,52303.0,Craig Pawson,2017-2018,75
+8.0,Sat,2017-10-14,12:30,Liverpool,Manchester Utd,1.5,0.2,0–0,52912.0,Martin Atkinson,2017-2018,77
+8.0,Sat,2017-10-14,15:00,Tottenham,Bournemouth,1.8,0.2,1–0,73502.0,Robert Madley,2017-2018,78
+8.0,Sat,2017-10-14,15:00,Burnley,West Ham,1.2,0.9,1–1,20945.0,Stuart Attwell,2017-2018,79
+8.0,Sat,2017-10-14,15:00,Crystal Palace,Chelsea,1.7,0.8,2–1,25480.0,Andre Marriner,2017-2018,80
+8.0,Sat,2017-10-14,15:00,Swansea City,Huddersfield,1.5,0.7,2–0,20657.0,Paul Tierney,2017-2018,81
+8.0,Sat,2017-10-14,15:00,Manchester City,Stoke City,3.8,0.5,7–2,54128.0,Craig Pawson,2017-2018,82
+8.0,Sat,2017-10-14,17:30,Watford,Arsenal,1.6,1.0,2–1,20384.0,Niel Swarbrick,2017-2018,83
+8.0,Sun,2017-10-15,13:30,Brighton,Everton,1.0,1.5,1–1,30565.0,Michael Oliver,2017-2018,84
+8.0,Sun,2017-10-15,16:00,Southampton,Newcastle Utd,1.5,1.2,2–2,31437.0,Kevin Friend,2017-2018,85
+8.0,Mon,2017-10-16,20:00,Leicester City,West Brom,1.3,0.2,1–1,30203.0,Mike Dean,2017-2018,86
+9.0,Fri,2017-10-20,20:00,West Ham,Brighton,0.7,1.4,0–3,56977.0,Martin Atkinson,2017-2018,88
+9.0,Sat,2017-10-21,12:30,Chelsea,Watford,1.9,1.9,4–2,41467.0,Jonathan Moss,2017-2018,89
+9.0,Sat,2017-10-21,15:00,Manchester City,Burnley,3.1,0.2,3–0,54118.0,Roger East,2017-2018,90
+9.0,Sat,2017-10-21,15:00,Huddersfield,Manchester Utd,1.2,0.8,2–1,24426.0,Lee Mason,2017-2018,91
+9.0,Sat,2017-10-21,15:00,Swansea City,Leicester City,0.8,1.9,1–2,20521.0,Michael Oliver,2017-2018,92
+9.0,Sat,2017-10-21,15:00,Stoke City,Bournemouth,1.2,1.1,1–2,29500.0,Lee Probert,2017-2018,93
+9.0,Sat,2017-10-21,15:00,Newcastle Utd,Crystal Palace,0.3,0.5,1–0,52251.0,Stuart Attwell,2017-2018,94
+9.0,Sat,2017-10-21,17:30,Southampton,West Brom,2.0,0.4,1–0,29947.0,Graham Scott,2017-2018,95
+9.0,Sun,2017-10-22,13:30,Everton,Arsenal,1.0,3.5,2–5,39189.0,Craig Pawson,2017-2018,96
+9.0,Sun,2017-10-22,16:00,Tottenham,Liverpool,2.0,0.6,4–1,80827.0,Andre Marriner,2017-2018,97
+10.0,Sat,2017-10-28,12:30,Manchester Utd,Tottenham,0.8,1.2,1–0,75034.0,Jonathan Moss,2017-2018,99
+10.0,Sat,2017-10-28,15:00,Arsenal,Swansea City,2.0,0.9,2–1,59493.0,Lee Mason,2017-2018,100
+10.0,Sat,2017-10-28,15:00,Crystal Palace,West Ham,2.6,0.8,2–2,25242.0,Robert Madley,2017-2018,101
+10.0,Sat,2017-10-28,15:00,Watford,Stoke City,1.2,1.1,0–1,20087.0,Michael Oliver,2017-2018,102
+10.0,Sat,2017-10-28,15:00,Liverpool,Huddersfield,2.1,0.1,3–0,53268.0,Kevin Friend,2017-2018,103
+10.0,Sat,2017-10-28,15:00,West Brom,Manchester City,1.5,2.3,2–3,24003.0,Mike Jones,2017-2018,104
+10.0,Sat,2017-10-28,17:30,Bournemouth,Chelsea,0.5,1.6,0–1,10998.0,Craig Pawson,2017-2018,105
+10.0,Sun,2017-10-29,13:30,Brighton,Southampton,1.2,0.3,1–1,30564.0,Niel Swarbrick,2017-2018,106
+10.0,Sun,2017-10-29,16:00,Leicester City,Everton,1.3,0.6,2–0,31891.0,Andre Marriner,2017-2018,107
+10.0,Mon,2017-10-30,20:00,Burnley,Newcastle Utd,0.9,0.5,1–0,21031.0,Mike Dean,2017-2018,108
+11.0,Sat,2017-11-04,12:30,Stoke City,Leicester City,1.0,1.5,2–2,29602.0,Robert Madley,2017-2018,110
+11.0,Sat,2017-11-04,15:00,Southampton,Burnley,0.7,0.2,0–1,30491.0,Lee Probert,2017-2018,111
+11.0,Sat,2017-11-04,15:00,Swansea City,Brighton,1.3,0.9,0–1,20822.0,Mike Dean,2017-2018,112
+11.0,Sat,2017-11-04,15:00,Huddersfield,West Brom,0.3,0.4,1–0,24169.0,Roger East,2017-2018,113
+11.0,Sat,2017-11-04,15:00,Newcastle Utd,Bournemouth,0.7,1.5,0–1,52237.0,Paul Tierney,2017-2018,114
+11.0,Sat,2017-11-04,17:30,West Ham,Liverpool,1.2,2.7,1–4,56961.0,Niel Swarbrick,2017-2018,115
+11.0,Sun,2017-11-05,12:00,Tottenham,Crystal Palace,0.9,0.8,1–0,65270.0,Kevin Friend,2017-2018,116
+11.0,Sun,2017-11-05,14:15,Manchester City,Arsenal,1.8,0.3,3–1,54286.0,Michael Oliver,2017-2018,117
+11.0,Sun,2017-11-05,16:30,Everton,Watford,2.1,2.0,3–2,38609.0,Graham Scott,2017-2018,118
+11.0,Sun,2017-11-05,16:30,Chelsea,Manchester Utd,1.6,0.7,1–0,41615.0,Anthony Taylor,2017-2018,119
+12.0,Sat,2017-11-18,12:30,Arsenal,Tottenham,2.1,0.7,2–0,59530.0,Mike Dean,2017-2018,121
+12.0,Sat,2017-11-18,15:00,West Brom,Chelsea,0.8,1.6,0–4,23592.0,Jonathan Moss,2017-2018,122
+12.0,Sat,2017-11-18,15:00,Bournemouth,Huddersfield,0.7,1.2,4–0,10879.0,Lee Probert,2017-2018,123
+12.0,Sat,2017-11-18,15:00,Liverpool,Southampton,2.0,0.4,3–0,53256.0,Mike Jones,2017-2018,124
+12.0,Sat,2017-11-18,15:00,Burnley,Swansea City,1.6,0.6,2–0,18895.0,Martin Atkinson,2017-2018,125
+12.0,Sat,2017-11-18,15:00,Crystal Palace,Everton,2.0,1.8,2–2,25526.0,Anthony Taylor,2017-2018,126
+12.0,Sat,2017-11-18,15:00,Leicester City,Manchester City,0.2,1.9,0–2,31908.0,Graham Scott,2017-2018,127
+12.0,Sat,2017-11-18,17:30,Manchester Utd,Newcastle Utd,3.1,1.1,4–1,75035.0,Craig Pawson,2017-2018,128
+12.0,Sun,2017-11-19,16:00,Watford,West Ham,1.0,1.6,2–0,20018.0,Andre Marriner,2017-2018,129
+12.0,Mon,2017-11-20,20:00,Brighton,Stoke City,0.5,1.0,2–2,29676.0,Lee Mason,2017-2018,130
+13.0,Fri,2017-11-24,20:00,West Ham,Leicester City,0.9,0.4,1–1,56897.0,Martin Atkinson,2017-2018,132
+13.0,Sat,2017-11-25,15:00,Tottenham,West Brom,1.8,0.7,1–1,65905.0,Mike Jones,2017-2018,133
+13.0,Sat,2017-11-25,15:00,Manchester Utd,Brighton,1.2,0.5,1–0,75018.0,Niel Swarbrick,2017-2018,134
+13.0,Sat,2017-11-25,15:00,Swansea City,Bournemouth,0.9,0.4,0–0,20228.0,Stuart Attwell,2017-2018,135
+13.0,Sat,2017-11-25,15:00,Crystal Palace,Stoke City,1.4,0.7,2–1,23723.0,Mike Dean,2017-2018,136
+13.0,Sat,2017-11-25,15:00,Newcastle Utd,Watford,0.9,2.0,0–3,52188.0,Chris Kavanagh,2017-2018,137
+13.0,Sat,2017-11-25,17:30,Liverpool,Chelsea,1.2,0.8,1–1,53225.0,Michael Oliver,2017-2018,138
+13.0,Sun,2017-11-26,13:30,Southampton,Everton,2.0,0.2,4–1,30461.0,Kevin Friend,2017-2018,139
+13.0,Sun,2017-11-26,14:00,Burnley,Arsenal,0.4,1.8,0–1,21722.0,Lee Mason,2017-2018,140
+13.0,Sun,2017-11-26,16:00,Huddersfield,Manchester City,0.6,2.6,1–2,24121.0,Craig Pawson,2017-2018,141
+14.0,Tue,2017-11-28,19:45,Brighton,Crystal Palace,0.6,0.5,0–0,29889.0,Andre Marriner,2017-2018,143
+14.0,Tue,2017-11-28,19:45,Leicester City,Tottenham,0.6,2.4,2–1,31950.0,Anthony Taylor,2017-2018,144
+14.0,Tue,2017-11-28,20:00,Watford,Manchester Utd,1.4,1.2,2–4,20552.0,Jonathan Moss,2017-2018,145
+14.0,Tue,2017-11-28,20:00,West Brom,Newcastle Utd,1.5,0.9,2–2,25534.0,Lee Probert,2017-2018,146
+14.0,Wed,2017-11-29,19:45,Chelsea,Swansea City,1.5,0.1,1–0,41365.0,Niel Swarbrick,2017-2018,147
+14.0,Wed,2017-11-29,19:45,Bournemouth,Burnley,1.2,1.1,1–2,10302.0,Roger East,2017-2018,148
+14.0,Wed,2017-11-29,19:45,Arsenal,Huddersfield,4.0,0.5,5–0,59285.0,Graham Scott,2017-2018,149
+14.0,Wed,2017-11-29,20:00,Stoke City,Liverpool,0.9,2.9,0–3,29423.0,Martin Atkinson,2017-2018,150
+14.0,Wed,2017-11-29,20:00,Everton,West Ham,1.5,1.1,4–0,38242.0,Michael Oliver,2017-2018,151
+14.0,Wed,2017-11-29,20:00,Manchester City,Southampton,1.4,1.3,2–1,53407.0,Paul Tierney,2017-2018,152
+15.0,Sat,2017-12-02,12:30,Chelsea,Newcastle Utd,3.2,0.6,3–1,41538.0,Kevin Friend,2017-2018,154
+15.0,Sat,2017-12-02,15:00,Watford,Tottenham,0.4,0.8,1–1,20278.0,Martin Atkinson,2017-2018,155
+15.0,Sat,2017-12-02,15:00,West Brom,Crystal Palace,1.9,0.6,0–0,23531.0,Michael Oliver,2017-2018,156
+15.0,Sat,2017-12-02,15:00,Stoke City,Swansea City,1.1,0.4,2–1,28261.0,Craig Pawson,2017-2018,157
+15.0,Sat,2017-12-02,15:00,Brighton,Liverpool,1.7,1.8,1–5,30634.0,Graham Scott,2017-2018,158
+15.0,Sat,2017-12-02,15:00,Everton,Huddersfield,0.7,0.3,2–0,39167.0,Chris Kavanagh,2017-2018,159
+15.0,Sat,2017-12-02,15:00,Leicester City,Burnley,1.4,1.0,1–0,30714.0,Paul Tierney,2017-2018,160
+15.0,Sat,2017-12-02,17:30,Arsenal,Manchester Utd,4.7,1.8,1–3,59547.0,Andre Marriner,2017-2018,161
+15.0,Sun,2017-12-03,13:30,Bournemouth,Southampton,0.9,1.5,1–1,10764.0,Jonathan Moss,2017-2018,162
+15.0,Sun,2017-12-03,16:00,Manchester City,West Ham,2.3,0.6,2–1,54203.0,Mike Dean,2017-2018,163
+16.0,Sat,2017-12-09,12:30,West Ham,Chelsea,0.3,1.2,1–0,56953.0,Anthony Taylor,2017-2018,165
+16.0,Sat,2017-12-09,15:00,Huddersfield,Brighton,2.2,0.3,2–0,24018.0,Stuart Attwell,2017-2018,166
+16.0,Sat,2017-12-09,15:00,Crystal Palace,Bournemouth,3.9,0.7,2–2,24823.0,Kevin Friend,2017-2018,167
+16.0,Sat,2017-12-09,15:00,Tottenham,Stoke City,3.6,0.5,5–1,62202.0,Roger East,2017-2018,168
+16.0,Sat,2017-12-09,15:00,Burnley,Watford,0.5,1.1,1–0,19479.0,Lee Probert,2017-2018,169
+16.0,Sat,2017-12-09,15:00,Swansea City,West Brom,1.5,0.3,1–0,19580.0,Mike Dean,2017-2018,170
+16.0,Sat,2017-12-09,17:30,Newcastle Utd,Leicester City,0.9,0.5,2–3,52117.0,Niel Swarbrick,2017-2018,171
+16.0,Sun,2017-12-10,12:00,Southampton,Arsenal,1.3,0.7,1–1,31643.0,Robert Madley,2017-2018,172
+16.0,Sun,2017-12-10,14:15,Liverpool,Everton,1.6,0.9,1–1,53082.0,Craig Pawson,2017-2018,173
+16.0,Sun,2017-12-10,16:30,Manchester Utd,Manchester City,1.4,1.7,1–2,74847.0,Michael Oliver,2017-2018,174
+17.0,Tue,2017-12-12,19:45,Burnley,Stoke City,0.4,1.1,1–0,19909.0,Mike Jones,2017-2018,176
+17.0,Tue,2017-12-12,20:00,Crystal Palace,Watford,1.2,1.2,2–1,23566.0,Lee Mason,2017-2018,177
+17.0,Tue,2017-12-12,20:00,Huddersfield,Chelsea,0.7,1.5,1–3,24169.0,Andre Marriner,2017-2018,178
+17.0,Wed,2017-12-13,19:45,Newcastle Utd,Everton,0.8,1.2,0–1,51042.0,Martin Atkinson,2017-2018,179
+17.0,Wed,2017-12-13,19:45,Southampton,Leicester City,1.5,1.8,1–4,27714.0,Chris Kavanagh,2017-2018,180
+17.0,Wed,2017-12-13,19:45,Swansea City,Manchester City,0.6,2.7,0–4,20870.0,Anthony Taylor,2017-2018,181
+17.0,Wed,2017-12-13,20:00,Liverpool,West Brom,2.1,0.4,0–0,53243.0,Paul Tierney,2017-2018,182
+17.0,Wed,2017-12-13,20:00,West Ham,Arsenal,0.4,1.0,0–0,56921.0,Jonathan Moss,2017-2018,183
+17.0,Wed,2017-12-13,20:00,Tottenham,Brighton,1.5,0.4,2–0,46438.0,Robert Madley,2017-2018,184
+17.0,Wed,2017-12-13,20:00,Manchester Utd,Bournemouth,1.1,0.8,1–0,74798.0,Graham Scott,2017-2018,185
+18.0,Sat,2017-12-16,12:30,Leicester City,Crystal Palace,0.9,1.7,0–3,31081.0,Martin Atkinson,2017-2018,187
+18.0,Sat,2017-12-16,15:00,Watford,Huddersfield,0.6,3.4,1–4,20026.0,Michael Oliver,2017-2018,188
+18.0,Sat,2017-12-16,15:00,Arsenal,Newcastle Utd,1.8,0.3,1–0,59379.0,Stuart Attwell,2017-2018,189
+18.0,Sat,2017-12-16,15:00,Brighton,Burnley,1.5,1.2,0–0,29921.0,Chris Kavanagh,2017-2018,190
+18.0,Sat,2017-12-16,15:00,Chelsea,Southampton,1.4,0.5,1–0,41562.0,Roger East,2017-2018,191
+18.0,Sat,2017-12-16,16:00,Stoke City,West Ham,1.1,3.1,0–3,29265.0,Graham Scott,2017-2018,192
+18.0,Sat,2017-12-16,17:30,Manchester City,Tottenham,3.4,0.2,4–1,54214.0,Craig Pawson,2017-2018,193
+18.0,Sun,2017-12-17,14:15,West Brom,Manchester Utd,1.1,0.7,1–2,24782.0,Anthony Taylor,2017-2018,194
+18.0,Sun,2017-12-17,16:30,Bournemouth,Liverpool,0.6,2.5,0–4,10780.0,Andre Marriner,2017-2018,195
+18.0,Mon,2017-12-18,20:00,Everton,Swansea City,2.0,0.8,3–1,37580.0,Jonathan Moss,2017-2018,196
+19.0,Fri,2017-12-22,19:45,Arsenal,Liverpool,1.2,2.0,3–3,59409.0,Martin Atkinson,2017-2018,198
+19.0,Sat,2017-12-23,12:30,Everton,Chelsea,0.3,1.8,0–0,39191.0,Robert Madley,2017-2018,199
+19.0,Sat,2017-12-23,15:00,Stoke City,West Brom,1.4,2.0,3–1,29057.0,Niel Swarbrick,2017-2018,200
+19.0,Sat,2017-12-23,15:00,Brighton,Watford,1.1,1.5,1–0,30473.0,Paul Tierney,2017-2018,201
+19.0,Sat,2017-12-23,15:00,Swansea City,Crystal Palace,0.5,1.3,1–1,20354.0,Craig Pawson,2017-2018,202
+19.0,Sat,2017-12-23,15:00,Southampton,Huddersfield,1.3,1.1,1–1,29675.0,Lee Probert,2017-2018,203
+19.0,Sat,2017-12-23,15:00,Manchester City,Bournemouth,1.5,0.4,4–0,54270.0,Mike Jones,2017-2018,204
+19.0,Sat,2017-12-23,15:00,West Ham,Newcastle Utd,2.1,1.7,2–3,56955.0,Lee Mason,2017-2018,205
+19.0,Sat,2017-12-23,17:30,Burnley,Tottenham,0.2,3.1,0–3,21650.0,Michael Oliver,2017-2018,206
+19.0,Sat,2017-12-23,19:45,Leicester City,Manchester Utd,1.4,1.9,2–2,32202.0,Jonathan Moss,2017-2018,207
+20.0,Tue,2017-12-26,12:30,Tottenham,Southampton,3.0,0.8,5–2,55412.0,Graham Scott,2017-2018,209
+20.0,Tue,2017-12-26,15:00,Bournemouth,West Ham,2.9,1.7,3–3,10596.0,Stuart Attwell,2017-2018,210
+20.0,Tue,2017-12-26,15:00,Watford,Leicester City,1.2,1.3,2–1,20308.0,Chris Kavanagh,2017-2018,211
+20.0,Tue,2017-12-26,15:00,West Brom,Everton,1.5,0.4,0–0,25364.0,Roger East,2017-2018,212
+20.0,Tue,2017-12-26,15:00,Manchester Utd,Burnley,2.0,0.5,2–2,75046.0,Martin Atkinson,2017-2018,213
+20.0,Tue,2017-12-26,15:00,Huddersfield,Stoke City,1.8,1.6,1–1,24047.0,Anthony Taylor,2017-2018,214
+20.0,Tue,2017-12-26,15:00,Chelsea,Brighton,2.1,0.5,2–0,41568.0,Mike Dean,2017-2018,215
+20.0,Tue,2017-12-26,17:30,Liverpool,Swansea City,3.1,0.4,5–0,52850.0,Kevin Friend,2017-2018,216
+20.0,Wed,2017-12-27,19:45,Newcastle Utd,Manchester City,0.2,1.8,0–1,52311.0,Andre Marriner,2017-2018,217
+20.0,Thu,2017-12-28,20:00,Crystal Palace,Arsenal,1.3,1.8,2–3,25762.0,Michael Oliver,2017-2018,218
+21.0,Sat,2017-12-30,15:00,Huddersfield,Burnley,0.1,1.2,0–0,24095.0,Paul Tierney,2017-2018,220
+21.0,Sat,2017-12-30,15:00,Chelsea,Stoke City,2.6,0.2,5–0,41433.0,Kevin Friend,2017-2018,221
+21.0,Sat,2017-12-30,15:00,Bournemouth,Everton,1.5,0.5,2–1,10497.0,Lee Probert,2017-2018,222
+21.0,Sat,2017-12-30,15:00,Liverpool,Leicester City,2.9,0.7,2–1,53226.0,Niel Swarbrick,2017-2018,223
+21.0,Sat,2017-12-30,15:00,Watford,Swansea City,1.2,1.1,1–2,20002.0,Martin Atkinson,2017-2018,224
+21.0,Sat,2017-12-30,15:00,Newcastle Utd,Brighton,0.5,0.5,0–0,52209.0,Anthony Taylor,2017-2018,225
+21.0,Sat,2017-12-30,17:30,Manchester Utd,Southampton,1.7,0.6,0–0,75051.0,Craig Pawson,2017-2018,226
+21.0,Sun,2017-12-31,12:00,Crystal Palace,Manchester City,1.3,1.3,0–0,25804.0,Jonathan Moss,2017-2018,227
+21.0,Sun,2017-12-31,16:30,West Brom,Arsenal,1.5,0.9,1–1,26223.0,Mike Dean,2017-2018,228
+22.0,Mon,2018-01-01,12:30,Brighton,Bournemouth,2.4,1.5,2–2,30152.0,Michael Oliver,2017-2018,230
+22.0,Mon,2018-01-01,15:00,Leicester City,Huddersfield,1.5,0.2,3–0,31748.0,Graham Scott,2017-2018,231
+22.0,Mon,2018-01-01,15:00,Burnley,Liverpool,1.3,1.7,1–2,21756.0,Roger East,2017-2018,232
+22.0,Mon,2018-01-01,15:00,Stoke City,Newcastle Utd,1.5,1.7,0–1,28471.0,Chris Kavanagh,2017-2018,233
+22.0,Mon,2018-01-01,17:30,Everton,Manchester Utd,1.2,1.4,0–2,39188.0,Andre Marriner,2017-2018,234
+22.0,Tue,2018-01-02,19:45,West Ham,West Brom,1.3,1.0,2–1,56888.0,Mike Jones,2017-2018,235
+22.0,Tue,2018-01-02,19:45,Swansea City,Tottenham,0.4,1.3,0–2,20615.0,Robert Madley,2017-2018,236
+22.0,Tue,2018-01-02,19:45,Southampton,Crystal Palace,0.4,1.3,1–2,28411.0,Stuart Attwell,2017-2018,237
+22.0,Tue,2018-01-02,20:00,Manchester City,Watford,2.1,1.0,3–1,53556.0,Lee Mason,2017-2018,238
+22.0,Wed,2018-01-03,19:45,Arsenal,Chelsea,1.2,3.0,2–2,59379.0,Anthony Taylor,2017-2018,239
+21.0,Thu,2018-01-04,20:00,Tottenham,West Ham,1.8,0.5,1–1,50034.0,Mike Dean,2017-2018,241
+23.0,Sat,2018-01-13,15:00,Newcastle Utd,Swansea City,1.4,1.3,1–1,51444.0,Graham Scott,2017-2018,243
+23.0,Sat,2018-01-13,15:00,Crystal Palace,Burnley,1.4,0.7,1–0,24696.0,Michael Oliver,2017-2018,244
+23.0,Sat,2018-01-13,15:00,Chelsea,Leicester City,0.6,1.2,0–0,41552.0,Mike Jones,2017-2018,245
+23.0,Sat,2018-01-13,15:00,Huddersfield,West Ham,0.7,0.9,1–4,24105.0,Jonathan Moss,2017-2018,246
+23.0,Sat,2018-01-13,15:00,West Brom,Brighton,1.0,0.6,2–0,25240.0,Martin Atkinson,2017-2018,247
+23.0,Sat,2018-01-13,15:00,Watford,Southampton,2.0,0.9,2–2,20018.0,Roger East,2017-2018,248
+23.0,Sat,2018-01-13,17:30,Tottenham,Everton,3.8,0.3,4–0,76251.0,Craig Pawson,2017-2018,249
+23.0,Sun,2018-01-14,13:30,Bournemouth,Arsenal,0.8,1.1,2–1,10836.0,Kevin Friend,2017-2018,250
+23.0,Sun,2018-01-14,16:00,Liverpool,Manchester City,0.8,0.8,4–3,53285.0,Andre Marriner,2017-2018,251
+23.0,Mon,2018-01-15,20:00,Manchester Utd,Stoke City,1.5,1.3,3–0,74726.0,Anthony Taylor,2017-2018,252
+24.0,Sat,2018-01-20,12:30,Brighton,Chelsea,0.8,1.3,0–4,30600.0,Jonathan Moss,2017-2018,254
+24.0,Sat,2018-01-20,15:00,Everton,West Brom,1.1,1.1,1–1,39061.0,Stuart Attwell,2017-2018,255
+24.0,Sat,2018-01-20,15:00,Leicester City,Watford,1.9,0.9,2–0,31891.0,Lee Probert,2017-2018,256
+24.0,Sat,2018-01-20,15:00,Stoke City,Huddersfield,1.0,0.3,2–0,29785.0,Michael Oliver,2017-2018,257
+24.0,Sat,2018-01-20,15:00,Arsenal,Crystal Palace,2.9,0.6,4–1,59386.0,Chris Kavanagh,2017-2018,258
+24.0,Sat,2018-01-20,15:00,West Ham,Bournemouth,0.8,0.5,1–1,56948.0,Martin Atkinson,2017-2018,259
+24.0,Sat,2018-01-20,15:00,Burnley,Manchester Utd,1.0,0.8,0–1,21841.0,Mike Dean,2017-2018,260
+24.0,Sat,2018-01-20,17:30,Manchester City,Newcastle Utd,2.1,1.0,3–1,54452.0,Paul Tierney,2017-2018,261
+24.0,Sun,2018-01-21,16:00,Southampton,Tottenham,0.8,1.2,1–1,31361.0,Kevin Friend,2017-2018,262
+24.0,Mon,2018-01-22,20:00,Swansea City,Liverpool,0.2,2.5,1–0,20886.0,Niel Swarbrick,2017-2018,263
+25.0,Tue,2018-01-30,19:45,West Ham,Crystal Palace,1.1,0.9,1–1,56911.0,Niel Swarbrick,2017-2018,265
+25.0,Tue,2018-01-30,19:45,Swansea City,Arsenal,2.1,1.3,3–1,20819.0,Lee Mason,2017-2018,266
+25.0,Tue,2018-01-30,20:00,Huddersfield,Liverpool,0.3,1.8,0–3,24121.0,Kevin Friend,2017-2018,267
+25.0,Wed,2018-01-31,19:45,Southampton,Brighton,1.4,1.1,1–1,30034.0,Mike Dean,2017-2018,268
+25.0,Wed,2018-01-31,19:45,Chelsea,Bournemouth,1.2,1.1,0–3,41464.0,Lee Probert,2017-2018,269
+25.0,Wed,2018-01-31,19:45,Everton,Leicester City,1.2,2.2,2–1,38390.0,Chris Kavanagh,2017-2018,270
+25.0,Wed,2018-01-31,19:45,Newcastle Utd,Burnley,2.2,1.0,1–1,50174.0,Simon Hooper,2017-2018,271
+25.0,Wed,2018-01-31,20:00,Stoke City,Watford,0.9,0.7,0–0,27458.0,Jonathan Moss,2017-2018,272
+25.0,Wed,2018-01-31,20:00,Manchester City,West Brom,2.3,0.2,3–0,53241.0,Robert Madley,2017-2018,273
+25.0,Wed,2018-01-31,20:00,Tottenham,Manchester Utd,1.5,1.0,2–0,81978.0,Andre Marriner,2017-2018,274
+26.0,Sat,2018-02-03,12:30,Burnley,Manchester City,0.9,1.8,1–1,21658.0,Martin Atkinson,2017-2018,276
+26.0,Sat,2018-02-03,15:00,West Brom,Southampton,0.8,0.9,2–3,25911.0,Michael Oliver,2017-2018,277
+26.0,Sat,2018-02-03,15:00,Bournemouth,Stoke City,1.7,0.7,2–1,10614.0,Paul Tierney,2017-2018,278
+26.0,Sat,2018-02-03,15:00,Manchester Utd,Huddersfield,1.6,0.2,2–0,74742.0,Stuart Attwell,2017-2018,279
+26.0,Sat,2018-02-03,15:00,Brighton,West Ham,1.7,0.4,3–1,30589.0,Roger East,2017-2018,280
+26.0,Sat,2018-02-03,15:00,Leicester City,Swansea City,1.7,0.3,1–1,31179.0,Anthony Taylor,2017-2018,281
+26.0,Sat,2018-02-03,17:30,Arsenal,Everton,2.6,1.2,5–1,59306.0,Niel Swarbrick,2017-2018,282
+26.0,Sun,2018-02-04,14:15,Crystal Palace,Newcastle Utd,3.0,0.9,1–1,25746.0,Andre Marriner,2017-2018,283
+26.0,Sun,2018-02-04,16:30,Liverpool,Tottenham,1.2,2.6,2–2,53213.0,Jonathan Moss,2017-2018,284
+26.0,Mon,2018-02-05,20:00,Watford,Chelsea,2.3,0.7,4–1,20157.0,Mike Dean,2017-2018,285
+27.0,Sat,2018-02-10,12:30,Tottenham,Arsenal,2.6,0.6,1–0,83222.0,Anthony Taylor,2017-2018,287
+27.0,Sat,2018-02-10,15:00,Everton,Crystal Palace,1.5,1.5,3–1,39139.0,Jonathan Moss,2017-2018,288
+27.0,Sat,2018-02-10,15:00,Swansea City,Burnley,0.7,0.5,1–0,20179.0,Andre Marriner,2017-2018,289
+27.0,Sat,2018-02-10,15:00,Stoke City,Brighton,1.4,1.1,1–1,29876.0,Robert Madley,2017-2018,290
+27.0,Sat,2018-02-10,15:00,West Ham,Watford,1.5,0.6,2–0,56197.0,Graham Scott,2017-2018,291
+27.0,Sat,2018-02-10,17:30,Manchester City,Leicester City,2.5,0.1,5–1,54416.0,Mike Jones,2017-2018,292
+27.0,Sun,2018-02-11,12:00,Huddersfield,Bournemouth,2.2,0.3,4–1,23823.0,Michael Oliver,2017-2018,293
+27.0,Sun,2018-02-11,14:15,Newcastle Utd,Manchester Utd,0.5,1.9,1–0,52309.0,Craig Pawson,2017-2018,294
+27.0,Sun,2018-02-11,16:30,Southampton,Liverpool,0.9,1.9,0–2,31915.0,Martin Atkinson,2017-2018,295
+27.0,Mon,2018-02-12,20:00,Chelsea,West Brom,1.9,0.7,3–0,41071.0,Lee Mason,2017-2018,296
+28.0,Sat,2018-02-24,12:30,Leicester City,Stoke City,1.2,0.2,1–1,31769.0,Michael Oliver,2017-2018,298
+28.0,Sat,2018-02-24,15:00,West Brom,Huddersfield,1.2,1.1,1–2,25920.0,Jonathan Moss,2017-2018,299
+28.0,Sat,2018-02-24,15:00,Bournemouth,Newcastle Utd,1.7,3.0,2–2,10808.0,Roger East,2017-2018,300
+28.0,Sat,2018-02-24,15:00,Liverpool,West Ham,4.0,0.4,4–1,53256.0,Stuart Attwell,2017-2018,301
+28.0,Sat,2018-02-24,15:00,Burnley,Southampton,1.3,0.8,1–1,20982.0,Robert Madley,2017-2018,302
+28.0,Sat,2018-02-24,15:00,Brighton,Swansea City,3.0,0.6,4–1,30523.0,Mike Dean,2017-2018,303
+28.0,Sat,2018-02-24,17:30,Watford,Everton,0.6,0.8,1–0,20430.0,Anthony Taylor,2017-2018,304
+28.0,Sun,2018-02-25,12:00,Crystal Palace,Tottenham,0.2,1.7,0–1,25287.0,Kevin Friend,2017-2018,305
+28.0,Sun,2018-02-25,14:05,Manchester Utd,Chelsea,1.2,1.7,2–1,75060.0,Martin Atkinson,2017-2018,306
+28.0,Thu,2018-03-01,19:45,Arsenal,Manchester City,1.3,1.5,0–3,58420.0,Andre Marriner,2017-2018,307
+29.0,Sat,2018-03-03,12:30,Burnley,Everton,2.1,1.5,2–1,20802.0,Chris Kavanagh,2017-2018,309
+29.0,Sat,2018-03-03,15:00,Watford,West Brom,1.3,1.1,1–0,20022.0,Paul Tierney,2017-2018,310
+29.0,Sat,2018-03-03,15:00,Swansea City,West Ham,1.8,0.4,4–1,20829.0,Martin Atkinson,2017-2018,311
+29.0,Sat,2018-03-03,15:00,Leicester City,Bournemouth,2.7,1.4,1–1,31384.0,Lee Probert,2017-2018,312
+29.0,Sat,2018-03-03,15:00,Southampton,Stoke City,0.9,0.8,0–0,30335.0,Anthony Taylor,2017-2018,313
+29.0,Sat,2018-03-03,15:00,Tottenham,Huddersfield,1.6,0.1,2–0,68311.0,Kevin Friend,2017-2018,314
+29.0,Sat,2018-03-03,17:30,Liverpool,Newcastle Utd,1.5,0.3,2–0,53287.0,Graham Scott,2017-2018,315
+29.0,Sun,2018-03-04,13:30,Brighton,Arsenal,1.2,1.2,2–1,30620.0,Stuart Attwell,2017-2018,316
+29.0,Sun,2018-03-04,16:00,Manchester City,Chelsea,0.9,0.1,1–0,54328.0,Michael Oliver,2017-2018,317
+29.0,Mon,2018-03-05,20:00,Crystal Palace,Manchester Utd,0.6,1.2,2–3,25840.0,Niel Swarbrick,2017-2018,318
+30.0,Sat,2018-03-10,12:30,Manchester Utd,Liverpool,0.7,0.7,2–1,74855.0,Craig Pawson,2017-2018,320
+30.0,Sat,2018-03-10,15:00,West Ham,Burnley,0.8,1.4,0–3,56904.0,Lee Mason,2017-2018,321
+30.0,Sat,2018-03-10,15:00,Newcastle Utd,Southampton,1.3,0.3,3–0,52246.0,Andre Marriner,2017-2018,322
+30.0,Sat,2018-03-10,15:00,West Brom,Leicester City,0.3,2.1,1–4,23558.0,Robert Madley,2017-2018,323
+30.0,Sat,2018-03-10,15:00,Everton,Brighton,1.5,0.3,2–0,39199.0,Roger East,2017-2018,324
+30.0,Sat,2018-03-10,15:00,Huddersfield,Swansea City,1.4,0.0,0–0,23567.0,Michael Oliver,2017-2018,325
+30.0,Sat,2018-03-10,17:30,Chelsea,Crystal Palace,3.1,1.1,2–1,40800.0,Anthony Taylor,2017-2018,326
+30.0,Sun,2018-03-11,13:30,Arsenal,Watford,2.2,1.4,3–0,59131.0,Martin Atkinson,2017-2018,327
+30.0,Sun,2018-03-11,16:00,Bournemouth,Tottenham,1.2,2.4,1–4,10623.0,Mike Dean,2017-2018,328
+30.0,Mon,2018-03-12,20:00,Stoke City,Manchester City,0.4,1.6,0–2,29138.0,Jonathan Moss,2017-2018,329
+31.0,Sat,2018-03-17,15:00,Stoke City,Everton,0.8,2.3,1–2,30022.0,Martin Atkinson,2017-2018,331
+31.0,Sat,2018-03-17,15:00,Bournemouth,West Brom,0.7,1.6,2–1,10242.0,Graham Scott,2017-2018,332
+31.0,Sat,2018-03-17,15:00,Huddersfield,Crystal Palace,0.3,2.7,0–2,23918.0,Mike Dean,2017-2018,333
+31.0,Sat,2018-03-17,17:30,Liverpool,Watford,2.3,0.4,5–0,53287.0,Anthony Taylor,2017-2018,334
+32.0,Sat,2018-03-31,12:30,Crystal Palace,Liverpool,1.9,1.8,1–2,25807.0,Niel Swarbrick,2017-2018,336
+32.0,Sat,2018-03-31,15:00,Manchester Utd,Swansea City,2.2,0.2,2–0,75038.0,Robert Madley,2017-2018,337
+32.0,Sat,2018-03-31,15:00,Brighton,Leicester City,1.8,1.2,0–2,30629.0,Chris Kavanagh,2017-2018,338
+32.0,Sat,2018-03-31,15:00,West Brom,Burnley,0.5,1.3,1–2,23455.0,Lee Probert,2017-2018,339
+32.0,Sat,2018-03-31,15:00,West Ham,Southampton,1.4,0.5,3–0,56882.0,Jonathan Moss,2017-2018,340
+32.0,Sat,2018-03-31,15:00,Newcastle Utd,Huddersfield,2.4,0.1,1–0,52261.0,Martin Atkinson,2017-2018,341
+32.0,Sat,2018-03-31,15:00,Watford,Bournemouth,0.7,1.7,2–2,20393.0,Andy Madley,2017-2018,342
+32.0,Sat,2018-03-31,17:30,Everton,Manchester City,0.9,1.5,1–3,39221.0,Paul Tierney,2017-2018,343
+32.0,Sun,2018-04-01,13:30,Arsenal,Stoke City,3.3,0.4,3–0,59371.0,Craig Pawson,2017-2018,344
+32.0,Sun,2018-04-01,16:00,Chelsea,Tottenham,1.0,1.4,1–3,41364.0,Andre Marriner,2017-2018,345
+33.0,Sat,2018-04-07,12:30,Everton,Liverpool,0.6,0.9,0–0,39220.0,Michael Oliver,2017-2018,347
+33.0,Sat,2018-04-07,15:00,Stoke City,Tottenham,1.4,1.7,1–2,29515.0,Graham Scott,2017-2018,348
+33.0,Sat,2018-04-07,15:00,Leicester City,Newcastle Utd,1.4,0.4,1–2,32066.0,Stuart Attwell,2017-2018,349
+33.0,Sat,2018-04-07,15:00,Watford,Burnley,1.2,1.0,1–2,20044.0,Paul Tierney,2017-2018,350
+33.0,Sat,2018-04-07,15:00,Brighton,Huddersfield,1.5,1.5,1–1,30501.0,Anthony Taylor,2017-2018,351
+33.0,Sat,2018-04-07,15:00,Bournemouth,Crystal Palace,1.9,1.1,2–2,10730.0,Jonathan Moss,2017-2018,352
+33.0,Sat,2018-04-07,15:00,West Brom,Swansea City,1.2,0.8,1–1,23297.0,Roger East,2017-2018,353
+33.0,Sat,2018-04-07,17:30,Manchester City,Manchester Utd,2.6,1.1,2–3,54259.0,Martin Atkinson,2017-2018,354
+33.0,Sun,2018-04-08,14:15,Arsenal,Southampton,1.6,2.0,3–2,59374.0,Andre Marriner,2017-2018,355
+33.0,Sun,2018-04-08,16:30,Chelsea,West Ham,1.7,0.3,1–1,41324.0,Kevin Friend,2017-2018,356
+34.0,Sat,2018-04-14,12:30,Southampton,Chelsea,1.0,0.8,2–3,31764.0,Mike Dean,2017-2018,358
+34.0,Sat,2018-04-14,15:00,Crystal Palace,Brighton,2.1,1.5,3–2,24656.0,Andre Marriner,2017-2018,359
+34.0,Sat,2018-04-14,15:00,Huddersfield,Watford,0.8,0.2,1–0,23961.0,Craig Pawson,2017-2018,360
+34.0,Sat,2018-04-14,15:00,Burnley,Leicester City,0.9,1.9,2–1,21727.0,Martin Atkinson,2017-2018,361
+34.0,Sat,2018-04-14,15:00,Swansea City,Everton,1.3,1.6,1–1,20933.0,Lee Mason,2017-2018,362
+34.0,Sat,2018-04-14,17:30,Liverpool,Bournemouth,2.0,0.3,3–0,52959.0,Chris Kavanagh,2017-2018,363
+34.0,Sat,2018-04-14,19:45,Tottenham,Manchester City,0.4,2.9,1–3,80811.0,Jonathan Moss,2017-2018,364
+34.0,Sun,2018-04-15,13:30,Newcastle Utd,Arsenal,0.8,1.2,2–1,52210.0,Anthony Taylor,2017-2018,365
+34.0,Sun,2018-04-15,16:00,Manchester Utd,West Brom,0.7,0.7,0–1,75095.0,Paul Tierney,2017-2018,366
+34.0,Mon,2018-04-16,20:00,West Ham,Stoke City,0.8,1.7,1–1,56795.0,Michael Oliver,2017-2018,367
+35.0,Tue,2018-04-17,19:45,Brighton,Tottenham,1.1,1.3,1–1,30440.0,Kevin Friend,2017-2018,369
+35.0,Wed,2018-04-18,19:45,Bournemouth,Manchester Utd,1.2,1.3,0–2,10952.0,Graham Scott,2017-2018,370
+31.0,Thu,2018-04-19,19:45,Burnley,Chelsea,0.2,1.7,1–2,21264.0,Robert Madley,2017-2018,372
+35.0,Thu,2018-04-19,19:45,Leicester City,Southampton,0.6,0.8,0–0,31160.0,Roger East,2017-2018,374
+35.0,Sat,2018-04-21,12:30,West Brom,Liverpool,1.3,1.3,2–2,24520.0,Stuart Attwell,2017-2018,375
+35.0,Sat,2018-04-21,15:00,Watford,Crystal Palace,0.6,0.3,0–0,20401.0,Chris Kavanagh,2017-2018,376
+35.0,Sun,2018-04-22,13:30,Arsenal,West Ham,1.8,0.8,4–1,59422.0,Lee Mason,2017-2018,377
+35.0,Sun,2018-04-22,13:30,Stoke City,Burnley,0.4,1.6,1–1,29532.0,Mike Dean,2017-2018,378
+35.0,Sun,2018-04-22,16:30,Manchester City,Swansea City,3.2,0.3,5–0,54387.0,Craig Pawson,2017-2018,379
+35.0,Mon,2018-04-23,20:00,Everton,Newcastle Utd,0.7,0.8,1–0,39061.0,Robert Madley,2017-2018,380
+36.0,Sat,2018-04-28,12:30,Liverpool,Stoke City,1.9,0.6,0–0,53255.0,Andre Marriner,2017-2018,382
+36.0,Sat,2018-04-28,15:00,Newcastle Utd,West Brom,1.8,0.7,0–1,52283.0,David Coote,2017-2018,383
+36.0,Sat,2018-04-28,15:00,Southampton,Bournemouth,1.5,0.7,2–1,31778.0,Anthony Taylor,2017-2018,384
+36.0,Sat,2018-04-28,15:00,Huddersfield,Everton,0.6,0.6,0–2,24121.0,Lee Probert,2017-2018,385
+36.0,Sat,2018-04-28,15:00,Crystal Palace,Leicester City,3.0,0.6,5–0,25750.0,Mike Dean,2017-2018,386
+36.0,Sat,2018-04-28,15:00,Burnley,Brighton,1.5,0.4,0–0,19459.0,Roger East,2017-2018,387
+36.0,Sat,2018-04-28,17:30,Swansea City,Chelsea,0.7,1.5,0–1,20900.0,Jonathan Moss,2017-2018,388
+36.0,Sun,2018-04-29,14:15,West Ham,Manchester City,0.2,2.4,1–4,56904.0,Niel Swarbrick,2017-2018,389
+36.0,Sun,2018-04-29,16:30,Manchester Utd,Arsenal,1.7,0.5,2–1,75035.0,Kevin Friend,2017-2018,390
+36.0,Mon,2018-04-30,20:00,Tottenham,Watford,1.4,1.3,2–0,52675.0,Michael Oliver,2017-2018,391
+37.0,Fri,2018-05-04,20:00,Brighton,Manchester Utd,1.0,0.8,1–0,30611.0,Craig Pawson,2017-2018,393
+37.0,Sat,2018-05-05,12:30,Stoke City,Crystal Palace,0.5,1.1,1–2,29687.0,Martin Atkinson,2017-2018,394
+37.0,Sat,2018-05-05,15:00,Leicester City,West Ham,0.5,1.6,0–2,32013.0,Chris Kavanagh,2017-2018,395
+37.0,Sat,2018-05-05,15:00,West Brom,Tottenham,1.6,1.2,1–0,23685.0,Mike Jones,2017-2018,396
+37.0,Sat,2018-05-05,15:00,Bournemouth,Swansea City,1.9,1.3,1–0,10820.0,Kevin Friend,2017-2018,397
+37.0,Sat,2018-05-05,15:00,Watford,Newcastle Utd,2.5,0.7,2–1,20375.0,Roger East,2017-2018,398
+37.0,Sat,2018-05-05,17:30,Everton,Southampton,0.5,0.7,1–1,38225.0,Jonathan Moss,2017-2018,399
+37.0,Sun,2018-05-06,13:30,Manchester City,Huddersfield,0.8,0.2,0–0,54350.0,Mike Dean,2017-2018,400
+37.0,Sun,2018-05-06,16:30,Chelsea,Liverpool,0.6,0.5,1–0,41314.0,Anthony Taylor,2017-2018,401
+37.0,Sun,2018-05-06,16:30,Arsenal,Burnley,2.6,0.3,5–0,59540.0,Andre Marriner,2017-2018,402
+31.0,Tue,2018-05-08,19:45,Swansea City,Southampton,0.5,1.2,0–1,20858.0,Michael Oliver,2017-2018,404
+31.0,Wed,2018-05-09,19:45,Leicester City,Arsenal,2.2,1.4,3–1,32095.0,Graham Scott,2017-2018,405
+35.0,Wed,2018-05-09,19:45,Chelsea,Huddersfield,1.9,0.7,1–1,38910.0,Lee Mason,2017-2018,407
+31.0,Wed,2018-05-09,20:00,Tottenham,Newcastle Utd,0.8,1.0,1–0,54923.0,Niel Swarbrick,2017-2018,409
+31.0,Wed,2018-05-09,20:00,Manchester City,Brighton,1.6,1.2,3–1,54013.0,Paul Tierney,2017-2018,410
+31.0,Thu,2018-05-10,19:45,West Ham,Manchester Utd,0.6,0.8,0–0,56902.0,Jonathan Moss,2017-2018,411
+38.0,Sun,2018-05-13,15:00,Swansea City,Stoke City,3.0,1.6,1–2,20673.0,Anthony Taylor,2017-2018,413
+38.0,Sun,2018-05-13,15:00,Liverpool,Brighton,2.8,0.1,4–0,50752.0,Kevin Friend,2017-2018,414
+38.0,Sun,2018-05-13,15:00,Burnley,Bournemouth,1.1,1.3,1–2,20720.0,Paul Tierney,2017-2018,415
+38.0,Sun,2018-05-13,15:00,Crystal Palace,West Brom,2.2,0.2,2–0,25357.0,Jonathan Moss,2017-2018,416
+38.0,Sun,2018-05-13,15:00,West Ham,Everton,1.1,1.6,3–1,56926.0,Graham Scott,2017-2018,417
+38.0,Sun,2018-05-13,15:00,Huddersfield,Arsenal,1.7,2.0,0–1,24122.0,Michael Oliver,2017-2018,418
+38.0,Sun,2018-05-13,15:00,Newcastle Utd,Chelsea,2.2,1.0,3–0,52294.0,Martin Atkinson,2017-2018,419
+38.0,Sun,2018-05-13,15:00,Manchester Utd,Watford,0.4,0.6,1–0,75049.0,Lee Mason,2017-2018,420
+38.0,Sun,2018-05-13,15:00,Southampton,Manchester City,0.5,0.8,0–1,31882.0,Andre Marriner,2017-2018,421
+38.0,Sun,2018-05-13,15:00,Tottenham,Leicester City,1.8,1.4,5–4,77841.0,Craig Pawson,2017-2018,422

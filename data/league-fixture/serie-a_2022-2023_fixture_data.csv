@@ -1,0 +1,381 @@
+Wk,Day,Date,Time,Home,Away,xG,xG.1,Score,Attendance,Referee,season,game_id
+1.0,Sat,2022-08-13,18:30,Sampdoria,Atalanta,1.0,2.2,0–2,20047.0,Federico Dionisi,2022-2023,0
+1.0,Sat,2022-08-13,18:30,Milan,Udinese,2.3,0.5,4–2,70197.0,Livio Marinelli,2022-2023,1
+1.0,Sat,2022-08-13,20:45,Monza,Torino,1.4,2.1,1–2,10739.0,Maurizio Mariani,2022-2023,2
+1.0,Sat,2022-08-13,20:45,Lecce,Inter,0.7,2.1,1–2,25353.0,Alessandro Prontera,2022-2023,3
+1.0,Sun,2022-08-14,18:30,Fiorentina,Cremonese,2.0,1.3,3–2,34461.0,Juan Sacchi,2022-2023,4
+1.0,Sun,2022-08-14,18:30,Lazio,Bologna,0.7,1.5,2–1,45000.0,Luca Massimi,2022-2023,5
+1.0,Sun,2022-08-14,20:45,Spezia,Empoli,0.5,0.7,1–0,8360.0,Daniele Chiffi,2022-2023,6
+1.0,Sun,2022-08-14,20:45,Salernitana,Roma,0.6,2.4,0–1,26006.0,Simone Sozza,2022-2023,7
+1.0,Mon,2022-08-15,18:30,Hellas Verona,Napoli,1.1,2.4,2–5,16967.0,Michael Fabbri,2022-2023,8
+1.0,Mon,2022-08-15,20:45,Juventus,Sassuolo,2.0,0.9,3–0,38725.0,Antonio Rapuano,2022-2023,9
+2.0,Sat,2022-08-20,18:30,Torino,Lazio,0.7,0.8,0–0,16530.0,Marco Piccinini,2022-2023,11
+2.0,Sat,2022-08-20,18:30,Udinese,Salernitana,1.1,1.5,0–0,17054.0,Gianluca Aureliano,2022-2023,12
+2.0,Sat,2022-08-20,20:45,Inter,Spezia,2.1,0.5,3–0,71212.0,Davide Ghersini,2022-2023,13
+2.0,Sat,2022-08-20,20:45,Sassuolo,Lecce,0.6,0.5,1–0,9219.0,Andrea Colombo,2022-2023,14
+2.0,Sun,2022-08-21,18:30,Empoli,Fiorentina,0.4,0.7,0–0,10411.0,Matteo Marchetti,2022-2023,15
+2.0,Sun,2022-08-21,18:30,Napoli,Monza,2.0,0.1,4–0,36559.0,Francesco Fourneau,2022-2023,16
+2.0,Sun,2022-08-21,20:45,Bologna,Hellas Verona,0.8,1.9,1–1,17725.0,Matteo Marcenaro,2022-2023,17
+2.0,Sun,2022-08-21,20:45,Atalanta,Milan,0.5,1.3,1–1,19216.0,Fabio Maresca,2022-2023,18
+2.0,Mon,2022-08-22,18:30,Roma,Cremonese,2.7,0.7,1–0,60859.0,Luca Massimi,2022-2023,19
+2.0,Mon,2022-08-22,20:45,Sampdoria,Juventus,0.9,0.8,0–0,27573.0,Rosario Abisso,2022-2023,20
+3.0,Fri,2022-08-26,18:30,Monza,Udinese,1.5,1.7,1–2,9955.0,Marco Di Bello,2022-2023,22
+3.0,Fri,2022-08-26,20:45,Lazio,Inter,1.1,1.5,3–1,52500.0,Michael Fabbri,2022-2023,23
+3.0,Sat,2022-08-27,18:30,Juventus,Roma,0.6,1.3,1–1,41003.0,Massimiliano Irrati,2022-2023,24
+3.0,Sat,2022-08-27,18:30,Cremonese,Torino,0.8,1.7,1–2,11572.0,Paolo Valeri,2022-2023,25
+3.0,Sat,2022-08-27,20:45,Milan,Bologna,1.9,0.5,2–0,70430.0,Gianluca Manganiello,2022-2023,26
+3.0,Sat,2022-08-27,20:45,Spezia,Sassuolo,1.2,2.8,2–2,6500.0,Francesco Cosso,2022-2023,27
+3.0,Sun,2022-08-28,18:30,Salernitana,Sampdoria,1.7,1.8,4–0,19116.0,Davide Massa,2022-2023,28
+3.0,Sun,2022-08-28,18:30,Hellas Verona,Atalanta,0.5,0.8,0–1,16106.0,Alessandro Prontera,2022-2023,29
+3.0,Sun,2022-08-28,20:45,Lecce,Empoli,0.9,0.4,1–1,23941.0,Alberto Santoro,2022-2023,30
+3.0,Sun,2022-08-28,20:45,Fiorentina,Napoli,0.5,1.7,0–0,32286.0,Livio Marinelli,2022-2023,31
+4.0,Tue,2022-08-30,18:30,Sassuolo,Milan,1.1,0.7,0–0,18053.0,Giovanni Ayroldi,2022-2023,33
+4.0,Tue,2022-08-30,20:45,Inter,Cremonese,2.2,1.2,3–1,70750.0,Francesco Fourneau,2022-2023,34
+4.0,Tue,2022-08-30,20:45,Roma,Monza,1.8,0.9,3–0,60669.0,Marco Piccinini,2022-2023,35
+4.0,Wed,2022-08-31,18:30,Sampdoria,Lazio,0.8,1.5,1–1,18499.0,Gianluca Aureliano,2022-2023,36
+4.0,Wed,2022-08-31,18:30,Udinese,Fiorentina,1.3,0.7,1–0,19684.0,Maurizio Mariani,2022-2023,37
+4.0,Wed,2022-08-31,18:30,Empoli,Hellas Verona,1.1,0.6,1–1,7269.0,Marco Serra,2022-2023,38
+4.0,Wed,2022-08-31,20:45,Juventus,Spezia,0.9,0.2,2–0,35709.0,Andrea Colombo,2022-2023,39
+4.0,Wed,2022-08-31,20:45,Napoli,Lecce,1.7,1.1,1–1,37573.0,Matteo Marcenaro,2022-2023,40
+4.0,Thu,2022-09-01,20:45,Atalanta,Torino,2.9,0.4,3–1,17928.0,Marco Di Bello,2022-2023,41
+4.0,Thu,2022-09-01,20:45,Bologna,Salernitana,1.8,1.4,1–1,19787.0,Davide Ghersini,2022-2023,42
+5.0,Sat,2022-09-03,15:00,Fiorentina,Juventus,2.1,0.9,1–1,36550.0,Daniele Doveri,2022-2023,44
+5.0,Sat,2022-09-03,18:00,Milan,Inter,1.3,1.8,3–2,75475.0,Daniele Chiffi,2022-2023,45
+5.0,Sat,2022-09-03,20:45,Lazio,Napoli,0.3,2.1,1–2,39000.0,Simone Sozza,2022-2023,46
+5.0,Sun,2022-09-04,12:30,Cremonese,Sassuolo,0.4,1.5,0–0,9105.0,Luca Pairetto,2022-2023,47
+5.0,Sun,2022-09-04,15:00,Spezia,Bologna,0.9,0.9,2–2,7555.0,Antonio Giua,2022-2023,48
+5.0,Sun,2022-09-04,18:00,Hellas Verona,Sampdoria,2.5,0.8,2–1,16675.0,Paolo Valeri,2022-2023,49
+5.0,Sun,2022-09-04,20:45,Udinese,Roma,1.2,0.8,4–0,24108.0,Fabio Maresca,2022-2023,50
+5.0,Mon,2022-09-05,18:30,Salernitana,Empoli,1.3,0.9,2–2,18173.0,Rosario Abisso,2022-2023,51
+5.0,Mon,2022-09-05,18:30,Monza,Atalanta,0.6,1.9,0–2,11970.0,Juan Sacchi,2022-2023,52
+5.0,Mon,2022-09-05,20:45,Torino,Lecce,1.1,0.3,1–0,19087.0,Manuel Volpi,2022-2023,53
+6.0,Sat,2022-09-10,15:00,Napoli,Spezia,2.2,0.5,1–0,32839.0,Alberto Santoro,2022-2023,55
+6.0,Sat,2022-09-10,18:00,Inter,Torino,1.5,0.7,1–0,69134.0,Giovanni Ayroldi,2022-2023,56
+6.0,Sat,2022-09-10,20:45,Sampdoria,Milan,0.7,1.7,1–2,23049.0,Michael Fabbri,2022-2023,57
+6.0,Sun,2022-09-11,12:30,Atalanta,Cremonese,0.7,0.6,1–1,18252.0,Andrea Colombo,2022-2023,58
+6.0,Sun,2022-09-11,15:00,Bologna,Fiorentina,0.6,1.3,2–1,18901.0,Daniele Orsato,2022-2023,59
+6.0,Sun,2022-09-11,15:00,Lecce,Monza,0.9,0.1,1–1,23391.0,Luca Pairetto,2022-2023,60
+6.0,Sun,2022-09-11,15:00,Sassuolo,Udinese,0.5,2.1,1–3,8694.0,Giacomo Camplone,2022-2023,61
+6.0,Sun,2022-09-11,18:00,Lazio,Hellas Verona,1.1,0.3,2–0,38000.0,Massimiliano Irrati,2022-2023,62
+6.0,Sun,2022-09-11,20:45,Juventus,Salernitana,1.9,1.6,2–2,35097.0,Matteo Marcenaro,2022-2023,63
+6.0,Mon,2022-09-12,20:45,Empoli,Roma,1.1,3.0,1–2,4560.0,Livio Marinelli,2022-2023,64
+7.0,Fri,2022-09-16,20:45,Salernitana,Lecce,1.2,1.5,1–2,19488.0,Daniele Doveri,2022-2023,66
+7.0,Sat,2022-09-17,15:00,Bologna,Empoli,1.6,1.6,0–1,15670.0,Manuel Volpi,2022-2023,67
+7.0,Sat,2022-09-17,18:00,Spezia,Sampdoria,0.7,0.9,2–1,10000.0,Simone Sozza,2022-2023,68
+7.0,Sat,2022-09-17,20:45,Torino,Sassuolo,0.7,0.4,0–1,14822.0,Niccolò Baroni,2022-2023,69
+7.0,Sun,2022-09-18,12:30,Udinese,Inter,1.6,1.1,3–1,22475.0,Paolo Valeri,2022-2023,70
+7.0,Sun,2022-09-18,15:00,Cremonese,Lazio,1.3,3.1,0–4,12991.0,Daniele Orsato,2022-2023,71
+7.0,Sun,2022-09-18,15:00,Monza,Juventus,2.5,0.9,1–0,12878.0,Fabio Maresca,2022-2023,72
+7.0,Sun,2022-09-18,15:00,Fiorentina,Hellas Verona,2.4,0.6,2–0,32216.0,Antonio Rapuano,2022-2023,73
+7.0,Sun,2022-09-18,18:00,Roma,Atalanta,2.4,0.2,0–1,61335.0,Daniele Chiffi,2022-2023,74
+7.0,Sun,2022-09-18,20:45,Milan,Napoli,2.6,1.4,1–2,72573.0,Maurizio Mariani,2022-2023,75
+8.0,Sat,2022-10-01,15:00,Napoli,Torino,1.6,1.0,3–1,35953.0,Luca Massimi,2022-2023,77
+8.0,Sat,2022-10-01,18:00,Inter,Roma,1.0,1.0,1–2,75389.0,Davide Massa,2022-2023,78
+8.0,Sat,2022-10-01,20:45,Empoli,Milan,1.1,2.3,1–3,15497.0,Gianluca Aureliano,2022-2023,79
+8.0,Sun,2022-10-02,12:30,Lazio,Spezia,2.3,1.1,4–0,41000.0,Juan Sacchi,2022-2023,80
+8.0,Sun,2022-10-02,15:00,Sassuolo,Salernitana,3.2,0.5,5–0,15786.0,Maria Sole Ferrieri Caputi,2022-2023,81
+8.0,Sun,2022-10-02,15:00,Lecce,Cremonese,1.0,1.6,1–1,23377.0,Livio Marinelli,2022-2023,82
+8.0,Sun,2022-10-02,15:00,Sampdoria,Monza,0.1,1.4,0–3,19806.0,Giovanni Ayroldi,2022-2023,83
+8.0,Sun,2022-10-02,18:00,Atalanta,Fiorentina,1.3,0.7,1–0,18265.0,Massimiliano Irrati,2022-2023,84
+8.0,Sun,2022-10-02,20:45,Juventus,Bologna,1.8,0.4,3–0,34662.0,Rosario Abisso,2022-2023,85
+8.0,Mon,2022-10-03,20:45,Hellas Verona,Udinese,0.3,1.8,1–2,15352.0,Daniele Minelli,2022-2023,86
+9.0,Sat,2022-10-08,15:00,Sassuolo,Inter,1.2,2.3,1–2,17574.0,Simone Sozza,2022-2023,88
+9.0,Sat,2022-10-08,18:00,Milan,Juventus,2.2,0.8,2–0,75530.0,Daniele Orsato,2022-2023,89
+9.0,Sat,2022-10-08,20:45,Bologna,Sampdoria,0.8,0.6,1–1,20871.0,Marco Piccinini,2022-2023,90
+9.0,Sun,2022-10-09,12:30,Torino,Empoli,2.4,0.2,1–1,16793.0,Francesco Fourneau,2022-2023,91
+9.0,Sun,2022-10-09,15:00,Udinese,Atalanta,1.0,2.1,2–2,24671.0,Daniele Doveri,2022-2023,92
+9.0,Sun,2022-10-09,15:00,Salernitana,Hellas Verona,1.1,0.9,2–1,15922.0,Davide Ghersini,2022-2023,93
+9.0,Sun,2022-10-09,15:00,Monza,Spezia,0.7,0.5,2–0,12094.0,Daniele Perenzoni,2022-2023,94
+9.0,Sun,2022-10-09,18:00,Cremonese,Napoli,0.8,4.1,1–4,14238.0,Rosario Abisso,2022-2023,95
+9.0,Sun,2022-10-09,20:45,Roma,Lecce,3.2,0.3,2–1,64018.0,Alessandro Prontera,2022-2023,96
+9.0,Mon,2022-10-10,20:45,Fiorentina,Lazio,2.2,1.6,0–4,30574.0,Fabio Maresca,2022-2023,97
+10.0,Sat,2022-10-15,15:00,Empoli,Monza,1.8,1.3,1–0,7258.0,Antonio Rapuano,2022-2023,99
+10.0,Sat,2022-10-15,18:00,Torino,Juventus,0.6,2.1,0–1,22269.0,Maurizio Mariani,2022-2023,100
+10.0,Sat,2022-10-15,20:45,Atalanta,Sassuolo,2.5,0.8,2–1,17772.0,Matteo Marcenaro,2022-2023,101
+10.0,Sun,2022-10-16,12:30,Inter,Salernitana,1.7,0.4,2–0,75452.0,Juan Sacchi,2022-2023,102
+10.0,Sun,2022-10-16,15:00,Lazio,Udinese,0.8,0.9,0–0,45000.0,Andrea Colombo,2022-2023,103
+10.0,Sun,2022-10-16,15:00,Spezia,Cremonese,1.5,2.1,2–2,8400.0,Gianluca Manganiello,2022-2023,104
+10.0,Sun,2022-10-16,18:00,Napoli,Bologna,2.6,1.3,3–2,50000.0,Francesco Cosso,2022-2023,105
+10.0,Sun,2022-10-16,20:45,Hellas Verona,Milan,2.1,1.9,1–2,22904.0,Davide Massa,2022-2023,106
+10.0,Mon,2022-10-17,18:30,Sampdoria,Roma,0.2,1.8,0–1,20803.0,Marco Di Bello,2022-2023,107
+10.0,Mon,2022-10-17,20:45,Lecce,Fiorentina,1.1,0.5,1–1,24925.0,Luca Massimi,2022-2023,108
+11.0,Fri,2022-10-21,20:45,Juventus,Empoli,3.5,0.7,4–0,37771.0,Michael Fabbri,2022-2023,110
+11.0,Sat,2022-10-22,15:00,Salernitana,Spezia,1.6,0.9,1–0,17260.0,Daniele Chiffi,2022-2023,111
+11.0,Sat,2022-10-22,18:00,Milan,Monza,1.1,1.2,4–1,72938.0,Livio Marinelli,2022-2023,112
+11.0,Sat,2022-10-22,20:45,Fiorentina,Inter,1.3,2.4,3–4,36699.0,Paolo Valeri,2022-2023,113
+11.0,Sun,2022-10-23,12:30,Udinese,Torino,2.0,1.5,1–2,20711.0,Matteo Marchetti,2022-2023,114
+11.0,Sun,2022-10-23,15:00,Bologna,Lecce,1.8,0.4,2–0,24206.0,Simone Sozza,2022-2023,115
+11.0,Sun,2022-10-23,18:00,Atalanta,Lazio,0.8,0.9,0–2,18988.0,Rosario Abisso,2022-2023,116
+11.0,Sun,2022-10-23,20:45,Roma,Napoli,0.3,0.9,0–1,61633.0,Massimiliano Irrati,2022-2023,117
+11.0,Mon,2022-10-24,18:30,Cremonese,Sampdoria,2.0,1.3,0–1,13021.0,Fabio Maresca,2022-2023,118
+11.0,Mon,2022-10-24,20:45,Sassuolo,Hellas Verona,1.5,1.4,2–1,11368.0,Alberto Santoro,2022-2023,119
+12.0,Sat,2022-10-29,15:00,Napoli,Sassuolo,2.1,1.0,4–0,45000.0,Antonio Rapuano,2022-2023,121
+12.0,Sat,2022-10-29,18:00,Lecce,Juventus,0.2,0.6,0–1,25860.0,Daniele Chiffi,2022-2023,122
+12.0,Sat,2022-10-29,20:45,Inter,Sampdoria,2.0,0.5,3–0,73311.0,Luca Massimi,2022-2023,123
+12.0,Sun,2022-10-30,12:30,Empoli,Atalanta,0.8,3.0,0–2,8740.0,Giovanni Ayroldi,2022-2023,124
+12.0,Sun,2022-10-30,15:00,Spezia,Fiorentina,1.2,2.1,1–2,10500.0,Davide Massa,2022-2023,125
+12.0,Sun,2022-10-30,15:00,Cremonese,Udinese,0.7,1.0,0–0,12810.0,Massimiliano Irrati,2022-2023,126
+12.0,Sun,2022-10-30,18:00,Lazio,Salernitana,1.9,1.5,1–3,40000.0,Gianluca Manganiello,2022-2023,127
+12.0,Sun,2022-10-30,20:45,Torino,Milan,0.6,1.1,2–1,26133.0,Rosario Abisso,2022-2023,128
+12.0,Mon,2022-10-31,18:30,Hellas Verona,Roma,0.3,3.1,1–3,24000.0,Juan Sacchi,2022-2023,129
+12.0,Mon,2022-10-31,20:45,Monza,Bologna,1.2,1.3,1–2,11388.0,Luca Pairetto,2022-2023,130
+13.0,Fri,2022-11-04,20:45,Udinese,Lecce,1.7,0.7,1–1,21834.0,Francesco Fourneau,2022-2023,132
+13.0,Sat,2022-11-05,15:00,Empoli,Sassuolo,1.2,0.6,1–0,7834.0,Ermanno Feliciani,2022-2023,133
+13.0,Sat,2022-11-05,15:00,Salernitana,Cremonese,1.3,1.7,2–2,16780.0,Matteo Marchetti,2022-2023,134
+13.0,Sat,2022-11-05,18:00,Atalanta,Napoli,2.0,1.3,1–2,19363.0,Maurizio Mariani,2022-2023,135
+13.0,Sat,2022-11-05,20:45,Milan,Spezia,2.2,1.6,2–1,71099.0,Michael Fabbri,2022-2023,136
+13.0,Sun,2022-11-06,12:30,Bologna,Torino,2.0,1.0,2–1,23168.0,Antonio Giua,2022-2023,137
+13.0,Sun,2022-11-06,15:00,Monza,Hellas Verona,1.3,0.4,2–0,11723.0,Francesco Cosso,2022-2023,138
+13.0,Sun,2022-11-06,15:00,Sampdoria,Fiorentina,0.8,0.9,0–2,19226.0,Livio Marinelli,2022-2023,139
+13.0,Sun,2022-11-06,18:00,Roma,Lazio,0.5,0.6,0–1,62847.0,Daniele Orsato,2022-2023,140
+13.0,Sun,2022-11-06,20:45,Juventus,Inter,0.9,1.2,2–0,40093.0,Daniele Doveri,2022-2023,141
+14.0,Tue,2022-11-08,18:30,Napoli,Empoli,2.0,0.3,2–0,36000.0,Luca Pairetto,2022-2023,143
+14.0,Tue,2022-11-08,18:30,Spezia,Udinese,2.0,0.6,1–1,6900.0,Marco Piccinini,2022-2023,144
+14.0,Tue,2022-11-08,20:45,Cremonese,Milan,0.3,1.0,0–0,14610.0,Antonio Rapuano,2022-2023,145
+14.0,Wed,2022-11-09,18:30,Lecce,Atalanta,1.1,1.5,2–1,23797.0,Gianluca Aureliano,2022-2023,146
+14.0,Wed,2022-11-09,18:30,Sassuolo,Roma,1.2,0.7,1–1,16665.0,Giovanni Ayroldi,2022-2023,147
+14.0,Wed,2022-11-09,20:45,Fiorentina,Salernitana,2.8,0.5,2–1,27329.0,Federico La Penna,2022-2023,148
+14.0,Wed,2022-11-09,20:45,Torino,Sampdoria,0.5,0.5,2–0,15593.0,Davide Massa,2022-2023,149
+14.0,Wed,2022-11-09,20:45,Inter,Bologna,2.6,0.7,6–1,69312.0,Andrea Colombo,2022-2023,150
+14.0,Thu,2022-11-10,18:30,Hellas Verona,Juventus,1.2,1.1,0–1,21934.0,Marco Di Bello,2022-2023,151
+14.0,Thu,2022-11-10,20:45,Lazio,Monza,1.5,0.5,1–0,36000.0,Alberto Santoro,2022-2023,152
+15.0,Fri,2022-11-11,20:45,Empoli,Cremonese,2.2,1.3,2–0,8077.0,Federico Dionisi,2022-2023,154
+15.0,Sat,2022-11-12,15:00,Napoli,Udinese,1.5,0.7,3–2,51000.0,Giovanni Ayroldi,2022-2023,155
+15.0,Sat,2022-11-12,18:00,Sampdoria,Lecce,0.7,0.6,0–2,20211.0,Daniele Doveri,2022-2023,156
+15.0,Sat,2022-11-12,20:45,Bologna,Sassuolo,0.8,0.8,3–0,20811.0,Ivan Pezzuto,2022-2023,157
+15.0,Sun,2022-11-13,12:30,Atalanta,Inter,1.8,2.2,2–3,19353.0,Daniele Chiffi,2022-2023,158
+15.0,Sun,2022-11-13,15:00,Roma,Torino,1.7,0.9,1–1,61168.0,Antonio Rapuano,2022-2023,159
+15.0,Sun,2022-11-13,15:00,Monza,Salernitana,2.4,0.2,3–0,12372.0,Antonio Giua,2022-2023,160
+15.0,Sun,2022-11-13,15:00,Hellas Verona,Spezia,2.1,0.8,1–2,18000.0,Fabio Maresca,2022-2023,161
+15.0,Sun,2022-11-13,18:00,Milan,Fiorentina,1.5,0.5,2–1,73007.0,Simone Sozza,2022-2023,162
+15.0,Sun,2022-11-13,20:45,Juventus,Lazio,1.6,0.4,3–0,38729.0,Davide Massa,2022-2023,163
+16.0,Wed,2023-01-04,12:30,Sassuolo,Sampdoria,1.8,1.3,1–2,8000.0,Fabio Maresca,2022-2023,165
+16.0,Wed,2023-01-04,12:30,Salernitana,Milan,0.7,2.7,1–2,29541.0,Francesco Fourneau,2022-2023,166
+16.0,Wed,2023-01-04,14:30,Spezia,Atalanta,1.5,2.1,2–2,7417.0,Antonio Giua,2022-2023,167
+16.0,Wed,2023-01-04,14:30,Torino,Hellas Verona,0.4,0.9,1–1,15000.0,Federico Dionisi,2022-2023,168
+16.0,Wed,2023-01-04,16:30,Roma,Bologna,1.5,0.7,1–0,62092.0,Alberto Santoro,2022-2023,169
+16.0,Wed,2023-01-04,16:30,Lecce,Lazio,1.3,0.7,2–1,26084.0,Livio Marinelli,2022-2023,170
+16.0,Wed,2023-01-04,18:30,Fiorentina,Monza,1.6,1.7,1–1,31190.0,Ermanno Feliciani,2022-2023,171
+16.0,Wed,2023-01-04,18:30,Cremonese,Juventus,0.9,1.6,0–1,14896.0,Giovanni Ayroldi,2022-2023,172
+16.0,Wed,2023-01-04,20:45,Inter,Napoli,1.4,0.9,1–0,75470.0,Simone Sozza,2022-2023,173
+16.0,Wed,2023-01-04,20:45,Udinese,Empoli,1.9,0.4,1–1,19237.0,Marco Serra,2022-2023,174
+17.0,Sat,2023-01-07,15:00,Fiorentina,Sassuolo,2.2,1.6,2–1,29695.0,Gianluca Manganiello,2022-2023,176
+17.0,Sat,2023-01-07,18:00,Juventus,Udinese,2.4,0.5,1–0,39536.0,Matteo Marchetti,2022-2023,177
+17.0,Sat,2023-01-07,20:45,Monza,Inter,1.5,1.7,2–2,13622.0,Juan Sacchi,2022-2023,178
+17.0,Sun,2023-01-08,12:30,Salernitana,Torino,0.8,2.2,1–1,16300.0,Andrea Colombo,2022-2023,179
+17.0,Sun,2023-01-08,15:00,Spezia,Lecce,0.9,1.1,0–0,7300.0,Daniele Chiffi,2022-2023,180
+17.0,Sun,2023-01-08,15:00,Lazio,Empoli,0.9,0.6,2–2,31000.0,Ivan Pezzuto,2022-2023,181
+17.0,Sun,2023-01-08,18:00,Sampdoria,Napoli,0.6,3.2,0–2,24490.0,Rosario Abisso,2022-2023,182
+17.0,Sun,2023-01-08,20:45,Milan,Roma,0.9,1.2,2–2,74103.0,Davide Massa,2022-2023,183
+17.0,Mon,2023-01-09,18:30,Hellas Verona,Cremonese,1.5,0.8,2–0,3804.0,Maurizio Mariani,2022-2023,184
+17.0,Mon,2023-01-09,20:45,Bologna,Atalanta,0.5,0.5,1–2,16953.0,Marco Di Bello,2022-2023,185
+18.0,Fri,2023-01-13,20:45,Napoli,Juventus,2.1,1.3,5–1,60000.0,Daniele Doveri,2022-2023,187
+18.0,Sat,2023-01-14,15:00,Cremonese,Monza,0.7,2.2,2–3,11519.0,Davide Massa,2022-2023,188
+18.0,Sat,2023-01-14,18:00,Lecce,Milan,1.4,1.4,2–2,25942.0,Daniele Orsato,2022-2023,189
+18.0,Sat,2023-01-14,20:45,Inter,Hellas Verona,0.7,0.3,1–0,70734.0,Michael Fabbri,2022-2023,190
+18.0,Sun,2023-01-15,12:30,Sassuolo,Lazio,0.7,2.7,0–2,10000.0,Luca Pairetto,2022-2023,191
+18.0,Sun,2023-01-15,15:00,Udinese,Bologna,1.9,2.0,1–2,20486.0,Manuel Volpi,2022-2023,192
+18.0,Sun,2023-01-15,15:00,Torino,Spezia,1.0,1.5,0–1,15113.0,Davide Ghersini,2022-2023,193
+18.0,Sun,2023-01-15,18:00,Atalanta,Salernitana,2.9,1.0,8–2,18499.0,Gianluca Aureliano,2022-2023,194
+18.0,Sun,2023-01-15,20:45,Roma,Fiorentina,0.9,0.4,2–0,61327.0,Antonio Giua,2022-2023,195
+18.0,Mon,2023-01-16,20:45,Empoli,Sampdoria,1.4,0.9,1–0,10364.0,Alberto Santoro,2022-2023,196
+19.0,Sat,2023-01-21,15:00,Hellas Verona,Lecce,0.5,0.8,2–0,19955.0,Federico La Penna,2022-2023,198
+19.0,Sat,2023-01-21,18:00,Salernitana,Napoli,0.4,1.4,0–2,18555.0,Daniele Chiffi,2022-2023,199
+19.0,Sat,2023-01-21,20:45,Fiorentina,Torino,1.2,0.6,0–1,29281.0,Federico Dionisi,2022-2023,200
+19.0,Sun,2023-01-22,12:30,Sampdoria,Udinese,1.3,1.3,0–1,18642.0,Maurizio Mariani,2022-2023,201
+19.0,Sun,2023-01-22,15:00,Monza,Sassuolo,1.5,1.5,1–1,10200.0,Alessandro Prontera,2022-2023,202
+19.0,Sun,2023-01-22,18:00,Spezia,Roma,0.2,2.0,0–2,9153.0,Simone Sozza,2022-2023,203
+19.0,Sun,2023-01-22,20:45,Juventus,Atalanta,1.9,1.0,3–3,33565.0,Livio Marinelli,2022-2023,204
+19.0,Mon,2023-01-23,18:30,Bologna,Cremonese,1.1,1.7,1–1,15587.0,Matteo Marchetti,2022-2023,205
+19.0,Mon,2023-01-23,20:45,Inter,Empoli,1.4,0.8,0–1,65476.0,Antonio Rapuano,2022-2023,206
+19.0,Tue,2023-01-24,20:45,Lazio,Milan,3.1,0.7,4–0,47000.0,Marco Di Bello,2022-2023,207
+20.0,Fri,2023-01-27,18:30,Bologna,Spezia,1.6,0.5,2–0,17213.0,Luca Massimi,2022-2023,209
+20.0,Fri,2023-01-27,20:45,Lecce,Salernitana,1.4,0.9,1–2,24446.0,Davide Massa,2022-2023,210
+20.0,Sat,2023-01-28,15:00,Empoli,Torino,0.6,1.0,2–2,8029.0,Matteo Marcenaro,2022-2023,211
+20.0,Sat,2023-01-28,18:00,Cremonese,Inter,1.0,2.3,1–2,14554.0,Maurizio Mariani,2022-2023,212
+20.0,Sat,2023-01-28,20:45,Atalanta,Sampdoria,1.8,0.8,2–0,19095.0,Daniele Doveri,2022-2023,213
+20.0,Sun,2023-01-29,12:30,Milan,Sassuolo,0.6,2.2,2–5,70428.0,Antonio Giua,2022-2023,214
+20.0,Sun,2023-01-29,15:00,Juventus,Monza,1.6,1.2,0–2,39393.0,Gianluca Aureliano,2022-2023,215
+20.0,Sun,2023-01-29,18:00,Lazio,Fiorentina,0.9,1.3,1–1,43000.0,Andrea Colombo,2022-2023,216
+20.0,Sun,2023-01-29,20:45,Napoli,Roma,1.0,0.8,2–1,48791.0,Daniele Orsato,2022-2023,217
+20.0,Mon,2023-01-30,20:45,Udinese,Hellas Verona,1.8,0.8,1–1,17276.0,Luca Pairetto,2022-2023,218
+21.0,Sat,2023-02-04,15:00,Cremonese,Lecce,0.6,1.5,0–2,11189.0,Daniele Orsato,2022-2023,220
+21.0,Sat,2023-02-04,18:00,Roma,Empoli,1.2,1.7,2–0,60908.0,Federico Dionisi,2022-2023,221
+21.0,Sat,2023-02-04,20:45,Sassuolo,Atalanta,1.3,0.5,1–0,12611.0,Matteo Marcenaro,2022-2023,222
+21.0,Sun,2023-02-05,12:30,Spezia,Napoli,0.4,1.9,0–3,8700.0,Marco Di Bello,2022-2023,223
+21.0,Sun,2023-02-05,15:00,Torino,Udinese,1.7,0.5,1–0,16820.0,Alessandro Prontera,2022-2023,224
+21.0,Sun,2023-02-05,18:00,Fiorentina,Bologna,1.3,1.8,1–2,30546.0,Luca Pairetto,2022-2023,225
+21.0,Sun,2023-02-05,20:45,Inter,Milan,0.9,0.3,1–0,75584.0,Davide Massa,2022-2023,226
+21.0,Mon,2023-02-06,18:30,Hellas Verona,Lazio,1.2,0.9,1–1,20329.0,Giovanni Ayroldi,2022-2023,227
+21.0,Mon,2023-02-06,20:45,Monza,Sampdoria,2.1,1.2,2–2,11950.0,Daniele Chiffi,2022-2023,228
+21.0,Tue,2023-02-07,20:45,Salernitana,Juventus,0.8,2.2,0–3,26945.0,Antonio Rapuano,2022-2023,229
+22.0,Fri,2023-02-10,20:45,Milan,Torino,1.3,0.8,1–0,68268.0,Giovanni Ayroldi,2022-2023,231
+22.0,Sat,2023-02-11,15:00,Empoli,Spezia,1.6,1.5,2–2,7871.0,Antonio Giua,2022-2023,232
+22.0,Sat,2023-02-11,18:00,Lecce,Roma,0.5,1.9,1–1,25200.0,Gianluca Aureliano,2022-2023,233
+22.0,Sat,2023-02-11,20:45,Lazio,Atalanta,0.9,2.8,0–2,41000.0,Daniele Orsato,2022-2023,234
+22.0,Sun,2023-02-12,12:30,Udinese,Sassuolo,1.6,0.7,2–2,20912.0,Ivan Pezzuto,2022-2023,235
+22.0,Sun,2023-02-12,15:00,Bologna,Monza,0.9,0.6,0–1,21692.0,Luca Zufferli,2022-2023,236
+22.0,Sun,2023-02-12,18:00,Juventus,Fiorentina,1.0,0.7,1–0,34844.0,Michael Fabbri,2022-2023,237
+22.0,Sun,2023-02-12,20:45,Napoli,Cremonese,1.8,0.2,3–0,50250.0,Luca Massimi,2022-2023,238
+22.0,Mon,2023-02-13,18:30,Hellas Verona,Salernitana,1.2,0.9,1–0,17832.0,Paolo Valeri,2022-2023,239
+22.0,Mon,2023-02-13,20:45,Sampdoria,Inter,0.5,1.8,0–0,21575.0,Fabio Maresca,2022-2023,240
+23.0,Fri,2023-02-17,20:45,Sassuolo,Napoli,0.8,1.6,0–2,15911.0,Andrea Colombo,2022-2023,242
+23.0,Sat,2023-02-18,15:00,Sampdoria,Bologna,2.3,0.9,1–2,18269.0,Massimiliano Irrati,2022-2023,243
+23.0,Sat,2023-02-18,18:00,Monza,Milan,0.5,2.1,0–1,14012.0,Antonio Rapuano,2022-2023,244
+23.0,Sat,2023-02-18,20:45,Inter,Udinese,2.7,0.8,3–1,71248.0,Federico Dionisi,2022-2023,245
+23.0,Sun,2023-02-19,12:30,Atalanta,Lecce,1.5,0.4,1–2,19435.0,Marco Piccinini,2022-2023,246
+23.0,Sun,2023-02-19,15:00,Salernitana,Lazio,0.4,3.0,0–2,14860.0,Rosario Abisso,2022-2023,247
+23.0,Sun,2023-02-19,15:00,Fiorentina,Empoli,2.2,0.8,1–1,29663.0,Alessandro Prontera,2022-2023,248
+23.0,Sun,2023-02-19,18:00,Spezia,Juventus,1.3,1.1,0–2,11767.0,Federico La Penna,2022-2023,249
+23.0,Sun,2023-02-19,20:45,Roma,Hellas Verona,0.8,0.4,1–0,61009.0,Simone Sozza,2022-2023,250
+23.0,Mon,2023-02-20,20:45,Torino,Cremonese,2.4,0.6,2–2,19095.0,Giacomo Camplone,2022-2023,251
+24.0,Sat,2023-02-25,18:00,Empoli,Napoli,0.6,2.5,0–2,12624.0,Giovanni Ayroldi,2022-2023,253
+24.0,Sat,2023-02-25,20:45,Lecce,Sassuolo,1.2,1.1,0–1,23760.0,Niccolò Baroni,2022-2023,254
+24.0,Sun,2023-02-26,12:30,Bologna,Inter,1.2,1.0,1–0,28317.0,Daniele Orsato,2022-2023,255
+24.0,Sun,2023-02-26,15:00,Salernitana,Monza,2.4,1.4,3–0,14947.0,Livio Marinelli,2022-2023,256
+24.0,Sun,2023-02-26,18:00,Udinese,Spezia,2.5,2.5,2–2,20710.0,Matteo Marchetti,2022-2023,257
+24.0,Sun,2023-02-26,20:45,Milan,Atalanta,1.8,0.1,2–0,72203.0,Maurizio Mariani,2022-2023,258
+24.0,Mon,2023-02-27,18:30,Hellas Verona,Fiorentina,1.2,1.4,0–3,17787.0,Federico La Penna,2022-2023,259
+24.0,Mon,2023-02-27,20:45,Lazio,Sampdoria,1.6,0.5,1–0,35000.0,Andrea Colombo,2022-2023,260
+24.0,Tue,2023-02-28,18:30,Cremonese,Roma,1.0,1.2,2–1,11367.0,Marco Piccinini,2022-2023,261
+24.0,Tue,2023-02-28,20:45,Juventus,Torino,1.5,1.2,4–2,37806.0,Daniele Chiffi,2022-2023,262
+25.0,Fri,2023-03-03,20:45,Napoli,Lazio,0.9,0.2,0–1,45786.0,Luca Pairetto,2022-2023,264
+25.0,Sat,2023-03-04,15:00,Monza,Empoli,0.7,1.0,2–1,10601.0,Ermanno Feliciani,2022-2023,265
+25.0,Sat,2023-03-04,18:00,Atalanta,Udinese,1.4,0.3,0–0,18475.0,Davide Ghersini,2022-2023,266
+25.0,Sat,2023-03-04,20:45,Fiorentina,Milan,2.1,0.9,2–1,40410.0,Marco Di Bello,2022-2023,267
+25.0,Sun,2023-03-05,12:30,Spezia,Hellas Verona,1.2,1.2,0–0,10020.0,Daniele Doveri,2022-2023,268
+25.0,Sun,2023-03-05,15:00,Sampdoria,Salernitana,0.5,0.8,0–0,20353.0,Davide Massa,2022-2023,269
+25.0,Sun,2023-03-05,18:00,Inter,Lecce,0.8,0.6,2–0,75033.0,Gianluca Manganiello,2022-2023,270
+25.0,Sun,2023-03-05,20:45,Roma,Juventus,0.6,0.7,1–0,64213.0,Fabio Maresca,2022-2023,271
+25.0,Mon,2023-03-06,18:30,Sassuolo,Cremonese,1.0,1.2,3–2,11587.0,Francesco Fourneau,2022-2023,272
+25.0,Mon,2023-03-06,20:45,Torino,Bologna,0.9,0.5,1–0,18592.0,Antonio Rapuano,2022-2023,273
+26.0,Fri,2023-03-10,20:45,Spezia,Inter,1.0,3.8,2–1,11767.0,Livio Marinelli,2022-2023,275
+26.0,Sat,2023-03-11,15:00,Empoli,Udinese,1.2,1.4,0–1,7465.0,Francesco Cosso,2022-2023,276
+26.0,Sat,2023-03-11,18:00,Napoli,Atalanta,1.3,0.3,2–0,50601.0,Andrea Colombo,2022-2023,277
+26.0,Sat,2023-03-11,20:45,Bologna,Lazio,0.9,0.8,0–0,27369.0,Fabio Maresca,2022-2023,278
+26.0,Sun,2023-03-12,12:30,Lecce,Torino,0.5,0.1,0–2,24413.0,Juan Sacchi,2022-2023,279
+26.0,Sun,2023-03-12,15:00,Cremonese,Fiorentina,1.8,1.7,0–2,11506.0,Matteo Marcenaro,2022-2023,280
+26.0,Sun,2023-03-12,15:00,Hellas Verona,Monza,0.6,1.1,1–1,18061.0,Marco Piccinini,2022-2023,281
+26.0,Sun,2023-03-12,18:00,Roma,Sassuolo,1.5,3.5,3–4,60816.0,Michael Fabbri,2022-2023,282
+26.0,Sun,2023-03-12,20:45,Juventus,Sampdoria,2.8,0.8,4–2,35166.0,Alessandro Prontera,2022-2023,283
+26.0,Mon,2023-03-13,20:45,Milan,Salernitana,2.2,0.8,1–1,71870.0,Federico La Penna,2022-2023,284
+27.0,Fri,2023-03-17,18:30,Sassuolo,Spezia,2.0,0.7,1–0,11152.0,Davide Ghersini,2022-2023,286
+27.0,Fri,2023-03-17,20:45,Atalanta,Empoli,2.9,0.7,2–1,17864.0,Federico Dionisi,2022-2023,287
+27.0,Sat,2023-03-18,15:00,Monza,Cremonese,2.0,0.7,1–1,12797.0,Antonio Giua,2022-2023,288
+27.0,Sat,2023-03-18,18:00,Salernitana,Bologna,0.9,0.4,2–2,18600.0,Luca Pairetto,2022-2023,289
+27.0,Sat,2023-03-18,20:45,Udinese,Milan,1.8,1.5,3–1,24992.0,Daniele Doveri,2022-2023,290
+27.0,Sun,2023-03-19,12:30,Sampdoria,Hellas Verona,1.2,1.3,3–1,18228.0,Maurizio Mariani,2022-2023,291
+27.0,Sun,2023-03-19,15:00,Fiorentina,Lecce,1.2,0.5,1–0,34604.0,Rosario Abisso,2022-2023,292
+27.0,Sun,2023-03-19,15:00,Torino,Napoli,1.3,2.3,0–4,26058.0,Matteo Marchetti,2022-2023,293
+27.0,Sun,2023-03-19,18:00,Lazio,Roma,0.6,0.6,1–0,62000.0,Davide Massa,2022-2023,294
+27.0,Sun,2023-03-19,20:45,Inter,Juventus,1.2,0.6,0–1,75224.0,Daniele Chiffi,2022-2023,295
+28.0,Sat,2023-04-01,15:00,Cremonese,Atalanta,1.5,2.9,1–3,11891.0,Livio Marinelli,2022-2023,297
+28.0,Sat,2023-04-01,18:00,Inter,Fiorentina,2.8,1.1,0–1,73576.0,Fabio Maresca,2022-2023,298
+28.0,Sat,2023-04-01,20:45,Juventus,Hellas Verona,1.8,0.6,1–0,40105.0,Matteo Marchetti,2022-2023,299
+28.0,Sun,2023-04-02,12:30,Bologna,Udinese,0.7,0.8,3–0,25562.0,Maria Sole Ferrieri Caputi,2022-2023,300
+28.0,Sun,2023-04-02,15:00,Spezia,Salernitana,2.0,1.1,1–1,10723.0,Daniele Orsato,2022-2023,301
+28.0,Sun,2023-04-02,15:00,Monza,Lazio,1.3,0.5,0–2,14539.0,Matteo Marcenaro,2022-2023,302
+28.0,Sun,2023-04-02,18:00,Roma,Sampdoria,3.0,0.3,3–0,62108.0,Massimiliano Irrati,2022-2023,303
+28.0,Sun,2023-04-02,20:45,Napoli,Milan,1.2,2.1,0–4,51466.0,Antonio Rapuano,2022-2023,304
+28.0,Mon,2023-04-03,18:30,Empoli,Lecce,1.7,0.2,1–0,8844.0,Michael Fabbri,2022-2023,305
+28.0,Mon,2023-04-03,20:45,Sassuolo,Torino,1.1,1.7,1–1,12896.0,Ivan Pezzuto,2022-2023,306
+29.0,Fri,2023-04-07,17:00,Salernitana,Inter,1.1,2.8,1–1,23702.0,Michael Fabbri,2022-2023,308
+29.0,Fri,2023-04-07,19:00,Lecce,Napoli,1.1,1.1,1–2,25799.0,Gianluca Manganiello,2022-2023,309
+29.0,Fri,2023-04-07,21:00,Milan,Empoli,1.9,0.1,0–0,70286.0,Matteo Marcenaro,2022-2023,310
+29.0,Sat,2023-04-08,12:30,Udinese,Monza,1.8,1.1,2–2,22658.0,Luca Massimi,2022-2023,311
+29.0,Sat,2023-04-08,14:30,Fiorentina,Spezia,1.0,0.7,1–1,35863.0,Federico Dionisi,2022-2023,312
+29.0,Sat,2023-04-08,16:30,Atalanta,Bologna,1.3,1.3,0–2,18950.0,Daniele Orsato,2022-2023,313
+29.0,Sat,2023-04-08,16:30,Sampdoria,Cremonese,2.1,1.3,2–3,20421.0,Daniele Doveri,2022-2023,314
+29.0,Sat,2023-04-08,18:30,Hellas Verona,Sassuolo,0.5,1.8,2–1,23660.0,Francesco Fourneau,2022-2023,315
+29.0,Sat,2023-04-08,18:30,Torino,Roma,0.3,1.1,0–1,22142.0,Andrea Colombo,2022-2023,316
+29.0,Sat,2023-04-08,20:45,Lazio,Juventus,1.2,1.9,2–1,54000.0,Marco Di Bello,2022-2023,317
+30.0,Fri,2023-04-14,18:30,Cremonese,Empoli,1.2,1.2,1–0,8966.0,Luca Zufferli,2022-2023,319
+30.0,Fri,2023-04-14,20:45,Spezia,Lazio,0.7,2.8,0–3,9500.0,Massimiliano Irrati,2022-2023,320
+30.0,Sat,2023-04-15,15:00,Bologna,Milan,0.6,1.4,1–1,29024.0,Davide Massa,2022-2023,321
+30.0,Sat,2023-04-15,18:00,Napoli,Hellas Verona,0.4,0.4,0–0,39216.0,Federico La Penna,2022-2023,322
+30.0,Sat,2023-04-15,20:45,Inter,Monza,2.1,0.7,0–1,74135.0,Luca Pairetto,2022-2023,323
+30.0,Sun,2023-04-16,12:30,Lecce,Sampdoria,2.6,0.6,1–1,22471.0,Maurizio Mariani,2022-2023,324
+30.0,Sun,2023-04-16,15:00,Torino,Salernitana,1.7,0.7,1–1,21122.0,Gianluca Aureliano,2022-2023,325
+30.0,Sun,2023-04-16,18:00,Sassuolo,Juventus,0.9,1.1,1–0,19566.0,Antonio Rapuano,2022-2023,326
+30.0,Sun,2023-04-16,20:45,Roma,Udinese,2.5,1.2,3–0,61015.0,Antonio Giua,2022-2023,327
+30.0,Mon,2023-04-17,20:45,Fiorentina,Atalanta,1.9,0.5,1–1,29628.0,Marco Guida,2022-2023,328
+31.0,Fri,2023-04-21,20:45,Hellas Verona,Bologna,1.4,1.3,2–1,21031.0,Maurizio Mariani,2022-2023,330
+31.0,Sat,2023-04-22,15:00,Salernitana,Sassuolo,1.3,0.7,3–0,23060.0,Giacomo Camplone,2022-2023,331
+31.0,Sat,2023-04-22,18:00,Lazio,Torino,0.6,0.6,0–1,50000.0,Davide Ghersini,2022-2023,332
+31.0,Sat,2023-04-22,20:45,Sampdoria,Spezia,1.4,2.5,1–1,19181.0,Fabio Maresca,2022-2023,333
+31.0,Sun,2023-04-23,12:30,Empoli,Inter,0.9,1.1,0–3,15337.0,Livio Marinelli,2022-2023,334
+31.0,Sun,2023-04-23,15:00,Udinese,Cremonese,1.6,0.9,3–0,23455.0,Francesco Fourneau,2022-2023,335
+31.0,Sun,2023-04-23,15:00,Monza,Fiorentina,1.5,1.3,3–2,13118.0,Juan Sacchi,2022-2023,336
+31.0,Sun,2023-04-23,18:00,Milan,Lecce,0.8,1.2,2–0,72614.0,Daniele Chiffi,2022-2023,337
+31.0,Sun,2023-04-23,20:45,Juventus,Napoli,0.4,1.2,0–1,39839.0,Michael Fabbri,2022-2023,338
+31.0,Mon,2023-04-24,20:45,Atalanta,Roma,0.9,1.0,3–1,19445.0,Massimiliano Irrati,2022-2023,339
+32.0,Fri,2023-04-28,18:30,Lecce,Udinese,2.0,0.7,1–0,23069.0,Matteo Marchetti,2022-2023,341
+32.0,Fri,2023-04-28,20:45,Spezia,Monza,1.7,0.9,0–2,9200.0,Antonio Rapuano,2022-2023,342
+32.0,Sat,2023-04-29,18:00,Roma,Milan,1.0,1.0,1–1,64191.0,Daniele Orsato,2022-2023,343
+32.0,Sat,2023-04-29,20:45,Torino,Atalanta,0.3,0.5,1–2,20196.0,Juan Sacchi,2022-2023,344
+32.0,Sun,2023-04-30,12:30,Inter,Lazio,3.1,0.8,3–1,75500.0,Marco Guida,2022-2023,345
+32.0,Sun,2023-04-30,15:00,Cremonese,Hellas Verona,0.7,1.1,1–1,11645.0,Daniele Doveri,2022-2023,346
+32.0,Sun,2023-04-30,15:00,Sassuolo,Empoli,1.8,0.4,2–1,10267.0,Federico Dionisi,2022-2023,347
+32.0,Sun,2023-04-30,15:00,Napoli,Salernitana,1.6,0.3,1–1,54726.0,Matteo Marcenaro,2022-2023,348
+32.0,Sun,2023-04-30,18:00,Fiorentina,Sampdoria,1.7,0.4,5–0,30602.0,Antonio Giua,2022-2023,349
+32.0,Sun,2023-04-30,20:45,Bologna,Juventus,1.9,2.7,1–1,30071.0,Simone Sozza,2022-2023,350
+33.0,Wed,2023-05-03,18:00,Sampdoria,Torino,0.3,2.0,0–2,16865.0,Giacomo Camplone,2022-2023,352
+33.0,Wed,2023-05-03,18:00,Juventus,Lecce,1.8,1.7,2–1,33757.0,Francesco Fourneau,2022-2023,353
+33.0,Wed,2023-05-03,18:00,Salernitana,Fiorentina,1.1,1.9,3–3,17868.0,Ivan Pezzuto,2022-2023,354
+33.0,Wed,2023-05-03,18:00,Atalanta,Spezia,0.8,1.0,3–2,17417.0,Livio Marinelli,2022-2023,355
+33.0,Wed,2023-05-03,21:00,Milan,Cremonese,1.6,1.2,1–1,68136.0,Luca Pairetto,2022-2023,356
+33.0,Wed,2023-05-03,21:00,Lazio,Sassuolo,1.9,0.9,2–0,35000.0,Massimiliano Irrati,2022-2023,357
+33.0,Wed,2023-05-03,21:00,Hellas Verona,Inter,0.5,2.4,0–6,19409.0,Daniele Orsato,2022-2023,358
+33.0,Wed,2023-05-03,21:00,Monza,Roma,0.9,1.0,1–1,12388.0,Daniele Chiffi,2022-2023,359
+33.0,Thu,2023-05-04,20:45,Udinese,Napoli,0.3,0.5,1–1,24911.0,Rosario Abisso,2022-2023,360
+33.0,Thu,2023-05-04,20:45,Empoli,Bologna,1.0,2.0,3–1,8349.0,Federico La Penna,2022-2023,361
+34.0,Sat,2023-05-06,15:00,Milan,Lazio,0.8,1.2,2–0,72365.0,Antonio Rapuano,2022-2023,363
+34.0,Sat,2023-05-06,18:00,Roma,Inter,0.9,0.7,0–2,61870.0,Fabio Maresca,2022-2023,364
+34.0,Sat,2023-05-06,20:45,Cremonese,Spezia,0.9,1.3,2–0,10260.0,Marco Guida,2022-2023,365
+34.0,Sun,2023-05-07,12:30,Atalanta,Juventus,1.1,1.0,0–2,19570.0,Daniele Doveri,2022-2023,366
+34.0,Sun,2023-05-07,15:00,Torino,Monza,0.9,0.9,1–1,19517.0,Luca Zufferli,2022-2023,367
+34.0,Sun,2023-05-07,18:00,Napoli,Fiorentina,2.0,1.1,1–0,46522.0,Matteo Marchetti,2022-2023,368
+34.0,Sun,2023-05-07,20:45,Lecce,Hellas Verona,0.8,0.8,0–1,24768.0,Davide Massa,2022-2023,369
+34.0,Mon,2023-05-08,18:30,Udinese,Sampdoria,1.0,0.9,2–0,20430.0,Niccolò Baroni,2022-2023,370
+34.0,Mon,2023-05-08,18:30,Empoli,Salernitana,1.8,0.7,2–1,10760.0,Manuel Volpi,2022-2023,371
+34.0,Mon,2023-05-08,20:45,Sassuolo,Bologna,0.3,0.5,1–1,13664.0,Maria Sole Ferrieri Caputi,2022-2023,372
+35.0,Fri,2023-05-12,20:45,Lazio,Lecce,1.7,1.4,2–2,40000.0,Fabio Maresca,2022-2023,374
+35.0,Sat,2023-05-13,15:00,Salernitana,Atalanta,0.5,1.2,1–0,17400.0,Marco Piccinini,2022-2023,375
+35.0,Sat,2023-05-13,18:00,Spezia,Milan,1.8,1.0,2–0,11366.0,Daniele Doveri,2022-2023,376
+35.0,Sat,2023-05-13,20:45,Inter,Sassuolo,1.4,2.3,4–2,71246.0,Matteo Marcenaro,2022-2023,377
+35.0,Sun,2023-05-14,12:30,Hellas Verona,Torino,0.5,1.8,0–1,19658.0,Marco Di Bello,2022-2023,378
+35.0,Sun,2023-05-14,15:00,Fiorentina,Udinese,2.1,0.3,2–0,27383.0,Daniele Paterna,2022-2023,379
+35.0,Sun,2023-05-14,15:00,Monza,Napoli,1.3,1.1,2–0,14455.0,Francesco Cosso,2022-2023,380
+35.0,Sun,2023-05-14,18:00,Bologna,Roma,0.4,1.2,0–0,23824.0,Daniele Orsato,2022-2023,381
+35.0,Sun,2023-05-14,20:45,Juventus,Cremonese,1.6,0.1,2–0,39439.0,Daniele Chiffi,2022-2023,382
+35.0,Mon,2023-05-15,20:45,Sampdoria,Empoli,1.3,1.6,1–1,16867.0,Ermanno Feliciani,2022-2023,383
+36.0,Fri,2023-05-19,20:45,Sassuolo,Monza,1.6,1.6,1–2,11745.0,Alberto Santoro,2022-2023,385
+36.0,Sat,2023-05-20,15:00,Cremonese,Bologna,1.3,2.6,1–5,11140.0,Paolo Valeri,2022-2023,386
+36.0,Sat,2023-05-20,18:00,Atalanta,Hellas Verona,1.4,0.9,3–1,9297.0,Simone Sozza,2022-2023,387
+36.0,Sat,2023-05-20,20:45,Milan,Sampdoria,3.8,0.6,5–1,72105.0,Francesco Fourneau,2022-2023,388
+36.0,Sun,2023-05-21,12:30,Lecce,Spezia,0.3,0.8,0–0,26022.0,Maurizio Mariani,2022-2023,389
+36.0,Sun,2023-05-21,15:00,Torino,Fiorentina,1.1,0.8,1–1,20403.0,Luca Massimi,2022-2023,390
+36.0,Sun,2023-05-21,18:00,Napoli,Inter,1.7,0.6,3–1,50000.0,Livio Marinelli,2022-2023,391
+36.0,Sun,2023-05-21,20:45,Udinese,Lazio,0.5,2.0,0–1,21834.0,Luca Pairetto,2022-2023,392
+36.0,Mon,2023-05-22,18:30,Roma,Salernitana,1.4,1.1,2–2,64286.0,Andrea Colombo,2022-2023,393
+36.0,Mon,2023-05-22,20:45,Empoli,Juventus,2.7,1.8,4–1,15519.0,Giovanni Ayroldi,2022-2023,394
+37.0,Fri,2023-05-26,20:45,Sampdoria,Sassuolo,2.2,2.9,2–2,18430.0,Francesco Meraviglia,2022-2023,396
+37.0,Sat,2023-05-27,15:00,Spezia,Torino,0.9,1.0,0–4,10776.0,Marco Guida,2022-2023,397
+37.0,Sat,2023-05-27,15:00,Salernitana,Udinese,1.2,2.3,3–2,27035.0,Niccolò Baroni,2022-2023,398
+37.0,Sat,2023-05-27,18:00,Fiorentina,Roma,2.3,1.2,2–1,32829.0,Giovanni Ayroldi,2022-2023,399
+37.0,Sat,2023-05-27,20:45,Inter,Atalanta,2.8,1.0,3–2,72192.0,Daniele Orsato,2022-2023,400
+37.0,Sun,2023-05-28,12:30,Hellas Verona,Empoli,1.0,1.2,1–1,22831.0,Daniele Chiffi,2022-2023,401
+37.0,Sun,2023-05-28,15:00,Bologna,Napoli,1.9,1.4,2–2,27209.0,Matteo Marcenaro,2022-2023,402
+37.0,Sun,2023-05-28,15:00,Monza,Lecce,1.1,1.2,0–1,15039.0,Daniele Doveri,2022-2023,403
+37.0,Sun,2023-05-28,18:00,Lazio,Cremonese,1.9,0.6,3–2,64171.0,Antonio Giua,2022-2023,404
+37.0,Sun,2023-05-28,20:45,Juventus,Milan,0.9,0.5,0–1,40231.0,Maurizio Mariani,2022-2023,405
+38.0,Fri,2023-06-02,20:30,Sassuolo,Fiorentina,1.1,1.6,1–3,12456.0,Matteo Marchetti,2022-2023,407
+38.0,Sat,2023-06-03,18:30,Torino,Inter,1.1,1.0,0–1,24528.0,Michael Fabbri,2022-2023,408
+38.0,Sat,2023-06-03,21:00,Cremonese,Salernitana,1.4,0.7,2–0,10308.0,Daniele Perenzoni,2022-2023,409
+38.0,Sat,2023-06-03,21:00,Empoli,Lazio,0.2,1.6,0–2,11545.0,Luca Massimi,2022-2023,410
+38.0,Sun,2023-06-04,18:30,Napoli,Sampdoria,2.0,0.6,2–0,55000.0,Ermanno Feliciani,2022-2023,411
+38.0,Sun,2023-06-04,21:00,Atalanta,Monza,4.0,1.2,5–2,19389.0,Marco Di Bello,2022-2023,412
+38.0,Sun,2023-06-04,21:00,Milan,Hellas Verona,2.4,0.8,3–1,72102.0,Paolo Valeri,2022-2023,413
+38.0,Sun,2023-06-04,21:00,Udinese,Juventus,0.8,1.3,0–1,23266.0,Marco Guida,2022-2023,414
+38.0,Sun,2023-06-04,21:00,Lecce,Bologna,1.4,1.1,2–3,25816.0,Marco Piccinini,2022-2023,415
+38.0,Sun,2023-06-04,21:00,Roma,Spezia,2.2,1.0,2–1,62242.0,Fabio Maresca,2022-2023,416

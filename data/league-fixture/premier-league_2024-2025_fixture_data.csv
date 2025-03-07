@@ -1,0 +1,272 @@
+Wk,Day,Date,Time,Home,Away,xG,xG.1,Score,Attendance,Referee,season,game_id
+1.0,Fri,2024-08-16,20:00,Manchester Utd,Fulham,2.4,0.4,1–0,73297.0,Robert Jones,2024-2025,0
+1.0,Sat,2024-08-17,12:30,Ipswich Town,Liverpool,0.5,2.6,0–2,30014.0,Tim Robinson,2024-2025,1
+1.0,Sat,2024-08-17,15:00,Newcastle Utd,Southampton,0.3,1.8,1–0,52196.0,Craig Pawson,2024-2025,2
+1.0,Sat,2024-08-17,15:00,Nott'ham Forest,Bournemouth,1.3,1.2,1–1,29763.0,Michael Oliver,2024-2025,3
+1.0,Sat,2024-08-17,15:00,Everton,Brighton,0.5,1.4,0–3,39217.0,Simon Hooper,2024-2025,4
+1.0,Sat,2024-08-17,15:00,Arsenal,Wolves,1.2,0.5,2–0,60261.0,Jarred Gillett,2024-2025,5
+1.0,Sat,2024-08-17,17:30,West Ham,Aston Villa,2.3,2.0,1–2,62463.0,Tony Harrington,2024-2025,6
+1.0,Sun,2024-08-18,14:00,Brentford,Crystal Palace,1.6,1.2,2–1,16988.0,Samuel Barrott,2024-2025,7
+1.0,Sun,2024-08-18,16:30,Chelsea,Manchester City,1.0,0.8,0–2,39818.0,Anthony Taylor,2024-2025,8
+1.0,Mon,2024-08-19,20:00,Leicester City,Tottenham,1.0,1.2,1–1,31977.0,Chris Kavanagh,2024-2025,9
+2.0,Sat,2024-08-24,12:30,Brighton,Manchester Utd,2.1,1.4,2–1,31537.0,Craig Pawson,2024-2025,11
+2.0,Sat,2024-08-24,15:00,Tottenham,Everton,2.4,1.0,4–0,61357.0,Anthony Taylor,2024-2025,12
+2.0,Sat,2024-08-24,15:00,Fulham,Leicester City,1.8,0.6,2–1,25401.0,Darren Bond,2024-2025,13
+2.0,Sat,2024-08-24,15:00,Crystal Palace,West Ham,1.3,1.4,0–2,25099.0,Robert Jones,2024-2025,14
+2.0,Sat,2024-08-24,15:00,Manchester City,Ipswich Town,3.3,0.3,4–1,53147.0,Samuel Allison,2024-2025,15
+2.0,Sat,2024-08-24,15:00,Southampton,Nott'ham Forest,0.1,2.2,0–1,31150.0,Samuel Barrott,2024-2025,16
+2.0,Sat,2024-08-24,17:30,Aston Villa,Arsenal,1.2,0.9,0–2,41587.0,Michael Oliver,2024-2025,17
+2.0,Sun,2024-08-25,14:00,Bournemouth,Newcastle Utd,2.2,1.6,1–1,11161.0,David Coote,2024-2025,18
+2.0,Sun,2024-08-25,14:00,Wolves,Chelsea,1.9,1.6,2–6,31235.0,Darren England,2024-2025,19
+2.0,Sun,2024-08-25,16:30,Liverpool,Brentford,2.5,0.5,2–0,60017.0,Stuart Attwell,2024-2025,20
+3.0,Sat,2024-08-31,12:30,Arsenal,Brighton,2.1,1.7,1–1,60326.0,Chris Kavanagh,2024-2025,22
+3.0,Sat,2024-08-31,15:00,Everton,Bournemouth,1.8,2.4,2–3,38805.0,Stuart Attwell,2024-2025,23
+3.0,Sat,2024-08-31,15:00,Leicester City,Aston Villa,0.4,1.4,1–2,31725.0,David Coote,2024-2025,24
+3.0,Sat,2024-08-31,15:00,Nott'ham Forest,Wolves,1.0,0.7,1–1,29918.0,Simon Hooper,2024-2025,25
+3.0,Sat,2024-08-31,15:00,Ipswich Town,Fulham,0.4,0.9,1–1,29517.0,Lewis Smith,2024-2025,26
+3.0,Sat,2024-08-31,15:00,Brentford,Southampton,2.8,1.5,3–1,16955.0,Joshua Smith,2024-2025,27
+3.0,Sat,2024-08-31,17:30,West Ham,Manchester City,0.7,3.0,1–3,62469.0,Michael Oliver,2024-2025,28
+3.0,Sun,2024-09-01,13:30,Newcastle Utd,Tottenham,1.8,1.2,2–1,52211.0,Robert Jones,2024-2025,29
+3.0,Sun,2024-09-01,13:30,Chelsea,Crystal Palace,2.4,0.5,1–1,39298.0,Jarred Gillett,2024-2025,30
+3.0,Sun,2024-09-01,16:00,Manchester Utd,Liverpool,1.4,1.8,0–3,73738.0,Anthony Taylor,2024-2025,31
+4.0,Sat,2024-09-14,12:30,Southampton,Manchester Utd,1.1,2.6,0–3,31144.0,Stuart Attwell,2024-2025,33
+4.0,Sat,2024-09-14,15:00,Brighton,Ipswich Town,1.6,0.3,0–0,41573.0,Samuel Barrott,2024-2025,34
+4.0,Sat,2024-09-14,15:00,Crystal Palace,Leicester City,2.5,1.2,2–2,25147.0,Tony Harrington,2024-2025,35
+4.0,Sat,2024-09-14,15:00,Manchester City,Brentford,2.1,1.0,2–1,52148.0,Darren Bond,2024-2025,36
+4.0,Sat,2024-09-14,15:00,Liverpool,Nott'ham Forest,0.9,0.4,0–1,60344.0,Michael Oliver,2024-2025,37
+4.0,Sat,2024-09-14,15:00,Fulham,West Ham,1.5,0.8,1–1,26528.0,Tim Robinson,2024-2025,38
+4.0,Sat,2024-09-14,17:30,Aston Villa,Everton,2.1,0.9,3–2,41573.0,Craig Pawson,2024-2025,39
+4.0,Sat,2024-09-14,20:00,Bournemouth,Chelsea,1.7,0.8,0–1,11235.0,Anthony Taylor,2024-2025,40
+4.0,Sun,2024-09-15,14:00,Tottenham,Arsenal,0.7,0.7,0–1,61645.0,Jarred Gillett,2024-2025,41
+4.0,Sun,2024-09-15,16:30,Wolves,Newcastle Utd,1.2,1.5,1–2,30255.0,Chris Kavanagh,2024-2025,42
+5.0,Sat,2024-09-21,12:30,West Ham,Chelsea,0.9,2.2,0–3,62473.0,Samuel Barrott,2024-2025,44
+5.0,Sat,2024-09-21,15:00,Liverpool,Bournemouth,2.0,1.1,3–0,60347.0,Tony Harrington,2024-2025,45
+5.0,Sat,2024-09-21,15:00,Leicester City,Everton,0.7,1.1,1–1,31765.0,Darren England,2024-2025,46
+5.0,Sat,2024-09-21,15:00,Southampton,Ipswich Town,2.4,1.6,1–1,31117.0,Samuel Allison,2024-2025,47
+5.0,Sat,2024-09-21,15:00,Tottenham,Brentford,3.5,0.8,3–1,61246.0,John Brooks,2024-2025,48
+5.0,Sat,2024-09-21,15:00,Fulham,Newcastle Utd,2.2,1.5,3–1,25700.0,Peter Bankes,2024-2025,49
+5.0,Sat,2024-09-21,15:00,Aston Villa,Wolves,1.7,0.5,3–1,39978.0,Tim Robinson,2024-2025,50
+5.0,Sat,2024-09-21,17:30,Crystal Palace,Manchester Utd,1.0,1.6,0–0,25172.0,David Coote,2024-2025,51
+5.0,Sun,2024-09-22,14:00,Brighton,Nott'ham Forest,1.0,1.4,2–2,31444.0,Robert Jones,2024-2025,52
+5.0,Sun,2024-09-22,16:30,Manchester City,Arsenal,2.1,0.7,2–2,52846.0,Michael Oliver,2024-2025,53
+6.0,Sat,2024-09-28,12:30,Newcastle Utd,Manchester City,1.6,0.9,1–1,52248.0,Jarred Gillett,2024-2025,55
+6.0,Sat,2024-09-28,15:00,Chelsea,Brighton,4.2,1.1,4–2,39495.0,Peter Bankes,2024-2025,56
+6.0,Sat,2024-09-28,15:00,Arsenal,Leicester City,4.4,0.3,4–2,60323.0,Samuel Barrott,2024-2025,57
+6.0,Sat,2024-09-28,15:00,Brentford,West Ham,0.4,1.0,1–1,17050.0,Simon Hooper,2024-2025,58
+6.0,Sat,2024-09-28,15:00,Everton,Crystal Palace,0.9,0.9,2–1,38954.0,Andy Madley,2024-2025,59
+6.0,Sat,2024-09-28,15:00,Nott'ham Forest,Fulham,0.8,1.3,0–1,30139.0,Joshua Smith,2024-2025,60
+6.0,Sat,2024-09-28,17:30,Wolves,Liverpool,0.6,2.5,1–2,31413.0,Anthony Taylor,2024-2025,61
+6.0,Sun,2024-09-29,14:00,Ipswich Town,Aston Villa,1.2,0.8,2–2,29943.0,Stuart Attwell,2024-2025,62
+6.0,Sun,2024-09-29,16:30,Manchester Utd,Tottenham,1.0,4.4,0–3,73587.0,Chris Kavanagh,2024-2025,63
+6.0,Mon,2024-09-30,20:00,Bournemouth,Southampton,1.3,0.6,3–1,11243.0,Michael Oliver,2024-2025,64
+7.0,Sat,2024-10-05,12:30,Crystal Palace,Liverpool,0.6,1.4,0–1,25185.0,Simon Hooper,2024-2025,66
+7.0,Sat,2024-10-05,15:00,Manchester City,Fulham,1.6,2.6,3–2,53017.0,Peter Bankes,2024-2025,67
+7.0,Sat,2024-10-05,15:00,Brentford,Wolves,4.2,1.0,5–3,16960.0,Andy Madley,2024-2025,68
+7.0,Sat,2024-10-05,15:00,West Ham,Ipswich Town,3.6,0.6,4–1,62467.0,Anthony Taylor,2024-2025,69
+7.0,Sat,2024-10-05,15:00,Arsenal,Southampton,2.8,0.6,3–1,60307.0,Tony Harrington,2024-2025,70
+7.0,Sat,2024-10-05,15:00,Leicester City,Bournemouth,0.8,2.1,1–0,31706.0,Darren Bond,2024-2025,71
+7.0,Sat,2024-10-05,17:30,Everton,Newcastle Utd,0.7,2.1,0–0,39265.0,Craig Pawson,2024-2025,72
+7.0,Sun,2024-10-06,14:00,Aston Villa,Manchester Utd,0.5,0.6,0–0,42682.0,Robert Jones,2024-2025,73
+7.0,Sun,2024-10-06,14:00,Chelsea,Nott'ham Forest,2.3,0.9,1–1,39501.0,Chris Kavanagh,2024-2025,74
+7.0,Sun,2024-10-06,16:30,Brighton,Tottenham,1.8,1.3,3–2,31487.0,David Coote,2024-2025,75
+8.0,Sat,2024-10-19,12:30,Tottenham,West Ham,1.9,0.8,4–1,61381.0,Andy Madley,2024-2025,77
+8.0,Sat,2024-10-19,15:00,Southampton,Leicester City,2.1,3.1,2–3,31145.0,Anthony Taylor,2024-2025,78
+8.0,Sat,2024-10-19,15:00,Ipswich Town,Everton,1.3,1.7,0–2,29862.0,Michael Oliver,2024-2025,79
+8.0,Sat,2024-10-19,15:00,Newcastle Utd,Brighton,2.0,1.1,0–1,52220.0,Peter Bankes,2024-2025,80
+8.0,Sat,2024-10-19,15:00,Fulham,Aston Villa,1.8,1.6,1–3,26743.0,Darren England,2024-2025,81
+8.0,Sat,2024-10-19,15:00,Manchester Utd,Brentford,1.3,0.9,2–1,73738.0,Samuel Barrott,2024-2025,82
+8.0,Sat,2024-10-19,17:30,Bournemouth,Arsenal,1.8,0.7,2–0,11235.0,Robert Jones,2024-2025,83
+8.0,Sun,2024-10-20,14:00,Wolves,Manchester City,0.8,1.6,1–2,31319.0,Chris Kavanagh,2024-2025,84
+8.0,Sun,2024-10-20,16:30,Liverpool,Chelsea,1.9,1.0,2–1,60277.0,John Brooks,2024-2025,85
+8.0,Mon,2024-10-21,20:00,Nott'ham Forest,Crystal Palace,1.7,1.0,1–0,29443.0,Tim Robinson,2024-2025,86
+9.0,Fri,2024-10-25,20:00,Leicester City,Nott'ham Forest,0.8,1.7,1–3,31879.0,Craig Pawson,2024-2025,88
+9.0,Sat,2024-10-26,15:00,Brentford,Ipswich Town,4.0,1.3,4–3,17109.0,Lewis Smith,2024-2025,89
+9.0,Sat,2024-10-26,15:00,Brighton,Wolves,1.3,1.3,2–2,31840.0,Michael Oliver,2024-2025,90
+9.0,Sat,2024-10-26,15:00,Manchester City,Southampton,2.9,0.2,1–0,52844.0,Tony Harrington,2024-2025,91
+9.0,Sat,2024-10-26,15:00,Aston Villa,Bournemouth,1.8,0.3,1–1,42165.0,Chris Kavanagh,2024-2025,92
+9.0,Sat,2024-10-26,17:30,Everton,Fulham,0.8,1.2,1–1,38742.0,John Brooks,2024-2025,93
+9.0,Sun,2024-10-27,14:00,Chelsea,Newcastle Utd,1.6,1.8,2–1,39526.0,Simon Hooper,2024-2025,94
+9.0,Sun,2024-10-27,14:00,West Ham,Manchester Utd,2.8,2.3,2–1,62474.0,David Coote,2024-2025,95
+9.0,Sun,2024-10-27,14:00,Crystal Palace,Tottenham,0.8,0.7,1–0,25108.0,Darren Bond,2024-2025,96
+9.0,Sun,2024-10-27,16:30,Arsenal,Liverpool,0.9,0.8,2–2,60383.0,Anthony Taylor,2024-2025,97
+10.0,Sat,2024-11-02,12:30,Newcastle Utd,Arsenal,0.5,1.1,1–0,52249.0,John Brooks,2024-2025,99
+10.0,Sat,2024-11-02,15:00,Southampton,Everton,0.7,1.6,1–0,31143.0,Andy Madley,2024-2025,100
+10.0,Sat,2024-11-02,15:00,Liverpool,Brighton,1.6,1.0,2–1,60331.0,Tony Harrington,2024-2025,101
+10.0,Sat,2024-11-02,15:00,Nott'ham Forest,West Ham,2.2,0.1,3–0,30112.0,Peter Bankes,2024-2025,102
+10.0,Sat,2024-11-02,15:00,Ipswich Town,Leicester City,1.0,1.5,1–1,29874.0,Tim Robinson,2024-2025,103
+10.0,Sat,2024-11-02,15:00,Bournemouth,Manchester City,2.0,1.6,2–1,11231.0,Michael Oliver,2024-2025,104
+10.0,Sat,2024-11-02,17:30,Wolves,Crystal Palace,1.5,2.4,2–2,31124.0,Anthony Taylor,2024-2025,105
+10.0,Sun,2024-11-03,14:00,Tottenham,Aston Villa,2.4,1.8,4–1,61253.0,Craig Pawson,2024-2025,106
+10.0,Sun,2024-11-03,16:30,Manchester Utd,Chelsea,2.0,1.1,1–1,73813.0,Robert Jones,2024-2025,107
+10.0,Mon,2024-11-04,20:00,Fulham,Brentford,1.3,0.6,2–1,24931.0,Stuart Attwell,2024-2025,108
+11.0,Sat,2024-11-09,15:00,Brentford,Bournemouth,1.5,2.6,3–2,16587.0,Darren Bond,2024-2025,110
+11.0,Sat,2024-11-09,15:00,West Ham,Everton,0.8,1.1,0–0,62463.0,Stuart Attwell,2024-2025,111
+11.0,Sat,2024-11-09,15:00,Crystal Palace,Fulham,1.5,1.8,0–2,25142.0,Michael Salisbury,2024-2025,112
+11.0,Sat,2024-11-09,15:00,Wolves,Southampton,1.3,0.6,2–0,31403.0,Thomas Bramall,2024-2025,113
+11.0,Sat,2024-11-09,17:30,Brighton,Manchester City,2.3,2.1,2–1,31715.0,Samuel Barrott,2024-2025,114
+11.0,Sat,2024-11-09,20:00,Liverpool,Aston Villa,2.0,1.2,2–0,60292.0,David Coote,2024-2025,115
+11.0,Sun,2024-11-10,14:00,Manchester Utd,Leicester City,0.8,0.6,3–0,73829.0,Peter Bankes,2024-2025,116
+11.0,Sun,2024-11-10,14:00,Nott'ham Forest,Newcastle Utd,0.6,1.6,1–3,30145.0,Anthony Taylor,2024-2025,117
+11.0,Sun,2024-11-10,14:00,Tottenham,Ipswich Town,1.5,1.6,1–2,61505.0,Darren England,2024-2025,118
+11.0,Sun,2024-11-10,16:30,Chelsea,Arsenal,1.5,1.5,1–1,39780.0,Michael Oliver,2024-2025,119
+12.0,Sat,2024-11-23,12:30,Leicester City,Chelsea,1.1,2.7,1–2,31880.0,Andy Madley,2024-2025,121
+12.0,Sat,2024-11-23,15:00,Arsenal,Nott'ham Forest,1.2,0.3,3–0,60298.0,Simon Hooper,2024-2025,122
+12.0,Sat,2024-11-23,15:00,Bournemouth,Brighton,1.6,0.9,1–2,11196.0,Stuart Attwell,2024-2025,123
+12.0,Sat,2024-11-23,15:00,Aston Villa,Crystal Palace,3.0,1.3,2–2,42175.0,Tim Robinson,2024-2025,124
+12.0,Sat,2024-11-23,15:00,Everton,Brentford,1.2,1.1,0–0,38915.0,Chris Kavanagh,2024-2025,125
+12.0,Sat,2024-11-23,15:00,Fulham,Wolves,1.0,1.3,1–4,26685.0,Robert Jones,2024-2025,126
+12.0,Sat,2024-11-23,17:30,Manchester City,Tottenham,2.1,2.5,0–4,52478.0,John Brooks,2024-2025,127
+12.0,Sun,2024-11-24,14:00,Southampton,Liverpool,1.3,3.1,2–3,31278.0,Samuel Barrott,2024-2025,128
+12.0,Sun,2024-11-24,16:30,Ipswich Town,Manchester Utd,1.6,0.8,1–1,30017.0,Anthony Taylor,2024-2025,129
+12.0,Mon,2024-11-25,20:00,Newcastle Utd,West Ham,1.6,0.9,0–2,52094.0,Craig Pawson,2024-2025,130
+13.0,Fri,2024-11-29,20:00,Brighton,Southampton,1.7,1.0,1–1,31542.0,Robert Jones,2024-2025,132
+13.0,Sat,2024-11-30,15:00,Crystal Palace,Newcastle Utd,1.7,0.0,1–1,25101.0,Darren England,2024-2025,133
+13.0,Sat,2024-11-30,15:00,Wolves,Bournemouth,0.5,3.3,2–4,26685.0,Peter Bankes,2024-2025,134
+13.0,Sat,2024-11-30,15:00,Nott'ham Forest,Ipswich Town,1.6,0.6,1–0,30237.0,Tony Harrington,2024-2025,135
+13.0,Sat,2024-11-30,15:00,Brentford,Leicester City,2.4,1.1,4–1,17084.0,Michael Oliver,2024-2025,136
+13.0,Sat,2024-11-30,17:30,West Ham,Arsenal,1.5,3.5,2–5,62475.0,Anthony Taylor,2024-2025,137
+13.0,Sun,2024-12-01,13:30,Chelsea,Aston Villa,1.6,1.2,3–0,40853.0,Stuart Attwell,2024-2025,138
+13.0,Sun,2024-12-01,13:30,Tottenham,Fulham,0.8,1.5,1–1,61141.0,Darren Bond,2024-2025,139
+13.0,Sun,2024-12-01,13:30,Manchester Utd,Everton,1.1,0.6,4–0,73817.0,John Brooks,2024-2025,140
+13.0,Sun,2024-12-01,16:00,Liverpool,Manchester City,3.4,0.8,2–0,60248.0,Chris Kavanagh,2024-2025,141
+14.0,Tue,2024-12-03,19:30,Ipswich Town,Crystal Palace,0.5,1.6,0–1,29533.0,Craig Pawson,2024-2025,143
+14.0,Tue,2024-12-03,20:15,Leicester City,West Ham,1.7,3.0,3–1,30947.0,Joshua Smith,2024-2025,144
+14.0,Wed,2024-12-04,19:30,Everton,Wolves,1.0,0.8,4–0,38820.0,Michael Salisbury,2024-2025,145
+14.0,Wed,2024-12-04,19:30,Newcastle Utd,Liverpool,2.1,1.9,3–3,52237.0,Andy Madley,2024-2025,146
+14.0,Wed,2024-12-04,19:30,Manchester City,Nott'ham Forest,2.4,1.0,3–0,51764.0,Michael Oliver,2024-2025,147
+14.0,Wed,2024-12-04,19:30,Southampton,Chelsea,1.6,5.2,1–5,31193.0,Tony Harrington,2024-2025,148
+14.0,Wed,2024-12-04,20:15,Arsenal,Manchester Utd,2.1,0.2,2–0,60256.0,Samuel Barrott,2024-2025,149
+14.0,Wed,2024-12-04,20:15,Aston Villa,Brentford,2.4,0.9,3–1,42148.0,Lewis Smith,2024-2025,150
+14.0,Thu,2024-12-05,19:30,Fulham,Brighton,1.1,1.4,3–1,26368.0,Peter Bankes,2024-2025,151
+14.0,Thu,2024-12-05,20:15,Bournemouth,Tottenham,3.5,0.9,1–0,11234.0,Simon Hooper,2024-2025,152
+15.0,Sat,2024-12-07,15:00,Brentford,Newcastle Utd,1.2,1.5,4–2,17078.0,Simon Hooper,2024-2025,154
+15.0,Sat,2024-12-07,15:00,Crystal Palace,Manchester City,1.3,1.4,2–2,25142.0,Robert Jones,2024-2025,155
+15.0,Sat,2024-12-07,15:00,Aston Villa,Southampton,2.3,0.3,1–0,42453.0,Darren Bond,2024-2025,156
+15.0,Sat,2024-12-07,17:30,Manchester Utd,Nott'ham Forest,1.6,0.8,2–3,73778.0,Darren England,2024-2025,157
+15.0,Sun,2024-12-08,14:00,Fulham,Arsenal,0.2,1.8,1–1,26954.0,Chris Kavanagh,2024-2025,158
+15.0,Sun,2024-12-08,14:00,Ipswich Town,Bournemouth,1.3,3.2,1–2,29180.0,Michael Salisbury,2024-2025,159
+15.0,Sun,2024-12-08,14:00,Leicester City,Brighton,1.3,1.5,2–2,31647.0,Stuart Attwell,2024-2025,160
+15.0,Sun,2024-12-08,16:30,Tottenham,Chelsea,2.8,2.8,3–4,61184.0,Anthony Taylor,2024-2025,161
+15.0,Mon,2024-12-09,20:00,West Ham,Wolves,1.0,1.4,2–1,62474.0,John Brooks,2024-2025,162
+16.0,Sat,2024-12-14,15:00,Newcastle Utd,Leicester City,3.8,0.2,4–0,52235.0,Thomas Bramall,2024-2025,164
+16.0,Sat,2024-12-14,15:00,Arsenal,Everton,1.2,0.1,0–0,60176.0,Craig Pawson,2024-2025,165
+16.0,Sat,2024-12-14,15:00,Wolves,Ipswich Town,1.3,1.1,1–2,30866.0,Simon Hooper,2024-2025,166
+16.0,Sat,2024-12-14,15:00,Liverpool,Fulham,2.1,1.2,2–2,60333.0,Tony Harrington,2024-2025,167
+16.0,Sat,2024-12-14,17:30,Nott'ham Forest,Aston Villa,1.7,0.4,2–1,30117.0,Samuel Barrott,2024-2025,168
+16.0,Sun,2024-12-15,14:00,Brighton,Crystal Palace,1.0,2.2,1–3,30893.0,Michael Oliver,2024-2025,169
+16.0,Sun,2024-12-15,16:30,Manchester City,Manchester Utd,0.9,2.1,1–2,53184.0,Anthony Taylor,2024-2025,170
+16.0,Sun,2024-12-15,19:00,Southampton,Tottenham,0.8,2.3,0–5,31090.0,Darren England,2024-2025,171
+16.0,Sun,2024-12-15,19:00,Chelsea,Brentford,2.2,1.6,2–1,39571.0,Peter Bankes,2024-2025,172
+16.0,Mon,2024-12-16,20:00,Bournemouth,West Ham,1.9,2.1,1–1,11204.0,Chris Kavanagh,2024-2025,173
+17.0,Sat,2024-12-21,12:30,Aston Villa,Manchester City,1.6,1.0,2–1,42345.0,Peter Bankes,2024-2025,175
+17.0,Sat,2024-12-21,15:00,West Ham,Brighton,1.2,0.9,1–1,62460.0,Robert Jones,2024-2025,176
+17.0,Sat,2024-12-21,15:00,Brentford,Nott'ham Forest,0.7,0.9,0–2,17115.0,Michael Oliver,2024-2025,177
+17.0,Sat,2024-12-21,15:00,Ipswich Town,Newcastle Utd,0.7,2.3,0–4,29774.0,Stuart Attwell,2024-2025,178
+17.0,Sat,2024-12-21,17:30,Crystal Palace,Arsenal,1.6,2.5,1–5,25167.0,Simon Hooper,2024-2025,179
+17.0,Sun,2024-12-22,14:00,Manchester Utd,Bournemouth,2.2,1.6,0–3,73720.0,Craig Pawson,2024-2025,180
+17.0,Sun,2024-12-22,14:00,Fulham,Southampton,0.9,0.3,0–0,26819.0,Tim Robinson,2024-2025,181
+17.0,Sun,2024-12-22,14:00,Everton,Chelsea,1.0,1.2,0–0,39358.0,Chris Kavanagh,2024-2025,182
+17.0,Sun,2024-12-22,14:00,Leicester City,Wolves,0.8,1.1,0–3,31818.0,Anthony Taylor,2024-2025,183
+17.0,Sun,2024-12-22,16:30,Tottenham,Liverpool,1.3,5.6,3–6,61439.0,Samuel Barrott,2024-2025,184
+18.0,Thu,2024-12-26,12:30,Manchester City,Everton,2.1,0.7,1–1,55527.0,Simon Hooper,2024-2025,186
+18.0,Thu,2024-12-26,15:00,Chelsea,Fulham,1.1,1.8,1–2,39687.0,Samuel Barrott,2024-2025,187
+18.0,Thu,2024-12-26,15:00,Southampton,West Ham,1.4,1.7,0–1,31059.0,Lewis Smith,2024-2025,188
+18.0,Thu,2024-12-26,15:00,Bournemouth,Crystal Palace,1.4,0.4,0–0,11129.0,Thomas Bramall,2024-2025,189
+18.0,Thu,2024-12-26,15:00,Newcastle Utd,Aston Villa,2.7,0.3,3–0,52168.0,Anthony Taylor,2024-2025,190
+18.0,Thu,2024-12-26,15:00,Nott'ham Forest,Tottenham,1.1,0.9,1–0,30200.0,Craig Pawson,2024-2025,191
+18.0,Thu,2024-12-26,17:30,Wolves,Manchester Utd,0.9,0.4,2–0,31407.0,Tony Harrington,2024-2025,192
+18.0,Thu,2024-12-26,20:00,Liverpool,Leicester City,2.0,0.3,3–1,60300.0,Darren Bond,2024-2025,193
+18.0,Fri,2024-12-27,19:30,Brighton,Brentford,1.3,1.1,0–0,31548.0,Andy Madley,2024-2025,194
+18.0,Fri,2024-12-27,20:15,Arsenal,Ipswich Town,1.8,0.2,1–0,60271.0,Darren England,2024-2025,195
+19.0,Sun,2024-12-29,14:30,Leicester City,Manchester City,1.3,1.3,0–2,32057.0,Michael Oliver,2024-2025,197
+19.0,Sun,2024-12-29,15:00,Tottenham,Wolves,2.2,0.7,2–2,61284.0,Chris Kavanagh,2024-2025,198
+19.0,Sun,2024-12-29,15:00,Fulham,Bournemouth,1.1,2.0,2–2,27301.0,Robert Jones,2024-2025,199
+19.0,Sun,2024-12-29,15:00,Everton,Nott'ham Forest,0.9,1.5,0–2,25414.0,Tony Harrington,2024-2025,200
+19.0,Sun,2024-12-29,15:00,Crystal Palace,Southampton,2.0,0.9,2–1,25130.0,Michael Salisbury,2024-2025,201
+19.0,Sun,2024-12-29,17:15,West Ham,Liverpool,0.4,3.1,0–5,62476.0,Anthony Taylor,2024-2025,202
+19.0,Mon,2024-12-30,19:45,Aston Villa,Brighton,1.8,1.1,2–2,41414.0,Craig Pawson,2024-2025,203
+19.0,Mon,2024-12-30,19:45,Ipswich Town,Chelsea,1.6,2.0,2–0,29968.0,John Brooks,2024-2025,204
+19.0,Mon,2024-12-30,20:00,Manchester Utd,Newcastle Utd,0.8,1.9,0–2,73809.0,Simon Hooper,2024-2025,205
+19.0,Wed,2025-01-01,17:30,Brentford,Arsenal,0.3,1.9,1–3,47190.0,Peter Bankes,2024-2025,206
+20.0,Sat,2025-01-04,12:30,Tottenham,Newcastle Utd,0.9,2.5,1–2,61293.0,Andy Madley,2024-2025,208
+20.0,Sat,2025-01-04,15:00,Southampton,Brentford,0.3,4.4,0–5,31001.0,Stuart Attwell,2024-2025,209
+20.0,Sat,2025-01-04,15:00,Bournemouth,Everton,1.8,0.7,1–0,11223.0,John Brooks,2024-2025,210
+20.0,Sat,2025-01-04,15:00,Crystal Palace,Chelsea,1.1,1.2,1–1,25179.0,Tim Robinson,2024-2025,211
+20.0,Sat,2025-01-04,15:00,Manchester City,West Ham,1.9,1.4,4–1,52737.0,Michael Salisbury,2024-2025,212
+20.0,Sat,2025-01-04,15:00,Aston Villa,Leicester City,1.4,0.4,2–1,42386.0,Jarred Gillett,2024-2025,213
+20.0,Sat,2025-01-04,17:30,Brighton,Arsenal,1.5,0.9,1–1,31714.0,Anthony Taylor,2024-2025,214
+20.0,Sun,2025-01-05,14:00,Fulham,Ipswich Town,2.2,1.5,2–2,27042.0,Darren Bond,2024-2025,215
+20.0,Sun,2025-01-05,16:30,Liverpool,Manchester Utd,2.7,1.0,2–2,60275.0,Michael Oliver,2024-2025,216
+20.0,Mon,2025-01-06,20:00,Wolves,Nott'ham Forest,1.5,2.1,0–3,29940.0,Peter Bankes,2024-2025,217
+21.0,Tue,2025-01-14,19:30,Brentford,Manchester City,2.5,2.2,2–2,17048.0,Anthony Taylor,2024-2025,219
+21.0,Tue,2025-01-14,19:30,West Ham,Fulham,1.0,1.7,3–2,62456.0,Craig Pawson,2024-2025,220
+21.0,Tue,2025-01-14,19:30,Chelsea,Bournemouth,2.5,1.2,2–2,39092.0,Robert Jones,2024-2025,221
+21.0,Tue,2025-01-14,20:00,Nott'ham Forest,Liverpool,0.3,2.0,1–1,30249.0,Chris Kavanagh,2024-2025,222
+21.0,Wed,2025-01-15,19:30,Everton,Aston Villa,1.1,1.2,0–1,39085.0,Samuel Barrott,2024-2025,223
+21.0,Wed,2025-01-15,19:30,Newcastle Utd,Wolves,2.1,1.6,3–0,51975.0,Darren England,2024-2025,224
+21.0,Wed,2025-01-15,19:30,Leicester City,Crystal Palace,1.7,1.8,0–2,29766.0,Andy Madley,2024-2025,225
+21.0,Wed,2025-01-15,20:00,Arsenal,Tottenham,1.4,0.8,2–1,60287.0,Simon Hooper,2024-2025,226
+21.0,Thu,2025-01-16,19:30,Ipswich Town,Brighton,0.3,1.0,0–2,29403.0,Tony Harrington,2024-2025,227
+21.0,Thu,2025-01-16,20:00,Manchester Utd,Southampton,3.4,1.4,3–1,73722.0,John Brooks,2024-2025,228
+22.0,Sat,2025-01-18,12:30,Newcastle Utd,Bournemouth,0.8,2.0,1–4,52227.0,Stuart Attwell,2024-2025,230
+22.0,Sat,2025-01-18,15:00,West Ham,Crystal Palace,0.3,1.3,0–2,62469.0,Thomas Bramall,2024-2025,231
+22.0,Sat,2025-01-18,15:00,Brentford,Liverpool,0.7,3.4,0–2,17215.0,Andy Madley,2024-2025,232
+22.0,Sat,2025-01-18,15:00,Leicester City,Fulham,0.6,2.0,0–2,31500.0,Michael Salisbury,2024-2025,233
+22.0,Sat,2025-01-18,17:30,Arsenal,Aston Villa,1.3,1.0,2–2,60067.0,Chris Kavanagh,2024-2025,234
+22.0,Sun,2025-01-19,14:00,Manchester Utd,Brighton,1.5,1.9,1–3,73758.0,Peter Bankes,2024-2025,235
+22.0,Sun,2025-01-19,14:00,Nott'ham Forest,Southampton,1.8,0.9,3–2,30180.0,Anthony Taylor,2024-2025,236
+22.0,Sun,2025-01-19,14:00,Everton,Tottenham,1.8,1.1,3–2,39326.0,Darren England,2024-2025,237
+22.0,Sun,2025-01-19,16:30,Ipswich Town,Manchester City,0.5,3.0,0–6,29841.0,Samuel Barrott,2024-2025,238
+22.0,Mon,2025-01-20,20:00,Chelsea,Wolves,3.1,0.8,3–1,39221.0,Simon Hooper,2024-2025,239
+23.0,Sat,2025-01-25,15:00,Wolves,Arsenal,0.7,1.0,0–1,31503.0,Michael Oliver,2024-2025,241
+23.0,Sat,2025-01-25,15:00,Southampton,Newcastle Utd,0.8,2.9,1–3,31141.0,Samuel Barrott,2024-2025,242
+23.0,Sat,2025-01-25,15:00,Brighton,Everton,0.7,0.8,0–1,31087.0,Tim Robinson,2024-2025,243
+23.0,Sat,2025-01-25,15:00,Liverpool,Ipswich Town,2.0,0.5,4–1,60420.0,Michael Salisbury,2024-2025,244
+23.0,Sat,2025-01-25,15:00,Bournemouth,Nott'ham Forest,1.7,1.0,5–0,11228.0,Craig Pawson,2024-2025,245
+23.0,Sat,2025-01-25,17:30,Manchester City,Chelsea,2.2,1.8,3–1,52687.0,John Brooks,2024-2025,246
+23.0,Sun,2025-01-26,14:00,Crystal Palace,Brentford,1.1,1.3,1–2,25066.0,Tony Harrington,2024-2025,247
+23.0,Sun,2025-01-26,14:00,Tottenham,Leicester City,1.0,1.6,1–2,61295.0,Robert Jones,2024-2025,248
+23.0,Sun,2025-01-26,16:30,Aston Villa,West Ham,0.9,1.3,1–1,41628.0,Peter Bankes,2024-2025,249
+23.0,Sun,2025-01-26,19:00,Fulham,Manchester Utd,0.7,0.3,0–1,27288.0,Anthony Taylor,2024-2025,250
+24.0,Sat,2025-02-01,12:30,Nott'ham Forest,Brighton,3.3,0.9,7–0,30164.0,Simon Hooper,2024-2025,252
+24.0,Sat,2025-02-01,15:00,Ipswich Town,Southampton,1.8,0.9,1–2,29902.0,Michael Oliver,2024-2025,253
+24.0,Sat,2025-02-01,15:00,Everton,Leicester City,2.5,0.3,4–0,39376.0,Darren Bond,2024-2025,254
+24.0,Sat,2025-02-01,15:00,Newcastle Utd,Fulham,0.8,1.6,1–2,52173.0,Chris Kavanagh,2024-2025,255
+24.0,Sat,2025-02-01,15:00,Bournemouth,Liverpool,1.6,2.5,0–2,11239.0,Darren England,2024-2025,256
+24.0,Sat,2025-02-01,17:30,Wolves,Aston Villa,1.6,0.4,2–0,31385.0,Andy Madley,2024-2025,257
+24.0,Sun,2025-02-02,14:00,Brentford,Tottenham,2.1,0.8,0–2,17154.0,Jarred Gillett,2024-2025,258
+24.0,Sun,2025-02-02,14:00,Manchester Utd,Crystal Palace,1.1,2.6,0–2,73751.0,John Brooks,2024-2025,259
+24.0,Sun,2025-02-02,16:30,Arsenal,Manchester City,1.0,0.8,5–1,60355.0,Peter Bankes,2024-2025,260
+24.0,Mon,2025-02-03,20:00,Chelsea,West Ham,1.6,1.2,2–1,39459.0,Stuart Attwell,2024-2025,261
+15.0,Wed,2025-02-12,19:30,Everton,Liverpool,1.0,0.6,2–2,39280.0,Michael Oliver,2024-2025,263
+25.0,Fri,2025-02-14,20:00,Brighton,Chelsea,1.4,0.5,3–0,31324.0,Chris Kavanagh,2024-2025,265
+25.0,Sat,2025-02-15,12:30,Leicester City,Arsenal,0.2,1.4,0–2,31968.0,Samuel Barrott,2024-2025,266
+25.0,Sat,2025-02-15,15:00,Aston Villa,Ipswich Town,2.4,0.4,1–1,42510.0,Robert Jones,2024-2025,267
+25.0,Sat,2025-02-15,15:00,Fulham,Nott'ham Forest,2.1,0.4,2–1,27164.0,Thomas Bramall,2024-2025,268
+25.0,Sat,2025-02-15,15:00,West Ham,Brentford,0.8,1.6,0–1,62415.0,Darren England,2024-2025,269
+25.0,Sat,2025-02-15,15:00,Manchester City,Newcastle Utd,1.9,0.5,4–0,52479.0,Andy Madley,2024-2025,270
+25.0,Sat,2025-02-15,15:00,Southampton,Bournemouth,0.8,1.2,1–3,31037.0,Jarred Gillett,2024-2025,271
+25.0,Sat,2025-02-15,17:30,Crystal Palace,Everton,1.6,0.9,1–2,25108.0,Anthony Taylor,2024-2025,272
+25.0,Sun,2025-02-16,14:00,Liverpool,Wolves,1.7,1.5,2–1,60248.0,Simon Hooper,2024-2025,273
+25.0,Sun,2025-02-16,16:30,Tottenham,Manchester Utd,2.2,1.5,1–0,61383.0,Peter Bankes,2024-2025,274
+29.0,Wed,2025-02-19,19:30,Aston Villa,Liverpool,0.6,2.5,2–2,41910.0,Craig Pawson,2024-2025,276
+26.0,Fri,2025-02-21,20:00,Leicester City,Brentford,0.5,1.5,0–4,31077.0,Tony Harrington,2024-2025,278
+26.0,Sat,2025-02-22,12:30,Everton,Manchester Utd,1.6,0.4,2–2,39290.0,Andy Madley,2024-2025,279
+26.0,Sat,2025-02-22,15:00,Fulham,Crystal Palace,0.2,1.3,0–2,26777.0,Robert Jones,2024-2025,280
+26.0,Sat,2025-02-22,15:00,Ipswich Town,Tottenham,1.1,1.7,1–4,30003.0,Tim Robinson,2024-2025,281
+26.0,Sat,2025-02-22,15:00,Bournemouth,Wolves,0.9,2.0,0–1,11206.0,Michael Salisbury,2024-2025,282
+26.0,Sat,2025-02-22,15:00,Arsenal,West Ham,1.2,1.1,0–1,60262.0,Craig Pawson,2024-2025,283
+26.0,Sat,2025-02-22,15:00,Southampton,Brighton,0.1,3.9,0–4,30775.0,Darren Bond,2024-2025,284
+26.0,Sat,2025-02-22,17:30,Aston Villa,Chelsea,2.3,2.3,2–1,42423.0,Michael Oliver,2024-2025,285
+26.0,Sun,2025-02-23,14:00,Newcastle Utd,Nott'ham Forest,2.9,1.7,4–3,52223.0,Jarred Gillett,2024-2025,286
+26.0,Sun,2025-02-23,16:30,Manchester City,Liverpool,0.6,0.7,0–2,52803.0,Anthony Taylor,2024-2025,287
+27.0,Tue,2025-02-25,19:30,Crystal Palace,Aston Villa,4.3,0.4,4–1,24712.0,Samuel Barrott,2024-2025,289
+27.0,Tue,2025-02-25,19:30,Wolves,Fulham,1.3,1.7,1–2,28708.0,Peter Bankes,2024-2025,290
+27.0,Tue,2025-02-25,19:30,Brighton,Bournemouth,2.4,1.5,2–1,31138.0,Michael Oliver,2024-2025,291
+27.0,Tue,2025-02-25,20:15,Chelsea,Southampton,2.4,0.7,4–0,39485.0,Thomas Bramall,2024-2025,292
+27.0,Wed,2025-02-26,19:30,Brentford,Everton,1.4,1.5,1–1,17082.0,Simon Hooper,2024-2025,293
+27.0,Wed,2025-02-26,19:30,Tottenham,Manchester City,1.3,2.1,0–1,60820.0,Jarred Gillett,2024-2025,294
+27.0,Wed,2025-02-26,19:30,Manchester Utd,Ipswich Town,0.7,1.4,3–2,73827.0,Darren England,2024-2025,295
+27.0,Wed,2025-02-26,19:30,Nott'ham Forest,Arsenal,0.4,1.0,0–0,30200.0,Andy Madley,2024-2025,296
+27.0,Wed,2025-02-26,20:15,Liverpool,Newcastle Utd,1.7,0.2,2–0,60374.0,Stuart Attwell,2024-2025,297
+27.0,Thu,2025-02-27,20:00,West Ham,Leicester City,1.3,0.4,2–0,62455.0,Anthony Taylor,2024-2025,298

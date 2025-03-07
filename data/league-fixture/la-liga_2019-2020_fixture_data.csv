@@ -1,0 +1,270 @@
+Wk,Day,Date,Time,Home,Away,xG,xG.1,Score,Attendance,Referee,season,game_id
+1.0,Fri,2019-08-16,21:00,Athletic Club,Barcelona,0.5,0.9,1–0,47693.0,Carlos del Cerro,2019-2020,0
+1.0,Sat,2019-08-17,17:00,Celta Vigo,Real Madrid,1.6,2.1,1–3,23566.0,Daniel Ask,2019-2020,1
+1.0,Sat,2019-08-17,19:00,Valencia,Real Sociedad,2.3,1.8,1–1,41846.0,Jesús Gil,2019-2020,2
+1.0,Sat,2019-08-17,20:00,Mallorca,Eibar,1.6,0.7,2–1,15127.0,Mario Melero,2019-2020,3
+1.0,Sat,2019-08-17,21:00,Leganés,Osasuna,1.4,0.2,0–1,10020.0,Hsu Jason,2019-2020,4
+1.0,Sat,2019-08-17,21:00,Villarreal,Granada,1.9,1.9,4–4,14753.0,Adrián Cordero,2019-2020,5
+1.0,Sun,2019-08-18,17:00,Alavés,Levante,0.5,1.1,1–0,12029.0,César Soto,2019-2020,6
+1.0,Sun,2019-08-18,19:00,Espanyol,Sevilla,0.2,1.6,0–2,19832.0,Juan Martínez,2019-2020,7
+1.0,Sun,2019-08-18,21:00,Betis,Valladolid,1.5,0.7,1–2,51497.0,Santiago Jaime,2019-2020,8
+1.0,Sun,2019-08-18,22:00,Atlético Madrid,Getafe,2.2,0.3,1–0,55099.0,Guillermo Cuadra,2019-2020,9
+2.0,Fri,2019-08-23,20:00,Granada,Sevilla,0.5,1.1,0–1,15849.0,José Sánchez,2019-2020,11
+2.0,Fri,2019-08-23,22:00,Levante,Villarreal,2.1,3.0,2–1,20240.0,José Luis Munuera,2019-2020,12
+2.0,Sat,2019-08-24,17:00,Osasuna,Eibar,0.5,0.8,0–0,13978.0,David Medié,2019-2020,13
+2.0,Sat,2019-08-24,19:00,Real Madrid,Valladolid,1.7,1.2,1–1,63037.0,Pablo González,2019-2020,14
+2.0,Sat,2019-08-24,21:00,Getafe,Athletic Club,0.3,0.5,1–1,10103.0,Antonio Matéu Lahoz,2019-2020,15
+2.0,Sat,2019-08-24,21:00,Celta Vigo,Valencia,1.9,1.0,1–0,20034.0,Alejandro Hernández,2019-2020,16
+2.0,Sun,2019-08-25,17:00,Alavés,Espanyol,0.8,0.2,0–0,14567.0,Eduardo Prieto,2019-2020,17
+2.0,Sun,2019-08-25,17:00,Mallorca,Real Sociedad,1.0,1.6,0–1,18028.0,Valentín Pizarro,2019-2020,18
+2.0,Sun,2019-08-25,19:00,Leganés,Atlético Madrid,0.4,1.8,0–1,11742.0,Ricardo de Burgos,2019-2020,19
+2.0,Sun,2019-08-25,21:00,Barcelona,Betis,2.6,0.2,5–2,79159.0,José González,2019-2020,20
+3.0,Fri,2019-08-30,20:00,Sevilla,Celta Vigo,1.5,0.4,1–1,37787.0,Carlos del Cerro,2019-2020,22
+3.0,Fri,2019-08-30,22:00,Athletic Club,Real Sociedad,1.0,0.2,2–0,46697.0,Daniel Ask,2019-2020,23
+3.0,Sat,2019-08-31,17:00,Osasuna,Barcelona,1.8,0.4,2–2,16742.0,Juan Martínez,2019-2020,24
+3.0,Sat,2019-08-31,19:00,Levante,Valladolid,2.7,1.1,2–0,19347.0,Adrián Cordero,2019-2020,25
+3.0,Sat,2019-08-31,19:00,Getafe,Alavés,1.0,1.0,1–1,10806.0,Mario Melero,2019-2020,26
+3.0,Sat,2019-08-31,21:00,Betis,Leganés,2.1,1.4,2–1,47819.0,Guillermo Cuadra,2019-2020,27
+3.0,Sun,2019-09-01,17:00,Valencia,Mallorca,2.3,1.2,2–0,40441.0,Hsu Jason,2019-2020,28
+3.0,Sun,2019-09-01,19:00,Atlético Madrid,Eibar,1.5,0.9,3–2,56664.0,Santiago Jaime,2019-2020,29
+3.0,Sun,2019-09-01,19:00,Espanyol,Granada,1.4,1.4,0–3,20870.0,César Soto,2019-2020,30
+3.0,Sun,2019-09-01,21:00,Villarreal,Real Madrid,1.4,1.9,2–2,20128.0,Jesús Gil,2019-2020,31
+4.0,Fri,2019-09-13,21:00,Mallorca,Athletic Club,1.8,1.5,0–0,16390.0,Pablo González,2019-2020,33
+4.0,Sat,2019-09-14,13:00,Real Madrid,Levante,2.9,1.2,3–2,60401.0,Ricardo de Burgos,2019-2020,34
+4.0,Sat,2019-09-14,16:00,Leganés,Villarreal,0.4,1.6,0–3,7670.0,David Medié,2019-2020,35
+4.0,Sat,2019-09-14,18:30,Real Sociedad,Atlético Madrid,2.1,1.2,2–0,34719.0,Antonio Matéu Lahoz,2019-2020,36
+4.0,Sat,2019-09-14,21:00,Barcelona,Valencia,2.4,1.5,5–2,81617.0,José Sánchez,2019-2020,37
+4.0,Sun,2019-09-15,12:00,Eibar,Espanyol,0.7,1.8,1–2,5410.0,Valentín Pizarro,2019-2020,38
+4.0,Sun,2019-09-15,14:00,Alavés,Sevilla,0.8,1.1,0–1,16309.0,Alejandro Hernández,2019-2020,39
+4.0,Sun,2019-09-15,16:00,Celta Vigo,Granada,0.3,1.2,0–2,18259.0,Eduardo Prieto,2019-2020,40
+4.0,Sun,2019-09-15,18:30,Valladolid,Osasuna,0.7,2.5,1–1,20670.0,José Luis Munuera,2019-2020,41
+4.0,Sun,2019-09-15,21:00,Betis,Getafe,1.1,1.5,1–1,47884.0,José González,2019-2020,42
+5.0,Fri,2019-09-20,21:00,Osasuna,Betis,2.1,0.4,0–0,15569.0,Carlos del Cerro,2019-2020,44
+5.0,Sat,2019-09-21,13:00,Villarreal,Valladolid,2.1,0.4,2–0,16195.0,César Soto,2019-2020,45
+5.0,Sat,2019-09-21,16:00,Levante,Eibar,1.5,1.4,0–0,18904.0,Hsu Jason,2019-2020,46
+5.0,Sat,2019-09-21,18:30,Atlético Madrid,Celta Vigo,1.7,0.6,0–0,57701.0,Mario Melero,2019-2020,47
+5.0,Sat,2019-09-21,21:00,Granada,Barcelona,1.9,0.5,2–0,18880.0,Guillermo Cuadra,2019-2020,48
+5.0,Sun,2019-09-22,12:00,Getafe,Mallorca,2.1,0.8,4–2,11338.0,Santiago Jaime,2019-2020,49
+5.0,Sun,2019-09-22,14:00,Espanyol,Real Sociedad,0.9,1.3,1–3,19173.0,Adrián Cordero,2019-2020,50
+5.0,Sun,2019-09-22,16:00,Valencia,Leganés,1.5,1.2,1–1,39014.0,Daniel Ask,2019-2020,51
+5.0,Sun,2019-09-22,18:30,Athletic Club,Alavés,2.4,0.2,2–0,45143.0,Jesús Gil,2019-2020,52
+5.0,Sun,2019-09-22,21:00,Sevilla,Real Madrid,0.5,1.2,0–1,42354.0,Juan Martínez,2019-2020,53
+6.0,Tue,2019-09-24,19:00,Valladolid,Granada,1.4,0.6,1–1,18410.0,Valentín Pizarro,2019-2020,55
+6.0,Tue,2019-09-24,20:00,Betis,Levante,2.9,1.5,3–1,44560.0,Eduardo Prieto,2019-2020,56
+6.0,Tue,2019-09-24,21:00,Barcelona,Villarreal,0.5,0.6,2–1,70316.0,Ricardo de Burgos,2019-2020,57
+6.0,Wed,2019-09-25,19:00,Mallorca,Atlético Madrid,0.5,1.0,0–2,19348.0,Alejandro Hernández,2019-2020,58
+6.0,Wed,2019-09-25,19:00,Leganés,Athletic Club,0.5,1.2,1–1,11036.0,José González,2019-2020,59
+6.0,Wed,2019-09-25,20:00,Valencia,Getafe,1.2,2.0,3–3,37814.0,José Luis Munuera,2019-2020,60
+6.0,Wed,2019-09-25,21:00,Real Madrid,Osasuna,1.6,0.2,2–0,57520.0,Antonio Matéu Lahoz,2019-2020,61
+6.0,Thu,2019-09-26,19:00,Eibar,Sevilla,1.5,1.4,3–2,5434.0,Pablo González,2019-2020,62
+6.0,Thu,2019-09-26,20:00,Celta Vigo,Espanyol,1.1,1.2,1–1,16361.0,José Sánchez,2019-2020,63
+6.0,Thu,2019-09-26,21:00,Real Sociedad,Alavés,3.8,0.3,3–0,28720.0,David Medié,2019-2020,64
+7.0,Fri,2019-09-27,21:00,Villarreal,Betis,3.2,0.7,5–1,18135.0,Daniel Ask,2019-2020,66
+7.0,Sat,2019-09-28,13:00,Athletic Club,Valencia,1.4,1.8,0–1,42420.0,Mario Melero,2019-2020,67
+7.0,Sat,2019-09-28,16:00,Getafe,Barcelona,1.0,1.3,0–2,15135.0,Jesús Gil,2019-2020,68
+7.0,Sat,2019-09-28,18:30,Granada,Leganés,0.7,1.2,1–0,15519.0,Adrián Cordero,2019-2020,69
+7.0,Sat,2019-09-28,21:00,Atlético Madrid,Real Madrid,0.9,0.4,0–0,68032.0,José González,2019-2020,70
+7.0,Sun,2019-09-29,12:00,Espanyol,Valladolid,1.3,1.8,0–2,20911.0,Guillermo Cuadra,2019-2020,71
+7.0,Sun,2019-09-29,14:00,Eibar,Celta Vigo,1.1,0.9,2–0,5453.0,Juan Martínez,2019-2020,72
+7.0,Sun,2019-09-29,16:00,Alavés,Mallorca,2.1,0.2,2–0,17135.0,Carlos del Cerro,2019-2020,73
+7.0,Sun,2019-09-29,18:30,Levante,Osasuna,1.6,1.1,1–1,19362.0,César Soto,2019-2020,74
+7.0,Sun,2019-09-29,21:00,Sevilla,Real Sociedad,1.7,0.8,3–2,37414.0,Hsu Jason,2019-2020,75
+8.0,Fri,2019-10-04,21:00,Betis,Eibar,1.9,1.2,1–1,47056.0,Alejandro Hernández,2019-2020,77
+8.0,Sat,2019-10-05,13:00,Leganés,Levante,2.8,1.2,1–2,10160.0,José Luis Munuera,2019-2020,78
+8.0,Sat,2019-10-05,16:00,Real Madrid,Granada,2.6,1.6,4–2,70315.0,Santiago Jaime,2019-2020,79
+8.0,Sat,2019-10-05,18:30,Valencia,Alavés,1.3,1.7,2–1,38943.0,Eduardo Prieto,2019-2020,80
+8.0,Sat,2019-10-05,21:00,Osasuna,Villarreal,1.3,2.4,2–1,15349.0,Valentín Pizarro,2019-2020,81
+8.0,Sun,2019-10-06,12:00,Mallorca,Espanyol,0.8,1.2,2–0,15052.0,Ricardo de Burgos,2019-2020,82
+8.0,Sun,2019-10-06,14:00,Celta Vigo,Athletic Club,1.2,0.2,1–0,19690.0,David Medié,2019-2020,83
+8.0,Sun,2019-10-06,16:00,Valladolid,Atlético Madrid,1.0,0.8,0–0,23650.0,José Sánchez,2019-2020,84
+8.0,Sun,2019-10-06,18:30,Real Sociedad,Getafe,0.6,0.9,1–2,30153.0,Pablo González,2019-2020,85
+8.0,Sun,2019-10-06,21:00,Barcelona,Sevilla,2.1,2.5,4–0,81331.0,Antonio Matéu Lahoz,2019-2020,86
+9.0,Fri,2019-10-18,21:00,Granada,Osasuna,0.6,0.6,1–0,16986.0,Daniel Ask,2019-2020,88
+9.0,Sat,2019-10-19,13:00,Eibar,Barcelona,0.3,1.5,0–3,7295.0,Mario Melero,2019-2020,89
+9.0,Sat,2019-10-19,16:00,Atlético Madrid,Valencia,1.6,0.7,1–1,61603.0,Adrián Cordero,2019-2020,90
+9.0,Sat,2019-10-19,18:30,Getafe,Leganés,1.0,0.6,2–0,13.0,Juan Martínez,2019-2020,91
+9.0,Sat,2019-10-19,21:00,Mallorca,Real Madrid,0.2,1.0,1–0,20275.0,Hsu Jason,2019-2020,92
+9.0,Sun,2019-10-20,12:00,Alavés,Celta Vigo,2.1,1.3,2–0,16584.0,José González,2019-2020,93
+9.0,Sun,2019-10-20,14:00,Real Sociedad,Betis,1.4,1.0,3–1,28032.0,César Soto,2019-2020,94
+9.0,Sun,2019-10-20,16:00,Espanyol,Villarreal,1.0,1.6,0–1,20653.0,Carlos del Cerro,2019-2020,95
+9.0,Sun,2019-10-20,18:30,Athletic Club,Valladolid,1.5,0.7,1–1,37107.0,Jesús Gil,2019-2020,96
+9.0,Sun,2019-10-20,21:00,Sevilla,Levante,2.7,0.5,1–0,34612.0,Guillermo Cuadra,2019-2020,97
+10.0,Fri,2019-10-25,21:00,Villarreal,Alavés,2.5,0.8,4–1,16049.0,David Medié,2019-2020,99
+10.0,Sat,2019-10-26,16:00,Leganés,Mallorca,1.7,0.8,1–0,10058.0,Eduardo Prieto,2019-2020,100
+10.0,Sat,2019-10-26,18:30,Valladolid,Eibar,1.7,0.6,2–0,20036.0,José Luis Munuera,2019-2020,101
+10.0,Sat,2019-10-26,21:00,Atlético Madrid,Athletic Club,1.5,0.4,2–0,59211.0,Alejandro Hernández,2019-2020,102
+10.0,Sun,2019-10-27,12:00,Celta Vigo,Real Sociedad,0.9,0.8,0–1,18002.0,Valentín Pizarro,2019-2020,103
+10.0,Sun,2019-10-27,14:00,Granada,Betis,1.6,0.7,1–0,18985.0,Antonio Matéu Lahoz,2019-2020,104
+10.0,Sun,2019-10-27,16:00,Levante,Espanyol,0.3,1.0,0–1,18934.0,Pablo González,2019-2020,105
+10.0,Sun,2019-10-27,18:30,Sevilla,Getafe,2.0,0.7,2–0,38181.0,José Sánchez,2019-2020,106
+10.0,Sun,2019-10-27,21:00,Osasuna,Valencia,2.8,0.9,3–1,14976.0,Santiago Jaime,2019-2020,107
+11.0,Tue,2019-10-29,19:00,Alavés,Atlético Madrid,0.6,1.7,1–1,17235.0,Daniel Ask,2019-2020,109
+11.0,Tue,2019-10-29,21:15,Barcelona,Valladolid,2.7,1.1,5–1,59896.0,Hsu Jason,2019-2020,110
+11.0,Wed,2019-10-30,19:00,Valencia,Sevilla,0.8,0.6,1–1,37881.0,Carlos del Cerro,2019-2020,111
+11.0,Wed,2019-10-30,19:00,Real Sociedad,Levante,1.6,1.8,1–2,28142.0,Mario Melero,2019-2020,112
+11.0,Wed,2019-10-30,20:00,Athletic Club,Espanyol,0.3,0.9,3–0,37094.0,Juan Martínez,2019-2020,113
+11.0,Wed,2019-10-30,21:00,Betis,Celta Vigo,1.0,1.7,2–1,43353.0,Jesús Gil,2019-2020,114
+11.0,Wed,2019-10-30,21:15,Real Madrid,Leganés,4.8,0.3,5–0,53870.0,César Soto,2019-2020,115
+11.0,Thu,2019-10-31,19:00,Mallorca,Osasuna,2.4,1.0,2–2,12641.0,Adrián Cordero,2019-2020,116
+11.0,Thu,2019-10-31,19:00,Eibar,Villarreal,2.4,1.5,2–1,5583.0,Guillermo Cuadra,2019-2020,117
+11.0,Thu,2019-10-31,21:15,Getafe,Granada,0.8,1.7,3–1,10227.0,José González,2019-2020,118
+12.0,Sat,2019-11-02,13:00,Espanyol,Valencia,1.3,1.9,1–2,18428.0,Valentín Pizarro,2019-2020,120
+12.0,Sat,2019-11-02,16:00,Levante,Barcelona,1.0,2.3,3–1,23341.0,Alejandro Hernández,2019-2020,121
+12.0,Sat,2019-11-02,18:30,Sevilla,Atlético Madrid,0.7,2.8,1–1,39957.0,José González,2019-2020,122
+12.0,Sat,2019-11-02,21:00,Real Madrid,Betis,2.8,0.5,0–0,70375.0,José Sánchez,2019-2020,123
+12.0,Sun,2019-11-03,12:00,Valladolid,Mallorca,2.0,0.7,3–0,18419.0,David Medié,2019-2020,124
+12.0,Sun,2019-11-03,14:00,Villarreal,Athletic Club,0.8,0.9,0–0,17460.0,Santiago Jaime,2019-2020,125
+12.0,Sun,2019-11-03,16:00,Osasuna,Alavés,3.7,1.5,4–2,15954.0,José Luis Munuera,2019-2020,126
+12.0,Sun,2019-11-03,18:30,Celta Vigo,Getafe,0.2,0.4,0–1,14704.0,Antonio Matéu Lahoz,2019-2020,127
+12.0,Sun,2019-11-03,18:30,Leganés,Eibar,1.4,0.9,1–2,9649.0,Pablo González,2019-2020,128
+12.0,Sun,2019-11-03,21:00,Granada,Real Sociedad,0.2,1.0,1–2,16898.0,Eduardo Prieto,2019-2020,129
+13.0,Fri,2019-11-08,21:00,Real Sociedad,Leganés,1.1,1.0,1–1,27684.0,Juan Martínez,2019-2020,131
+13.0,Sat,2019-11-09,13:00,Alavés,Valladolid,3.4,0.3,3–0,16148.0,Mario Melero,2019-2020,132
+13.0,Sat,2019-11-09,16:00,Valencia,Granada,0.7,0.5,2–0,39882.0,Daniel Ask,2019-2020,133
+13.0,Sat,2019-11-09,18:30,Eibar,Real Madrid,1.0,2.9,0–4,7045.0,Adrián Cordero,2019-2020,134
+13.0,Sat,2019-11-09,21:00,Barcelona,Celta Vigo,1.4,0.4,4–1,71209.0,Guillermo Cuadra,2019-2020,135
+13.0,Sun,2019-11-10,12:00,Mallorca,Villarreal,1.7,3.2,3–1,8348.0,Carlos del Cerro,2019-2020,136
+13.0,Sun,2019-11-10,14:00,Athletic Club,Levante,1.6,0.6,2–1,33202.0,Hsu Jason,2019-2020,137
+13.0,Sun,2019-11-10,16:00,Atlético Madrid,Espanyol,2.7,0.4,3–1,53069.0,Jesús Gil,2019-2020,138
+13.0,Sun,2019-11-10,18:30,Getafe,Osasuna,1.3,0.1,0–0,10558.0,César Soto,2019-2020,139
+13.0,Sun,2019-11-10,21:00,Betis,Sevilla,1.9,0.9,1–2,52123.0,Alejandro Hernández,2019-2020,140
+14.0,Fri,2019-11-22,21:00,Levante,Mallorca,1.8,1.7,2–1,15110.0,Valentín Pizarro,2019-2020,142
+14.0,Sat,2019-11-23,13:00,Leganés,Barcelona,0.4,1.7,1–2,12110.0,Santiago Jaime,2019-2020,143
+14.0,Sat,2019-11-23,16:00,Betis,Valencia,1.7,1.0,2–1,46545.0,Ricardo de Burgos,2019-2020,144
+14.0,Sat,2019-11-23,18:30,Granada,Atlético Madrid,0.7,2.3,1–1,17003.0,David Medié,2019-2020,145
+14.0,Sat,2019-11-23,21:00,Real Madrid,Real Sociedad,1.4,1.6,3–1,69305.0,Jesús Gil,2019-2020,146
+14.0,Sun,2019-11-24,12:00,Espanyol,Getafe,1.1,0.7,1–1,22031.0,Pablo González,2019-2020,147
+14.0,Sun,2019-11-24,14:00,Osasuna,Athletic Club,1.3,1.1,1–2,16145.0,José Sánchez,2019-2020,148
+14.0,Sun,2019-11-24,16:00,Eibar,Alavés,1.4,1.6,0–2,6315.0,Antonio Matéu Lahoz,2019-2020,149
+14.0,Sun,2019-11-24,18:30,Villarreal,Celta Vigo,1.2,1.9,1–3,17352.0,José Luis Munuera,2019-2020,150
+14.0,Sun,2019-11-24,21:00,Valladolid,Sevilla,0.5,1.4,0–1,18169.0,Eduardo Prieto,2019-2020,151
+15.0,Fri,2019-11-29,21:00,Celta Vigo,Valladolid,1.1,0.4,0–0,16918.0,Hsu Jason,2019-2020,153
+15.0,Sat,2019-11-30,13:00,Alavés,Real Madrid,1.3,1.8,1–2,19357.0,Guillermo Cuadra,2019-2020,154
+15.0,Sat,2019-11-30,16:00,Real Sociedad,Eibar,1.1,0.6,4–1,28612.0,Carlos del Cerro,2019-2020,155
+15.0,Sat,2019-11-30,18:30,Mallorca,Betis,2.8,2.2,1–2,16810.0,Juan Martínez,2019-2020,156
+15.0,Sat,2019-11-30,21:00,Valencia,Villarreal,1.5,2.1,2–1,38521.0,César Soto,2019-2020,157
+15.0,Sun,2019-12-01,12:00,Sevilla,Leganés,2.1,0.7,1–0,33648.0,Ricardo de Burgos,2019-2020,158
+15.0,Sun,2019-12-01,14:00,Athletic Club,Granada,1.9,1.0,2–0,37974.0,Adrián Cordero,2019-2020,159
+15.0,Sun,2019-12-01,16:00,Espanyol,Osasuna,1.6,2.7,2–4,21238.0,Mario Melero,2019-2020,160
+15.0,Sun,2019-12-01,18:30,Getafe,Levante,1.8,0.6,4–0,6535.0,Daniel Ask,2019-2020,161
+15.0,Sun,2019-12-01,21:00,Atlético Madrid,Barcelona,1.4,0.9,0–1,64226.0,Antonio Matéu Lahoz,2019-2020,162
+16.0,Fri,2019-12-06,21:00,Villarreal,Atlético Madrid,1.5,1.6,0–0,17964.0,Alejandro Hernández,2019-2020,164
+16.0,Sat,2019-12-07,13:00,Real Madrid,Espanyol,2.4,0.5,2–0,64125.0,Santiago Jaime,2019-2020,165
+16.0,Sat,2019-12-07,16:00,Granada,Alavés,2.5,0.3,3–0,14773.0,Jesús Gil,2019-2020,166
+16.0,Sat,2019-12-07,18:30,Levante,Valencia,2.1,3.0,2–4,23137.0,David Medié,2019-2020,167
+16.0,Sat,2019-12-07,21:00,Barcelona,Mallorca,3.7,1.3,5–2,71072.0,José Luis Munuera,2019-2020,168
+16.0,Sun,2019-12-08,12:00,Eibar,Getafe,0.3,0.9,0–1,5969.0,Eduardo Prieto,2019-2020,169
+16.0,Sun,2019-12-08,14:00,Betis,Athletic Club,2.0,1.0,3–2,46106.0,Valentín Pizarro,2019-2020,170
+16.0,Sun,2019-12-08,16:00,Valladolid,Real Sociedad,0.6,1.7,0–0,18654.0,Pablo González,2019-2020,171
+16.0,Sun,2019-12-08,18:30,Leganés,Celta Vigo,1.0,0.5,3–2,7115.0,José Sánchez,2019-2020,172
+16.0,Sun,2019-12-08,21:00,Osasuna,Sevilla,0.8,1.5,1–1,15045.0,Daniel Ask,2019-2020,173
+17.0,Fri,2019-12-13,21:00,Alavés,Leganés,1.2,0.7,1–1,15567.0,César Soto,2019-2020,175
+17.0,Sat,2019-12-14,13:00,Granada,Levante,1.2,1.0,1–2,14127.0,Carlos del Cerro,2019-2020,176
+17.0,Sat,2019-12-14,16:00,Real Sociedad,Barcelona,2.7,1.2,2–2,36639.0,Hsu Jason,2019-2020,177
+17.0,Sat,2019-12-14,18:30,Athletic Club,Eibar,0.9,0.4,0–0,43203.0,Mario Melero,2019-2020,178
+17.0,Sat,2019-12-14,21:00,Atlético Madrid,Osasuna,2.5,0.7,2–0,46033.0,José Luis Munuera,2019-2020,179
+17.0,Sun,2019-12-15,12:00,Getafe,Valladolid,1.5,0.5,2–0,10816.0,Antonio Matéu Lahoz,2019-2020,180
+17.0,Sun,2019-12-15,14:00,Celta Vigo,Mallorca,2.2,1.6,2–2,13247.0,Ricardo de Burgos,2019-2020,181
+17.0,Sun,2019-12-15,16:00,Espanyol,Betis,1.4,0.9,2–2,22248.0,Guillermo Cuadra,2019-2020,182
+17.0,Sun,2019-12-15,18:30,Sevilla,Villarreal,1.7,1.5,1–2,36521.0,Adrián Cordero,2019-2020,183
+17.0,Sun,2019-12-15,21:00,Valencia,Real Madrid,2.3,1.7,1–1,44230.0,José Sánchez,2019-2020,184
+10.0,Wed,2019-12-18,20:00,Barcelona,Real Madrid,0.9,0.8,0–0,93426.0,Alejandro Hernández,2019-2020,186
+18.0,Fri,2019-12-20,21:00,Eibar,Granada,1.9,1.7,3–0,5341.0,Pablo González,2019-2020,188
+18.0,Sat,2019-12-21,13:00,Mallorca,Sevilla,0.8,1.6,0–2,14321.0,Jesús Gil,2019-2020,189
+18.0,Sat,2019-12-21,16:00,Barcelona,Alavés,1.3,0.4,4–1,63054.0,Mario Melero,2019-2020,190
+18.0,Sat,2019-12-21,18:30,Villarreal,Getafe,2.3,0.6,1–0,14526.0,Santiago Jaime,2019-2020,191
+18.0,Sat,2019-12-21,21:00,Valladolid,Valencia,0.8,1.2,1–1,16295.0,Valentín Pizarro,2019-2020,192
+18.0,Sun,2019-12-22,12:00,Leganés,Espanyol,1.0,0.7,2–0,10183.0,Hsu Jason,2019-2020,193
+18.0,Sun,2019-12-22,14:00,Osasuna,Real Sociedad,3.4,2.2,3–4,16197.0,David Medié,2019-2020,194
+18.0,Sun,2019-12-22,16:00,Betis,Atlético Madrid,1.1,1.6,1–2,52017.0,Daniel Ask,2019-2020,195
+18.0,Sun,2019-12-22,18:30,Levante,Celta Vigo,2.7,0.9,3–1,18653.0,Eduardo Prieto,2019-2020,196
+18.0,Sun,2019-12-22,21:00,Real Madrid,Athletic Club,2.5,0.4,0–0,71306.0,Adrián Cordero,2019-2020,197
+19.0,Fri,2020-01-03,19:00,Valladolid,Leganés,1.8,2.3,2–2,21492.0,Juan Martínez,2019-2020,199
+19.0,Fri,2020-01-03,21:00,Sevilla,Athletic Club,1.3,0.2,1–1,37972.0,José González,2019-2020,200
+19.0,Sat,2020-01-04,13:00,Valencia,Eibar,1.0,1.0,1–0,39702.0,Alejandro Hernández,2019-2020,201
+19.0,Sat,2020-01-04,16:00,Getafe,Real Madrid,1.3,1.8,0–3,15426.0,José Luis Munuera,2019-2020,202
+19.0,Sat,2020-01-04,18:30,Atlético Madrid,Levante,1.2,0.9,2–1,59084.0,Ricardo de Burgos,2019-2020,203
+19.0,Sat,2020-01-04,21:00,Espanyol,Barcelona,0.7,2.2,2–2,33562.0,Carlos del Cerro,2019-2020,204
+19.0,Sun,2020-01-05,12:00,Granada,Mallorca,1.3,1.1,1–0,16395.0,César Soto,2019-2020,205
+19.0,Sun,2020-01-05,14:00,Real Sociedad,Villarreal,0.9,1.4,1–2,31538.0,José Sánchez,2019-2020,206
+19.0,Sun,2020-01-05,16:00,Alavés,Betis,0.3,1.9,1–1,17689.0,Antonio Matéu Lahoz,2019-2020,207
+19.0,Sun,2020-01-05,21:00,Celta Vigo,Osasuna,1.6,0.7,1–1,11932.0,Guillermo Cuadra,2019-2020,208
+20.0,Fri,2020-01-17,21:00,Leganés,Getafe,0.4,1.3,0–3,11450.0,Daniel Ask,2019-2020,210
+20.0,Sat,2020-01-18,13:00,Levante,Alavés,1.2,2.1,0–1,16848.0,Guillermo Cuadra,2019-2020,211
+20.0,Sat,2020-01-18,16:00,Real Madrid,Sevilla,1.3,0.4,2–1,72512.0,Juan Martínez,2019-2020,212
+20.0,Sat,2020-01-18,18:30,Osasuna,Valladolid,1.9,0.5,0–0,15382.0,Hsu Jason,2019-2020,213
+20.0,Sat,2020-01-18,21:00,Eibar,Atlético Madrid,0.8,1.1,2–0,6429.0,Jesús Gil,2019-2020,214
+20.0,Sun,2020-01-19,12:00,Mallorca,Valencia,1.9,0.4,4–1,9856.0,Mario Melero,2019-2020,215
+20.0,Sun,2020-01-19,14:00,Betis,Real Sociedad,1.8,0.3,3–0,51171.0,Adrián Cordero,2019-2020,216
+20.0,Sun,2020-01-19,16:00,Villarreal,Espanyol,2.4,1.7,1–2,12053.0,Pablo González,2019-2020,217
+20.0,Sun,2020-01-19,18:30,Athletic Club,Celta Vigo,3.7,0.7,1–1,41348.0,David Medié,2019-2020,218
+20.0,Sun,2020-01-19,21:00,Barcelona,Granada,1.2,0.2,1–0,65444.0,Valentín Pizarro,2019-2020,219
+21.0,Fri,2020-01-24,21:00,Osasuna,Levante,1.9,0.6,2–0,14667.0,César Soto,2019-2020,221
+21.0,Sat,2020-01-25,13:00,Espanyol,Athletic Club,0.6,0.8,1–1,27542.0,José Sánchez,2019-2020,222
+21.0,Sat,2020-01-25,16:00,Valencia,Barcelona,1.2,1.1,2–0,45882.0,Jesús Gil,2019-2020,223
+21.0,Sat,2020-01-25,18:30,Alavés,Villarreal,0.9,1.0,1–2,18153.0,José Luis Munuera,2019-2020,224
+21.0,Sat,2020-01-25,21:00,Sevilla,Granada,0.8,0.6,2–0,33533.0,Alejandro Hernández,2019-2020,225
+21.0,Sun,2020-01-26,12:00,Atlético Madrid,Leganés,1.0,0.4,0–0,52767.0,Antonio Matéu Lahoz,2019-2020,226
+21.0,Sun,2020-01-26,14:00,Celta Vigo,Eibar,1.1,0.2,0–0,15490.0,José González,2019-2020,227
+21.0,Sun,2020-01-26,16:00,Getafe,Betis,1.4,1.3,1–0,13244.0,Eduardo Prieto,2019-2020,228
+21.0,Sun,2020-01-26,18:30,Real Sociedad,Mallorca,2.5,0.5,3–0,29912.0,Santiago Jaime,2019-2020,229
+21.0,Sun,2020-01-26,21:00,Valladolid,Real Madrid,0.3,0.6,0–1,23404.0,Ricardo de Burgos,2019-2020,230
+22.0,Sat,2020-02-01,13:00,Granada,Espanyol,1.0,3.0,2–1,15226.0,Guillermo Cuadra,2019-2020,232
+22.0,Sat,2020-02-01,16:00,Real Madrid,Atlético Madrid,1.1,0.4,1–0,77223.0,Daniel Ask,2019-2020,233
+22.0,Sat,2020-02-01,18:30,Mallorca,Valladolid,0.6,1.2,0–1,13891.0,David Medié,2019-2020,234
+22.0,Sat,2020-02-01,21:00,Valencia,Celta Vigo,1.0,1.3,1–0,39637.0,Pablo González,2019-2020,235
+22.0,Sun,2020-02-02,12:00,Leganés,Real Sociedad,1.2,0.2,2–1,10842.0,Mario Melero,2019-2020,236
+22.0,Sun,2020-02-02,14:00,Eibar,Betis,2.2,1.2,1–1,6558.0,Juan Martínez,2019-2020,237
+22.0,Sun,2020-02-02,16:00,Athletic Club,Getafe,0.9,1.7,0–2,40291.0,Hsu Jason,2019-2020,238
+22.0,Sun,2020-02-02,18:30,Villarreal,Osasuna,2.1,0.9,3–1,17081.0,Valentín Pizarro,2019-2020,239
+22.0,Sun,2020-02-02,18:30,Sevilla,Alavés,1.7,0.7,1–1,36286.0,Carlos del Cerro,2019-2020,240
+22.0,Sun,2020-02-02,21:00,Barcelona,Levante,3.4,1.4,2–1,60295.0,Adrián Cordero,2019-2020,241
+23.0,Fri,2020-02-07,21:00,Alavés,Eibar,1.3,0.1,2–1,17089.0,Eduardo Prieto,2019-2020,243
+23.0,Sat,2020-02-08,13:00,Levante,Leganés,1.0,1.2,2–0,17110.0,José González,2019-2020,244
+23.0,Sat,2020-02-08,16:00,Getafe,Valencia,2.9,0.3,3–0,13070.0,Ricardo de Burgos,2019-2020,245
+23.0,Sat,2020-02-08,18:30,Valladolid,Villarreal,0.6,1.3,1–1,17547.0,Alejandro Hernández,2019-2020,246
+23.0,Sat,2020-02-08,21:00,Atlético Madrid,Granada,0.6,0.9,1–0,54113.0,César Soto,2019-2020,247
+23.0,Sun,2020-02-09,12:00,Espanyol,Mallorca,1.6,0.6,1–0,32084.0,Antonio Matéu Lahoz,2019-2020,248
+23.0,Sun,2020-02-09,14:00,Real Sociedad,Athletic Club,2.2,0.8,2–1,36730.0,José Luis Munuera,2019-2020,249
+23.0,Sun,2020-02-09,16:00,Osasuna,Real Madrid,0.9,2.6,1–4,17000.0,Jesús Gil,2019-2020,250
+23.0,Sun,2020-02-09,18:30,Celta Vigo,Sevilla,1.6,1.2,2–1,20375.0,Santiago Jaime,2019-2020,251
+23.0,Sun,2020-02-09,21:00,Betis,Barcelona,1.0,1.7,2–3,54526.0,José Sánchez,2019-2020,252
+24.0,Fri,2020-02-14,21:00,Valencia,Atlético Madrid,1.3,1.2,2–2,42297.0,David Medié,2019-2020,254
+24.0,Sat,2020-02-15,13:00,Mallorca,Alavés,2.1,0.9,1–0,12329.0,Valentín Pizarro,2019-2020,255
+24.0,Sat,2020-02-15,16:00,Barcelona,Getafe,1.8,1.3,2–1,89409.0,Guillermo Cuadra,2019-2020,256
+24.0,Sat,2020-02-15,18:30,Villarreal,Levante,0.7,1.5,2–1,17269.0,Mario Melero,2019-2020,257
+24.0,Sat,2020-02-15,21:00,Granada,Valladolid,2.5,0.7,2–1,15782.0,Juan Martínez,2019-2020,258
+24.0,Sun,2020-02-16,12:00,Sevilla,Espanyol,1.8,0.5,2–2,35661.0,Adrián Cordero,2019-2020,259
+24.0,Sun,2020-02-16,14:00,Leganés,Betis,0.6,0.6,0–0,11160.0,Daniel Ask,2019-2020,260
+24.0,Sun,2020-02-16,18:30,Athletic Club,Osasuna,0.8,0.6,0–1,44222.0,Pablo González,2019-2020,261
+24.0,Sun,2020-02-16,21:00,Real Madrid,Celta Vigo,2.0,1.0,2–2,62477.0,Hsu Jason,2019-2020,262
+25.0,Fri,2020-02-21,21:00,Betis,Mallorca,3.3,0.9,3–3,47231.0,Jesús Gil,2019-2020,264
+25.0,Sat,2020-02-22,13:00,Celta Vigo,Leganés,0.2,0.4,1–0,19335.0,José Luis Munuera,2019-2020,265
+25.0,Sat,2020-02-22,16:00,Barcelona,Eibar,4.3,0.5,5–0,66970.0,César Soto,2019-2020,266
+25.0,Sat,2020-02-22,18:30,Real Sociedad,Valencia,1.8,0.3,3–0,31381.0,José González,2019-2020,267
+25.0,Sat,2020-02-22,21:00,Levante,Real Madrid,0.7,1.9,1–0,23566.0,Alejandro Hernández,2019-2020,268
+25.0,Sun,2020-02-23,12:00,Osasuna,Granada,0.9,1.3,0–3,14866.0,José Sánchez,2019-2020,269
+25.0,Sun,2020-02-23,14:00,Alavés,Athletic Club,1.8,0.8,2–1,19412.0,Antonio Matéu Lahoz,2019-2020,270
+25.0,Sun,2020-02-23,16:00,Valladolid,Espanyol,1.1,1.2,2–1,19645.0,Eduardo Prieto,2019-2020,271
+25.0,Sun,2020-02-23,18:30,Getafe,Sevilla,0.5,2.5,0–3,13438.0,Daniel Ask,2019-2020,272
+25.0,Sun,2020-02-23,21:00,Atlético Madrid,Villarreal,1.7,0.4,3–1,54462.0,Ricardo de Burgos,2019-2020,273
+26.0,Fri,2020-02-28,21:00,Real Sociedad,Valladolid,2.0,0.8,1–0,30611.0,Valentín Pizarro,2019-2020,275
+26.0,Sat,2020-02-29,13:00,Eibar,Levante,2.7,0.7,3–0,5920.0,Pablo González,2019-2020,276
+26.0,Sat,2020-02-29,16:00,Valencia,Betis,1.0,1.0,2–1,37418.0,Adrián Cordero,2019-2020,277
+26.0,Sat,2020-02-29,18:30,Leganés,Alavés,1.1,0.9,1–1,10043.0,Juan Martínez,2019-2020,278
+26.0,Sat,2020-02-29,21:00,Granada,Celta Vigo,1.0,0.3,0–0,15877.0,Guillermo Cuadra,2019-2020,279
+26.0,Sun,2020-03-01,12:00,Sevilla,Osasuna,2.4,1.7,3–2,31382.0,Carlos del Cerro,2019-2020,280
+26.0,Sun,2020-03-01,14:00,Athletic Club,Villarreal,2.6,1.0,1–0,36350.0,David Medié,2019-2020,281
+26.0,Sun,2020-03-01,16:00,Espanyol,Atlético Madrid,1.2,0.9,1–1,30360.0,Hsu Jason,2019-2020,282
+26.0,Sun,2020-03-01,18:30,Mallorca,Getafe,0.1,0.9,0–1,14241.0,Mario Melero,2019-2020,283
+26.0,Sun,2020-03-01,21:00,Real Madrid,Barcelona,1.1,1.5,2–0,78357.0,Antonio Matéu Lahoz,2019-2020,284
+27.0,Fri,2020-03-06,21:00,Alavés,Valencia,1.0,0.7,1–1,14083.0,Jesús Gil,2019-2020,286
+27.0,Sat,2020-03-07,13:00,Eibar,Mallorca,0.9,0.8,1–2,6110.0,Daniel Ask,2019-2020,287
+27.0,Sat,2020-03-07,16:00,Atlético Madrid,Sevilla,2.0,1.7,2–2,60422.0,Alejandro Hernández,2019-2020,288
+27.0,Sat,2020-03-07,18:30,Barcelona,Real Sociedad,2.2,0.5,1–0,77035.0,Juan Martínez,2019-2020,289
+27.0,Sat,2020-03-07,21:00,Getafe,Celta Vigo,1.1,0.2,0–0,11286.0,José Sánchez,2019-2020,290
+27.0,Sun,2020-03-08,12:00,Osasuna,Espanyol,2.4,0.3,1–0,15737.0,Ricardo de Burgos,2019-2020,291
+27.0,Sun,2020-03-08,14:00,Valladolid,Athletic Club,2.1,1.1,1–4,21632.0,José Luis Munuera,2019-2020,292
+27.0,Sun,2020-03-08,16:00,Levante,Granada,0.9,1.2,1–1,16168.0,Eduardo Prieto,2019-2020,293
+27.0,Sun,2020-03-08,18:30,Villarreal,Leganés,2.1,1.9,1–2,16143.0,César Soto,2019-2020,294
+27.0,Sun,2020-03-08,21:00,Betis,Real Madrid,1.3,2.1,2–1,51521.0,José González,2019-2020,295

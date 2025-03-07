@@ -1,0 +1,381 @@
+Wk,Day,Date,Time,Home,Away,xG,xG.1,Score,Attendance,Referee,season,game_id
+1.0,Fri,2022-08-12,21:00,Osasuna,Sevilla,1.5,0.9,2–1,18536.0,Carlos del Cerro,2022-2023,0
+1.0,Sat,2022-08-13,17:00,Celta Vigo,Espanyol,0.4,1.1,2–2,13859.0,Miguel Ángel Ortiz Arias,2022-2023,1
+1.0,Sat,2022-08-13,19:00,Valladolid,Villarreal,1.0,1.5,0–3,17543.0,Mario Melero,2022-2023,2
+1.0,Sat,2022-08-13,21:00,Barcelona,Rayo Vallecano,1.9,0.5,0–0,81104.0,Alejandro Hernández,2022-2023,3
+1.0,Sun,2022-08-14,17:30,Cádiz,Real Sociedad,0.2,1.7,0–1,16570.0,Isidro Díaz de Mera,2022-2023,4
+1.0,Sun,2022-08-14,19:30,Valencia,Girona,1.6,0.1,1–0,39359.0,Jorge Figueroa,2022-2023,5
+1.0,Sun,2022-08-14,22:00,Almería,Real Madrid,0.7,2.1,1–2,14386.0,Juan Martínez,2022-2023,6
+1.0,Mon,2022-08-15,17:30,Athletic Club,Mallorca,1.6,0.4,0–0,39747.0,Javier Villanueva,2022-2023,7
+1.0,Mon,2022-08-15,19:30,Getafe,Atlético Madrid,0.7,1.2,0–3,12235.0,José Sánchez,2022-2023,8
+1.0,Mon,2022-08-15,21:30,Betis,Elche,3.1,0.4,3–0,50622.0,Guillermo Cuadra,2022-2023,9
+2.0,Fri,2022-08-19,20:00,Espanyol,Rayo Vallecano,0.8,1.4,0–2,16071.0,Jorge Figueroa,2022-2023,11
+2.0,Fri,2022-08-19,22:00,Sevilla,Valladolid,2.0,0.5,1–1,33991.0,Juan Pulido,2022-2023,12
+2.0,Sat,2022-08-20,17:30,Osasuna,Cádiz,2.7,1.0,2–0,18587.0,Antonio Matéu Lahoz,2022-2023,13
+2.0,Sat,2022-08-20,19:30,Mallorca,Betis,0.6,2.1,1–2,15579.0,Pablo González,2022-2023,14
+2.0,Sat,2022-08-20,22:00,Celta Vigo,Real Madrid,1.4,3.7,1–4,15681.0,Jesús Gil,2022-2023,15
+2.0,Sun,2022-08-21,17:30,Athletic Club,Valencia,1.0,0.7,1–0,43333.0,César Soto,2022-2023,16
+2.0,Sun,2022-08-21,19:30,Atlético Madrid,Villarreal,1.6,1.8,0–2,57033.0,Ricardo de Burgos,2022-2023,17
+2.0,Sun,2022-08-21,22:00,Real Sociedad,Barcelona,0.8,2.1,1–4,36201.0,José Luis Munuera,2022-2023,18
+2.0,Mon,2022-08-22,20:00,Elche,Almería,1.0,0.7,1–1,23361.0,Isidro Díaz de Mera,2022-2023,19
+2.0,Mon,2022-08-22,22:00,Girona,Getafe,1.1,0.6,3–1,10460.0,Alejandro Muñíz,2022-2023,20
+3.0,Fri,2022-08-26,20:00,Girona,Celta Vigo,1.0,1.0,0–1,11329.0,Carlos del Cerro,2022-2023,22
+3.0,Fri,2022-08-26,22:00,Betis,Osasuna,0.5,1.3,1–0,52580.0,Juan Martínez,2022-2023,23
+3.0,Sat,2022-08-27,17:30,Elche,Real Sociedad,0.7,1.8,0–1,22656.0,Javier Villanueva,2022-2023,24
+3.0,Sat,2022-08-27,19:30,Rayo Vallecano,Mallorca,0.7,0.8,0–2,10944.0,José Sánchez,2022-2023,25
+3.0,Sat,2022-08-27,22:00,Almería,Sevilla,2.3,1.0,2–1,13788.0,Jesús Gil,2022-2023,26
+3.0,Sun,2022-08-28,17:30,Getafe,Villarreal,0.3,1.1,0–0,9815.0,Jorge Figueroa,2022-2023,27
+3.0,Sun,2022-08-28,19:30,Barcelona,Valladolid,2.6,0.8,4–0,83972.0,Ricardo de Burgos,2022-2023,28
+3.0,Sun,2022-08-28,22:00,Espanyol,Real Madrid,1.3,2.1,1–3,25778.0,Mario Melero,2022-2023,29
+3.0,Mon,2022-08-29,20:00,Cádiz,Athletic Club,0.4,2.4,0–4,17029.0,Miguel Ángel Ortiz Arias,2022-2023,30
+3.0,Mon,2022-08-29,22:00,Valencia,Atlético Madrid,0.5,1.5,0–1,43910.0,Guillermo Cuadra,2022-2023,31
+4.0,Fri,2022-09-02,21:00,Celta Vigo,Cádiz,0.7,0.3,3–0,14510.0,Juan Pulido,2022-2023,33
+4.0,Sat,2022-09-03,14:00,Mallorca,Girona,0.7,1.2,1–1,13390.0,Isidro Díaz de Mera,2022-2023,34
+4.0,Sat,2022-09-03,16:15,Real Madrid,Betis,2.9,0.5,2–1,58579.0,José Sánchez,2022-2023,35
+4.0,Sat,2022-09-03,18:30,Real Sociedad,Atlético Madrid,1.4,1.1,1–1,35366.0,César Soto,2022-2023,36
+4.0,Sat,2022-09-03,21:00,Sevilla,Barcelona,1.0,4.0,0–3,40233.0,Antonio Matéu Lahoz,2022-2023,37
+4.0,Sun,2022-09-04,14:00,Osasuna,Rayo Vallecano,2.4,0.2,2–1,18745.0,Alejandro Muñíz,2022-2023,38
+4.0,Sun,2022-09-04,16:15,Athletic Club,Espanyol,1.2,0.6,0–1,41574.0,Juan Martínez,2022-2023,39
+4.0,Sun,2022-09-04,18:30,Villarreal,Elche,3.4,0.6,4–0,13915.0,Miguel Ángel Ortiz Arias,2022-2023,40
+4.0,Sun,2022-09-04,21:00,Valencia,Getafe,2.3,0.2,5–1,38725.0,José Luis Munuera,2022-2023,41
+4.0,Mon,2022-09-05,21:00,Valladolid,Almería,1.2,0.5,1–0,20260.0,Pablo González,2022-2023,42
+5.0,Fri,2022-09-09,21:00,Girona,Valladolid,1.9,0.5,2–1,10053.0,César Soto,2022-2023,44
+5.0,Sat,2022-09-10,14:00,Rayo Vallecano,Valencia,1.7,1.7,2–1,12085.0,Jesús Gil,2022-2023,45
+5.0,Sat,2022-09-10,16:15,Espanyol,Sevilla,2.5,2.0,2–3,20135.0,Guillermo Cuadra,2022-2023,46
+5.0,Sat,2022-09-10,18:30,Cádiz,Barcelona,0.4,3.4,0–4,19530.0,Carlos del Cerro,2022-2023,47
+5.0,Sat,2022-09-10,21:00,Atlético Madrid,Celta Vigo,0.7,1.7,4–1,52247.0,Alejandro Hernández,2022-2023,48
+5.0,Sun,2022-09-11,14:00,Real Madrid,Mallorca,2.3,0.5,4–1,54816.0,Jorge Figueroa,2022-2023,49
+5.0,Sun,2022-09-11,16:15,Elche,Athletic Club,0.9,2.7,1–4,24176.0,Mario Melero,2022-2023,50
+5.0,Sun,2022-09-11,18:30,Getafe,Real Sociedad,1.1,1.2,2–1,11112.0,Juan Pulido,2022-2023,51
+5.0,Sun,2022-09-11,21:00,Betis,Villarreal,1.4,1.7,1–0,53276.0,Ricardo de Burgos,2022-2023,52
+5.0,Mon,2022-09-12,21:00,Almería,Osasuna,0.2,2.0,0–1,12397.0,Javier Villanueva,2022-2023,53
+6.0,Fri,2022-09-16,21:00,Valladolid,Cádiz,1.5,0.3,0–1,20295.0,José Sánchez,2022-2023,55
+6.0,Sat,2022-09-17,14:00,Mallorca,Almería,0.6,0.4,1–0,12687.0,Juan Martínez,2022-2023,56
+6.0,Sat,2022-09-17,16:15,Barcelona,Elche,3.9,0.0,3–0,85073.0,Alejandro Muñíz,2022-2023,57
+6.0,Sat,2022-09-17,18:30,Valencia,Celta Vigo,1.7,0.5,3–0,40965.0,Pablo González,2022-2023,58
+6.0,Sat,2022-09-17,21:00,Athletic Club,Rayo Vallecano,1.9,0.7,3–2,43484.0,Antonio Matéu Lahoz,2022-2023,59
+6.0,Sun,2022-09-18,14:00,Osasuna,Getafe,0.5,0.8,0–2,18255.0,Isidro Díaz de Mera,2022-2023,60
+6.0,Sun,2022-09-18,16:15,Villarreal,Sevilla,1.5,0.6,1–1,18292.0,Alejandro Hernández,2022-2023,61
+6.0,Sun,2022-09-18,18:30,Betis,Girona,1.6,1.3,2–1,52229.0,Miguel Ángel Ortiz Arias,2022-2023,62
+6.0,Sun,2022-09-18,18:30,Real Sociedad,Espanyol,1.9,0.8,2–1,31511.0,Carlos del Cerro,2022-2023,63
+6.0,Sun,2022-09-18,21:00,Atlético Madrid,Real Madrid,1.0,0.9,1–2,66881.0,José Luis Munuera,2022-2023,64
+7.0,Fri,2022-09-30,21:00,Athletic Club,Almería,2.1,0.7,4–0,42110.0,Juan Pulido,2022-2023,66
+7.0,Sat,2022-10-01,14:00,Cádiz,Villarreal,0.7,1.6,0–0,15516.0,Javier Villanueva,2022-2023,67
+7.0,Sat,2022-10-01,16:15,Getafe,Valladolid,2.8,1.6,2–3,10958.0,Alejandro Muñíz,2022-2023,68
+7.0,Sat,2022-10-01,18:30,Sevilla,Atlético Madrid,0.5,2.2,0–2,37754.0,Ricardo de Burgos,2022-2023,69
+7.0,Sat,2022-10-01,21:00,Mallorca,Barcelona,1.2,0.7,0–1,18103.0,Jesús Gil,2022-2023,70
+7.0,Sun,2022-10-02,14:00,Espanyol,Valencia,0.8,1.1,2–2,19766.0,Valentín Pizarro,2022-2023,71
+7.0,Sun,2022-10-02,16:15,Celta Vigo,Betis,0.9,0.9,1–0,14344.0,César Soto,2022-2023,72
+7.0,Sun,2022-10-02,18:30,Girona,Real Sociedad,1.0,2.1,3–5,12217.0,Mario Melero,2022-2023,73
+7.0,Sun,2022-10-02,21:00,Real Madrid,Osasuna,2.5,0.5,1–1,55410.0,Guillermo Cuadra,2022-2023,74
+7.0,Mon,2022-10-03,21:00,Rayo Vallecano,Elche,0.9,1.1,2–1,11662.0,Jorge Figueroa,2022-2023,75
+8.0,Fri,2022-10-07,21:00,Osasuna,Valencia,1.6,2.1,1–2,20260.0,Miguel Ángel Ortiz Arias,2022-2023,77
+8.0,Sat,2022-10-08,14:00,Almería,Rayo Vallecano,1.2,0.8,3–1,10783.0,Pablo González,2022-2023,78
+8.0,Sat,2022-10-08,16:15,Atlético Madrid,Girona,1.9,0.8,2–1,54069.0,Juan Martínez,2022-2023,79
+8.0,Sat,2022-10-08,18:30,Sevilla,Athletic Club,1.0,1.7,1–1,36502.0,Jesús Gil,2022-2023,80
+8.0,Sat,2022-10-08,21:00,Getafe,Real Madrid,0.3,1.4,0–1,14502.0,Antonio Matéu Lahoz,2022-2023,81
+8.0,Sun,2022-10-09,14:00,Valladolid,Betis,0.6,0.5,0–0,22561.0,Carlos del Cerro,2022-2023,82
+8.0,Sun,2022-10-09,16:15,Cádiz,Espanyol,1.3,1.3,2–2,16572.0,Alejandro Hernández,2022-2023,83
+8.0,Sun,2022-10-09,18:30,Real Sociedad,Villarreal,1.2,0.2,1–0,32689.0,César Soto,2022-2023,84
+8.0,Sun,2022-10-09,21:00,Barcelona,Celta Vigo,2.0,1.5,1–0,81525.0,José Luis Munuera,2022-2023,85
+8.0,Mon,2022-10-10,21:00,Elche,Mallorca,0.5,2.3,1–1,12000.0,Valentín Pizarro,2022-2023,86
+9.0,Fri,2022-10-14,21:00,Rayo Vallecano,Getafe,1.6,0.4,0–0,13076.0,Mario Melero,2022-2023,88
+9.0,Sat,2022-10-15,14:00,Girona,Cádiz,2.3,1.1,1–1,9927.0,Ricardo de Burgos,2022-2023,89
+9.0,Sat,2022-10-15,16:15,Valencia,Elche,2.7,1.7,2–2,41805.0,Juan Pulido,2022-2023,90
+9.0,Sat,2022-10-15,18:30,Mallorca,Sevilla,0.7,0.2,0–1,15300.0,Javier Villanueva,2022-2023,91
+9.0,Sat,2022-10-15,21:00,Athletic Club,Atlético Madrid,1.2,0.3,0–1,48391.0,Jorge Figueroa,2022-2023,92
+9.0,Sun,2022-10-16,14:00,Celta Vigo,Real Sociedad,0.5,0.8,1–2,13101.0,Guillermo Cuadra,2022-2023,93
+9.0,Sun,2022-10-16,16:15,Real Madrid,Barcelona,1.1,2.0,3–1,62876.0,José Sánchez,2022-2023,94
+9.0,Sun,2022-10-16,18:30,Espanyol,Valladolid,1.3,0.7,1–0,17770.0,Antonio Matéu Lahoz,2022-2023,95
+9.0,Sun,2022-10-16,21:00,Betis,Almería,2.5,0.8,3–1,46112.0,Alejandro Muñíz,2022-2023,96
+9.0,Mon,2022-10-17,21:00,Villarreal,Osasuna,1.5,0.5,2–0,9699.0,Pablo González,2022-2023,97
+10.0,Tue,2022-10-18,19:00,Sevilla,Valencia,1.1,1.8,1–1,37353.0,César Soto,2022-2023,99
+10.0,Tue,2022-10-18,20:00,Getafe,Athletic Club,0.8,1.0,2–2,11395.0,José Luis Munuera,2022-2023,100
+10.0,Tue,2022-10-18,21:00,Atlético Madrid,Rayo Vallecano,1.1,1.8,1–1,46803.0,Javier Villanueva,2022-2023,101
+10.0,Wed,2022-10-19,19:00,Cádiz,Betis,0.9,0.9,0–0,18505.0,Antonio Matéu Lahoz,2022-2023,102
+10.0,Wed,2022-10-19,19:00,Valladolid,Celta Vigo,1.5,2.6,4–1,16547.0,Valentín Pizarro,2022-2023,103
+10.0,Wed,2022-10-19,20:00,Real Sociedad,Mallorca,1.2,0.9,1–0,27085.0,Miguel Ángel Ortiz Arias,2022-2023,104
+10.0,Wed,2022-10-19,21:00,Elche,Real Madrid,0.8,1.5,0–3,30236.0,Jesús Gil,2022-2023,105
+10.0,Thu,2022-10-20,19:00,Almería,Girona,1.8,2.8,3–2,11194.0,Guillermo Cuadra,2022-2023,106
+10.0,Thu,2022-10-20,20:00,Osasuna,Espanyol,1.0,1.0,1–0,17832.0,Mario Melero,2022-2023,107
+10.0,Thu,2022-10-20,21:00,Barcelona,Villarreal,2.1,0.4,3–0,73261.0,Carlos del Cerro,2022-2023,108
+11.0,Sat,2022-10-22,14:00,Rayo Vallecano,Cádiz,3.7,0.2,5–1,12975.0,Alejandro Muñíz,2022-2023,110
+11.0,Sat,2022-10-22,16:15,Valladolid,Real Sociedad,0.8,0.9,1–0,21175.0,Jorge Figueroa,2022-2023,111
+11.0,Sat,2022-10-22,18:30,Valencia,Mallorca,1.2,1.5,1–2,41199.0,José Sánchez,2022-2023,112
+11.0,Sat,2022-10-22,21:00,Real Madrid,Sevilla,3.0,0.5,3–1,59625.0,Alejandro Hernández,2022-2023,113
+11.0,Sun,2022-10-23,14:00,Espanyol,Elche,2.2,0.5,2–2,17560.0,José Luis Munuera,2022-2023,114
+11.0,Sun,2022-10-23,16:15,Betis,Atlético Madrid,1.4,0.8,1–2,50179.0,Jesús Gil,2022-2023,115
+11.0,Sun,2022-10-23,18:30,Girona,Osasuna,0.4,0.6,1–1,10032.0,Juan Pulido,2022-2023,116
+11.0,Sun,2022-10-23,18:30,Villarreal,Almería,1.0,1.0,2–1,13816.0,Ricardo de Burgos,2022-2023,117
+11.0,Sun,2022-10-23,21:00,Barcelona,Athletic Club,1.4,0.5,4–0,84817.0,Juan Martínez,2022-2023,118
+11.0,Mon,2022-10-24,21:00,Celta Vigo,Getafe,0.7,0.2,1–1,9774.0,Pablo González,2022-2023,119
+12.0,Fri,2022-10-28,21:00,Mallorca,Espanyol,1.4,0.3,1–1,13982.0,Isidro Díaz de Mera,2022-2023,121
+12.0,Sat,2022-10-29,14:00,Almería,Celta Vigo,2.3,0.3,3–1,11080.0,Carlos del Cerro,2022-2023,122
+12.0,Sat,2022-10-29,16:15,Cádiz,Atlético Madrid,1.1,1.3,3–2,18183.0,José Sánchez,2022-2023,123
+12.0,Sat,2022-10-29,18:30,Sevilla,Rayo Vallecano,1.2,0.7,0–1,36601.0,Antonio Matéu Lahoz,2022-2023,124
+12.0,Sat,2022-10-29,21:00,Valencia,Barcelona,0.2,1.6,0–1,46007.0,Ricardo de Burgos,2022-2023,125
+12.0,Sun,2022-10-30,14:00,Osasuna,Valladolid,2.5,0.5,2–0,19429.0,Guillermo Cuadra,2022-2023,126
+12.0,Sun,2022-10-30,16:15,Real Madrid,Girona,2.9,1.4,1–1,58367.0,Mario Melero,2022-2023,127
+12.0,Sun,2022-10-30,18:30,Athletic Club,Villarreal,1.7,0.3,1–0,46081.0,Miguel Ángel Ortiz Arias,2022-2023,128
+12.0,Sun,2022-10-30,21:00,Real Sociedad,Betis,0.9,1.3,0–2,32435.0,Javier Villanueva,2022-2023,129
+12.0,Mon,2022-10-31,21:00,Elche,Getafe,1.3,0.4,0–1,19588.0,César Soto,2022-2023,130
+13.0,Fri,2022-11-04,21:00,Girona,Athletic Club,1.0,0.7,2–1,11420.0,Valentín Pizarro,2022-2023,132
+13.0,Sat,2022-11-05,14:00,Getafe,Cádiz,0.6,1.4,0–0,10554.0,Alejandro Hernández,2022-2023,133
+13.0,Sat,2022-11-05,16:15,Valladolid,Elche,1.9,0.2,2–1,20176.0,Ricardo de Burgos,2022-2023,134
+13.0,Sat,2022-11-05,18:30,Celta Vigo,Osasuna,0.7,0.4,1–2,14209.0,Jorge Figueroa,2022-2023,135
+13.0,Sat,2022-11-05,21:00,Barcelona,Almería,4.0,0.5,2–0,92605.0,Pablo González,2022-2023,136
+13.0,Sun,2022-11-06,14:00,Atlético Madrid,Espanyol,1.9,0.7,1–1,50007.0,Juan Pulido,2022-2023,137
+13.0,Sun,2022-11-06,16:15,Real Sociedad,Valencia,1.1,0.9,1–1,32773.0,José Luis Munuera,2022-2023,138
+13.0,Sun,2022-11-06,18:30,Villarreal,Mallorca,0.5,0.4,0–2,16603.0,Alejandro Muñíz,2022-2023,139
+13.0,Sun,2022-11-06,21:00,Betis,Sevilla,1.0,1.5,1–1,54034.0,José Sánchez,2022-2023,140
+13.0,Mon,2022-11-07,21:00,Rayo Vallecano,Real Madrid,1.5,2.4,3–2,14216.0,Juan Martínez,2022-2023,141
+14.0,Tue,2022-11-08,19:00,Elche,Girona,0.6,2.3,1–2,17339.0,Pablo González,2022-2023,143
+14.0,Tue,2022-11-08,20:00,Athletic Club,Valladolid,2.1,0.5,3–0,40072.0,Isidro Díaz de Mera,2022-2023,144
+14.0,Tue,2022-11-08,21:30,Osasuna,Barcelona,1.0,0.8,1–2,21603.0,Jesús Gil,2022-2023,145
+14.0,Wed,2022-11-09,19:00,Almería,Getafe,0.5,0.4,1–0,11454.0,Alejandro Muñíz,2022-2023,146
+14.0,Wed,2022-11-09,19:00,Sevilla,Real Sociedad,0.6,1.7,1–2,34814.0,Carlos del Cerro,2022-2023,147
+14.0,Wed,2022-11-09,20:00,Espanyol,Villarreal,1.1,0.7,0–1,17400.0,Javier Villanueva,2022-2023,148
+14.0,Wed,2022-11-09,21:30,Mallorca,Atlético Madrid,1.3,1.3,1–0,14475.0,Mario Melero,2022-2023,149
+14.0,Thu,2022-11-10,19:00,Rayo Vallecano,Celta Vigo,0.4,0.9,0–0,12419.0,José Luis Munuera,2022-2023,150
+14.0,Thu,2022-11-10,20:00,Valencia,Betis,2.0,0.2,3–0,39876.0,Miguel Ángel Ortiz Arias,2022-2023,151
+14.0,Thu,2022-11-10,21:30,Real Madrid,Cádiz,2.0,0.9,2–1,53190.0,César Soto,2022-2023,152
+15.0,Thu,2022-12-29,17:00,Girona,Rayo Vallecano,2.3,1.0,2–2,11451.0,Jorge Figueroa,2022-2023,154
+15.0,Thu,2022-12-29,19:15,Betis,Athletic Club,0.5,0.4,0–0,53565.0,Alejandro Hernández,2022-2023,155
+15.0,Thu,2022-12-29,21:30,Atlético Madrid,Elche,1.7,0.4,2–0,48119.0,Guillermo Cuadra,2022-2023,156
+15.0,Fri,2022-12-30,17:00,Getafe,Mallorca,1.2,0.6,2–0,9755.0,Hsu Jason,2022-2023,157
+15.0,Fri,2022-12-30,19:15,Cádiz,Almería,1.3,2.3,1–1,17345.0,Juan Martínez,2022-2023,158
+15.0,Fri,2022-12-30,19:15,Celta Vigo,Sevilla,2.0,0.7,1–1,13653.0,Ricardo de Burgos,2022-2023,159
+15.0,Fri,2022-12-30,21:30,Valladolid,Real Madrid,0.6,2.3,0–2,25950.0,José Luis Munuera,2022-2023,160
+15.0,Sat,2022-12-31,14:00,Barcelona,Espanyol,2.2,0.9,1–1,88095.0,Antonio Matéu,2022-2023,161
+15.0,Sat,2022-12-31,16:15,Real Sociedad,Osasuna,1.4,0.4,2–0,34847.0,Valentín Pizarro,2022-2023,162
+15.0,Sat,2022-12-31,16:15,Villarreal,Valencia,2.5,1.4,2–1,19247.0,José Sánchez,2022-2023,163
+16.0,Fri,2023-01-06,18:30,Elche,Celta Vigo,1.0,2.0,0–1,20121.0,Miguel Ángel Ortiz Arias,2022-2023,165
+16.0,Fri,2023-01-06,21:00,Valencia,Cádiz,0.4,0.4,0–1,39003.0,Pablo González,2022-2023,166
+16.0,Sat,2023-01-07,16:15,Villarreal,Real Madrid,3.0,2.2,2–1,21088.0,César Soto,2022-2023,167
+16.0,Sat,2023-01-07,18:30,Mallorca,Valladolid,1.2,0.6,1–0,14129.0,Valentín Pizarro,2022-2023,168
+16.0,Sat,2023-01-07,21:00,Espanyol,Girona,1.5,1.2,2–2,21429.0,Carlos del Cerro,2022-2023,169
+16.0,Sun,2023-01-08,14:00,Almería,Real Sociedad,0.6,1.7,0–2,12020.0,Hsu Jason,2022-2023,170
+16.0,Sun,2023-01-08,16:15,Rayo Vallecano,Betis,1.6,0.9,1–2,13119.0,Isidro Díaz de Mera,2022-2023,171
+16.0,Sun,2023-01-08,18:30,Sevilla,Getafe,1.2,0.7,2–1,35389.0,Juan Martínez,2022-2023,172
+16.0,Sun,2023-01-08,21:00,Atlético Madrid,Barcelona,1.7,0.7,0–1,63493.0,José Luis Munuera,2022-2023,173
+16.0,Mon,2023-01-09,21:00,Athletic Club,Osasuna,1.0,0.4,0–0,39216.0,Mario Melero,2022-2023,174
+17.0,Fri,2023-01-13,21:00,Celta Vigo,Villarreal,2.1,0.1,1–1,13931.0,Hsu Jason,2022-2023,176
+17.0,Sat,2023-01-14,14:00,Valladolid,Rayo Vallecano,0.6,1.1,0–1,19969.0,Mario Melero,2022-2023,177
+17.0,Sat,2023-01-14,16:15,Girona,Sevilla,2.2,1.1,2–1,12035.0,Valentín Pizarro,2022-2023,178
+17.0,Sat,2023-01-14,18:30,Osasuna,Mallorca,1.6,0.5,1–0,19887.0,César Soto,2022-2023,179
+17.0,Sat,2023-01-14,21:00,Real Sociedad,Athletic Club,2.0,0.3,3–1,38296.0,Guillermo Cuadra,2022-2023,180
+17.0,Sun,2023-01-15,14:00,Getafe,Espanyol,0.5,0.8,1–2,10286.0,Jorge Figueroa,2022-2023,181
+17.0,Sun,2023-01-15,16:15,Almería,Atlético Madrid,1.4,2.4,1–1,14128.0,José Sánchez,2022-2023,182
+17.0,Mon,2023-01-16,21:00,Cádiz,Elche,1.6,0.6,1–1,17389.0,Carlos del Cerro,2022-2023,183
+18.0,Fri,2023-01-20,21:00,Mallorca,Celta Vigo,0.5,0.5,1–0,12253.0,Juan Pulido,2022-2023,185
+18.0,Sat,2023-01-21,14:00,Rayo Vallecano,Real Sociedad,0.9,1.6,0–2,12874.0,Antonio Matéu,2022-2023,186
+18.0,Sat,2023-01-21,16:15,Espanyol,Betis,2.3,0.9,1–0,20811.0,Pablo González,2022-2023,187
+18.0,Sat,2023-01-21,18:30,Atlético Madrid,Valladolid,3.3,0.5,3–0,53253.0,Ricardo de Burgos,2022-2023,188
+18.0,Sat,2023-01-21,21:00,Sevilla,Cádiz,1.7,0.1,1–0,37400.0,Alejandro Hernández,2022-2023,189
+18.0,Sun,2023-01-22,14:00,Villarreal,Girona,2.5,0.6,1–0,15129.0,Carlos del Cerro,2022-2023,190
+18.0,Sun,2023-01-22,16:15,Elche,Osasuna,1.2,0.5,1–1,17589.0,Alejandro Muñíz,2022-2023,191
+18.0,Sun,2023-01-22,18:30,Barcelona,Getafe,0.7,1.1,1–0,79814.0,Javier Villanueva,2022-2023,192
+18.0,Sun,2023-01-22,21:00,Athletic Club,Real Madrid,1.1,1.1,0–2,49316.0,José Sánchez,2022-2023,193
+18.0,Mon,2023-01-23,21:00,Valencia,Almería,1.9,1.4,2–2,33442.0,Jesús Gil,2022-2023,194
+19.0,Fri,2023-01-27,21:00,Almería,Espanyol,2.1,0.8,3–1,11629.0,Javier Villanueva,2022-2023,196
+19.0,Sat,2023-01-28,14:00,Cádiz,Mallorca,1.9,0.4,2–0,16117.0,Ricardo de Burgos,2022-2023,197
+19.0,Sat,2023-01-28,16:15,Girona,Barcelona,1.1,1.1,0–1,13402.0,Alejandro Muñíz,2022-2023,198
+19.0,Sat,2023-01-28,18:30,Sevilla,Elche,3.2,0.4,3–0,35567.0,César Soto,2022-2023,199
+19.0,Sat,2023-01-28,21:00,Getafe,Betis,0.3,1.7,0–1,11851.0,Guillermo Cuadra,2022-2023,200
+19.0,Sun,2023-01-29,14:00,Valladolid,Valencia,1.5,1.2,1–0,19675.0,Jorge Figueroa,2022-2023,201
+19.0,Sun,2023-01-29,16:15,Osasuna,Atlético Madrid,0.9,1.6,0–1,20902.0,Hsu Jason,2022-2023,202
+19.0,Sun,2023-01-29,18:30,Celta Vigo,Athletic Club,0.7,0.4,1–0,14754.0,Isidro Díaz de Mera,2022-2023,203
+19.0,Sun,2023-01-29,21:00,Real Madrid,Real Sociedad,1.3,0.4,0–0,58129.0,Mario Melero,2022-2023,204
+19.0,Mon,2023-01-30,21:00,Villarreal,Rayo Vallecano,0.8,1.0,0–1,14378.0,Juan Pulido,2022-2023,205
+17.0,Wed,2023-02-01,21:00,Betis,Barcelona,0.6,1.9,1–2,48181.0,Ricardo de Burgos,2022-2023,207
+17.0,Thu,2023-02-02,21:00,Real Madrid,Valencia,2.3,0.2,2–0,51926.0,Hsu Jason,2022-2023,208
+20.0,Fri,2023-02-03,21:00,Athletic Club,Cádiz,1.7,1.6,4–1,42916.0,Valentín Pizarro,2022-2023,210
+20.0,Sat,2023-02-04,14:00,Espanyol,Osasuna,1.4,0.9,1–1,22438.0,Jesús Gil,2022-2023,211
+20.0,Sat,2023-02-04,16:15,Elche,Villarreal,3.0,1.4,3–1,18421.0,José Luis Munuera,2022-2023,212
+20.0,Sat,2023-02-04,18:30,Atlético Madrid,Getafe,0.7,1.2,1–1,56079.0,Antonio Matéu,2022-2023,213
+20.0,Sat,2023-02-04,21:00,Betis,Celta Vigo,3.4,1.9,3–4,46595.0,Carlos del Cerro,2022-2023,214
+20.0,Sun,2023-02-05,14:00,Mallorca,Real Madrid,0.2,1.7,1–0,18258.0,Alejandro Hernández,2022-2023,215
+20.0,Sun,2023-02-05,16:15,Girona,Valencia,2.3,1.0,1–0,10732.0,Javier Villanueva,2022-2023,216
+20.0,Sun,2023-02-05,18:30,Real Sociedad,Valladolid,1.2,0.7,0–1,32214.0,Pablo González,2022-2023,217
+20.0,Sun,2023-02-05,21:00,Barcelona,Sevilla,2.7,0.1,3–0,77987.0,José Sánchez,2022-2023,218
+20.0,Mon,2023-02-06,21:00,Rayo Vallecano,Almería,1.1,1.2,2–0,11783.0,César Soto,2022-2023,219
+21.0,Fri,2023-02-10,21:00,Cádiz,Girona,0.7,0.2,2–0,14873.0,Juan Pulido,2022-2023,221
+21.0,Sat,2023-02-11,16:15,Almería,Betis,2.3,2.5,2–3,14288.0,Hsu Jason,2022-2023,222
+21.0,Sat,2023-02-11,18:30,Sevilla,Mallorca,2.1,0.3,2–0,35150.0,Javier Villanueva,2022-2023,223
+21.0,Sat,2023-02-11,21:00,Valencia,Athletic Club,1.6,1.5,1–2,36688.0,César Soto,2022-2023,224
+21.0,Sun,2023-02-12,14:00,Getafe,Rayo Vallecano,1.4,2.2,1–1,12042.0,Isidro Díaz de Mera,2022-2023,225
+21.0,Sun,2023-02-12,16:15,Celta Vigo,Atlético Madrid,0.9,0.9,0–1,15842.0,Jorge Figueroa,2022-2023,226
+21.0,Sun,2023-02-12,18:30,Valladolid,Osasuna,1.6,0.7,0–0,21044.0,Guillermo Cuadra,2022-2023,227
+21.0,Sun,2023-02-12,21:00,Villarreal,Barcelona,1.1,1.7,0–1,21178.0,Alejandro Hernández,2022-2023,228
+21.0,Mon,2023-02-13,21:00,Espanyol,Real Sociedad,1.2,1.4,2–3,15867.0,Alejandro Muñíz,2022-2023,229
+21.0,Wed,2023-02-15,21:00,Real Madrid,Elche,4.1,0.6,4–0,44319.0,Ricardo de Burgos,2022-2023,230
+22.0,Fri,2023-02-17,21:00,Girona,Almería,3.0,1.8,6–2,8879.0,Valentín Pizarro,2022-2023,232
+22.0,Sat,2023-02-18,14:00,Real Sociedad,Celta Vigo,1.4,1.4,1–1,29312.0,Miguel Ángel Ortiz Arias,2022-2023,233
+22.0,Sat,2023-02-18,16:15,Betis,Valladolid,2.4,1.0,2–1,51396.0,Antonio Matéu,2022-2023,234
+22.0,Sat,2023-02-18,18:30,Mallorca,Villarreal,2.2,1.2,4–2,13957.0,José Sánchez,2022-2023,235
+22.0,Sat,2023-02-18,21:00,Osasuna,Real Madrid,0.5,1.3,0–2,21668.0,José Luis Munuera,2022-2023,236
+22.0,Sun,2023-02-19,14:00,Elche,Espanyol,1.8,1.3,0–1,18963.0,Carlos del Cerro,2022-2023,237
+22.0,Sun,2023-02-19,16:15,Rayo Vallecano,Sevilla,1.3,0.5,1–1,13294.0,Jesús Gil,2022-2023,238
+22.0,Sun,2023-02-19,18:30,Atlético Madrid,Athletic Club,1.2,0.8,1–0,61617.0,Juan Martínez,2022-2023,239
+22.0,Sun,2023-02-19,21:00,Barcelona,Cádiz,2.2,1.0,2–0,72010.0,Pablo González,2022-2023,240
+22.0,Mon,2023-02-20,21:00,Getafe,Valencia,1.8,1.0,1–0,10112.0,Mario Melero,2022-2023,241
+23.0,Fri,2023-02-24,21:00,Elche,Betis,1.0,4.1,2–3,20643.0,Javier Villanueva,2022-2023,243
+23.0,Sat,2023-02-25,14:00,Espanyol,Mallorca,1.4,0.7,2–1,21403.0,Hsu Jason,2022-2023,244
+23.0,Sat,2023-02-25,16:15,Cádiz,Rayo Vallecano,0.8,0.6,1–0,16703.0,Alejandro Muñíz,2022-2023,245
+23.0,Sat,2023-02-25,18:30,Real Madrid,Atlético Madrid,1.6,0.3,1–1,64721.0,Jesús Gil,2022-2023,246
+23.0,Sat,2023-02-25,21:00,Valencia,Real Sociedad,0.5,0.7,1–0,37465.0,Alejandro Hernández,2022-2023,247
+23.0,Sun,2023-02-26,14:00,Athletic Club,Girona,1.6,1.1,2–3,42816.0,Isidro Díaz de Mera,2022-2023,248
+23.0,Sun,2023-02-26,16:15,Celta Vigo,Valladolid,1.8,0.5,3–0,14755.0,Ricardo de Burgos,2022-2023,249
+23.0,Sun,2023-02-26,18:30,Almería,Barcelona,1.0,1.4,1–0,15279.0,Miguel Ángel Ortiz Arias,2022-2023,250
+23.0,Sun,2023-02-26,21:00,Sevilla,Osasuna,1.7,0.9,2–3,34538.0,Juan Pulido,2022-2023,251
+23.0,Mon,2023-02-27,21:00,Villarreal,Getafe,1.5,0.6,2–1,13090.0,Jorge Figueroa,2022-2023,252
+24.0,Fri,2023-03-03,21:00,Real Sociedad,Cádiz,1.2,0.6,0–0,28733.0,Antonio Matéu,2022-2023,254
+24.0,Sat,2023-03-04,14:00,Getafe,Girona,1.5,0.8,3–2,9802.0,Juan Martínez,2022-2023,255
+24.0,Sat,2023-03-04,16:15,Almería,Villarreal,0.4,2.1,0–2,13311.0,Pablo González,2022-2023,256
+24.0,Sat,2023-03-04,18:30,Mallorca,Elche,0.9,0.9,0–1,14065.0,José Luis Munuera,2022-2023,257
+24.0,Sat,2023-03-04,21:00,Atlético Madrid,Sevilla,3.2,1.5,6–1,57737.0,Guillermo Cuadra,2022-2023,258
+24.0,Sun,2023-03-05,14:00,Valladolid,Espanyol,1.4,1.2,2–1,19212.0,Valentín Pizarro,2022-2023,259
+24.0,Sun,2023-03-05,16:15,Barcelona,Valencia,1.8,1.0,1–0,89644.0,Hsu Jason,2022-2023,260
+24.0,Sun,2023-03-05,18:30,Rayo Vallecano,Athletic Club,1.1,1.3,0–0,12979.0,Mario Melero,2022-2023,261
+24.0,Sun,2023-03-05,21:00,Betis,Real Madrid,0.5,1.5,0–0,52212.0,César Soto,2022-2023,262
+24.0,Mon,2023-03-06,21:00,Osasuna,Celta Vigo,0.8,1.1,0–0,17684.0,José Sánchez,2022-2023,263
+25.0,Fri,2023-03-10,21:00,Cádiz,Getafe,1.7,2.7,2–2,18414.0,Alejandro Hernández,2022-2023,265
+25.0,Sat,2023-03-11,14:00,Real Madrid,Espanyol,1.7,1.2,3–1,59872.0,Jorge Figueroa,2022-2023,266
+25.0,Sat,2023-03-11,16:15,Elche,Valladolid,2.0,0.2,1–1,18972.0,Isidro Díaz de Mera,2022-2023,267
+25.0,Sat,2023-03-11,18:30,Celta Vigo,Rayo Vallecano,2.4,1.1,3–0,14451.0,Juan Pulido,2022-2023,268
+25.0,Sat,2023-03-11,21:00,Valencia,Osasuna,1.7,0.3,1–0,37762.0,Javier Villanueva,2022-2023,269
+25.0,Sun,2023-03-12,14:00,Mallorca,Real Sociedad,1.4,0.5,1–1,13840.0,Juan Martínez,2022-2023,270
+25.0,Sun,2023-03-12,16:15,Sevilla,Almería,3.0,1.1,2–1,37848.0,Ricardo de Burgos,2022-2023,271
+25.0,Sun,2023-03-12,18:30,Villarreal,Betis,1.7,1.0,1–1,19174.0,Miguel Ángel Ortiz Arias,2022-2023,272
+25.0,Sun,2023-03-12,21:00,Athletic Club,Barcelona,0.9,0.9,0–1,49741.0,Jesús Gil,2022-2023,273
+25.0,Mon,2023-03-13,21:00,Girona,Atlético Madrid,0.4,1.9,0–1,12499.0,Mario Melero,2022-2023,274
+26.0,Fri,2023-03-17,21:00,Valladolid,Athletic Club,1.1,2.6,1–3,21707.0,Hsu Jason,2022-2023,276
+26.0,Sat,2023-03-18,14:00,Almería,Cádiz,2.4,1.4,1–1,12183.0,Carlos del Cerro,2022-2023,277
+26.0,Sat,2023-03-18,16:15,Rayo Vallecano,Girona,1.9,1.8,2–2,12263.0,Pablo González,2022-2023,278
+26.0,Sat,2023-03-18,18:30,Espanyol,Celta Vigo,1.2,1.6,1–3,26231.0,Guillermo Cuadra,2022-2023,279
+26.0,Sat,2023-03-18,21:00,Atlético Madrid,Valencia,1.9,1.0,3–0,58317.0,José Luis Munuera,2022-2023,280
+26.0,Sun,2023-03-19,14:00,Betis,Mallorca,0.8,0.2,1–0,50402.0,Valentín Pizarro,2022-2023,281
+26.0,Sun,2023-03-19,16:15,Osasuna,Villarreal,0.9,1.8,0–3,20128.0,Alejandro Muñíz,2022-2023,282
+26.0,Sun,2023-03-19,16:15,Real Sociedad,Elche,2.0,0.1,2–0,28496.0,José Sánchez,2022-2023,283
+26.0,Sun,2023-03-19,18:30,Getafe,Sevilla,1.7,1.0,2–0,12253.0,Antonio Matéu,2022-2023,284
+26.0,Sun,2023-03-19,21:00,Barcelona,Real Madrid,1.6,0.5,2–1,95745.0,Ricardo de Burgos,2022-2023,285
+27.0,Fri,2023-03-31,21:00,Mallorca,Osasuna,0.5,0.5,0–0,14132.0,Isidro Díaz de Mera,2022-2023,287
+27.0,Sat,2023-04-01,14:00,Girona,Espanyol,1.6,1.0,2–1,12841.0,Miguel Ángel Ortiz Arias,2022-2023,288
+27.0,Sat,2023-04-01,16:15,Athletic Club,Getafe,0.9,0.8,0–0,43782.0,Javier Villanueva,2022-2023,289
+27.0,Sat,2023-04-01,18:30,Cádiz,Sevilla,1.1,1.1,0–2,19181.0,César Soto,2022-2023,290
+27.0,Sat,2023-04-01,21:00,Elche,Barcelona,0.8,1.7,0–4,28142.0,Carlos del Cerro,2022-2023,291
+27.0,Sun,2023-04-02,14:00,Celta Vigo,Almería,2.0,1.0,2–2,14011.0,Alejandro Hernández,2022-2023,292
+27.0,Sun,2023-04-02,16:15,Real Madrid,Valladolid,4.5,0.8,6–0,59400.0,Juan Pulido,2022-2023,293
+27.0,Sun,2023-04-02,18:30,Villarreal,Real Sociedad,2.7,1.0,2–0,18768.0,Jesús Gil,2022-2023,294
+27.0,Sun,2023-04-02,21:00,Atlético Madrid,Betis,1.6,0.6,1–0,61623.0,Juan Martínez,2022-2023,295
+27.0,Mon,2023-04-03,21:00,Valencia,Rayo Vallecano,2.3,0.8,1–1,39769.0,Jorge Figueroa,2022-2023,296
+28.0,Fri,2023-04-07,21:00,Sevilla,Celta Vigo,0.4,0.6,2–2,30778.0,Valentín Pizarro,2022-2023,298
+28.0,Sat,2023-04-08,14:00,Osasuna,Elche,1.2,0.7,2–1,16925.0,Pablo González,2022-2023,299
+28.0,Sat,2023-04-08,16:15,Espanyol,Athletic Club,0.9,2.3,1–2,24903.0,José Luis Munuera,2022-2023,300
+28.0,Sat,2023-04-08,18:30,Real Sociedad,Getafe,2.1,0.3,2–0,27606.0,Mario Melero,2022-2023,301
+28.0,Sat,2023-04-08,21:00,Real Madrid,Villarreal,2.4,1.5,2–3,57887.0,Hsu Jason,2022-2023,302
+28.0,Sun,2023-04-09,14:00,Valladolid,Mallorca,1.2,1.8,3–3,18010.0,Alejandro Muñíz,2022-2023,303
+28.0,Sun,2023-04-09,16:15,Betis,Cádiz,1.2,2.9,0–2,51555.0,Guillermo Cuadra,2022-2023,304
+28.0,Sun,2023-04-09,18:30,Almería,Valencia,0.9,1.3,2–1,14309.0,José Sánchez,2022-2023,305
+28.0,Sun,2023-04-09,21:00,Rayo Vallecano,Atlético Madrid,0.7,1.9,1–2,13512.0,Ricardo de Burgos,2022-2023,306
+28.0,Mon,2023-04-10,21:00,Barcelona,Girona,1.3,0.6,0–0,78425.0,Antonio Matéu,2022-2023,307
+29.0,Fri,2023-04-14,21:00,Rayo Vallecano,Osasuna,0.9,0.6,2–1,12726.0,José Luis Munuera,2022-2023,309
+29.0,Sat,2023-04-15,14:00,Villarreal,Valladolid,2.0,2.2,1–2,14876.0,Javier Villanueva,2022-2023,310
+29.0,Sat,2023-04-15,16:15,Athletic Club,Real Sociedad,0.8,1.4,2–0,49287.0,César Soto,2022-2023,311
+29.0,Sat,2023-04-15,18:30,Betis,Espanyol,2.0,0.8,3–1,45313.0,Alejandro Hernández,2022-2023,312
+29.0,Sat,2023-04-15,21:00,Cádiz,Real Madrid,0.7,3.5,0–2,19833.0,Jesús Gil,2022-2023,313
+29.0,Sun,2023-04-16,14:00,Girona,Elche,1.3,0.7,2–0,11114.0,Jorge Figueroa,2022-2023,314
+29.0,Sun,2023-04-16,16:15,Getafe,Barcelona,0.5,1.5,0–0,14854.0,Juan Pulido,2022-2023,315
+29.0,Sun,2023-04-16,18:30,Atlético Madrid,Almería,2.3,0.2,2–1,59204.0,Isidro Díaz de Mera,2022-2023,316
+29.0,Sun,2023-04-16,21:00,Valencia,Sevilla,0.4,0.4,0–2,39654.0,Carlos del Cerro,2022-2023,317
+29.0,Mon,2023-04-17,21:00,Celta Vigo,Mallorca,0.8,1.0,0–1,13557.0,Miguel Ángel Ortiz Arias,2022-2023,318
+30.0,Fri,2023-04-21,21:00,Espanyol,Cádiz,1.3,1.4,0–0,28512.0,Juan Martínez,2022-2023,320
+30.0,Sat,2023-04-22,14:00,Osasuna,Betis,1.5,2.0,3–2,19723.0,Hsu Jason,2022-2023,321
+30.0,Sat,2023-04-22,16:15,Almería,Athletic Club,0.8,1.7,1–2,13271.0,Valentín Pizarro,2022-2023,322
+30.0,Sat,2023-04-22,18:30,Valladolid,Girona,1.1,1.0,1–0,21033.0,Mario Melero,2022-2023,323
+30.0,Sat,2023-04-22,18:30,Real Sociedad,Rayo Vallecano,0.6,0.5,2–1,32054.0,Alejandro Muñíz,2022-2023,324
+30.0,Sat,2023-04-22,21:00,Real Madrid,Celta Vigo,1.5,0.9,2–0,60386.0,Antonio Matéu,2022-2023,325
+30.0,Sun,2023-04-23,14:00,Elche,Valencia,0.6,1.0,0–2,22129.0,Guillermo Cuadra,2022-2023,326
+30.0,Sun,2023-04-23,16:15,Barcelona,Atlético Madrid,1.8,1.3,1–0,80965.0,José Sánchez,2022-2023,327
+30.0,Sun,2023-04-23,18:30,Mallorca,Getafe,1.5,0.1,3–1,15687.0,Pablo González,2022-2023,328
+30.0,Sun,2023-04-23,21:00,Sevilla,Villarreal,0.9,2.2,2–1,29635.0,Ricardo de Burgos,2022-2023,329
+31.0,Tue,2023-04-25,19:30,Girona,Real Madrid,2.3,1.8,4–2,13306.0,Javier Villanueva,2022-2023,331
+31.0,Tue,2023-04-25,19:30,Cádiz,Osasuna,1.4,1.0,0–1,18008.0,Carlos del Cerro,2022-2023,332
+31.0,Tue,2023-04-25,22:00,Betis,Real Sociedad,1.0,0.9,0–0,42294.0,Juan Martínez,2022-2023,333
+31.0,Wed,2023-04-26,19:30,Getafe,Almería,1.6,1.9,1–2,10260.0,Hsu Jason,2022-2023,334
+31.0,Wed,2023-04-26,19:30,Atlético Madrid,Mallorca,2.7,0.9,3–1,58523.0,Juan Pulido,2022-2023,335
+31.0,Wed,2023-04-26,22:00,Rayo Vallecano,Barcelona,0.7,0.9,2–1,13657.0,Jesús Gil,2022-2023,336
+31.0,Wed,2023-04-26,22:00,Celta Vigo,Elche,1.3,1.1,1–0,11649.0,Isidro Díaz de Mera,2022-2023,337
+31.0,Thu,2023-04-27,19:30,Valencia,Valladolid,0.9,0.9,2–1,42023.0,José Luis Munuera,2022-2023,338
+31.0,Thu,2023-04-27,19:30,Villarreal,Espanyol,3.7,0.9,4–2,16134.0,César Soto,2022-2023,339
+31.0,Thu,2023-04-27,22:00,Athletic Club,Sevilla,0.3,1.0,0–1,42716.0,Alejandro Hernández,2022-2023,340
+32.0,Fri,2023-04-28,21:00,Osasuna,Real Sociedad,1.4,1.4,0–2,21570.0,Valentín Pizarro,2022-2023,342
+32.0,Sat,2023-04-29,16:15,Elche,Rayo Vallecano,2.8,0.8,4–0,11259.0,Mario Melero,2022-2023,343
+32.0,Sat,2023-04-29,18:30,Real Madrid,Almería,2.8,1.3,4–2,58036.0,Guillermo Cuadra,2022-2023,344
+32.0,Sat,2023-04-29,21:00,Barcelona,Betis,3.0,0.2,4–0,88530.0,Carlos del Cerro,2022-2023,345
+32.0,Sun,2023-04-30,14:00,Cádiz,Valencia,1.8,1.3,2–1,18650.0,Ricardo de Burgos,2022-2023,346
+32.0,Sun,2023-04-30,16:15,Villarreal,Celta Vigo,2.4,0.9,3–1,16123.0,Pablo González,2022-2023,347
+32.0,Sun,2023-04-30,18:30,Espanyol,Getafe,2.4,0.5,1–0,26953.0,José Sánchez,2022-2023,348
+32.0,Sun,2023-04-30,21:00,Valladolid,Atlético Madrid,1.8,2.0,2–5,23321.0,Antonio Matéu,2022-2023,349
+32.0,Mon,2023-05-01,19:00,Mallorca,Athletic Club,0.9,1.7,1–1,16807.0,Jorge Figueroa,2022-2023,350
+32.0,Mon,2023-05-01,21:00,Sevilla,Girona,2.2,0.8,0–2,35560.0,Alejandro Muñíz,2022-2023,351
+33.0,Tue,2023-05-02,19:30,Almería,Elche,1.7,1.0,2–1,13352.0,Alejandro Hernández,2022-2023,353
+33.0,Tue,2023-05-02,19:30,Barcelona,Osasuna,2.8,0.4,1–0,76061.0,Javier Villanueva,2022-2023,354
+33.0,Tue,2023-05-02,22:00,Real Sociedad,Real Madrid,1.9,0.8,2–0,35314.0,Juan Pulido,2022-2023,355
+33.0,Wed,2023-05-03,19:30,Valencia,Villarreal,1.2,0.7,1–1,43634.0,Jesús Gil,2022-2023,356
+33.0,Wed,2023-05-03,22:00,Getafe,Celta Vigo,2.7,0.3,1–0,11022.0,Guillermo Cuadra,2022-2023,357
+33.0,Wed,2023-05-03,22:00,Atlético Madrid,Cádiz,3.0,0.0,5–1,42023.0,César Soto,2022-2023,358
+33.0,Thu,2023-05-04,19:30,Girona,Mallorca,1.7,1.4,2–1,11767.0,Juan Martínez,2022-2023,359
+33.0,Thu,2023-05-04,19:30,Sevilla,Espanyol,2.6,1.0,3–2,35391.0,Hsu Jason,2022-2023,360
+33.0,Thu,2023-05-04,22:00,Rayo Vallecano,Valladolid,1.4,0.6,2–1,11171.0,Isidro Díaz de Mera,2022-2023,361
+33.0,Thu,2023-05-04,22:00,Athletic Club,Betis,1.6,1.2,0–1,43116.0,Miguel Ángel Ortiz Arias,2022-2023,362
+34.0,Fri,2023-05-12,21:00,Mallorca,Cádiz,1.2,0.7,1–0,15377.0,José Sánchez,2022-2023,364
+34.0,Sat,2023-05-13,14:00,Real Sociedad,Girona,2.7,1.2,2–2,30027.0,Jorge Figueroa,2022-2023,365
+34.0,Sat,2023-05-13,16:15,Osasuna,Almería,1.9,0.5,3–1,19747.0,Antonio Matéu,2022-2023,366
+34.0,Sat,2023-05-13,18:30,Villarreal,Athletic Club,3.2,3.1,5–1,16871.0,Carlos del Cerro,2022-2023,367
+34.0,Sat,2023-05-13,21:00,Real Madrid,Getafe,0.9,0.7,1–0,52201.0,Juan Martínez,2022-2023,368
+34.0,Sun,2023-05-14,14:00,Celta Vigo,Valencia,0.7,1.2,1–2,14517.0,César Soto,2022-2023,369
+34.0,Sun,2023-05-14,16:15,Elche,Atlético Madrid,1.4,1.5,1–0,22174.0,Alejandro Muñíz,2022-2023,370
+34.0,Sun,2023-05-14,18:30,Valladolid,Sevilla,2.0,2.5,0–3,21580.0,Miguel Ángel Ortiz Arias,2022-2023,371
+34.0,Sun,2023-05-14,21:00,Espanyol,Barcelona,2.7,3.1,2–4,27360.0,Ricardo de Burgos,2022-2023,372
+34.0,Mon,2023-05-15,21:00,Betis,Rayo Vallecano,1.5,1.3,3–1,48143.0,Juan Pulido,2022-2023,373
+35.0,Fri,2023-05-19,21:00,Cádiz,Valladolid,2.2,0.7,2–0,18938.0,Juan Martínez,2022-2023,375
+35.0,Sat,2023-05-20,14:00,Girona,Villarreal,1.2,1.9,1–2,11649.0,Valentín Pizarro,2022-2023,376
+35.0,Sat,2023-05-20,16:15,Athletic Club,Celta Vigo,1.0,0.5,2–1,40759.0,Mario Melero,2022-2023,377
+35.0,Sat,2023-05-20,18:30,Getafe,Elche,1.5,1.1,1–1,13927.0,Javier Villanueva,2022-2023,378
+35.0,Sat,2023-05-20,18:30,Almería,Mallorca,1.8,0.8,3–0,12791.0,Carlos del Cerro,2022-2023,379
+35.0,Sat,2023-05-20,21:00,Barcelona,Real Sociedad,1.5,2.0,1–2,88049.0,Hsu Jason,2022-2023,380
+35.0,Sun,2023-05-21,14:00,Rayo Vallecano,Espanyol,2.0,1.6,1–2,12142.0,Alejandro Hernández,2022-2023,381
+35.0,Sun,2023-05-21,16:15,Atlético Madrid,Osasuna,1.9,0.8,3–0,57012.0,Pablo González,2022-2023,382
+35.0,Sun,2023-05-21,18:30,Valencia,Real Madrid,1.0,1.4,1–0,46002.0,Ricardo de Burgos,2022-2023,383
+35.0,Sun,2023-05-21,21:00,Sevilla,Betis,1.1,0.1,0–0,41392.0,Jesús Gil,2022-2023,384
+36.0,Tue,2023-05-23,19:30,Celta Vigo,Girona,1.2,1.2,1–1,14117.0,Antonio Matéu,2022-2023,386
+36.0,Tue,2023-05-23,19:30,Real Sociedad,Almería,1.9,0.1,1–0,31574.0,Pablo González,2022-2023,387
+36.0,Tue,2023-05-23,22:00,Valladolid,Barcelona,2.3,1.7,3–1,22341.0,César Soto,2022-2023,388
+36.0,Wed,2023-05-24,19:30,Elche,Sevilla,1.5,0.7,1–1,13263.0,Isidro Díaz de Mera,2022-2023,389
+36.0,Wed,2023-05-24,19:30,Real Madrid,Rayo Vallecano,1.3,0.7,2–1,45811.0,Jesús Gil,2022-2023,390
+36.0,Wed,2023-05-24,19:30,Villarreal,Cádiz,2.4,1.7,2–0,15099.0,Juan Pulido,2022-2023,391
+36.0,Wed,2023-05-24,22:00,Espanyol,Atlético Madrid,3.0,2.3,3–3,25822.0,Mario Melero,2022-2023,392
+36.0,Wed,2023-05-24,22:00,Betis,Getafe,1.2,0.5,0–1,40289.0,Ricardo de Burgos,2022-2023,393
+36.0,Thu,2023-05-25,19:30,Mallorca,Valencia,0.5,1.9,1–0,14631.0,Alejandro Hernández,2022-2023,394
+36.0,Thu,2023-05-25,21:30,Osasuna,Athletic Club,0.8,0.8,2–0,19830.0,Alejandro Muñíz,2022-2023,395
+37.0,Sat,2023-05-27,19:00,Sevilla,Real Madrid,1.2,0.8,1–2,29856.0,César Soto,2022-2023,397
+37.0,Sun,2023-05-28,19:00,Valencia,Espanyol,2.6,1.2,2–2,44141.0,Jesús Gil,2022-2023,398
+37.0,Sun,2023-05-28,19:00,Athletic Club,Elche,2.4,0.9,0–1,37807.0,Valentín Pizarro,2022-2023,399
+37.0,Sun,2023-05-28,19:00,Girona,Betis,1.0,2.5,1–2,12833.0,Isidro Díaz de Mera,2022-2023,400
+37.0,Sun,2023-05-28,19:00,Rayo Vallecano,Villarreal,1.4,0.4,2–1,11085.0,Javier Villanueva,2022-2023,401
+37.0,Sun,2023-05-28,19:00,Almería,Valladolid,1.7,0.5,0–0,14608.0,Hsu Jason,2022-2023,402
+37.0,Sun,2023-05-28,19:00,Atlético Madrid,Real Sociedad,0.7,1.2,2–1,56169.0,Juan Pulido,2022-2023,403
+37.0,Sun,2023-05-28,19:00,Cádiz,Celta Vigo,1.7,0.6,1–0,19725.0,Ricardo de Burgos,2022-2023,404
+37.0,Sun,2023-05-28,19:00,Barcelona,Mallorca,3.6,0.1,3–0,88775.0,Jorge Figueroa,2022-2023,405
+37.0,Sun,2023-05-28,19:00,Getafe,Osasuna,2.5,0.5,2–1,13510.0,Antonio Matéu,2022-2023,406
+38.0,Sun,2023-06-04,18:30,Villarreal,Atlético Madrid,1.6,1.8,2–2,18226.0,Ricardo de Burgos,2022-2023,408
+38.0,Sun,2023-06-04,18:30,Real Sociedad,Sevilla,1.8,0.4,2–1,35065.0,Carlos del Cerro,2022-2023,409
+38.0,Sun,2023-06-04,18:30,Real Madrid,Athletic Club,1.8,2.3,1–1,60781.0,Isidro Díaz de Mera,2022-2023,410
+38.0,Sun,2023-06-04,18:30,Osasuna,Girona,1.8,0.9,2–1,22128.0,Miguel Ángel Ortiz Arias,2022-2023,411
+38.0,Sun,2023-06-04,18:30,Mallorca,Rayo Vallecano,2.2,1.1,3–0,14521.0,Antonio Matéu,2022-2023,412
+38.0,Sun,2023-06-04,21:00,Valladolid,Getafe,0.9,0.5,0–0,25517.0,José Luis Munuera,2022-2023,413
+38.0,Sun,2023-06-04,21:00,Betis,Valencia,0.6,1.2,1–1,54087.0,Hsu Jason,2022-2023,414
+38.0,Sun,2023-06-04,21:00,Elche,Cádiz,1.6,2.5,1–1,16585.0,Jesús Gil,2022-2023,415
+38.0,Sun,2023-06-04,21:00,Celta Vigo,Barcelona,0.7,1.2,2–1,23365.0,Juan Pulido,2022-2023,416
+38.0,Sun,2023-06-04,21:00,Espanyol,Almería,0.6,1.8,3–3,14213.0,César Soto,2022-2023,417

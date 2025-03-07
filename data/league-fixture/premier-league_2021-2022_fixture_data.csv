@@ -1,0 +1,381 @@
+Wk,Day,Date,Time,Home,Away,xG,xG.1,Score,Attendance,Referee,season,game_id
+1.0,Fri,2021-08-13,20:00,Brentford,Arsenal,1.2,1.3,2–0,16479.0,Michael Oliver,2021-2022,0
+1.0,Sat,2021-08-14,12:30,Manchester Utd,Leeds United,1.5,0.5,5–1,72732.0,Paul Tierney,2021-2022,1
+1.0,Sat,2021-08-14,15:00,Leicester City,Wolves,0.5,1.3,1–0,31983.0,Craig Pawson,2021-2022,2
+1.0,Sat,2021-08-14,15:00,Burnley,Brighton,1.5,1.0,1–2,16910.0,David Coote,2021-2022,3
+1.0,Sat,2021-08-14,15:00,Chelsea,Crystal Palace,0.7,0.2,3–0,38965.0,Jonathan Moss,2021-2022,4
+1.0,Sat,2021-08-14,15:00,Watford,Aston Villa,1.2,1.2,3–2,20051.0,Mike Dean,2021-2022,5
+1.0,Sat,2021-08-14,15:00,Everton,Southampton,2.4,0.8,3–1,38487.0,Andy Madley,2021-2022,6
+1.0,Sat,2021-08-14,17:30,Norwich City,Liverpool,1.4,1.6,0–3,27023.0,Andre Marriner,2021-2022,7
+1.0,Sun,2021-08-15,14:00,Newcastle Utd,West Ham,1.8,2.7,2–4,50673.0,Martin Atkinson,2021-2022,8
+1.0,Sun,2021-08-15,16:30,Tottenham,Manchester City,1.0,1.8,1–0,58262.0,Anthony Taylor,2021-2022,9
+2.0,Sat,2021-08-21,12:30,Liverpool,Burnley,2.7,0.9,2–0,52591.0,Mike Dean,2021-2022,11
+2.0,Sat,2021-08-21,15:00,Aston Villa,Newcastle Utd,1.2,0.7,2–0,41964.0,David Coote,2021-2022,12
+2.0,Sat,2021-08-21,15:00,Manchester City,Norwich City,2.6,0.1,5–0,51437.0,Graham Scott,2021-2022,13
+2.0,Sat,2021-08-21,15:00,Leeds United,Everton,1.2,1.8,2–2,36293.0,Darren England,2021-2022,14
+2.0,Sat,2021-08-21,15:00,Crystal Palace,Brentford,0.5,0.9,0–0,23091.0,Martin Atkinson,2021-2022,15
+2.0,Sat,2021-08-21,17:30,Brighton,Watford,1.3,0.5,2–0,29485.0,Anthony Taylor,2021-2022,16
+2.0,Sun,2021-08-22,14:00,Wolves,Tottenham,1.7,1.7,0–1,30368.0,Stuart Attwell,2021-2022,17
+2.0,Sun,2021-08-22,14:00,Southampton,Manchester Utd,0.7,1.8,1–1,32000.0,Craig Pawson,2021-2022,18
+2.0,Sun,2021-08-22,16:30,Arsenal,Chelsea,0.3,3.1,0–2,58729.0,Paul Tierney,2021-2022,19
+2.0,Mon,2021-08-23,20:00,West Ham,Leicester City,2.3,0.6,4–1,59901.0,Michael Oliver,2021-2022,20
+3.0,Sat,2021-08-28,12:30,Manchester City,Arsenal,4.4,0.2,5–0,52276.0,Martin Atkinson,2021-2022,22
+3.0,Sat,2021-08-28,15:00,Norwich City,Leicester City,1.5,1.5,1–2,26765.0,Robert Jones,2021-2022,23
+3.0,Sat,2021-08-28,15:00,West Ham,Crystal Palace,1.3,1.1,2–2,59751.0,Stuart Attwell,2021-2022,24
+3.0,Sat,2021-08-28,15:00,Aston Villa,Brentford,0.7,0.9,1–1,42045.0,Peter Bankes,2021-2022,25
+3.0,Sat,2021-08-28,15:00,Newcastle Utd,Southampton,1.0,3.6,2–2,44017.0,Paul Tierney,2021-2022,26
+3.0,Sat,2021-08-28,15:00,Brighton,Everton,0.7,1.4,0–2,30548.0,Jonathan Moss,2021-2022,27
+3.0,Sat,2021-08-28,17:30,Liverpool,Chelsea,2.5,0.6,1–1,54000.0,Anthony Taylor,2021-2022,28
+3.0,Sun,2021-08-29,14:00,Burnley,Leeds United,1.0,1.2,1–1,20000.0,Michael Oliver,2021-2022,29
+3.0,Sun,2021-08-29,14:00,Tottenham,Watford,1.0,0.8,1–0,57672.0,Andre Marriner,2021-2022,30
+3.0,Sun,2021-08-29,16:30,Wolves,Manchester Utd,2.1,0.6,0–1,30621.0,Mike Dean,2021-2022,31
+4.0,Sat,2021-09-11,12:30,Crystal Palace,Tottenham,2.1,0.1,3–0,26000.0,Jonathan Moss,2021-2022,33
+4.0,Sat,2021-09-11,15:00,Watford,Wolves,0.2,2.2,0–2,20019.0,Peter Bankes,2021-2022,34
+4.0,Sat,2021-09-11,15:00,Brentford,Brighton,0.4,0.3,0–1,16518.0,Graham Scott,2021-2022,35
+4.0,Sat,2021-09-11,15:00,Arsenal,Norwich City,2.7,0.7,1–0,58000.0,Michael Oliver,2021-2022,36
+4.0,Sat,2021-09-11,15:00,Manchester Utd,Newcastle Utd,2.5,0.4,4–1,72732.0,Anthony Taylor,2021-2022,37
+4.0,Sat,2021-09-11,15:00,Leicester City,Manchester City,0.6,2.8,0–1,32087.0,Paul Tierney,2021-2022,38
+4.0,Sat,2021-09-11,15:00,Southampton,West Ham,0.7,0.7,0–0,30000.0,David Coote,2021-2022,39
+4.0,Sat,2021-09-11,17:30,Chelsea,Aston Villa,1.3,1.2,3–0,39969.0,Stuart Attwell,2021-2022,40
+4.0,Sun,2021-09-12,16:30,Leeds United,Liverpool,1.2,4.3,0–3,36507.0,Craig Pawson,2021-2022,41
+4.0,Mon,2021-09-13,20:00,Everton,Burnley,1.4,1.0,3–1,30000.0,Martin Atkinson,2021-2022,42
+5.0,Fri,2021-09-17,20:00,Newcastle Utd,Leeds United,1.3,1.5,1–1,50407.0,Mike Dean,2021-2022,44
+5.0,Sat,2021-09-18,12:30,Wolves,Brentford,0.6,2.5,0–2,30000.0,Darren England,2021-2022,45
+5.0,Sat,2021-09-18,15:00,Manchester City,Southampton,1.0,0.4,0–0,52698.0,Jonathan Moss,2021-2022,46
+5.0,Sat,2021-09-18,15:00,Liverpool,Crystal Palace,3.1,0.6,3–0,52000.0,Andy Madley,2021-2022,47
+5.0,Sat,2021-09-18,15:00,Norwich City,Watford,1.0,2.4,1–3,26649.0,Robert Jones,2021-2022,48
+5.0,Sat,2021-09-18,15:00,Burnley,Arsenal,1.0,1.1,0–1,20000.0,Anthony Taylor,2021-2022,49
+5.0,Sat,2021-09-18,17:30,Aston Villa,Everton,0.8,0.7,3–0,41888.0,Craig Pawson,2021-2022,50
+5.0,Sun,2021-09-19,14:00,West Ham,Manchester Utd,1.6,2.0,1–2,60000.0,Martin Atkinson,2021-2022,51
+5.0,Sun,2021-09-19,14:00,Brighton,Leicester City,1.7,1.6,2–1,31078.0,Stuart Attwell,2021-2022,52
+5.0,Sun,2021-09-19,16:30,Tottenham,Chelsea,0.5,2.1,0–3,60059.0,Paul Tierney,2021-2022,53
+6.0,Sat,2021-09-25,12:30,Manchester Utd,Aston Villa,2.2,1.0,0–1,72922.0,Mike Dean,2021-2022,55
+6.0,Sat,2021-09-25,12:30,Chelsea,Manchester City,0.2,1.7,0–1,40036.0,Michael Oliver,2021-2022,56
+6.0,Sat,2021-09-25,15:00,Leicester City,Burnley,2.4,0.5,2–2,31650.0,Chris Kavanagh,2021-2022,57
+6.0,Sat,2021-09-25,15:00,Leeds United,West Ham,1.2,1.6,1–2,36417.0,Kevin Friend,2021-2022,58
+6.0,Sat,2021-09-25,15:00,Watford,Newcastle Utd,0.9,1.9,1–1,20650.0,Jarred Gillett,2021-2022,59
+6.0,Sat,2021-09-25,15:00,Everton,Norwich City,1.9,0.5,2–0,38821.0,David Coote,2021-2022,60
+6.0,Sat,2021-09-25,17:30,Brentford,Liverpool,2.1,2.8,3–3,16876.0,Stuart Attwell,2021-2022,61
+6.0,Sun,2021-09-26,14:00,Southampton,Wolves,1.0,1.0,0–1,28002.0,Andy Madley,2021-2022,62
+6.0,Sun,2021-09-26,16:30,Arsenal,Tottenham,1.1,1.0,3–1,59919.0,Craig Pawson,2021-2022,63
+6.0,Mon,2021-09-27,20:00,Crystal Palace,Brighton,1.4,0.8,1–1,22975.0,Andre Marriner,2021-2022,64
+7.0,Sat,2021-10-02,12:30,Manchester Utd,Everton,1.0,1.3,1–1,73128.0,Michael Oliver,2021-2022,66
+7.0,Sat,2021-10-02,15:00,Wolves,Newcastle Utd,1.0,0.6,2–1,30483.0,Graham Scott,2021-2022,67
+7.0,Sat,2021-10-02,15:00,Burnley,Norwich City,1.2,0.6,0–0,17427.0,Kevin Friend,2021-2022,68
+7.0,Sat,2021-10-02,15:00,Chelsea,Southampton,3.3,1.3,3–1,40109.0,Martin Atkinson,2021-2022,69
+7.0,Sat,2021-10-02,15:00,Leeds United,Watford,1.3,0.2,1–0,36261.0,Simon Hooper,2021-2022,70
+7.0,Sat,2021-10-02,17:30,Brighton,Arsenal,1.1,0.4,0–0,31266.0,Jonathan Moss,2021-2022,71
+7.0,Sun,2021-10-03,14:00,Tottenham,Aston Villa,1.3,1.2,2–1,53076.0,Chris Kavanagh,2021-2022,72
+7.0,Sun,2021-10-03,14:00,Crystal Palace,Leicester City,1.5,1.2,2–2,25000.0,Anthony Taylor,2021-2022,73
+7.0,Sun,2021-10-03,14:00,West Ham,Brentford,1.5,1.2,1–2,49940.0,Peter Bankes,2021-2022,74
+7.0,Sun,2021-10-03,16:30,Liverpool,Manchester City,0.9,1.2,2–2,53102.0,Paul Tierney,2021-2022,75
+8.0,Sat,2021-10-16,12:30,Watford,Liverpool,0.5,3.3,0–5,21085.0,Jonathan Moss,2021-2022,77
+8.0,Sat,2021-10-16,15:00,Leicester City,Manchester Utd,2.4,1.2,4–2,32219.0,Craig Pawson,2021-2022,78
+8.0,Sat,2021-10-16,15:00,Manchester City,Burnley,2.1,0.9,2–0,52711.0,Martin Atkinson,2021-2022,79
+8.0,Sat,2021-10-16,15:00,Southampton,Leeds United,1.9,0.2,1–0,30506.0,David Coote,2021-2022,80
+8.0,Sat,2021-10-16,15:00,Aston Villa,Wolves,1.0,2.0,2–3,41951.0,Michael Oliver,2021-2022,81
+8.0,Sat,2021-10-16,15:00,Norwich City,Brighton,1.2,0.8,0–0,26777.0,Peter Bankes,2021-2022,82
+8.0,Sat,2021-10-16,17:30,Brentford,Chelsea,1.4,0.3,0–1,16940.0,Anthony Taylor,2021-2022,83
+8.0,Sun,2021-10-17,14:00,Everton,West Ham,0.9,1.2,0–1,39132.0,Stuart Attwell,2021-2022,84
+8.0,Sun,2021-10-17,16:30,Newcastle Utd,Tottenham,0.4,1.7,2–3,52214.0,Andre Marriner,2021-2022,85
+8.0,Mon,2021-10-18,20:00,Arsenal,Crystal Palace,1.7,0.7,2–2,59475.0,Mike Dean,2021-2022,86
+9.0,Fri,2021-10-22,20:00,Arsenal,Aston Villa,2.7,1.4,3–1,59496.0,Craig Pawson,2021-2022,88
+9.0,Sat,2021-10-23,12:30,Chelsea,Norwich City,3.1,0.1,7–0,40113.0,Andy Madley,2021-2022,89
+9.0,Sat,2021-10-23,15:00,Leeds United,Wolves,1.6,0.9,1–1,36475.0,Robert Jones,2021-2022,90
+9.0,Sat,2021-10-23,15:00,Crystal Palace,Newcastle Utd,1.9,0.3,1–1,24609.0,Darren England,2021-2022,91
+9.0,Sat,2021-10-23,15:00,Everton,Watford,1.5,3.7,2–5,38834.0,Graham Scott,2021-2022,92
+9.0,Sat,2021-10-23,15:00,Southampton,Burnley,1.6,0.7,2–2,29145.0,Chris Kavanagh,2021-2022,93
+9.0,Sat,2021-10-23,17:30,Brighton,Manchester City,1.3,3.8,1–4,31215.0,Kevin Friend,2021-2022,94
+9.0,Sun,2021-10-24,14:00,West Ham,Tottenham,1.3,0.7,1–0,59924.0,Paul Tierney,2021-2022,95
+9.0,Sun,2021-10-24,14:00,Brentford,Leicester City,1.0,1.5,1–2,16814.0,Simon Hooper,2021-2022,96
+9.0,Sun,2021-10-24,16:30,Manchester Utd,Liverpool,1.6,3.4,0–5,73088.0,Anthony Taylor,2021-2022,97
+10.0,Sat,2021-10-30,12:30,Leicester City,Arsenal,1.3,0.7,0–2,32209.0,Michael Oliver,2021-2022,99
+10.0,Sat,2021-10-30,15:00,Newcastle Utd,Chelsea,0.2,2.2,0–3,52208.0,Paul Tierney,2021-2022,100
+10.0,Sat,2021-10-30,15:00,Liverpool,Brighton,1.5,1.0,2–2,52598.0,Mike Dean,2021-2022,101
+10.0,Sat,2021-10-30,15:00,Burnley,Brentford,2.3,0.8,3–1,18821.0,Jonathan Moss,2021-2022,102
+10.0,Sat,2021-10-30,15:00,Watford,Southampton,1.0,1.8,0–1,20869.0,Peter Bankes,2021-2022,103
+10.0,Sat,2021-10-30,15:00,Manchester City,Crystal Palace,0.7,0.7,0–2,53014.0,Andre Marriner,2021-2022,104
+10.0,Sat,2021-10-30,17:30,Tottenham,Manchester Utd,1.0,1.5,0–3,60356.0,Stuart Attwell,2021-2022,105
+10.0,Sun,2021-10-31,14:00,Norwich City,Leeds United,0.8,0.7,1–2,26913.0,Anthony Taylor,2021-2022,106
+10.0,Sun,2021-10-31,16:30,Aston Villa,West Ham,0.7,2.3,1–4,41874.0,Chris Kavanagh,2021-2022,107
+10.0,Mon,2021-11-01,20:00,Wolves,Everton,1.7,1.5,2–1,30617.0,Martin Atkinson,2021-2022,108
+11.0,Fri,2021-11-05,20:00,Southampton,Aston Villa,0.6,0.6,1–0,30178.0,Andy Madley,2021-2022,110
+11.0,Sat,2021-11-06,12:30,Manchester Utd,Manchester City,0.9,1.6,0–2,73086.0,Michael Oliver,2021-2022,111
+11.0,Sat,2021-11-06,15:00,Brentford,Norwich City,2.5,1.2,1–2,16837.0,Jarred Gillett,2021-2022,112
+11.0,Sat,2021-11-06,15:00,Chelsea,Burnley,1.8,0.7,1–1,39798.0,Andre Marriner,2021-2022,113
+11.0,Sat,2021-11-06,15:00,Crystal Palace,Wolves,1.9,0.3,2–0,24390.0,Graham Scott,2021-2022,114
+11.0,Sat,2021-11-06,17:30,Brighton,Newcastle Utd,1.5,0.3,1–1,31267.0,David Coote,2021-2022,115
+11.0,Sun,2021-11-07,14:00,Everton,Tottenham,0.6,0.7,0–0,39059.0,Chris Kavanagh,2021-2022,116
+11.0,Sun,2021-11-07,14:00,Leeds United,Leicester City,1.3,0.7,1–1,36478.0,Darren England,2021-2022,117
+11.0,Sun,2021-11-07,14:00,Arsenal,Watford,1.6,0.5,1–0,59833.0,Kevin Friend,2021-2022,118
+11.0,Sun,2021-11-07,16:30,West Ham,Liverpool,1.0,1.2,3–2,59909.0,Craig Pawson,2021-2022,119
+12.0,Sat,2021-11-20,12:30,Leicester City,Chelsea,0.4,2.0,0–3,35497.0,Paul Tierney,2021-2022,121
+12.0,Sat,2021-11-20,15:00,Wolves,West Ham,1.4,0.4,1–0,30667.0,Mike Dean,2021-2022,122
+12.0,Sat,2021-11-20,15:00,Watford,Manchester Utd,2.7,1.4,4–1,21087.0,Jonathan Moss,2021-2022,123
+12.0,Sat,2021-11-20,15:00,Norwich City,Southampton,0.5,1.0,2–1,26885.0,Martin Atkinson,2021-2022,124
+12.0,Sat,2021-11-20,15:00,Aston Villa,Brighton,0.7,0.4,2–0,41925.0,Anthony Taylor,2021-2022,125
+12.0,Sat,2021-11-20,15:00,Newcastle Utd,Brentford,1.5,0.9,3–3,52131.0,Robert Jones,2021-2022,126
+12.0,Sat,2021-11-20,15:00,Burnley,Crystal Palace,1.5,1.9,3–3,18028.0,Simon Hooper,2021-2022,127
+12.0,Sat,2021-11-20,17:30,Liverpool,Arsenal,4.3,0.4,4–0,53092.0,Michael Oliver,2021-2022,128
+12.0,Sun,2021-11-21,14:00,Manchester City,Everton,2.5,0.2,3–0,52571.0,Stuart Attwell,2021-2022,129
+12.0,Sun,2021-11-21,16:30,Tottenham,Leeds United,2.1,1.4,2–1,58989.0,Andre Marriner,2021-2022,130
+13.0,Sat,2021-11-27,12:30,Arsenal,Newcastle Utd,2.5,0.3,2–0,59886.0,Stuart Attwell,2021-2022,132
+13.0,Sat,2021-11-27,15:00,Crystal Palace,Aston Villa,1.0,0.5,1–2,25203.0,Michael Salisbury,2021-2022,133
+13.0,Sat,2021-11-27,15:00,Liverpool,Southampton,2.9,1.0,4–0,53040.0,Andre Marriner,2021-2022,134
+13.0,Sat,2021-11-27,15:00,Norwich City,Wolves,1.6,0.3,0–0,26911.0,Simon Hooper,2021-2022,135
+13.0,Sat,2021-11-27,17:30,Brighton,Leeds United,2.1,0.6,0–0,31166.0,Craig Pawson,2021-2022,136
+13.0,Sun,2021-11-28,14:00,Brentford,Everton,1.2,1.0,1–0,16957.0,Darren England,2021-2022,137
+13.0,Sun,2021-11-28,14:00,Leicester City,Watford,2.1,2.8,4–2,32020.0,Andy Madley,2021-2022,138
+13.0,Sun,2021-11-28,14:00,Manchester City,West Ham,2.1,0.2,2–1,53245.0,Michael Oliver,2021-2022,139
+13.0,Sun,2021-11-28,16:30,Chelsea,Manchester Utd,2.7,0.9,1–1,40041.0,Anthony Taylor,2021-2022,140
+14.0,Tue,2021-11-30,19:30,Newcastle Utd,Norwich City,1.1,1.2,1–1,50757.0,Andy Madley,2021-2022,142
+14.0,Tue,2021-11-30,20:15,Leeds United,Crystal Palace,1.4,1.1,1–0,35558.0,Kevin Friend,2021-2022,143
+14.0,Wed,2021-12-01,19:30,Southampton,Leicester City,1.5,1.5,2–2,26951.0,Robert Jones,2021-2022,144
+14.0,Wed,2021-12-01,19:30,West Ham,Brighton,1.3,1.3,1–1,59626.0,Chris Kavanagh,2021-2022,145
+14.0,Wed,2021-12-01,19:30,Wolves,Burnley,0.7,0.2,0–0,30328.0,John Brooks,2021-2022,146
+14.0,Wed,2021-12-01,19:30,Watford,Chelsea,1.0,0.9,1–2,20388.0,David Coote,2021-2022,147
+14.0,Wed,2021-12-01,20:15,Aston Villa,Manchester City,0.8,1.0,1–2,41400.0,Mike Dean,2021-2022,148
+14.0,Wed,2021-12-01,20:15,Everton,Liverpool,0.7,2.4,1–4,39641.0,Paul Tierney,2021-2022,149
+14.0,Thu,2021-12-02,19:30,Tottenham,Brentford,1.9,0.3,2–0,54202.0,Jonathan Moss,2021-2022,150
+14.0,Thu,2021-12-02,20:15,Manchester Utd,Arsenal,1.9,1.4,3–2,73123.0,Martin Atkinson,2021-2022,151
+15.0,Sat,2021-12-04,12:30,West Ham,Chelsea,1.8,1.1,3–2,59942.0,Andre Marriner,2021-2022,153
+15.0,Sat,2021-12-04,15:00,Newcastle Utd,Burnley,1.0,0.6,1–0,51948.0,Paul Tierney,2021-2022,154
+15.0,Sat,2021-12-04,15:00,Southampton,Brighton,1.6,1.6,1–1,28706.0,Anthony Taylor,2021-2022,155
+15.0,Sat,2021-12-04,15:00,Wolves,Liverpool,0.1,2.7,0–1,30729.0,Chris Kavanagh,2021-2022,156
+15.0,Sat,2021-12-04,17:30,Watford,Manchester City,0.8,3.1,1–3,20673.0,Simon Hooper,2021-2022,157
+15.0,Sun,2021-12-05,14:00,Leeds United,Brentford,1.2,1.0,2–2,35639.0,David Coote,2021-2022,158
+15.0,Sun,2021-12-05,14:00,Tottenham,Norwich City,1.6,1.2,3–0,57088.0,Jarred Gillett,2021-2022,159
+15.0,Sun,2021-12-05,14:00,Manchester Utd,Crystal Palace,0.9,0.5,1–0,73172.0,Craig Pawson,2021-2022,160
+15.0,Sun,2021-12-05,16:30,Aston Villa,Leicester City,2.1,1.1,2–1,41572.0,Michael Oliver,2021-2022,161
+15.0,Mon,2021-12-06,20:00,Everton,Arsenal,0.9,1.0,2–1,38906.0,Mike Dean,2021-2022,162
+16.0,Fri,2021-12-10,20:00,Brentford,Watford,1.6,0.5,2–1,16861.0,Michael Oliver,2021-2022,164
+16.0,Sat,2021-12-11,12:30,Manchester City,Wolves,3.2,0.2,1–0,52613.0,Jonathan Moss,2021-2022,165
+16.0,Sat,2021-12-11,15:00,Liverpool,Aston Villa,2.2,0.2,1–0,53093.0,Stuart Attwell,2021-2022,166
+16.0,Sat,2021-12-11,15:00,Arsenal,Southampton,1.8,0.6,3–0,59653.0,Jarred Gillett,2021-2022,167
+16.0,Sat,2021-12-11,15:00,Chelsea,Leeds United,2.5,1.4,3–2,39959.0,Chris Kavanagh,2021-2022,168
+16.0,Sat,2021-12-11,17:30,Norwich City,Manchester Utd,1.2,2.0,0–1,27606.0,Darren England,2021-2022,169
+16.0,Sun,2021-12-12,14:00,Burnley,West Ham,0.8,0.8,0–0,18065.0,Graham Scott,2021-2022,170
+16.0,Sun,2021-12-12,14:00,Leicester City,Newcastle Utd,2.6,1.0,4–0,31959.0,Peter Bankes,2021-2022,171
+16.0,Sun,2021-12-12,16:30,Crystal Palace,Everton,1.8,1.0,3–1,24066.0,Andy Madley,2021-2022,172
+17.0,Tue,2021-12-14,19:45,Norwich City,Aston Villa,0.5,2.0,0–2,26836.0,David Coote,2021-2022,174
+17.0,Tue,2021-12-14,20:00,Manchester City,Leeds United,3.1,0.3,7–0,52401.0,Paul Tierney,2021-2022,175
+17.0,Wed,2021-12-15,19:30,Brighton,Wolves,1.2,1.0,0–1,30362.0,Tony Harrington,2021-2022,176
+17.0,Wed,2021-12-15,19:30,Crystal Palace,Southampton,1.2,0.6,2–2,22861.0,Simon Hooper,2021-2022,177
+17.0,Wed,2021-12-15,20:00,Arsenal,West Ham,2.8,0.4,2–0,59777.0,Anthony Taylor,2021-2022,178
+17.0,Thu,2021-12-16,19:45,Chelsea,Everton,2.9,0.6,1–1,13933.0,Michael Oliver,2021-2022,179
+17.0,Thu,2021-12-16,20:00,Liverpool,Newcastle Utd,2.7,0.3,3–1,52951.0,Mike Dean,2021-2022,180
+18.0,Sat,2021-12-18,17:30,Leeds United,Arsenal,1.6,3.5,1–4,36166.0,Andre Marriner,2021-2022,182
+18.0,Sun,2021-12-19,14:00,Wolves,Chelsea,0.2,0.9,0–0,30631.0,David Coote,2021-2022,183
+18.0,Sun,2021-12-19,14:15,Newcastle Utd,Manchester City,0.3,2.9,0–4,52127.0,Martin Atkinson,2021-2022,184
+18.0,Sun,2021-12-19,16:30,Tottenham,Liverpool,3.0,1.1,2–2,45421.0,Paul Tierney,2021-2022,185
+19.0,Sun,2021-12-26,15:00,West Ham,Southampton,1.6,1.2,2–3,41027.0,Kevin Friend,2021-2022,187
+19.0,Sun,2021-12-26,15:00,Manchester City,Leicester City,3.6,2.7,6–3,53226.0,Chris Kavanagh,2021-2022,188
+19.0,Sun,2021-12-26,15:00,Norwich City,Arsenal,0.1,2.5,0–5,26940.0,Graham Scott,2021-2022,189
+19.0,Sun,2021-12-26,15:00,Tottenham,Crystal Palace,2.3,0.2,3–0,40539.0,Jonathan Moss,2021-2022,190
+19.0,Sun,2021-12-26,17:30,Aston Villa,Chelsea,0.4,2.6,1–3,41907.0,Martin Atkinson,2021-2022,191
+19.0,Sun,2021-12-26,20:00,Brighton,Brentford,0.8,0.7,2–0,30141.0,Darren England,2021-2022,192
+19.0,Mon,2021-12-27,20:00,Newcastle Utd,Manchester Utd,1.3,1.6,1–1,52178.0,Craig Pawson,2021-2022,193
+20.0,Tue,2021-12-28,15:00,Southampton,Tottenham,0.4,2.3,1–1,31304.0,Anthony Taylor,2021-2022,195
+20.0,Tue,2021-12-28,15:00,Crystal Palace,Norwich City,1.9,0.9,3–0,24433.0,Paul Tierney,2021-2022,196
+20.0,Tue,2021-12-28,15:00,Watford,West Ham,1.6,3.6,1–4,20073.0,Darren England,2021-2022,197
+20.0,Tue,2021-12-28,20:00,Leicester City,Liverpool,0.4,2.3,1–0,32230.0,Michael Oliver,2021-2022,198
+20.0,Wed,2021-12-29,19:30,Chelsea,Brighton,0.7,0.9,1–1,40080.0,Mike Dean,2021-2022,199
+20.0,Wed,2021-12-29,20:15,Brentford,Manchester City,0.4,1.1,0–1,17009.0,David Coote,2021-2022,200
+20.0,Thu,2021-12-30,20:15,Manchester Utd,Burnley,2.4,1.1,3–1,73121.0,Jonathan Moss,2021-2022,201
+21.0,Sat,2022-01-01,12:30,Arsenal,Manchester City,0.8,2.0,1–2,59757.0,Stuart Attwell,2021-2022,203
+21.0,Sat,2022-01-01,15:00,Watford,Tottenham,0.3,2.2,0–1,20391.0,Robert Jones,2021-2022,204
+21.0,Sat,2022-01-01,17:30,Crystal Palace,West Ham,2.4,2.2,2–3,24351.0,Darren England,2021-2022,205
+21.0,Sun,2022-01-02,14:00,Leeds United,Burnley,1.9,1.0,3–1,36083.0,Paul Tierney,2021-2022,206
+21.0,Sun,2022-01-02,14:00,Brentford,Aston Villa,0.6,0.8,2–1,16876.0,Craig Pawson,2021-2022,207
+21.0,Sun,2022-01-02,14:00,Everton,Brighton,1.6,1.7,2–3,38203.0,John Brooks,2021-2022,208
+21.0,Sun,2022-01-02,16:30,Chelsea,Liverpool,1.2,1.3,2–2,40072.0,Anthony Taylor,2021-2022,209
+21.0,Mon,2022-01-03,17:30,Manchester Utd,Wolves,0.8,0.7,0–1,73045.0,Mike Dean,2021-2022,210
+18.0,Tue,2022-01-11,19:45,Southampton,Brentford,1.4,0.5,4–1,27383.0,Stuart Attwell,2021-2022,212
+18.0,Wed,2022-01-12,19:45,West Ham,Norwich City,2.5,0.3,2–0,59775.0,Simon Hooper,2021-2022,213
+22.0,Fri,2022-01-14,20:00,Brighton,Crystal Palace,2.0,0.2,1–1,30675.0,Robert Jones,2021-2022,215
+22.0,Sat,2022-01-15,12:30,Manchester City,Chelsea,1.0,0.3,1–0,53319.0,Craig Pawson,2021-2022,216
+22.0,Sat,2022-01-15,15:00,Norwich City,Everton,1.0,0.6,2–1,26629.0,Andy Madley,2021-2022,217
+22.0,Sat,2022-01-15,15:00,Newcastle Utd,Watford,1.2,1.4,1–1,52223.0,Paul Tierney,2021-2022,218
+22.0,Sat,2022-01-15,15:00,Wolves,Southampton,2.5,0.8,3–1,30057.0,Michael Salisbury,2021-2022,219
+22.0,Sat,2022-01-15,17:30,Aston Villa,Manchester Utd,1.9,1.0,2–2,41968.0,David Coote,2021-2022,220
+22.0,Sun,2022-01-16,14:00,West Ham,Leeds United,2.4,2.2,2–3,59951.0,Mike Dean,2021-2022,221
+22.0,Sun,2022-01-16,14:00,Liverpool,Brentford,2.7,0.7,3–0,52824.0,Jonathan Moss,2021-2022,222
+24.0,Tue,2022-01-18,20:00,Brighton,Chelsea,0.7,0.7,1–1,30880.0,Kevin Friend,2021-2022,224
+17.0,Wed,2022-01-19,19:30,Leicester City,Tottenham,1.2,3.1,2–3,31986.0,Jonathan Moss,2021-2022,226
+17.0,Wed,2022-01-19,20:00,Brentford,Manchester Utd,2.3,2.3,1–3,17094.0,Andre Marriner,2021-2022,227
+23.0,Fri,2022-01-21,20:00,Watford,Norwich City,1.2,1.1,0–3,20782.0,Mike Dean,2021-2022,229
+23.0,Sat,2022-01-22,12:30,Everton,Aston Villa,1.6,0.8,0–1,38203.0,Craig Pawson,2021-2022,230
+23.0,Sat,2022-01-22,15:00,Leeds United,Newcastle Utd,0.7,0.9,0–1,36405.0,Chris Kavanagh,2021-2022,231
+23.0,Sat,2022-01-22,15:00,Manchester Utd,West Ham,1.9,0.3,1–0,73130.0,Jonathan Moss,2021-2022,232
+23.0,Sat,2022-01-22,15:00,Brentford,Wolves,1.1,0.2,1–2,16982.0,Peter Bankes,2021-2022,233
+23.0,Sat,2022-01-22,17:30,Southampton,Manchester City,0.8,1.8,1–1,31178.0,Simon Hooper,2021-2022,234
+23.0,Sun,2022-01-23,14:00,Crystal Palace,Liverpool,2.2,1.9,1–3,25002.0,Kevin Friend,2021-2022,235
+23.0,Sun,2022-01-23,14:00,Arsenal,Burnley,1.2,0.4,0–0,59255.0,David Coote,2021-2022,236
+23.0,Sun,2022-01-23,14:00,Leicester City,Brighton,1.4,1.1,1–1,31231.0,Martin Atkinson,2021-2022,237
+23.0,Sun,2022-01-23,16:30,Chelsea,Tottenham,1.2,0.5,2–0,40020.0,Paul Tierney,2021-2022,238
+17.0,Sat,2022-02-05,18:00,Burnley,Watford,0.6,0.8,0–0,19527.0,Craig Pawson,2021-2022,240
+24.0,Tue,2022-02-08,19:45,West Ham,Watford,0.8,0.3,1–0,59581.0,Martin Atkinson,2021-2022,242
+24.0,Tue,2022-02-08,19:45,Newcastle Utd,Everton,1.9,0.7,3–1,52186.0,Anthony Taylor,2021-2022,243
+24.0,Tue,2022-02-08,20:00,Burnley,Manchester Utd,0.4,1.8,1–1,21233.0,Mike Dean,2021-2022,244
+24.0,Wed,2022-02-09,19:45,Tottenham,Southampton,1.4,2.2,2–3,54012.0,David Coote,2021-2022,245
+24.0,Wed,2022-02-09,19:45,Norwich City,Crystal Palace,0.4,1.3,1–1,26652.0,Paul Tierney,2021-2022,246
+24.0,Wed,2022-02-09,19:45,Manchester City,Brentford,1.9,0.4,2–0,51658.0,Darren England,2021-2022,247
+24.0,Wed,2022-02-09,20:00,Aston Villa,Leeds United,1.6,1.8,3–3,41927.0,Jarred Gillett,2021-2022,248
+24.0,Thu,2022-02-10,19:45,Liverpool,Leicester City,1.8,0.5,2–0,53050.0,Chris Kavanagh,2021-2022,249
+24.0,Thu,2022-02-10,19:45,Wolves,Arsenal,0.8,1.8,0–1,31523.0,Michael Oliver,2021-2022,250
+25.0,Sat,2022-02-12,12:30,Manchester Utd,Southampton,2.1,0.8,1–1,73084.0,Stuart Attwell,2021-2022,252
+25.0,Sat,2022-02-12,15:00,Everton,Leeds United,2.7,0.3,3–0,39150.0,Graham Scott,2021-2022,253
+25.0,Sat,2022-02-12,15:00,Brentford,Crystal Palace,1.6,0.3,0–0,16958.0,Simon Hooper,2021-2022,254
+25.0,Sat,2022-02-12,15:00,Watford,Brighton,0.5,1.6,0–2,20795.0,Jonathan Moss,2021-2022,255
+25.0,Sat,2022-02-12,17:30,Norwich City,Manchester City,0.4,4.6,0–4,27010.0,Andre Marriner,2021-2022,256
+25.0,Sun,2022-02-13,14:00,Newcastle Utd,Aston Villa,0.5,0.6,1–0,52207.0,Craig Pawson,2021-2022,257
+25.0,Sun,2022-02-13,14:00,Burnley,Liverpool,1.5,1.7,0–1,19563.0,Martin Atkinson,2021-2022,258
+25.0,Sun,2022-02-13,14:00,Tottenham,Wolves,1.2,1.3,0–2,56452.0,Kevin Friend,2021-2022,259
+25.0,Sun,2022-02-13,16:30,Leicester City,West Ham,1.4,1.1,2–2,32061.0,Michael Oliver,2021-2022,260
+18.0,Tue,2022-02-15,20:15,Manchester Utd,Brighton,1.7,0.7,2–0,73012.0,Peter Bankes,2021-2022,262
+26.0,Sat,2022-02-19,12:30,West Ham,Newcastle Utd,0.6,0.8,1–1,59949.0,Chris Kavanagh,2021-2022,264
+26.0,Sat,2022-02-19,15:00,Aston Villa,Watford,1.3,1.2,0–1,41936.0,Robert Jones,2021-2022,265
+26.0,Sat,2022-02-19,15:00,Arsenal,Brentford,1.7,0.6,2–1,59249.0,Jonathan Moss,2021-2022,266
+26.0,Sat,2022-02-19,15:00,Southampton,Everton,2.5,0.3,2–0,31312.0,Andy Madley,2021-2022,267
+26.0,Sat,2022-02-19,15:00,Liverpool,Norwich City,3.6,0.6,3–1,53135.0,Mike Dean,2021-2022,268
+26.0,Sat,2022-02-19,15:00,Brighton,Burnley,0.6,0.7,0–3,30361.0,Kevin Friend,2021-2022,269
+26.0,Sat,2022-02-19,15:00,Crystal Palace,Chelsea,0.5,0.9,0–1,25109.0,David Coote,2021-2022,270
+26.0,Sat,2022-02-19,17:30,Manchester City,Tottenham,2.1,1.4,2–3,53201.0,Anthony Taylor,2021-2022,271
+26.0,Sun,2022-02-20,14:00,Leeds United,Manchester Utd,1.8,2.2,2–4,36715.0,Paul Tierney,2021-2022,272
+26.0,Sun,2022-02-20,16:30,Wolves,Leicester City,0.5,1.7,2–1,31587.0,Craig Pawson,2021-2022,273
+13.0,Wed,2022-02-23,19:30,Burnley,Tottenham,0.9,0.7,1–0,19488.0,Graham Scott,2021-2022,275
+18.0,Wed,2022-02-23,19:30,Watford,Crystal Palace,1.4,1.1,1–4,20012.0,Andre Marriner,2021-2022,277
+19.0,Wed,2022-02-23,19:45,Liverpool,Leeds United,5.9,0.2,6–0,53018.0,Michael Oliver,2021-2022,279
+20.0,Thu,2022-02-24,19:45,Arsenal,Wolves,3.1,1.0,2–1,59888.0,Martin Atkinson,2021-2022,281
+27.0,Fri,2022-02-25,20:00,Southampton,Norwich City,2.6,0.6,2–0,31182.0,Simon Hooper,2021-2022,283
+27.0,Sat,2022-02-26,12:30,Leeds United,Tottenham,1.5,1.9,0–4,36599.0,Craig Pawson,2021-2022,284
+27.0,Sat,2022-02-26,15:00,Crystal Palace,Burnley,1.0,0.2,1–1,24203.0,Jonathan Moss,2021-2022,285
+27.0,Sat,2022-02-26,15:00,Manchester Utd,Watford,2.8,0.6,0–0,73152.0,Kevin Friend,2021-2022,286
+27.0,Sat,2022-02-26,15:00,Brighton,Aston Villa,0.7,1.0,0–2,31475.0,John Brooks,2021-2022,287
+27.0,Sat,2022-02-26,15:00,Brentford,Newcastle Utd,0.4,2.7,0–2,17039.0,Mike Dean,2021-2022,288
+27.0,Sat,2022-02-26,17:30,Everton,Manchester City,0.5,1.8,0–1,39105.0,Paul Tierney,2021-2022,289
+27.0,Sun,2022-02-27,14:00,West Ham,Wolves,1.8,0.7,1–0,59946.0,Anthony Taylor,2021-2022,290
+22.0,Tue,2022-03-01,19:45,Burnley,Leicester City,0.9,1.5,0–2,17825.0,Chris Kavanagh,2021-2022,292
+28.0,Sat,2022-03-05,12:30,Leicester City,Leeds United,0.4,1.7,1–0,32236.0,David Coote,2021-2022,294
+28.0,Sat,2022-03-05,15:00,Newcastle Utd,Brighton,1.7,1.5,2–1,52214.0,Martin Atkinson,2021-2022,295
+28.0,Sat,2022-03-05,15:00,Aston Villa,Southampton,2.5,1.1,4–0,41855.0,Peter Bankes,2021-2022,296
+28.0,Sat,2022-03-05,15:00,Burnley,Chelsea,0.7,2.3,0–4,19439.0,Andre Marriner,2021-2022,297
+28.0,Sat,2022-03-05,15:00,Wolves,Crystal Palace,0.7,2.7,0–2,31395.0,Andy Madley,2021-2022,298
+28.0,Sat,2022-03-05,15:00,Norwich City,Brentford,1.0,2.0,1–3,26887.0,Anthony Taylor,2021-2022,299
+28.0,Sat,2022-03-05,17:30,Liverpool,West Ham,2.4,1.3,1–0,59925.0,Jonathan Moss,2021-2022,300
+28.0,Sun,2022-03-06,14:00,Watford,Arsenal,1.0,1.0,2–3,21142.0,Craig Pawson,2021-2022,301
+28.0,Sun,2022-03-06,16:30,Manchester City,Manchester Utd,2.7,0.5,4–1,53165.0,Michael Oliver,2021-2022,302
+28.0,Mon,2022-03-07,20:00,Tottenham,Everton,2.5,0.2,5–0,59647.0,Stuart Attwell,2021-2022,303
+19.0,Thu,2022-03-10,19:30,Wolves,Watford,0.7,0.6,4–0,29658.0,Darren England,2021-2022,305
+21.0,Thu,2022-03-10,19:30,Southampton,Newcastle Utd,1.1,0.6,1–2,30056.0,Kevin Friend,2021-2022,307
+30.0,Thu,2022-03-10,19:30,Norwich City,Chelsea,1.0,1.8,1–3,26684.0,Martin Atkinson,2021-2022,309
+20.0,Thu,2022-03-10,19:45,Leeds United,Aston Villa,0.2,1.5,0–3,36400.0,Simon Hooper,2021-2022,311
+29.0,Sat,2022-03-12,12:30,Brighton,Liverpool,0.5,2.2,0–2,31474.0,Mike Dean,2021-2022,313
+29.0,Sat,2022-03-12,15:00,Brentford,Burnley,1.9,0.7,2–0,17088.0,Paul Tierney,2021-2022,314
+29.0,Sat,2022-03-12,17:30,Manchester Utd,Tottenham,1.0,1.5,3–2,73458.0,Jonathan Moss,2021-2022,315
+29.0,Sun,2022-03-13,14:00,Chelsea,Newcastle Utd,1.1,0.3,1–0,40026.0,David Coote,2021-2022,316
+29.0,Sun,2022-03-13,14:00,Southampton,Watford,1.4,1.7,1–2,28863.0,Graham Scott,2021-2022,317
+29.0,Sun,2022-03-13,14:00,West Ham,Aston Villa,1.2,1.1,2–1,59957.0,Jarred Gillett,2021-2022,318
+29.0,Sun,2022-03-13,14:00,Everton,Wolves,0.4,0.8,0–1,39112.0,Michael Oliver,2021-2022,319
+29.0,Sun,2022-03-13,14:00,Leeds United,Norwich City,2.5,1.5,2–1,36321.0,Stuart Attwell,2021-2022,320
+29.0,Sun,2022-03-13,16:30,Arsenal,Leicester City,2.4,0.4,2–0,60111.0,Anthony Taylor,2021-2022,321
+29.0,Mon,2022-03-14,20:00,Crystal Palace,Manchester City,0.6,2.8,0–0,25309.0,Martin Atkinson,2021-2022,322
+16.0,Wed,2022-03-16,19:30,Brighton,Tottenham,0.7,2.2,0–2,31144.0,Robert Jones,2021-2022,324
+27.0,Wed,2022-03-16,20:15,Arsenal,Liverpool,0.5,0.8,0–2,59968.0,Andre Marriner,2021-2022,326
+20.0,Thu,2022-03-17,19:45,Everton,Newcastle Utd,0.7,0.9,1–0,39068.0,Craig Pawson,2021-2022,328
+30.0,Fri,2022-03-18,20:00,Wolves,Leeds United,1.2,2.0,2–3,31842.0,Kevin Friend,2021-2022,330
+30.0,Sat,2022-03-19,12:30,Aston Villa,Arsenal,0.5,1.3,0–1,41956.0,Andy Madley,2021-2022,331
+30.0,Sun,2022-03-20,14:00,Leicester City,Brentford,1.0,1.3,2–1,31830.0,Darren England,2021-2022,332
+30.0,Sun,2022-03-20,16:30,Tottenham,West Ham,3.0,0.6,3–1,58685.0,Anthony Taylor,2021-2022,333
+31.0,Sat,2022-04-02,12:30,Liverpool,Watford,2.2,0.6,2–0,53104.0,Stuart Attwell,2021-2022,335
+31.0,Sat,2022-04-02,15:00,Wolves,Aston Villa,1.3,2.1,2–1,31012.0,Darren England,2021-2022,336
+31.0,Sat,2022-04-02,15:00,Leeds United,Southampton,1.2,1.4,1–1,36580.0,Anthony Taylor,2021-2022,337
+31.0,Sat,2022-04-02,15:00,Chelsea,Brentford,1.3,1.8,1–4,39061.0,Andy Madley,2021-2022,338
+31.0,Sat,2022-04-02,15:00,Burnley,Manchester City,0.1,1.8,0–2,21249.0,Craig Pawson,2021-2022,339
+31.0,Sat,2022-04-02,15:00,Brighton,Norwich City,2.8,0.4,0–0,31245.0,Simon Hooper,2021-2022,340
+31.0,Sat,2022-04-02,17:30,Manchester Utd,Leicester City,0.9,0.8,1–1,73444.0,Andre Marriner,2021-2022,341
+31.0,Sun,2022-04-03,14:00,West Ham,Everton,1.2,0.7,2–1,59953.0,Michael Oliver,2021-2022,342
+31.0,Sun,2022-04-03,16:30,Tottenham,Newcastle Utd,3.1,0.5,5–1,57553.0,Martin Atkinson,2021-2022,343
+31.0,Mon,2022-04-04,20:00,Crystal Palace,Arsenal,1.5,0.8,3–0,25149.0,Paul Tierney,2021-2022,344
+19.0,Wed,2022-04-06,19:30,Burnley,Everton,2.0,2.4,3–2,19830.0,Mike Dean,2021-2022,346
+32.0,Fri,2022-04-08,20:00,Newcastle Utd,Wolves,1.5,0.4,1–0,52164.0,Peter Bankes,2021-2022,348
+32.0,Sat,2022-04-09,12:30,Everton,Manchester Utd,0.4,0.8,1–0,39080.0,Jonathan Moss,2021-2022,349
+32.0,Sat,2022-04-09,15:00,Arsenal,Brighton,1.9,0.6,1–2,60112.0,David Coote,2021-2022,350
+32.0,Sat,2022-04-09,15:00,Southampton,Chelsea,0.5,4.2,0–6,31359.0,Kevin Friend,2021-2022,351
+32.0,Sat,2022-04-09,15:00,Watford,Leeds United,1.1,0.7,0–3,20957.0,Andre Marriner,2021-2022,352
+32.0,Sat,2022-04-09,17:30,Aston Villa,Tottenham,1.6,1.1,0–4,41949.0,Graham Scott,2021-2022,353
+32.0,Sun,2022-04-10,14:00,Brentford,West Ham,1.4,0.3,2–0,17032.0,Martin Atkinson,2021-2022,354
+32.0,Sun,2022-04-10,14:00,Leicester City,Crystal Palace,1.0,1.4,2–1,31896.0,Robert Jones,2021-2022,355
+32.0,Sun,2022-04-10,14:00,Norwich City,Burnley,1.7,1.7,2–0,26361.0,Michael Oliver,2021-2022,356
+32.0,Sun,2022-04-10,16:30,Manchester City,Liverpool,1.3,1.3,2–2,53197.0,Anthony Taylor,2021-2022,357
+33.0,Sat,2022-04-16,12:30,Tottenham,Brighton,0.5,0.6,0–1,58685.0,Craig Pawson,2021-2022,359
+33.0,Sat,2022-04-16,15:00,Manchester Utd,Norwich City,1.9,1.5,3–2,73381.0,Andy Madley,2021-2022,360
+33.0,Sat,2022-04-16,15:00,Watford,Brentford,1.7,1.9,1–2,21045.0,Simon Hooper,2021-2022,361
+33.0,Sat,2022-04-16,15:00,Southampton,Arsenal,0.8,1.7,1–0,31465.0,Peter Bankes,2021-2022,362
+33.0,Sun,2022-04-17,14:15,Newcastle Utd,Leicester City,1.8,0.6,2–1,52104.0,Jarred Gillett,2021-2022,363
+33.0,Sun,2022-04-17,14:15,West Ham,Burnley,2.2,1.8,1–1,59958.0,Paul Tierney,2021-2022,364
+30.0,Tue,2022-04-19,20:00,Liverpool,Manchester Utd,2.0,0.1,4–0,52686.0,Martin Atkinson,2021-2022,366
+18.0,Wed,2022-04-20,19:45,Everton,Leicester City,1.8,0.9,1–1,39153.0,David Coote,2021-2022,368
+25.0,Wed,2022-04-20,19:45,Chelsea,Arsenal,0.7,2.0,2–4,32249.0,Jonathan Moss,2021-2022,370
+30.0,Wed,2022-04-20,19:45,Newcastle Utd,Crystal Palace,0.9,0.5,1–0,51938.0,Tony Harrington,2021-2022,372
+30.0,Wed,2022-04-20,20:00,Manchester City,Brighton,1.3,0.2,3–0,52226.0,Mike Dean,2021-2022,373
+30.0,Thu,2022-04-21,19:45,Burnley,Southampton,1.5,0.9,2–0,17384.0,Stuart Attwell,2021-2022,374
+34.0,Sat,2022-04-23,12:30,Arsenal,Manchester Utd,2.3,1.8,3–1,60223.0,Craig Pawson,2021-2022,376
+34.0,Sat,2022-04-23,15:00,Leicester City,Aston Villa,0.3,0.9,0–0,32185.0,Andy Madley,2021-2022,377
+34.0,Sat,2022-04-23,15:00,Manchester City,Watford,3.6,0.5,5–1,53013.0,Kevin Friend,2021-2022,378
+34.0,Sat,2022-04-23,15:00,Norwich City,Newcastle Utd,0.6,1.9,0–3,26910.0,Chris Kavanagh,2021-2022,379
+34.0,Sat,2022-04-23,17:30,Brentford,Tottenham,0.9,0.6,0–0,17072.0,Martin Atkinson,2021-2022,380
+34.0,Sun,2022-04-24,14:00,Brighton,Southampton,1.7,0.9,2–2,31335.0,Robert Jones,2021-2022,381
+34.0,Sun,2022-04-24,14:00,Burnley,Wolves,1.4,0.6,1–0,19246.0,Anthony Taylor,2021-2022,382
+34.0,Sun,2022-04-24,14:00,Chelsea,West Ham,3.0,0.5,1–0,32231.0,Michael Oliver,2021-2022,383
+34.0,Sun,2022-04-24,16:30,Liverpool,Everton,1.7,0.4,2–0,53213.0,Stuart Attwell,2021-2022,384
+34.0,Mon,2022-04-25,20:00,Crystal Palace,Leeds United,1.9,0.5,0–0,25357.0,Darren England,2021-2022,385
+37.0,Thu,2022-04-28,19:45,Manchester Utd,Chelsea,0.5,1.9,1–1,73564.0,Mike Dean,2021-2022,387
+35.0,Sat,2022-04-30,12:30,Newcastle Utd,Liverpool,0.2,2.3,0–1,52281.0,Andre Marriner,2021-2022,389
+35.0,Sat,2022-04-30,15:00,Watford,Burnley,1.0,1.6,1–2,20738.0,Craig Pawson,2021-2022,390
+35.0,Sat,2022-04-30,15:00,Wolves,Brighton,0.7,2.6,0–3,31243.0,Simon Hooper,2021-2022,391
+35.0,Sat,2022-04-30,15:00,Aston Villa,Norwich City,1.8,0.5,2–0,40290.0,John Brooks,2021-2022,392
+35.0,Sat,2022-04-30,15:00,Southampton,Crystal Palace,0.6,1.1,1–2,31359.0,Jarred Gillett,2021-2022,393
+35.0,Sat,2022-04-30,17:30,Leeds United,Manchester City,1.3,2.4,0–4,35771.0,Paul Tierney,2021-2022,394
+35.0,Sun,2022-05-01,14:00,Tottenham,Leicester City,1.2,0.5,3–1,59482.0,Jonathan Moss,2021-2022,395
+35.0,Sun,2022-05-01,14:00,Everton,Chelsea,0.8,0.8,1–0,39256.0,Kevin Friend,2021-2022,396
+35.0,Sun,2022-05-01,16:30,West Ham,Arsenal,0.5,0.9,1–2,59959.0,Mike Dean,2021-2022,397
+35.0,Mon,2022-05-02,20:00,Manchester Utd,Brentford,2.0,0.6,3–0,73482.0,Chris Kavanagh,2021-2022,398
+36.0,Sat,2022-05-07,15:00,Crystal Palace,Watford,2.2,0.4,1–0,24622.0,Graham Scott,2021-2022,400
+36.0,Sat,2022-05-07,15:00,Brentford,Southampton,2.6,1.4,3–0,17051.0,Michael Salisbury,2021-2022,401
+36.0,Sat,2022-05-07,15:00,Chelsea,Wolves,1.7,2.0,2–2,32190.0,Peter Bankes,2021-2022,402
+36.0,Sat,2022-05-07,15:00,Burnley,Aston Villa,1.9,2.1,1–3,20891.0,David Coote,2021-2022,403
+36.0,Sat,2022-05-07,17:30,Brighton,Manchester Utd,2.3,0.9,4–0,31637.0,Andy Madley,2021-2022,404
+36.0,Sat,2022-05-07,19:45,Liverpool,Tottenham,1.3,0.9,1–1,53177.0,Michael Oliver,2021-2022,405
+36.0,Sun,2022-05-08,14:00,Leicester City,Everton,1.5,1.1,1–2,32001.0,Craig Pawson,2021-2022,406
+36.0,Sun,2022-05-08,14:00,Norwich City,West Ham,0.8,3.0,0–4,26428.0,Robert Jones,2021-2022,407
+36.0,Sun,2022-05-08,14:00,Arsenal,Leeds United,2.0,0.3,2–1,60108.0,Chris Kavanagh,2021-2022,408
+36.0,Sun,2022-05-08,16:30,Manchester City,Newcastle Utd,3.1,0.8,5–0,53336.0,Stuart Attwell,2021-2022,409
+33.0,Tue,2022-05-10,20:00,Aston Villa,Liverpool,1.4,1.8,1–2,41919.0,Jonathan Moss,2021-2022,411
+33.0,Wed,2022-05-11,19:30,Leeds United,Chelsea,0.4,1.3,0–3,36549.0,Anthony Taylor,2021-2022,412
+21.0,Wed,2022-05-11,19:45,Leicester City,Norwich City,2.0,1.1,3–0,38092.0,Simon Hooper,2021-2022,414
+30.0,Wed,2022-05-11,19:45,Watford,Everton,0.3,0.7,0–0,20653.0,Mike Dean,2021-2022,416
+33.0,Wed,2022-05-11,20:15,Wolves,Manchester City,0.5,2.3,1–5,32000.0,Martin Atkinson,2021-2022,418
+22.0,Thu,2022-05-12,19:45,Tottenham,Arsenal,2.7,0.5,3–0,62027.0,Paul Tierney,2021-2022,420
+37.0,Sun,2022-05-15,12:00,Tottenham,Burnley,2.2,0.7,1–0,61729.0,Kevin Friend,2021-2022,422
+37.0,Sun,2022-05-15,14:00,Leeds United,Brighton,1.6,2.2,1–1,36638.0,Mike Dean,2021-2022,423
+37.0,Sun,2022-05-15,14:00,Watford,Leicester City,1.4,2.5,1–5,20257.0,Jarred Gillett,2021-2022,424
+37.0,Sun,2022-05-15,14:00,Wolves,Norwich City,0.9,1.1,1–1,31219.0,Tony Harrington,2021-2022,425
+37.0,Sun,2022-05-15,14:00,Aston Villa,Crystal Palace,1.0,1.4,1–1,41136.0,Chris Kavanagh,2021-2022,426
+37.0,Sun,2022-05-15,14:00,West Ham,Manchester City,1.1,2.4,2–2,59972.0,Anthony Taylor,2021-2022,427
+37.0,Sun,2022-05-15,16:30,Everton,Brentford,2.1,1.4,2–3,38819.0,Michael Oliver,2021-2022,428
+37.0,Mon,2022-05-16,20:00,Newcastle Utd,Arsenal,1.6,0.6,2–0,52274.0,Darren England,2021-2022,429
+37.0,Tue,2022-05-17,19:45,Southampton,Liverpool,0.1,1.3,1–2,31588.0,Martin Atkinson,2021-2022,430
+33.0,Thu,2022-05-19,19:45,Everton,Crystal Palace,0.8,1.1,3–2,38448.0,Anthony Taylor,2021-2022,432
+18.0,Thu,2022-05-19,20:00,Aston Villa,Burnley,1.5,1.6,1–1,40468.0,Paul Tierney,2021-2022,434
+27.0,Thu,2022-05-19,20:00,Chelsea,Leicester City,1.6,0.1,1–1,31478.0,Stuart Attwell,2021-2022,436
+38.0,Sun,2022-05-22,16:00,Brentford,Leeds United,0.8,1.3,1–2,16957.0,Paul Tierney,2021-2022,438
+38.0,Sun,2022-05-22,16:00,Leicester City,Southampton,3.4,1.1,4–1,32003.0,Jonathan Moss,2021-2022,439
+38.0,Sun,2022-05-22,16:00,Crystal Palace,Manchester Utd,0.6,0.7,1–0,25434.0,Martin Atkinson,2021-2022,440
+38.0,Sun,2022-05-22,16:00,Arsenal,Everton,4.2,1.1,5–1,60201.0,Andre Marriner,2021-2022,441
+38.0,Sun,2022-05-22,16:00,Brighton,West Ham,1.6,0.2,3–1,31604.0,Kevin Friend,2021-2022,442
+38.0,Sun,2022-05-22,16:00,Norwich City,Tottenham,0.5,3.4,0–5,27022.0,Chris Kavanagh,2021-2022,443
+38.0,Sun,2022-05-22,16:00,Manchester City,Aston Villa,3.4,0.2,3–2,53395.0,Michael Oliver,2021-2022,444
+38.0,Sun,2022-05-22,16:00,Liverpool,Wolves,2.7,1.3,3–1,53097.0,Anthony Taylor,2021-2022,445
+38.0,Sun,2022-05-22,16:00,Burnley,Newcastle Utd,1.6,1.8,1–2,21361.0,Craig Pawson,2021-2022,446
+38.0,Sun,2022-05-22,16:00,Chelsea,Watford,2.2,0.6,2–1,32089.0,Mike Dean,2021-2022,447

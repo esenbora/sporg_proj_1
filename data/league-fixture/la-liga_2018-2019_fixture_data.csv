@@ -1,0 +1,381 @@
+Wk,Day,Date,Time,Home,Away,xG,xG.1,Score,Attendance,Referee,season,game_id
+1.0,Fri,2018-08-17,20:15,Girona,Valladolid,0.7,0.0,0–0,10368.0,Guillermo Cuadra,2018-2019,0
+1.0,Fri,2018-08-17,22:15,Betis,Levante,0.9,2.5,0–3,46225.0,Ignacio Iglesias,2018-2019,1
+1.0,Sat,2018-08-18,18:15,Celta Vigo,Espanyol,0.6,0.6,1–1,16215.0,Santiago Jaime,2018-2019,2
+1.0,Sat,2018-08-18,20:15,Villarreal,Real Sociedad,1.6,0.7,1–2,16250.0,Mario Melero,2018-2019,3
+1.0,Sat,2018-08-18,22:15,Barcelona,Alavés,3.2,0.3,3–0,52356.0,José Sánchez,2018-2019,4
+1.0,Sun,2018-08-19,18:15,Eibar,Huesca,1.3,1.7,1–2,4234.0,Eduardo Prieto,2018-2019,5
+1.0,Sun,2018-08-19,20:15,Rayo Vallecano,Sevilla,2.1,2.8,1–4,11626.0,Antonio Matéu Lahoz,2018-2019,6
+1.0,Sun,2018-08-19,22:15,Real Madrid,Getafe,1.0,0.2,2–0,48446.0,Daniel Ask,2018-2019,7
+1.0,Mon,2018-08-20,20:00,Valencia,Atlético Madrid,1.1,0.9,1–1,46174.0,Jesús Gil,2018-2019,8
+1.0,Mon,2018-08-20,22:00,Athletic Club,Leganés,2.2,1.0,2–1,38327.0,Adrián Cordero,2018-2019,9
+2.0,Fri,2018-08-24,20:15,Getafe,Eibar,1.4,0.6,2–0,7851.0,David Medié,2018-2019,11
+2.0,Fri,2018-08-24,22:15,Leganés,Real Sociedad,1.7,1.6,2–2,9375.0,José Luis Munuera,2018-2019,12
+2.0,Sat,2018-08-25,18:15,Alavés,Betis,0.6,0.9,0–0,18221.0,Pablo González,2018-2019,13
+2.0,Sat,2018-08-25,20:15,Atlético Madrid,Rayo Vallecano,0.9,1.5,1–0,52693.0,José González,2018-2019,14
+2.0,Sat,2018-08-25,22:15,Valladolid,Barcelona,0.4,1.0,0–1,22651.0,Ricardo de Burgos,2018-2019,15
+2.0,Sun,2018-08-26,18:15,Espanyol,Valencia,1.3,1.9,2–0,18714.0,Carlos del Cerro,2018-2019,16
+2.0,Sun,2018-08-26,22:15,Girona,Real Madrid,0.4,3.9,1–4,13889.0,Juan Martínez,2018-2019,17
+2.0,Sun,2018-08-26,22:15,Sevilla,Villarreal,1.9,1.0,0–0,35831.0,Alberto Undiano,2018-2019,18
+2.0,Mon,2018-08-27,20:15,Levante,Celta Vigo,1.9,2.5,1–2,21122.0,Alejandro Hernández,2018-2019,19
+2.0,Mon,2018-08-27,22:00,Athletic Club,Huesca,0.6,0.3,2–2,36818.0,Hsu Jason,2018-2019,20
+3.0,Fri,2018-08-31,20:00,Getafe,Valladolid,1.2,0.9,0–0,9817.0,Adrián Cordero,2018-2019,22
+3.0,Fri,2018-08-31,22:00,Villarreal,Girona,1.1,1.0,0–1,15740.0,Eduardo Prieto,2018-2019,23
+3.0,Fri,2018-08-31,22:00,Eibar,Real Sociedad,1.0,1.3,2–1,6144.0,José Sánchez,2018-2019,24
+3.0,Sat,2018-09-01,18:30,Celta Vigo,Atlético Madrid,0.5,0.4,2–0,19013.0,Antonio Matéu Lahoz,2018-2019,25
+3.0,Sat,2018-09-01,20:45,Real Madrid,Leganés,2.5,1.1,4–1,59255.0,Santiago Jaime,2018-2019,26
+3.0,Sun,2018-09-02,12:00,Levante,Valencia,1.6,4.1,2–2,24073.0,Daniel Ask,2018-2019,27
+3.0,Sun,2018-09-02,16:15,Alavés,Espanyol,1.4,1.2,2–1,18052.0,Ignacio Iglesias,2018-2019,28
+3.0,Sun,2018-09-02,18:30,Barcelona,Huesca,5.3,1.7,8–2,72892.0,Mario Melero,2018-2019,29
+3.0,Sun,2018-09-02,20:45,Betis,Sevilla,0.9,0.6,1–0,53451.0,Jesús Gil,2018-2019,30
+4.0,Fri,2018-09-14,21:00,Huesca,Rayo Vallecano,1.7,1.2,0–1,6498.0,David Medié,2018-2019,32
+4.0,Sat,2018-09-15,13:00,Atlético Madrid,Eibar,2.3,1.3,1–1,55674.0,Juan Martínez,2018-2019,33
+4.0,Sat,2018-09-15,16:15,Real Sociedad,Barcelona,1.4,1.4,1–2,26756.0,Carlos del Cerro,2018-2019,34
+4.0,Sat,2018-09-15,18:30,Valencia,Betis,1.0,1.0,0–0,40050.0,Alejandro Hernández,2018-2019,35
+4.0,Sat,2018-09-15,20:45,Athletic Club,Real Madrid,1.4,1.8,1–1,46413.0,José González,2018-2019,36
+4.0,Sun,2018-09-16,12:00,Leganés,Villarreal,1.4,0.5,0–1,10432.0,Pablo González,2018-2019,37
+4.0,Sun,2018-09-16,16:15,Espanyol,Levante,1.6,0.8,1–0,18627.0,Alberto Undiano,2018-2019,38
+4.0,Sun,2018-09-16,18:30,Valladolid,Alavés,1.1,0.8,0–1,18873.0,José Luis Munuera,2018-2019,39
+4.0,Sun,2018-09-16,20:45,Sevilla,Getafe,1.2,1.9,0–2,36943.0,Ricardo de Burgos,2018-2019,40
+4.0,Mon,2018-09-17,21:00,Girona,Celta Vigo,1.7,1.0,3–2,9849.0,Hsu Jason,2018-2019,41
+5.0,Fri,2018-09-21,21:00,Huesca,Real Sociedad,0.6,0.2,0–1,6948.0,Ignacio Iglesias,2018-2019,43
+5.0,Sat,2018-09-22,13:00,Rayo Vallecano,Alavés,1.5,1.3,1–5,12011.0,Adrián Cordero,2018-2019,44
+5.0,Sat,2018-09-22,16:15,Eibar,Leganés,1.3,0.3,1–0,4456.0,Mario Melero,2018-2019,45
+5.0,Sat,2018-09-22,16:15,Celta Vigo,Valladolid,1.9,2.1,3–3,16552.0,Eduardo Prieto,2018-2019,46
+5.0,Sat,2018-09-22,18:30,Getafe,Atlético Madrid,0.6,1.1,0–2,12756.0,José Sánchez,2018-2019,47
+5.0,Sat,2018-09-22,20:45,Real Madrid,Espanyol,1.0,0.4,1–0,67658.0,Antonio Matéu Lahoz,2018-2019,48
+5.0,Sun,2018-09-23,12:00,Levante,Sevilla,2.3,3.2,2–6,21520.0,Guillermo Cuadra,2018-2019,49
+5.0,Sun,2018-09-23,16:15,Villarreal,Valencia,0.7,0.4,0–0,18373.0,Santiago Jaime,2018-2019,50
+5.0,Sun,2018-09-23,20:00,Betis,Athletic Club,1.1,0.6,2–2,51093.0,Daniel Ask,2018-2019,51
+5.0,Sun,2018-09-23,20:45,Barcelona,Girona,1.4,1.5,2–2,76055.0,Jesús Gil,2018-2019,52
+6.0,Tue,2018-09-25,20:00,Espanyol,Eibar,0.9,0.3,1–0,13547.0,José Luis Munuera,2018-2019,54
+6.0,Tue,2018-09-25,21:00,Real Sociedad,Rayo Vallecano,1.6,2.1,2–2,21510.0,Juan Martínez,2018-2019,55
+6.0,Tue,2018-09-25,22:00,Atlético Madrid,Huesca,0.9,0.9,3–0,47023.0,Pablo González,2018-2019,56
+6.0,Wed,2018-09-26,20:00,Leganés,Barcelona,1.1,0.4,2–1,12231.0,Alberto Undiano,2018-2019,57
+6.0,Wed,2018-09-26,20:00,Athletic Club,Villarreal,0.8,2.5,0–3,39672.0,Carlos del Cerro,2018-2019,58
+6.0,Wed,2018-09-26,22:00,Sevilla,Real Madrid,2.4,1.5,3–0,40972.0,Alejandro Hernández,2018-2019,59
+6.0,Wed,2018-09-26,22:00,Valencia,Celta Vigo,1.1,0.4,1–1,35945.0,Ricardo de Burgos,2018-2019,60
+6.0,Thu,2018-09-27,20:00,Alavés,Getafe,1.7,1.1,1–1,18373.0,Eduardo Prieto,2018-2019,61
+6.0,Thu,2018-09-27,20:00,Valladolid,Levante,1.0,0.8,2–1,16440.0,David Medié,2018-2019,62
+6.0,Thu,2018-09-27,22:00,Girona,Betis,0.8,1.6,0–1,11358.0,José González,2018-2019,63
+7.0,Fri,2018-09-28,21:00,Rayo Vallecano,Espanyol,1.3,1.5,2–2,12100.0,Hsu Jason,2018-2019,65
+7.0,Sat,2018-09-29,13:00,Real Sociedad,Valencia,1.3,0.9,0–1,23577.0,Jesús Gil,2018-2019,66
+7.0,Sat,2018-09-29,16:15,Barcelona,Athletic Club,3.2,0.9,1–1,78015.0,Santiago Jaime,2018-2019,67
+7.0,Sat,2018-09-29,18:30,Eibar,Sevilla,0.8,2.0,1–3,5443.0,Daniel Ask,2018-2019,68
+7.0,Sat,2018-09-29,20:45,Real Madrid,Atlético Madrid,1.2,0.8,0–0,78642.0,Juan Martínez,2018-2019,69
+7.0,Sun,2018-09-30,12:00,Huesca,Girona,1.5,1.7,1–1,6779.0,Adrián Cordero,2018-2019,70
+7.0,Sun,2018-09-30,16:15,Villarreal,Valladolid,2.8,0.8,0–1,15602.0,Ignacio Iglesias,2018-2019,71
+7.0,Sun,2018-09-30,18:30,Levante,Alavés,1.6,0.9,2–1,20239.0,Mario Melero,2018-2019,72
+7.0,Sun,2018-09-30,20:45,Betis,Leganés,1.7,0.5,1–0,48115.0,José Sánchez,2018-2019,73
+7.0,Mon,2018-10-01,21:00,Celta Vigo,Getafe,0.5,1.2,1–1,14330.0,Guillermo Cuadra,2018-2019,74
+8.0,Fri,2018-10-05,21:00,Athletic Club,Real Sociedad,1.4,2.2,1–3,46884.0,Alejandro Hernández,2018-2019,76
+8.0,Sat,2018-10-06,13:00,Girona,Eibar,1.2,1.7,2–3,10569.0,Eduardo Prieto,2018-2019,77
+8.0,Sat,2018-10-06,16:15,Getafe,Levante,1.1,1.0,0–1,9557.0,José Luis Munuera,2018-2019,78
+8.0,Sat,2018-10-06,18:30,Alavés,Real Madrid,1.1,0.8,1–0,19461.0,Santiago Jaime,2018-2019,79
+8.0,Sat,2018-10-06,20:45,Leganés,Rayo Vallecano,0.9,0.4,1–0,11539.0,David Medié,2018-2019,80
+8.0,Sun,2018-10-07,12:00,Valladolid,Huesca,0.8,0.6,1–0,17300.0,Antonio Matéu Lahoz,2018-2019,81
+8.0,Sun,2018-10-07,16:15,Atlético Madrid,Betis,0.6,0.3,1–0,63786.0,Alberto Undiano,2018-2019,82
+8.0,Sun,2018-10-07,18:30,Sevilla,Celta Vigo,1.8,0.7,2–1,38068.0,Pablo González,2018-2019,83
+8.0,Sun,2018-10-07,18:30,Espanyol,Villarreal,2.4,1.5,3–1,20032.0,Ricardo de Burgos,2018-2019,84
+8.0,Sun,2018-10-07,20:45,Valencia,Barcelona,1.5,0.4,1–1,46249.0,José González,2018-2019,85
+9.0,Fri,2018-10-19,21:00,Celta Vigo,Alavés,0.9,0.9,0–1,15627.0,Carlos del Cerro,2018-2019,87
+9.0,Sat,2018-10-20,13:00,Real Madrid,Levante,2.9,2.0,1–2,63423.0,Guillermo Cuadra,2018-2019,88
+9.0,Sat,2018-10-20,16:15,Valencia,Leganés,1.3,1.0,1–1,35597.0,Ignacio Iglesias,2018-2019,89
+9.0,Sat,2018-10-20,18:30,Villarreal,Atlético Madrid,1.9,1.4,1–1,17518.0,Daniel Ask,2018-2019,90
+9.0,Sat,2018-10-20,20:45,Barcelona,Sevilla,2.5,2.2,4–2,88712.0,Juan Martínez,2018-2019,91
+9.0,Sun,2018-10-21,12:00,Rayo Vallecano,Getafe,0.4,0.5,1–2,12040.0,Mario Melero,2018-2019,92
+9.0,Sun,2018-10-21,16:15,Eibar,Athletic Club,1.9,0.7,1–1,6475.0,Jesús Gil,2018-2019,93
+9.0,Sun,2018-10-21,18:30,Huesca,Espanyol,0.4,1.7,0–2,6943.0,Eduardo Prieto,2018-2019,94
+9.0,Sun,2018-10-21,20:45,Betis,Valladolid,0.9,0.4,0–1,42581.0,Hsu Jason,2018-2019,95
+9.0,Mon,2018-10-22,21:00,Real Sociedad,Girona,0.6,0.9,0–0,20997.0,Pablo González,2018-2019,96
+3.0,Wed,2018-10-24,19:00,Rayo Vallecano,Athletic Club,1.3,1.3,1–1,11850.0,Guillermo Cuadra,2018-2019,98
+10.0,Fri,2018-10-26,21:00,Valladolid,Espanyol,1.1,0.5,1–1,18231.0,Adrián Cordero,2018-2019,100
+10.0,Sat,2018-10-27,13:00,Girona,Rayo Vallecano,2.4,1.6,2–1,6618.0,José Luis Munuera,2018-2019,101
+10.0,Sat,2018-10-27,16:15,Athletic Club,Valencia,0.7,0.5,0–0,39261.0,Alberto Undiano,2018-2019,102
+10.0,Sat,2018-10-27,18:30,Levante,Leganés,1.3,1.4,2–0,19754.0,Ricardo de Burgos,2018-2019,103
+10.0,Sat,2018-10-27,18:30,Celta Vigo,Eibar,0.8,1.7,4–0,15509.0,José González,2018-2019,104
+10.0,Sat,2018-10-27,20:45,Atlético Madrid,Real Sociedad,1.4,0.3,2–0,57514.0,Antonio Matéu Lahoz,2018-2019,105
+10.0,Sun,2018-10-28,12:00,Getafe,Betis,2.2,0.5,2–0,12086.0,Santiago Jaime,2018-2019,106
+10.0,Sun,2018-10-28,16:15,Barcelona,Real Madrid,3.0,2.1,5–1,93265.0,José Sánchez,2018-2019,107
+10.0,Sun,2018-10-28,18:30,Alavés,Villarreal,1.9,1.3,2–1,16956.0,Guillermo Cuadra,2018-2019,108
+10.0,Sun,2018-10-28,20:45,Sevilla,Huesca,1.7,0.8,2–1,33022.0,David Medié,2018-2019,109
+11.0,Sat,2018-11-03,13:00,Leganés,Atlético Madrid,1.3,0.4,1–1,12319.0,Mario Melero,2018-2019,111
+11.0,Sat,2018-11-03,16:15,Real Madrid,Valladolid,2.2,0.9,2–0,68050.0,Jesús Gil,2018-2019,112
+11.0,Sat,2018-11-03,18:30,Valencia,Girona,2.3,0.3,0–1,38745.0,Hsu Jason,2018-2019,113
+11.0,Sat,2018-11-03,20:45,Rayo Vallecano,Barcelona,1.6,1.9,2–3,13785.0,Alejandro Hernández,2018-2019,114
+11.0,Sun,2018-11-04,12:00,Eibar,Alavés,1.5,0.6,2–1,5660.0,Ignacio Iglesias,2018-2019,115
+11.0,Sun,2018-11-04,16:15,Villarreal,Levante,1.2,0.5,1–1,16499.0,Carlos del Cerro,2018-2019,116
+11.0,Sun,2018-11-04,18:30,Huesca,Getafe,1.3,0.5,1–1,6420.0,Juan Martínez,2018-2019,117
+11.0,Sun,2018-11-04,18:30,Real Sociedad,Sevilla,0.6,0.4,0–0,24882.0,Eduardo Prieto,2018-2019,118
+11.0,Sun,2018-11-04,20:45,Betis,Celta Vigo,1.7,2.1,3–3,42130.0,Daniel Ask,2018-2019,119
+11.0,Mon,2018-11-05,21:00,Espanyol,Athletic Club,1.5,0.5,1–0,14328.0,Pablo González,2018-2019,120
+12.0,Fri,2018-11-09,21:00,Levante,Real Sociedad,1.3,1.2,1–3,19890.0,David Medié,2018-2019,122
+12.0,Sat,2018-11-10,13:00,Valladolid,Eibar,0.5,1.1,0–0,16038.0,Guillermo Cuadra,2018-2019,123
+12.0,Sat,2018-11-10,16:15,Getafe,Valencia,1.5,2.2,0–1,10011.0,Ricardo de Burgos,2018-2019,124
+12.0,Sat,2018-11-10,18:30,Atlético Madrid,Athletic Club,1.1,1.9,3–2,59321.0,José Sánchez,2018-2019,125
+12.0,Sat,2018-11-10,20:45,Girona,Leganés,0.4,1.1,0–0,9874.0,Adrián Cordero,2018-2019,126
+12.0,Sun,2018-11-11,12:00,Alavés,Huesca,1.3,0.9,2–1,18437.0,José Luis Munuera,2018-2019,127
+12.0,Sun,2018-11-11,16:15,Barcelona,Betis,3.8,2.3,3–4,83174.0,Antonio Matéu Lahoz,2018-2019,128
+12.0,Sun,2018-11-11,18:30,Sevilla,Espanyol,4.1,0.8,2–1,38769.0,Santiago Jaime,2018-2019,129
+12.0,Sun,2018-11-11,18:30,Rayo Vallecano,Villarreal,2.3,0.9,2–2,11840.0,José González,2018-2019,130
+12.0,Sun,2018-11-11,20:45,Celta Vigo,Real Madrid,0.9,2.5,2–4,21184.0,Alberto Undiano,2018-2019,131
+13.0,Fri,2018-11-23,21:00,Leganés,Alavés,0.9,0.4,1–0,9863.0,Hsu Jason,2018-2019,133
+13.0,Sat,2018-11-24,13:00,Eibar,Real Madrid,2.8,1.1,3–0,6435.0,Juan Martínez,2018-2019,134
+13.0,Sat,2018-11-24,16:15,Valencia,Rayo Vallecano,1.9,0.8,3–0,37814.0,Pablo González,2018-2019,135
+13.0,Sat,2018-11-24,18:30,Huesca,Levante,2.8,1.0,2–2,6459.0,Daniel Ask,2018-2019,136
+13.0,Sat,2018-11-24,20:45,Atlético Madrid,Barcelona,0.2,0.6,1–1,67204.0,Jesús Gil,2018-2019,137
+13.0,Sun,2018-11-25,12:00,Athletic Club,Getafe,0.6,2.0,1–1,39821.0,Ignacio Iglesias,2018-2019,138
+13.0,Sun,2018-11-25,16:15,Sevilla,Valladolid,1.3,0.7,1–0,34064.0,Carlos del Cerro,2018-2019,139
+13.0,Sun,2018-11-25,18:30,Espanyol,Girona,2.4,2.2,1–3,22716.0,Alejandro Hernández,2018-2019,140
+13.0,Sun,2018-11-25,20:45,Villarreal,Betis,0.9,0.9,2–1,16028.0,Eduardo Prieto,2018-2019,141
+13.0,Mon,2018-11-26,21:00,Real Sociedad,Celta Vigo,1.9,0.5,2–1,17744.0,Mario Melero,2018-2019,142
+14.0,Fri,2018-11-30,21:00,Rayo Vallecano,Eibar,1.2,1.0,1–0,11257.0,Alberto Undiano,2018-2019,144
+14.0,Sat,2018-12-01,13:00,Celta Vigo,Huesca,2.3,1.2,2–0,13463.0,Adrián Cordero,2018-2019,145
+14.0,Sat,2018-12-01,16:15,Valladolid,Leganés,1.7,1.7,2–4,16783.0,David Medié,2018-2019,146
+14.0,Sat,2018-12-01,18:30,Getafe,Espanyol,1.4,1.1,3–0,9287.0,Antonio Matéu Lahoz,2018-2019,147
+14.0,Sat,2018-12-01,20:45,Real Madrid,Valencia,0.8,0.8,2–0,69653.0,José González,2018-2019,148
+14.0,Sun,2018-12-02,12:00,Betis,Real Sociedad,1.3,1.3,1–0,46562.0,Guillermo Cuadra,2018-2019,149
+14.0,Sun,2018-12-02,16:15,Girona,Atlético Madrid,1.5,1.6,1–1,12104.0,Ricardo de Burgos,2018-2019,150
+14.0,Sun,2018-12-02,18:30,Barcelona,Villarreal,1.0,1.1,2–0,73003.0,José Luis Munuera,2018-2019,151
+14.0,Sun,2018-12-02,20:45,Alavés,Sevilla,1.0,1.7,1–1,17848.0,José Sánchez,2018-2019,152
+14.0,Mon,2018-12-03,21:00,Levante,Athletic Club,1.9,1.1,3–0,19928.0,Santiago Jaime,2018-2019,153
+15.0,Fri,2018-12-07,21:00,Leganés,Getafe,1.7,0.9,1–1,11327.0,Pablo González,2018-2019,155
+15.0,Sat,2018-12-08,13:00,Atlético Madrid,Alavés,2.7,1.4,3–0,55810.0,Alejandro Hernández,2018-2019,156
+15.0,Sat,2018-12-08,16:15,Valencia,Sevilla,1.2,1.7,1–1,40057.0,Daniel Ask,2018-2019,157
+15.0,Sat,2018-12-08,18:30,Villarreal,Celta Vigo,1.6,2.0,2–3,15720.0,Jesús Gil,2018-2019,158
+15.0,Sat,2018-12-08,20:45,Espanyol,Barcelona,1.1,2.9,0–4,24037.0,Carlos del Cerro,2018-2019,159
+15.0,Sun,2018-12-09,12:00,Eibar,Levante,4.2,2.2,4–4,5328.0,Hsu Jason,2018-2019,160
+15.0,Sun,2018-12-09,16:15,Huesca,Real Madrid,1.2,0.4,0–1,7341.0,Mario Melero,2018-2019,161
+15.0,Sun,2018-12-09,18:30,Real Sociedad,Valladolid,2.4,1.0,1–2,23260.0,Ignacio Iglesias,2018-2019,162
+15.0,Sun,2018-12-09,20:45,Betis,Rayo Vallecano,1.7,1.2,2–0,40218.0,Juan Martínez,2018-2019,163
+15.0,Mon,2018-12-10,21:00,Athletic Club,Girona,2.1,0.2,1–0,34060.0,Eduardo Prieto,2018-2019,164
+16.0,Fri,2018-12-14,21:00,Celta Vigo,Leganés,1.2,0.7,0–0,15134.0,José Luis Munuera,2018-2019,166
+16.0,Sat,2018-12-15,13:00,Getafe,Real Sociedad,0.4,0.8,1–0,9018.0,Santiago Jaime,2018-2019,167
+16.0,Sat,2018-12-15,16:15,Valladolid,Atlético Madrid,0.8,1.9,2–3,22585.0,Alberto Undiano,2018-2019,168
+16.0,Sat,2018-12-15,18:30,Real Madrid,Rayo Vallecano,1.2,0.7,1–0,55229.0,Ricardo de Burgos,2018-2019,169
+16.0,Sat,2018-12-15,20:45,Eibar,Valencia,1.6,2.1,1–1,4491.0,Adrián Cordero,2018-2019,170
+16.0,Sun,2018-12-16,12:00,Sevilla,Girona,2.1,1.0,2–0,33542.0,Guillermo Cuadra,2018-2019,171
+16.0,Sun,2018-12-16,16:15,Espanyol,Betis,0.6,1.7,1–3,20275.0,José Sánchez,2018-2019,172
+16.0,Sun,2018-12-16,18:30,Huesca,Villarreal,4.2,1.7,2–2,6455.0,David Medié,2018-2019,173
+16.0,Sun,2018-12-16,20:45,Levante,Barcelona,1.0,3.7,0–5,23736.0,José González,2018-2019,174
+16.0,Mon,2018-12-17,21:00,Alavés,Athletic Club,0.5,0.3,0–0,19349.0,Antonio Matéu Lahoz,2018-2019,175
+17.0,Fri,2018-12-21,19:30,Girona,Getafe,1.4,0.6,1–1,8450.0,Hsu Jason,2018-2019,177
+17.0,Fri,2018-12-21,21:00,Real Sociedad,Alavés,1.1,0.8,0–1,22431.0,Daniel Ask,2018-2019,178
+17.0,Sat,2018-12-22,13:00,Betis,Eibar,1.5,2.3,1–1,49426.0,Carlos del Cerro,2018-2019,179
+17.0,Sat,2018-12-22,16:15,Atlético Madrid,Espanyol,1.0,0.8,1–0,58069.0,Mario Melero,2018-2019,180
+17.0,Sat,2018-12-22,18:30,Barcelona,Celta Vigo,1.4,0.6,2–0,78686.0,Eduardo Prieto,2018-2019,181
+17.0,Sat,2018-12-22,20:45,Athletic Club,Valladolid,1.1,0.6,1–1,42633.0,José Sánchez,2018-2019,182
+17.0,Sun,2018-12-23,12:00,Valencia,Huesca,3.2,2.3,2–1,36547.0,Jesús Gil,2018-2019,183
+17.0,Sun,2018-12-23,16:15,Leganés,Sevilla,1.3,0.7,1–1,11321.0,Alejandro Hernández,2018-2019,184
+17.0,Sun,2018-12-23,18:30,Rayo Vallecano,Levante,2.5,1.0,2–1,11206.0,Ignacio Iglesias,2018-2019,185
+17.0,Thu,2019-01-03,21:30,Villarreal,Real Madrid,1.2,1.6,2–2,19903.0,Pablo González,2018-2019,186
+18.0,Fri,2019-01-04,19:00,Levante,Girona,1.6,1.4,2–2,19415.0,Alberto Undiano,2018-2019,188
+18.0,Fri,2019-01-04,21:00,Espanyol,Leganés,1.3,0.4,1–0,15085.0,José González,2018-2019,189
+18.0,Sat,2019-01-05,13:00,Valladolid,Rayo Vallecano,1.8,1.0,0–1,17261.0,Adrián Cordero,2018-2019,190
+18.0,Sat,2019-01-05,16:15,Alavés,Valencia,1.9,1.1,2–1,18304.0,David Medié,2018-2019,191
+18.0,Sat,2019-01-05,20:45,Huesca,Betis,1.5,1.1,2–1,6135.0,Ricardo de Burgos,2018-2019,192
+18.0,Sun,2019-01-06,12:00,Eibar,Villarreal,1.8,1.2,0–0,4141.0,Santiago Jaime,2018-2019,193
+18.0,Sun,2019-01-06,16:15,Sevilla,Atlético Madrid,1.4,0.7,1–1,38603.0,Antonio Matéu Lahoz,2018-2019,194
+18.0,Sun,2019-01-06,18:30,Real Madrid,Real Sociedad,2.6,2.3,0–2,53412.0,José Luis Munuera,2018-2019,195
+18.0,Sun,2019-01-06,20:45,Getafe,Barcelona,1.2,1.5,1–2,14721.0,Guillermo Cuadra,2018-2019,196
+18.0,Mon,2019-01-07,21:00,Celta Vigo,Athletic Club,1.5,1.8,1–2,13266.0,Juan Martínez,2018-2019,197
+19.0,Fri,2019-01-11,21:00,Rayo Vallecano,Celta Vigo,2.0,1.3,4–2,11465.0,Hsu Jason,2018-2019,199
+19.0,Sat,2019-01-12,13:00,Leganés,Huesca,2.0,0.5,1–0,10341.0,Mario Melero,2018-2019,200
+19.0,Sat,2019-01-12,16:15,Valencia,Valladolid,3.5,0.2,1–1,36912.0,Ignacio Iglesias,2018-2019,201
+19.0,Sat,2019-01-12,18:30,Girona,Alavés,0.6,1.1,1–1,10303.0,José Sánchez,2018-2019,202
+19.0,Sat,2019-01-12,20:45,Villarreal,Getafe,2.3,0.9,1–2,13671.0,Daniel Ask,2018-2019,203
+19.0,Sun,2019-01-13,12:00,Atlético Madrid,Levante,2.5,0.7,1–0,57093.0,Eduardo Prieto,2018-2019,204
+19.0,Sun,2019-01-13,16:15,Athletic Club,Sevilla,0.9,0.7,2–0,41342.0,Pablo González,2018-2019,205
+19.0,Sun,2019-01-13,18:30,Barcelona,Eibar,1.1,0.9,3–0,71039.0,Jesús Gil,2018-2019,206
+19.0,Sun,2019-01-13,20:45,Betis,Real Madrid,0.8,0.7,1–2,54187.0,Alejandro Hernández,2018-2019,207
+19.0,Mon,2019-01-14,21:00,Real Sociedad,Espanyol,2.6,2.1,3–2,17301.0,Carlos del Cerro,2018-2019,208
+20.0,Fri,2019-01-18,21:00,Getafe,Alavés,2.0,0.4,4–0,8748.0,José Luis Munuera,2018-2019,210
+20.0,Sat,2019-01-19,16:15,Real Madrid,Sevilla,1.5,0.5,2–0,68232.0,Antonio Matéu Lahoz,2018-2019,211
+20.0,Sat,2019-01-19,18:30,Huesca,Atlético Madrid,1.3,2.5,0–3,7106.0,Guillermo Cuadra,2018-2019,212
+20.0,Sat,2019-01-19,20:45,Celta Vigo,Valencia,0.8,1.2,1–2,15668.0,José González,2018-2019,213
+20.0,Sun,2019-01-20,12:00,Betis,Girona,1.4,0.8,3–2,47218.0,Adrián Cordero,2018-2019,214
+20.0,Sun,2019-01-20,16:15,Villarreal,Athletic Club,1.1,0.5,1–1,17054.0,Alberto Undiano,2018-2019,215
+20.0,Sun,2019-01-20,18:30,Levante,Valladolid,1.5,1.5,2–0,19107.0,Santiago Jaime,2018-2019,216
+20.0,Sun,2019-01-20,18:30,Rayo Vallecano,Real Sociedad,0.9,1.6,2–2,12562.0,David Medié,2018-2019,217
+20.0,Sun,2019-01-20,20:45,Barcelona,Leganés,1.8,0.9,3–1,50670.0,Ricardo de Burgos,2018-2019,218
+20.0,Mon,2019-01-21,21:00,Eibar,Espanyol,1.6,0.9,3–0,3592.0,Juan Martínez,2018-2019,219
+21.0,Sat,2019-01-26,13:00,Sevilla,Levante,4.6,0.9,5–0,34220.0,Hsu Jason,2018-2019,221
+21.0,Sat,2019-01-26,16:15,Atlético Madrid,Getafe,1.1,0.3,2–0,55709.0,Ignacio Iglesias,2018-2019,222
+21.0,Sat,2019-01-26,18:30,Leganés,Eibar,0.7,0.2,2–2,9341.0,Alejandro Hernández,2018-2019,223
+21.0,Sat,2019-01-26,20:45,Valencia,Villarreal,1.5,0.7,3–0,37685.0,Carlos del Cerro,2018-2019,224
+21.0,Sun,2019-01-27,12:00,Valladolid,Celta Vigo,1.6,1.0,2–1,18416.0,José Sánchez,2018-2019,225
+21.0,Sun,2019-01-27,16:15,Girona,Barcelona,1.3,2.2,0–2,14021.0,Pablo González,2018-2019,226
+21.0,Sun,2019-01-27,18:30,Real Sociedad,Huesca,0.4,0.4,0–0,21252.0,Eduardo Prieto,2018-2019,227
+21.0,Sun,2019-01-27,18:30,Athletic Club,Betis,1.1,0.4,1–0,40282.0,Daniel Ask,2018-2019,228
+21.0,Sun,2019-01-27,20:45,Espanyol,Real Madrid,1.1,2.1,2–4,21215.0,Jesús Gil,2018-2019,229
+21.0,Mon,2019-01-28,21:00,Alavés,Rayo Vallecano,1.0,1.0,0–1,13982.0,Mario Melero,2018-2019,230
+22.0,Fri,2019-02-01,21:00,Huesca,Valladolid,1.9,0.5,4–0,6052.0,José Luis Munuera,2018-2019,232
+22.0,Sat,2019-02-02,13:00,Levante,Getafe,0.6,0.4,0–0,18437.0,Adrián Cordero,2018-2019,233
+22.0,Sat,2019-02-02,16:15,Real Sociedad,Athletic Club,1.5,1.4,2–1,27073.0,Antonio Matéu Lahoz,2018-2019,234
+22.0,Sat,2019-02-02,18:30,Barcelona,Valencia,2.0,3.3,2–2,76789.0,Alberto Undiano,2018-2019,235
+22.0,Sat,2019-02-02,20:45,Celta Vigo,Sevilla,1.0,0.9,1–0,17503.0,Ricardo de Burgos,2018-2019,236
+22.0,Sun,2019-02-03,12:00,Villarreal,Espanyol,2.8,1.6,2–2,15476.0,Guillermo Cuadra,2018-2019,237
+22.0,Sun,2019-02-03,16:15,Betis,Atlético Madrid,1.0,0.7,1–0,50864.0,David Medié,2018-2019,238
+22.0,Sun,2019-02-03,18:30,Eibar,Girona,1.7,0.2,3–0,4419.0,José González,2018-2019,239
+22.0,Sun,2019-02-03,20:45,Real Madrid,Alavés,2.5,0.6,3–0,53132.0,Santiago Jaime,2018-2019,240
+22.0,Mon,2019-02-04,21:00,Rayo Vallecano,Leganés,1.7,1.3,1–2,11435.0,Juan Martínez,2018-2019,241
+23.0,Fri,2019-02-08,21:00,Valladolid,Villarreal,0.6,1.2,0–0,16842.0,Alejandro Hernández,2018-2019,243
+23.0,Sat,2019-02-09,13:00,Getafe,Celta Vigo,2.7,0.9,3–1,9918.0,Pablo González,2018-2019,244
+23.0,Sat,2019-02-09,16:15,Atlético Madrid,Real Madrid,1.1,1.6,1–3,67752.0,Daniel Ask,2018-2019,245
+23.0,Sat,2019-02-09,18:30,Espanyol,Rayo Vallecano,2.0,0.6,2–1,22104.0,Eduardo Prieto,2018-2019,246
+23.0,Sat,2019-02-09,20:45,Girona,Huesca,1.4,0.6,0–2,10662.0,Adrián Cordero,2018-2019,247
+23.0,Sun,2019-02-10,12:00,Leganés,Betis,1.6,0.1,3–0,11381.0,Hsu Jason,2018-2019,248
+23.0,Sun,2019-02-10,16:15,Valencia,Real Sociedad,1.5,0.5,0–0,38885.0,Mario Melero,2018-2019,249
+23.0,Sun,2019-02-10,18:30,Sevilla,Eibar,1.7,1.3,2–2,36343.0,Ignacio Iglesias,2018-2019,250
+23.0,Sun,2019-02-10,20:45,Athletic Club,Barcelona,1.3,0.7,0–0,47557.0,Carlos del Cerro,2018-2019,251
+23.0,Mon,2019-02-11,21:00,Alavés,Levante,1.7,0.3,2–0,13691.0,Alberto Undiano,2018-2019,252
+24.0,Fri,2019-02-15,21:00,Eibar,Getafe,1.8,0.7,2–2,4449.0,David Medié,2018-2019,254
+24.0,Sat,2019-02-16,13:00,Celta Vigo,Levante,1.6,2.8,1–4,15479.0,Santiago Jaime,2018-2019,255
+24.0,Sat,2019-02-16,16:15,Rayo Vallecano,Atlético Madrid,1.0,0.2,0–1,13880.0,Jesús Gil,2018-2019,256
+24.0,Sat,2019-02-16,18:30,Real Sociedad,Leganés,1.7,1.2,3–0,22997.0,José Luis Munuera,2018-2019,257
+24.0,Sat,2019-02-16,20:45,Barcelona,Valladolid,3.7,0.4,1–0,67435.0,Juan Martínez,2018-2019,258
+24.0,Sun,2019-02-17,12:00,Real Madrid,Girona,1.8,2.6,1–2,68099.0,Guillermo Cuadra,2018-2019,259
+24.0,Sun,2019-02-17,16:15,Valencia,Espanyol,1.7,0.4,0–0,39564.0,Ricardo de Burgos,2018-2019,260
+24.0,Sun,2019-02-17,18:30,Villarreal,Sevilla,1.6,2.6,3–0,17402.0,José González,2018-2019,261
+24.0,Sun,2019-02-17,20:45,Betis,Alavés,3.1,1.2,1–1,43455.0,Antonio Matéu Lahoz,2018-2019,262
+24.0,Mon,2019-02-18,21:00,Huesca,Athletic Club,1.2,1.4,0–1,6729.0,José Sánchez,2018-2019,263
+25.0,Fri,2019-02-22,21:00,Espanyol,Huesca,0.8,0.8,1–1,20078.0,Alejandro Hernández,2018-2019,265
+25.0,Sat,2019-02-23,13:00,Getafe,Rayo Vallecano,1.3,0.8,2–1,11207.0,Hsu Jason,2018-2019,266
+25.0,Sat,2019-02-23,16:15,Sevilla,Barcelona,1.6,1.8,2–4,40661.0,Antonio Matéu Lahoz,2018-2019,267
+25.0,Sat,2019-02-23,18:30,Alavés,Celta Vigo,1.4,0.5,0–0,18882.0,Carlos del Cerro,2018-2019,268
+25.0,Sat,2019-02-23,20:45,Athletic Club,Eibar,1.3,0.6,1–0,43363.0,Mario Melero,2018-2019,269
+25.0,Sun,2019-02-24,12:00,Leganés,Valencia,1.8,0.5,1–1,11425.0,Daniel Ask,2018-2019,270
+25.0,Sun,2019-02-24,16:15,Atlético Madrid,Villarreal,1.2,1.2,2–0,59114.0,Alberto Undiano,2018-2019,271
+25.0,Sun,2019-02-24,18:30,Valladolid,Betis,0.6,0.8,0–2,20125.0,Pablo González,2018-2019,272
+25.0,Sun,2019-02-24,20:45,Levante,Real Madrid,1.2,2.7,1–2,23018.0,Ignacio Iglesias,2018-2019,273
+25.0,Mon,2019-02-25,21:00,Girona,Real Sociedad,1.0,0.5,0–0,10170.0,Eduardo Prieto,2018-2019,274
+26.0,Fri,2019-03-01,21:00,Rayo Vallecano,Girona,0.8,1.3,0–2,12087.0,Santiago Jaime,2018-2019,276
+26.0,Sat,2019-03-02,13:00,Espanyol,Valladolid,2.6,1.5,3–1,20467.0,Adrián Cordero,2018-2019,277
+26.0,Sat,2019-03-02,16:15,Villarreal,Alavés,1.2,1.4,1–2,15488.0,José Luis Munuera,2018-2019,278
+26.0,Sat,2019-03-02,18:30,Huesca,Sevilla,1.0,2.3,2–1,6818.0,Ricardo de Burgos,2018-2019,279
+26.0,Sat,2019-03-02,20:45,Real Madrid,Barcelona,0.9,1.1,0–1,78921.0,Alberto Undiano,2018-2019,280
+26.0,Sun,2019-03-03,12:00,Eibar,Celta Vigo,2.5,0.5,1–0,4682.0,Guillermo Cuadra,2018-2019,281
+26.0,Sun,2019-03-03,16:15,Betis,Getafe,0.6,1.6,1–2,46657.0,Juan Martínez,2018-2019,282
+26.0,Sun,2019-03-03,18:30,Real Sociedad,Atlético Madrid,0.9,1.4,0–2,26004.0,José González,2018-2019,283
+26.0,Sun,2019-03-03,20:45,Valencia,Athletic Club,1.3,0.4,2–0,39041.0,David Medié,2018-2019,284
+26.0,Mon,2019-03-04,21:00,Leganés,Levante,1.9,1.5,1–0,9758.0,Jesús Gil,2018-2019,285
+27.0,Fri,2019-03-08,21:00,Athletic Club,Espanyol,0.8,0.8,1–1,38453.0,Pablo González,2018-2019,287
+27.0,Sat,2019-03-09,13:00,Alavés,Eibar,2.0,2.4,1–1,18793.0,Hsu Jason,2018-2019,288
+27.0,Sat,2019-03-09,16:15,Atlético Madrid,Leganés,1.3,0.1,1–0,58321.0,Antonio Matéu Lahoz,2018-2019,289
+27.0,Sat,2019-03-09,18:30,Barcelona,Rayo Vallecano,2.4,0.4,3–1,74158.0,Mario Melero,2018-2019,290
+27.0,Sat,2019-03-09,20:45,Getafe,Huesca,1.4,0.9,2–1,10882.0,Eduardo Prieto,2018-2019,291
+27.0,Sun,2019-03-10,12:00,Celta Vigo,Betis,0.4,1.2,0–1,18005.0,Daniel Ask,2018-2019,292
+27.0,Sun,2019-03-10,16:15,Girona,Valencia,2.3,1.2,2–3,11502.0,Carlos del Cerro,2018-2019,293
+27.0,Sun,2019-03-10,18:30,Levante,Villarreal,1.1,1.0,0–2,20149.0,José Sánchez,2018-2019,294
+27.0,Sun,2019-03-10,18:30,Sevilla,Real Sociedad,2.4,1.2,5–2,35813.0,Ignacio Iglesias,2018-2019,295
+27.0,Sun,2019-03-10,20:45,Valladolid,Real Madrid,2.2,2.8,1–4,21914.0,Jesús Gil,2018-2019,296
+28.0,Fri,2019-03-15,21:00,Real Sociedad,Levante,2.9,1.3,1–1,20605.0,Adrián Cordero,2018-2019,298
+28.0,Sat,2019-03-16,13:00,Huesca,Alavés,1.5,2.3,1–3,6811.0,Alberto Undiano,2018-2019,299
+28.0,Sat,2019-03-16,16:15,Real Madrid,Celta Vigo,2.5,0.4,2–0,65054.0,Juan Martínez,2018-2019,300
+28.0,Sat,2019-03-16,18:30,Athletic Club,Atlético Madrid,1.3,0.9,2–0,39659.0,Santiago Jaime,2018-2019,301
+28.0,Sat,2019-03-16,20:45,Leganés,Girona,0.6,1.5,0–2,9873.0,José Luis Munuera,2018-2019,302
+28.0,Sun,2019-03-17,12:00,Eibar,Valladolid,2.1,2.4,1–2,4508.0,David Medié,2018-2019,303
+28.0,Sun,2019-03-17,16:15,Espanyol,Sevilla,0.7,1.5,0–1,20219.0,Guillermo Cuadra,2018-2019,304
+28.0,Sun,2019-03-17,18:30,Villarreal,Rayo Vallecano,2.5,0.2,3–1,17117.0,José González,2018-2019,305
+28.0,Sun,2019-03-17,18:30,Valencia,Getafe,0.6,0.5,0–0,41778.0,José Sánchez,2018-2019,306
+28.0,Sun,2019-03-17,20:45,Betis,Barcelona,1.2,3.0,1–4,54172.0,Ricardo de Burgos,2018-2019,307
+29.0,Fri,2019-03-29,21:00,Girona,Athletic Club,0.4,1.0,1–2,10652.0,José Sánchez,2018-2019,309
+29.0,Sat,2019-03-30,13:00,Getafe,Leganés,0.6,1.3,0–2,12705.0,Pablo González,2018-2019,310
+29.0,Sat,2019-03-30,16:15,Barcelona,Espanyol,1.3,0.2,2–0,92795.0,Carlos del Cerro,2018-2019,311
+29.0,Sat,2019-03-30,18:30,Celta Vigo,Villarreal,1.8,2.5,3–2,22315.0,Jesús Gil,2018-2019,312
+29.0,Sat,2019-03-30,20:45,Alavés,Atlético Madrid,0.8,1.5,0–4,19117.0,Mario Melero,2018-2019,313
+29.0,Sun,2019-03-31,12:00,Levante,Eibar,1.0,2.3,2–2,16179.0,Eduardo Prieto,2018-2019,314
+29.0,Sun,2019-03-31,14:00,Rayo Vallecano,Betis,2.2,0.6,1–1,12310.0,Antonio Matéu Lahoz,2018-2019,315
+29.0,Sun,2019-03-31,16:15,Sevilla,Valencia,0.9,1.0,0–1,38450.0,José González,2018-2019,316
+29.0,Sun,2019-03-31,18:30,Valladolid,Real Sociedad,2.5,0.9,1–1,18775.0,Hsu Jason,2018-2019,317
+29.0,Sun,2019-03-31,20:45,Real Madrid,Huesca,4.1,1.7,3–2,49269.0,Daniel Ask,2018-2019,318
+30.0,Tue,2019-04-02,19:30,Atlético Madrid,Girona,2.5,0.8,2–0,40863.0,Ignacio Iglesias,2018-2019,320
+30.0,Tue,2019-04-02,20:30,Espanyol,Getafe,1.7,1.5,1–1,16322.0,Ricardo de Burgos,2018-2019,321
+30.0,Tue,2019-04-02,21:30,Villarreal,Barcelona,2.2,2.7,4–4,19515.0,Alejandro Hernández,2018-2019,322
+30.0,Wed,2019-04-03,19:30,Athletic Club,Levante,1.8,1.5,3–2,36450.0,José Luis Munuera,2018-2019,323
+30.0,Wed,2019-04-03,20:30,Huesca,Celta Vigo,3.3,2.0,3–3,6552.0,Adrián Cordero,2018-2019,324
+30.0,Wed,2019-04-03,20:30,Eibar,Rayo Vallecano,1.6,0.9,2–1,3940.0,Alberto Undiano,2018-2019,325
+30.0,Wed,2019-04-03,21:30,Valencia,Real Madrid,1.8,0.8,2–1,44274.0,Santiago Jaime,2018-2019,326
+30.0,Thu,2019-04-04,19:30,Sevilla,Alavés,1.9,0.6,2–0,33212.0,Juan Martínez,2018-2019,327
+30.0,Thu,2019-04-04,20:30,Leganés,Valladolid,1.7,0.8,1–0,10185.0,Guillermo Cuadra,2018-2019,328
+30.0,Thu,2019-04-04,21:30,Real Sociedad,Betis,2.5,1.3,2–1,16417.0,David Medié,2018-2019,329
+31.0,Sat,2019-04-06,13:00,Girona,Espanyol,1.5,0.4,1–2,11463.0,Eduardo Prieto,2018-2019,331
+31.0,Sat,2019-04-06,16:15,Real Madrid,Eibar,1.6,0.8,2–1,50284.0,Pablo González,2018-2019,332
+31.0,Sat,2019-04-06,18:30,Rayo Vallecano,Valencia,1.5,2.3,2–0,11320.0,Hsu Jason,2018-2019,333
+31.0,Sat,2019-04-06,20:45,Barcelona,Atlético Madrid,2.6,0.8,2–0,92453.0,Jesús Gil,2018-2019,334
+31.0,Sun,2019-04-07,12:00,Alavés,Leganés,0.9,0.9,1–1,16783.0,Antonio Matéu Lahoz,2018-2019,335
+31.0,Sun,2019-04-07,14:00,Getafe,Athletic Club,1.3,0.7,1–0,11617.0,José González,2018-2019,336
+31.0,Sun,2019-04-07,16:15,Valladolid,Sevilla,1.4,2.1,0–2,17989.0,José Sánchez,2018-2019,337
+31.0,Sun,2019-04-07,18:30,Levante,Huesca,2.4,1.3,2–2,19824.0,Carlos del Cerro,2018-2019,338
+31.0,Sun,2019-04-07,18:30,Celta Vigo,Real Sociedad,3.0,1.4,3–1,20519.0,Mario Melero,2018-2019,339
+31.0,Sun,2019-04-07,20:45,Betis,Villarreal,1.8,1.5,2–1,28475.0,Daniel Ask,2018-2019,340
+32.0,Sat,2019-04-13,13:00,Espanyol,Alavés,0.5,1.4,2–1,18143.0,Ignacio Iglesias,2018-2019,342
+32.0,Sat,2019-04-13,16:15,Huesca,Barcelona,0.2,1.1,0–0,7332.0,Guillermo Cuadra,2018-2019,343
+32.0,Sat,2019-04-13,18:30,Atlético Madrid,Celta Vigo,1.5,0.5,2–0,55269.0,Ricardo de Burgos,2018-2019,344
+32.0,Sat,2019-04-13,20:45,Sevilla,Betis,2.0,1.0,3–2,42855.0,Alejandro Hernández,2018-2019,345
+32.0,Sun,2019-04-14,12:00,Valladolid,Getafe,1.5,1.6,2–2,16909.0,José Luis Munuera,2018-2019,346
+32.0,Sun,2019-04-14,14:00,Athletic Club,Rayo Vallecano,2.7,1.0,3–2,38732.0,Juan Martínez,2018-2019,347
+32.0,Sun,2019-04-14,16:15,Real Sociedad,Eibar,0.4,1.5,1–1,24308.0,Santiago Jaime,2018-2019,348
+32.0,Sun,2019-04-14,18:30,Girona,Villarreal,1.3,1.4,0–1,11535.0,Adrián Cordero,2018-2019,349
+32.0,Sun,2019-04-14,20:45,Valencia,Levante,2.4,0.3,3–1,42120.0,Alberto Undiano,2018-2019,350
+32.0,Mon,2019-04-15,21:00,Leganés,Real Madrid,0.6,1.2,1–1,12118.0,David Medié,2018-2019,351
+33.0,Fri,2019-04-19,21:00,Alavés,Valladolid,1.3,2.0,2–2,13568.0,Daniel Ask,2018-2019,353
+33.0,Sat,2019-04-20,13:00,Celta Vigo,Girona,1.8,0.4,2–1,20546.0,Carlos del Cerro,2018-2019,354
+33.0,Sat,2019-04-20,16:15,Eibar,Atlético Madrid,0.6,1.3,0–1,4750.0,Hsu Jason,2018-2019,355
+33.0,Sat,2019-04-20,18:30,Rayo Vallecano,Huesca,1.2,1.1,0–0,10542.0,José González,2018-2019,356
+33.0,Sat,2019-04-20,20:45,Barcelona,Real Sociedad,1.1,1.5,2–1,75470.0,Pablo González,2018-2019,357
+33.0,Sun,2019-04-21,12:00,Levante,Espanyol,1.8,2.1,2–2,16876.0,Jesús Gil,2018-2019,358
+33.0,Sun,2019-04-21,14:00,Getafe,Sevilla,2.9,0.7,3–0,11495.0,Antonio Matéu Lahoz,2018-2019,359
+33.0,Sun,2019-04-21,16:15,Real Madrid,Athletic Club,1.9,0.5,3–0,59815.0,Mario Melero,2018-2019,360
+33.0,Sun,2019-04-21,18:30,Villarreal,Leganés,1.0,1.2,2–1,14753.0,Eduardo Prieto,2018-2019,361
+33.0,Sun,2019-04-21,20:45,Betis,Valencia,2.1,0.2,1–2,42508.0,José Sánchez,2018-2019,362
+34.0,Tue,2019-04-23,19:30,Huesca,Eibar,1.0,0.8,2–0,6157.0,David Medié,2018-2019,364
+34.0,Tue,2019-04-23,20:30,Valladolid,Girona,0.9,0.6,1–0,19106.0,Juan Martínez,2018-2019,365
+34.0,Tue,2019-04-23,21:30,Alavés,Barcelona,0.3,2.5,0–2,18735.0,Adrián Cordero,2018-2019,366
+34.0,Wed,2019-04-24,19:30,Atlético Madrid,Valencia,1.6,2.1,3–2,43531.0,Alejandro Hernández,2018-2019,367
+34.0,Wed,2019-04-24,20:30,Espanyol,Celta Vigo,2.2,2.7,1–1,15680.0,Alberto Undiano,2018-2019,368
+34.0,Wed,2019-04-24,20:30,Leganés,Athletic Club,0.6,0.6,0–1,4155.0,Ignacio Iglesias,2018-2019,369
+34.0,Wed,2019-04-24,21:30,Levante,Betis,1.4,0.4,4–0,20394.0,Santiago Jaime,2018-2019,370
+34.0,Thu,2019-04-25,19:30,Sevilla,Rayo Vallecano,3.8,0.9,5–0,31636.0,Guillermo Cuadra,2018-2019,371
+34.0,Thu,2019-04-25,20:30,Real Sociedad,Villarreal,0.8,0.7,0–1,20060.0,José Luis Munuera,2018-2019,372
+34.0,Thu,2019-04-25,21:30,Getafe,Real Madrid,0.6,1.8,0–0,13135.0,Ricardo de Burgos,2018-2019,373
+35.0,Sat,2019-04-27,13:00,Athletic Club,Alavés,1.3,1.3,1–1,40402.0,Jesús Gil,2018-2019,375
+35.0,Sat,2019-04-27,16:15,Atlético Madrid,Valladolid,0.7,0.7,1–0,53123.0,Mario Melero,2018-2019,376
+35.0,Sat,2019-04-27,18:30,Leganés,Celta Vigo,0.5,0.3,0–0,10324.0,Juan Martínez,2018-2019,377
+35.0,Sat,2019-04-27,20:45,Barcelona,Levante,2.1,1.0,1–0,91917.0,Ricardo de Burgos,2018-2019,378
+35.0,Sun,2019-04-28,12:00,Valencia,Eibar,0.5,1.3,0–1,35393.0,Daniel Ask,2018-2019,379
+35.0,Sun,2019-04-28,14:00,Girona,Sevilla,1.0,0.6,1–0,11281.0,José González,2018-2019,380
+35.0,Sun,2019-04-28,16:15,Real Sociedad,Getafe,2.4,0.6,2–1,19386.0,Eduardo Prieto,2018-2019,381
+35.0,Sun,2019-04-28,18:30,Villarreal,Huesca,1.0,1.4,1–1,17901.0,José Sánchez,2018-2019,382
+35.0,Sun,2019-04-28,20:45,Rayo Vallecano,Real Madrid,1.8,0.5,1–0,13273.0,Pablo González,2018-2019,383
+35.0,Mon,2019-04-29,21:00,Betis,Espanyol,1.4,1.1,1–1,30561.0,Carlos del Cerro,2018-2019,384
+36.0,Fri,2019-05-03,21:00,Sevilla,Leganés,0.3,0.9,0–3,32797.0,Alberto Undiano,2018-2019,386
+36.0,Sat,2019-05-04,13:00,Levante,Rayo Vallecano,2.8,1.7,4–1,19868.0,Daniel Ask,2018-2019,387
+36.0,Sat,2019-05-04,16:15,Espanyol,Atlético Madrid,1.6,0.7,3–0,20207.0,José Luis Munuera,2018-2019,388
+36.0,Sat,2019-05-04,18:30,Alavés,Real Sociedad,0.8,0.8,0–1,18509.0,Hsu Jason,2018-2019,389
+36.0,Sat,2019-05-04,20:45,Celta Vigo,Barcelona,1.9,0.5,2–0,22519.0,José Sánchez,2018-2019,390
+36.0,Sun,2019-05-05,12:00,Getafe,Girona,2.0,0.7,2–0,10615.0,Alejandro Hernández,2018-2019,391
+36.0,Sun,2019-05-05,14:00,Eibar,Betis,0.7,2.1,1–0,4725.0,Ignacio Iglesias,2018-2019,392
+36.0,Sun,2019-05-05,16:15,Real Madrid,Villarreal,2.7,0.7,3–2,46294.0,Jesús Gil,2018-2019,393
+36.0,Sun,2019-05-05,18:30,Valladolid,Athletic Club,0.8,1.6,1–0,21151.0,Antonio Matéu Lahoz,2018-2019,394
+36.0,Sun,2019-05-05,20:45,Huesca,Valencia,3.1,2.4,2–6,6378.0,Carlos del Cerro,2018-2019,395
+37.0,Sun,2019-05-12,18:30,Betis,Huesca,2.2,1.3,2–1,28078.0,Adrián Cordero,2018-2019,397
+37.0,Sun,2019-05-12,18:30,Barcelona,Getafe,2.4,1.2,2–0,57088.0,José González,2018-2019,398
+37.0,Sun,2019-05-12,18:30,Girona,Levante,1.9,0.7,1–2,13342.0,Carlos del Cerro,2018-2019,399
+37.0,Sun,2019-05-12,18:30,Valencia,Alavés,1.9,0.8,3–1,37744.0,Guillermo Cuadra,2018-2019,400
+37.0,Sun,2019-05-12,18:30,Villarreal,Eibar,1.5,0.3,1–0,17901.0,Pablo González,2018-2019,401
+37.0,Sun,2019-05-12,18:30,Leganés,Espanyol,0.7,3.3,0–2,10597.0,Mario Melero,2018-2019,402
+37.0,Sun,2019-05-12,18:30,Athletic Club,Celta Vigo,2.1,1.1,3–1,42494.0,Daniel Ask,2018-2019,403
+37.0,Sun,2019-05-12,18:30,Rayo Vallecano,Valladolid,1.9,1.4,1–2,10040.0,José Sánchez,2018-2019,404
+37.0,Sun,2019-05-12,18:30,Atlético Madrid,Sevilla,1.3,0.8,1–1,60234.0,Ricardo de Burgos,2018-2019,405
+37.0,Sun,2019-05-12,18:30,Real Sociedad,Real Madrid,2.1,0.9,3–1,27322.0,Juan Martínez,2018-2019,406
+38.0,Sat,2019-05-18,13:00,Levante,Atlético Madrid,2.7,1.9,2–2,20575.0,Ignacio Iglesias,2018-2019,408
+38.0,Sat,2019-05-18,16:15,Getafe,Villarreal,2.3,1.0,2–2,13579.0,Daniel Ask,2018-2019,409
+38.0,Sat,2019-05-18,16:15,Espanyol,Real Sociedad,1.4,0.4,2–0,26568.0,Santiago Jaime,2018-2019,410
+38.0,Sat,2019-05-18,16:15,Sevilla,Athletic Club,1.5,0.7,2–0,28060.0,José Sánchez,2018-2019,411
+38.0,Sat,2019-05-18,16:15,Valladolid,Valencia,0.8,1.5,0–2,23455.0,Ricardo de Burgos,2018-2019,412
+38.0,Sat,2019-05-18,20:45,Celta Vigo,Rayo Vallecano,2.1,1.4,2–2,21607.0,Antonio Matéu Lahoz,2018-2019,413
+38.0,Sat,2019-05-18,20:45,Huesca,Leganés,0.9,0.9,2–1,5575.0,Hsu Jason,2018-2019,414
+38.0,Sat,2019-05-18,20:45,Alavés,Girona,1.3,1.0,2–1,11549.0,Mario Melero,2018-2019,415
+38.0,Sun,2019-05-19,12:00,Real Madrid,Betis,0.9,1.3,0–2,56900.0,Alberto Undiano,2018-2019,416
+38.0,Sun,2019-05-19,16:15,Eibar,Barcelona,1.5,1.1,2–2,5145.0,José Luis Munuera,2018-2019,417

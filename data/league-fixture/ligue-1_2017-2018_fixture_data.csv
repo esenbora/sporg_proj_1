@@ -1,0 +1,380 @@
+Wk,Day,Date,Time,Home,Away,xG,xG.1,Score,Attendance,Referee,season,game_id
+1.0,Fri,2017-08-04,20:45,Monaco,Toulouse,2.0,0.3,3–2,13572.0,Clément Turpin,2017-2018,0
+1.0,Sat,2017-08-05,17:15,Paris S-G,Amiens,2.6,0.3,2–0,46898.0,Mikael Lesage,2017-2018,1
+1.0,Sat,2017-08-05,20:00,Lyon,Strasbourg,1.8,0.5,4–0,1979.0,Ruddy Buquet,2017-2018,2
+1.0,Sat,2017-08-05,20:00,Saint-Étienne,Nice,0.9,0.5,1–0,25879.0,François Letexier,2017-2018,3
+1.0,Sat,2017-08-05,20:00,Metz,Guingamp,0.6,1.9,1–3,14595.0,Jérôme Miguelgorry,2017-2018,4
+1.0,Sat,2017-08-05,20:00,Montpellier,Caen,1.4,0.4,1–0,14725.0,Thomas Léonard,2017-2018,5
+1.0,Sat,2017-08-05,20:00,Troyes,Rennes,1.9,2.2,1–1,9968.0,Karim Abed,2017-2018,6
+1.0,Sun,2017-08-06,15:00,Lille,Nantes,1.9,1.3,3–0,30683.0,Benoît Millot,2017-2018,7
+1.0,Sun,2017-08-06,17:00,Angers,Bordeaux,1.2,1.7,2–2,11767.0,Sébastien Desiage,2017-2018,8
+1.0,Sun,2017-08-06,21:00,Marseille,Dijon,2.1,0.6,3–0,50904.0,Benoît Bastien,2017-2018,9
+2.0,Fri,2017-08-11,19:00,Nice,Troyes,2.3,0.5,1–2,24260.0,Olivier Thual,2017-2018,11
+2.0,Fri,2017-08-11,20:45,Rennes,Lyon,1.0,1.4,1–2,24944.0,Nicolas Rainville,2017-2018,12
+2.0,Sat,2017-08-12,17:00,Nantes,Marseille,1.3,1.6,0–1,33654.0,Ruddy Buquet,2017-2018,13
+2.0,Sat,2017-08-12,20:00,Caen,Saint-Étienne,0.9,1.1,0–1,17606.0,Stéphane Jochem,2017-2018,14
+2.0,Sat,2017-08-12,20:00,Toulouse,Montpellier,1.5,0.7,1–0,11876.0,Ruddy Buquet,2017-2018,15
+2.0,Sat,2017-08-12,20:00,Bordeaux,Metz,2.0,0.3,2–0,22095.0,Mikael Lesage,2017-2018,16
+2.0,Sat,2017-08-12,20:00,Amiens,Angers,0.9,1.4,0–2,7772.0,Hakim Ben El Hadj Salem,2017-2018,17
+2.0,Sun,2017-08-13,15:00,Strasbourg,Lille,3.1,0.9,3–0,25591.0,Johan Hamel,2017-2018,18
+2.0,Sun,2017-08-13,17:00,Dijon,Monaco,1.1,1.6,1–4,14295.0,Tony Chapron,2017-2018,19
+2.0,Sun,2017-08-13,21:00,Guingamp,Paris S-G,0.1,2.0,0–3,18378.0,Antony Gautier,2017-2018,20
+3.0,Fri,2017-08-18,20:45,Metz,Monaco,0.8,2.2,0–1,18136.0,François Letexier,2017-2018,22
+3.0,Sat,2017-08-19,17:00,Lyon,Bordeaux,0.7,0.9,3–3,42073.0,Clément Turpin,2017-2018,23
+3.0,Sat,2017-08-19,20:00,Montpellier,Strasbourg,1.8,0.6,1–1,12585.0,Hakim Ben El Hadj Salem,2017-2018,24
+3.0,Sat,2017-08-19,20:00,Troyes,Nantes,0.8,0.9,0–1,11035.0,Sébastien Desiage,2017-2018,25
+3.0,Sat,2017-08-19,20:00,Nice,Guingamp,1.0,0.5,2–0,21070.0,Benoît Millot,2017-2018,26
+3.0,Sat,2017-08-19,20:00,Saint-Étienne,Amiens,2.9,1.2,3–0,30004.0,Jérôme Brisard,2017-2018,27
+3.0,Sat,2017-08-19,20:00,Rennes,Dijon,1.2,1.4,2–2,16888.0,Thomas Léonard,2017-2018,28
+3.0,Sun,2017-08-20,15:00,Lille,Caen,0.7,1.8,0–2,28740.0,Karim Abed,2017-2018,29
+3.0,Sun,2017-08-20,17:00,Marseille,Angers,1.3,0.6,1–1,51966.0,Jérôme Miguelgorry,2017-2018,30
+3.0,Sun,2017-08-20,21:00,Paris S-G,Toulouse,2.6,0.5,6–2,47221.0,Amaury Delerue,2017-2018,31
+4.0,Fri,2017-08-25,20:45,Paris S-G,Saint-Étienne,2.2,0.7,3–0,46957.0,Clément Turpin,2017-2018,33
+4.0,Sat,2017-08-26,17:15,Nantes,Lyon,0.3,1.1,0–0,30718.0,Antony Gautier,2017-2018,34
+4.0,Sat,2017-08-26,20:00,Toulouse,Rennes,2.2,1.3,3–2,10651.0,Franck Schneider,2017-2018,35
+4.0,Sat,2017-08-26,20:00,Bordeaux,Troyes,2.5,0.7,2–1,19002.0,Tony Chapron,2017-2018,36
+4.0,Sat,2017-08-26,20:00,Amiens,Nice,1.3,0.4,3–0,7922.0,Johan Hamel,2017-2018,37
+4.0,Sat,2017-08-26,20:00,Dijon,Montpellier,1.3,1.5,2–1,10902.0,Stéphane Jochem,2017-2018,38
+4.0,Sat,2017-08-26,20:00,Caen,Metz,1.3,0.8,1–0,15697.0,Jérôme Brisard,2017-2018,39
+4.0,Sun,2017-08-27,15:00,Guingamp,Strasbourg,1.8,0.8,2–0,13061.0,Mikael Lesage,2017-2018,40
+4.0,Sun,2017-08-27,17:00,Angers,Lille,0.8,0.8,1–1,10284.0,Nicolas Rainville,2017-2018,41
+4.0,Sun,2017-08-27,21:00,Monaco,Marseille,3.8,1.5,6–1,16353.0,Ruddy Buquet,2017-2018,42
+5.0,Fri,2017-09-08,19:00,Lille,Bordeaux,0.4,1.0,0–0,27464.0,François Letexier,2017-2018,44
+5.0,Fri,2017-09-08,20:45,Metz,Paris S-G,1.2,4.8,1–5,25015.0,Sébastien Desiage,2017-2018,45
+5.0,Sat,2017-09-09,17:00,Nice,Monaco,2.7,0.9,4–0,28995.0,Clément Turpin,2017-2018,46
+5.0,Sat,2017-09-09,20:00,Strasbourg,Amiens,0.5,0.4,0–1,23424.0,Jérôme Brisard,2017-2018,47
+5.0,Sat,2017-09-09,20:00,Caen,Dijon,1.5,0.6,2–1,15328.0,Thomas Léonard,2017-2018,48
+5.0,Sat,2017-09-09,20:00,Troyes,Toulouse,0.6,0.3,0–0,1060.0,Hakim Ben El Hadj Salem,2017-2018,49
+5.0,Sat,2017-09-09,20:00,Montpellier,Nantes,0.5,0.7,0–1,10298.0,Jérôme Miguelgorry,2017-2018,50
+5.0,Sun,2017-09-10,15:00,Saint-Étienne,Angers,0.7,2.4,1–1,29740.0,Karim Abed,2017-2018,51
+5.0,Sun,2017-09-10,17:00,Lyon,Guingamp,0.8,1.0,2–1,36697.0,Benoît Millot,2017-2018,52
+5.0,Sun,2017-09-10,21:00,Marseille,Rennes,1.5,2.1,1–3,40343.0,Amaury Delerue,2017-2018,53
+6.0,Fri,2017-09-15,20:45,Toulouse,Bordeaux,1.2,0.8,0–1,13616.0,Clément Turpin,2017-2018,55
+6.0,Sat,2017-09-16,17:00,Monaco,Strasbourg,2.5,0.9,3–0,8310.0,Johan Hamel,2017-2018,56
+6.0,Sat,2017-09-16,20:00,Guingamp,Lille,1.6,0.5,1–0,11901.0,Jérôme Brisard,2017-2018,57
+6.0,Sat,2017-09-16,20:00,Troyes,Montpellier,0.7,1.1,0–1,11970.0,Amaury Delerue,2017-2018,58
+6.0,Sat,2017-09-16,20:00,Nantes,Caen,0.4,0.3,1–0,20245.0,Olivier Thual,2017-2018,59
+6.0,Sat,2017-09-16,20:00,Dijon,Saint-Étienne,1.9,1.4,0–1,13820.0,Benoît Bastien,2017-2018,60
+6.0,Sun,2017-09-17,15:00,Amiens,Marseille,0.5,1.5,0–2,11698.0,Mikael Lesage,2017-2018,61
+6.0,Sun,2017-09-17,17:00,Angers,Metz,2.2,1.9,0–1,9163.0,Stéphane Jochem,2017-2018,62
+6.0,Sun,2017-09-17,17:00,Rennes,Nice,1.0,0.7,0–1,24892.0,Nicolas Rainville,2017-2018,63
+6.0,Sun,2017-09-17,21:00,Paris S-G,Lyon,2.0,0.8,2–0,47191.0,Ruddy Buquet,2017-2018,64
+7.0,Fri,2017-09-22,19:00,Nice,Angers,2.1,1.5,2–2,18023.0,François Letexier,2017-2018,66
+7.0,Fri,2017-09-22,20:45,Lille,Monaco,1.2,2.7,0–4,34146.0,Franck Schneider,2017-2018,67
+7.0,Sat,2017-09-23,17:00,Montpellier,Paris S-G,0.2,0.8,0–0,20975.0,Clément Turpin,2017-2018,68
+7.0,Sat,2017-09-23,20:00,Lyon,Dijon,3.5,1.5,3–3,33600.0,Antony Gautier,2017-2018,69
+7.0,Sat,2017-09-23,20:00,Bordeaux,Guingamp,2.7,1.4,3–1,20603.0,Benoît Bastien,2017-2018,70
+7.0,Sat,2017-09-23,20:00,Caen,Amiens,1.8,0.0,1–0,16212.0,Hakim Ben El Hadj Salem,2017-2018,71
+7.0,Sat,2017-09-23,20:00,Metz,Troyes,1.1,0.6,0–1,15491.0,Karim Abed,2017-2018,72
+7.0,Sun,2017-09-24,15:00,Saint-Étienne,Rennes,1.8,1.4,2–2,31043.0,Jérôme Miguelgorry,2017-2018,73
+7.0,Sun,2017-09-24,17:00,Strasbourg,Nantes,1.5,0.5,1–2,23408.0,Sébastien Desiage,2017-2018,74
+7.0,Sun,2017-09-24,21:00,Marseille,Toulouse,2.7,0.7,2–0,39501.0,Benoît Millot,2017-2018,75
+8.0,Fri,2017-09-29,20:45,Monaco,Montpellier,0.9,1.1,1–1,7053.0,Tony Chapron,2017-2018,77
+8.0,Sat,2017-09-30,17:00,Paris S-G,Bordeaux,2.0,2.1,6–2,47537.0,François Letexier,2017-2018,78
+8.0,Sat,2017-09-30,20:00,Guingamp,Toulouse,1.0,0.7,1–1,13196.0,Ruddy Buquet,2017-2018,79
+8.0,Sat,2017-09-30,20:00,Nantes,Metz,1.9,1.4,1–0,22104.0,Johan Hamel,2017-2018,80
+8.0,Sat,2017-09-30,20:00,Rennes,Caen,0.6,1.5,0–1,18689.0,Amaury Delerue,2017-2018,81
+8.0,Sat,2017-09-30,20:00,Dijon,Strasbourg,1.6,0.8,1–1,11577.0,Olivier Thual,2017-2018,82
+8.0,Sun,2017-10-01,15:00,Troyes,Saint-Étienne,0.8,1.2,2–1,11823.0,Nicolas Rainville,2017-2018,83
+8.0,Sun,2017-10-01,17:00,Angers,Lyon,1.1,1.4,3–3,11432.0,Mikael Lesage,2017-2018,84
+8.0,Sun,2017-10-01,21:00,Nice,Marseille,2.0,2.6,2–4,32702.0,Benoît Bastien,2017-2018,85
+9.0,Fri,2017-10-13,20:45,Lyon,Monaco,1.7,1.7,3–2,43295.0,Benoît Bastien,2017-2018,87
+9.0,Sat,2017-10-14,17:00,Dijon,Paris S-G,0.9,2.2,1–2,15160.0,Jérôme Miguelgorry,2017-2018,88
+9.0,Sat,2017-10-14,20:00,Toulouse,Amiens,1.2,0.3,1–0,15308.0,François Letexier,2017-2018,89
+9.0,Sat,2017-10-14,20:00,Lille,Troyes,1.3,1.5,2–2,29518.0,Hakim Ben El Hadj Salem,2017-2018,90
+9.0,Sat,2017-10-14,20:00,Guingamp,Rennes,3.2,0.5,2–0,15902.0,Franck Schneider,2017-2018,91
+9.0,Sat,2017-10-14,20:00,Caen,Angers,1.7,1.8,0–2,16736.0,Benoît Millot,2017-2018,92
+9.0,Sat,2017-10-14,20:00,Saint-Étienne,Metz,2.2,0.4,3–1,24613.0,Olivier Thual,2017-2018,93
+9.0,Sun,2017-10-15,15:00,Bordeaux,Nantes,1.1,1.1,1–1,31048.0,Karim Abed,2017-2018,94
+9.0,Sun,2017-10-15,17:00,Montpellier,Nice,1.3,2.0,2–0,14374.0,Jérôme Brisard,2017-2018,95
+9.0,Sun,2017-10-15,21:00,Strasbourg,Marseille,2.0,3.1,3–3,26015.0,Antony Gautier,2017-2018,96
+10.0,Fri,2017-10-20,20:45,Saint-Étienne,Montpellier,1.5,1.8,0–1,24004.0,Franck Schneider,2017-2018,98
+10.0,Sat,2017-10-21,17:00,Monaco,Caen,2.3,0.5,2–0,8040.0,Thomas Léonard,2017-2018,99
+10.0,Sat,2017-10-21,20:00,Rennes,Lille,0.7,0.7,1–0,21852.0,Olivier Thual,2017-2018,100
+10.0,Sat,2017-10-21,20:00,Metz,Dijon,1.0,0.5,1–2,14748.0,Mikael Lesage,2017-2018,101
+10.0,Sat,2017-10-21,20:00,Nantes,Guingamp,0.7,0.9,2–1,27711.0,Amaury Delerue,2017-2018,102
+10.0,Sat,2017-10-21,20:00,Angers,Toulouse,1.5,0.2,0–1,11001.0,Johan Hamel,2017-2018,103
+10.0,Sat,2017-10-21,20:00,Amiens,Bordeaux,1.1,1.1,1–0,12297.0,Sébastien Desiage,2017-2018,104
+10.0,Sun,2017-10-22,15:00,Nice,Strasbourg,1.9,1.1,1–2,23595.0,Nicolas Rainville,2017-2018,105
+10.0,Sun,2017-10-22,17:00,Troyes,Lyon,0.4,2.6,0–5,14722.0,François Letexier,2017-2018,106
+10.0,Sun,2017-10-22,21:00,Marseille,Paris S-G,1.2,0.6,2–2,60410.0,Ruddy Buquet,2017-2018,107
+11.0,Fri,2017-10-27,20:45,Paris S-G,Nice,3.1,0.3,3–0,47224.0,Tony Chapron,2017-2018,109
+11.0,Sat,2017-10-28,17:00,Bordeaux,Monaco,1.6,1.3,0–2,28831.0,Antony Gautier,2017-2018,110
+11.0,Sat,2017-10-28,20:00,Dijon,Nantes,0.4,1.1,1–0,11764.0,Hakim Ben El Hadj Salem,2017-2018,111
+11.0,Sat,2017-10-28,20:00,Montpellier,Rennes,0.9,0.6,0–1,11790.0,Benoît Bastien,2017-2018,112
+11.0,Sat,2017-10-28,20:00,Guingamp,Amiens,0.9,0.3,1–1,13809.0,Karim Abed,2017-2018,113
+11.0,Sat,2017-10-28,20:00,Caen,Troyes,0.6,1.1,1–0,16908.0,Jérôme Miguelgorry,2017-2018,114
+11.0,Sat,2017-10-28,20:00,Strasbourg,Angers,2.0,0.7,2–2,25011.0,Amaury Delerue,2017-2018,115
+11.0,Sun,2017-10-29,15:00,Lyon,Metz,1.1,0.6,2–0,53921.0,Benoît Millot,2017-2018,116
+11.0,Sun,2017-10-29,17:00,Toulouse,Saint-Étienne,0.7,1.0,0–0,15062.0,Jérôme Brisard,2017-2018,117
+11.0,Sun,2017-10-29,21:00,Lille,Marseille,1.0,0.8,0–1,43948.0,François Letexier,2017-2018,118
+12.0,Fri,2017-11-03,20:45,Rennes,Bordeaux,0.6,0.4,1–0,24547.0,Ruddy Buquet,2017-2018,120
+12.0,Sat,2017-11-04,17:00,Angers,Paris S-G,0.5,2.5,0–5,12381.0,Benoît Bastien,2017-2018,121
+12.0,Sat,2017-11-04,20:00,Montpellier,Amiens,1.0,0.5,1–1,10149.0,Stéphane Jochem,2017-2018,122
+12.0,Sat,2017-11-04,20:00,Nantes,Toulouse,0.7,0.8,2–1,21390.0,Antony Gautier,2017-2018,123
+12.0,Sat,2017-11-04,20:00,Monaco,Guingamp,2.7,0.5,6–0,7066.0,Mikael Lesage,2017-2018,124
+12.0,Sat,2017-11-04,20:00,Troyes,Strasbourg,2.5,0.7,3–0,10260.0,Thomas Léonard,2017-2018,125
+12.0,Sun,2017-11-05,15:00,Nice,Dijon,1.3,0.6,1–0,18987.0,Olivier Thual,2017-2018,126
+12.0,Sun,2017-11-05,17:00,Metz,Lille,2.2,1.5,0–3,12506.0,Jérôme Brisard,2017-2018,127
+12.0,Sun,2017-11-05,17:00,Marseille,Caen,3.9,1.0,5–0,47687.0,Nicolas Rainville,2017-2018,128
+12.0,Sun,2017-11-05,21:00,Saint-Étienne,Lyon,1.2,2.4,0–5,38993.0,Clément Turpin,2017-2018,129
+13.0,Fri,2017-11-17,19:00,Lille,Saint-Étienne,0.7,1.4,3–1,28019.0,Johan Hamel,2017-2018,131
+13.0,Fri,2017-11-17,20:45,Amiens,Monaco,1.1,1.0,1–1,9198.0,Jérôme Miguelgorry,2017-2018,132
+13.0,Sat,2017-11-18,17:00,Paris S-G,Nantes,1.9,1.0,4–1,47680.0,Nicolas Rainville,2017-2018,133
+13.0,Sat,2017-11-18,20:00,Strasbourg,Rennes,1.3,0.9,2–1,22707.0,Tony Chapron,2017-2018,134
+13.0,Sat,2017-11-18,20:00,Dijon,Troyes,1.4,1.1,3–1,10227.0,Franck Schneider,2017-2018,135
+13.0,Sat,2017-11-18,20:00,Guingamp,Angers,1.2,0.5,1–1,13849.0,Jérôme Brisard,2017-2018,136
+13.0,Sat,2017-11-18,20:00,Toulouse,Metz,2.1,0.8,0–0,15656.0,Hakim Ben El Hadj Salem,2017-2018,137
+13.0,Sun,2017-11-19,15:00,Caen,Nice,2.0,1.3,1–1,15144.0,Sébastien Desiage,2017-2018,138
+13.0,Sun,2017-11-19,17:00,Lyon,Montpellier,0.7,0.9,0–0,47651.0,Karim Abed,2017-2018,139
+13.0,Sun,2017-11-19,21:00,Bordeaux,Marseille,0.4,1.4,1–1,37356.0,Benoît Millot,2017-2018,140
+8.0,Mon,2017-11-20,19:00,Amiens,Lille,1.2,0.5,3–0,9015.0,Mikael Lesage,2017-2018,142
+14.0,Fri,2017-11-24,20:45,Saint-Étienne,Strasbourg,1.7,1.6,2–2,21282.0,Benoît Bastien,2017-2018,144
+14.0,Sat,2017-11-25,17:00,Rennes,Nantes,1.3,1.2,2–1,26151.0,Ruddy Buquet,2017-2018,145
+14.0,Sat,2017-11-25,20:00,Caen,Bordeaux,1.0,1.2,1–0,15275.0,Karim Abed,2017-2018,146
+14.0,Sat,2017-11-25,20:00,Troyes,Angers,1.2,0.4,3–0,8906.0,Hakim Ben El Hadj Salem,2017-2018,147
+14.0,Sat,2017-11-25,20:00,Dijon,Toulouse,0.9,1.9,3–1,10126.0,Stéphane Jochem,2017-2018,148
+14.0,Sat,2017-11-25,20:00,Metz,Amiens,1.5,1.1,0–2,15079.0,Antony Gautier,2017-2018,149
+14.0,Sat,2017-11-25,20:00,Montpellier,Lille,1.9,0.4,3–0,11370.0,Thomas Léonard,2017-2018,150
+14.0,Sun,2017-11-26,15:00,Nice,Lyon,0.4,2.4,0–5,27542.0,Franck Schneider,2017-2018,151
+14.0,Sun,2017-11-26,17:00,Marseille,Guingamp,2.1,0.2,1–0,43563.0,Amaury Delerue,2017-2018,152
+14.0,Sun,2017-11-26,21:00,Monaco,Paris S-G,0.4,4.2,1–2,16588.0,François Letexier,2017-2018,153
+15.0,Tue,2017-11-28,19:00,Amiens,Dijon,0.8,1.2,2–1,8693.0,Karim Abed,2017-2018,155
+15.0,Tue,2017-11-28,19:00,Strasbourg,Caen,0.5,1.8,0–0,22175.0,Stéphane Jochem,2017-2018,156
+15.0,Tue,2017-11-28,21:00,Bordeaux,Saint-Étienne,0.9,1.0,3–0,21115.0,Mikael Lesage,2017-2018,157
+15.0,Wed,2017-11-29,19:00,Lyon,Lille,3.1,1.0,1–2,31679.0,Jérôme Miguelgorry,2017-2018,158
+15.0,Wed,2017-11-29,19:00,Angers,Rennes,0.5,1.0,1–2,10364.0,Nicolas Rainville,2017-2018,159
+15.0,Wed,2017-11-29,19:00,Toulouse,Nice,2.0,1.4,1–2,10348.0,Johan Hamel,2017-2018,160
+15.0,Wed,2017-11-29,19:00,Metz,Marseille,0.4,2.2,0–3,18046.0,Tony Chapron,2017-2018,161
+15.0,Wed,2017-11-29,19:00,Guingamp,Montpellier,0.5,0.4,0–0,13578.0,Olivier Thual,2017-2018,162
+15.0,Wed,2017-11-29,19:00,Nantes,Monaco,0.8,0.5,1–0,24800.0,Benoît Millot,2017-2018,163
+15.0,Wed,2017-11-29,21:00,Paris S-G,Troyes,1.6,0.4,2–0,40920.0,Jérôme Brisard,2017-2018,164
+16.0,Fri,2017-12-01,20:45,Dijon,Bordeaux,2.2,1.3,3–2,10631.0,Benoît Bastien,2017-2018,166
+16.0,Sat,2017-12-02,17:00,Strasbourg,Paris S-G,0.3,3.1,2–1,25327.0,Ruddy Buquet,2017-2018,167
+16.0,Sat,2017-12-02,20:00,Troyes,Guingamp,1.0,0.7,0–1,9149.0,Sébastien Desiage,2017-2018,168
+16.0,Sat,2017-12-02,20:00,Nice,Metz,1.9,0.5,3–1,16383.0,Mikael Lesage,2017-2018,169
+16.0,Sat,2017-12-02,20:00,Rennes,Amiens,1.5,0.3,2–0,23051.0,Thomas Léonard,2017-2018,170
+16.0,Sat,2017-12-02,20:00,Monaco,Angers,0.3,0.8,1–0,6545.0,Antony Gautier,2017-2018,171
+16.0,Sat,2017-12-02,20:00,Lille,Toulouse,0.7,1.2,1–0,29287.0,Benoît Millot,2017-2018,172
+16.0,Sun,2017-12-03,15:00,Saint-Étienne,Nantes,0.9,1.8,1–1,24085.0,François Letexier,2017-2018,173
+16.0,Sun,2017-12-03,17:00,Caen,Lyon,1.3,1.6,1–2,19455.0,Amaury Delerue,2017-2018,174
+16.0,Sun,2017-12-03,21:00,Montpellier,Marseille,1.0,1.0,1–1,19230.0,Franck Schneider,2017-2018,175
+17.0,Fri,2017-12-08,20:45,Bordeaux,Strasbourg,0.8,1.9,0–3,24515.0,Jérôme Brisard,2017-2018,177
+17.0,Sat,2017-12-09,17:00,Paris S-G,Lille,1.4,0.6,3–1,47176.0,Johan Hamel,2017-2018,178
+17.0,Sat,2017-12-09,20:00,Toulouse,Caen,1.9,1.1,2–0,12613.0,Sébastien Moreira,2017-2018,179
+17.0,Sat,2017-12-09,20:00,Metz,Rennes,1.3,0.7,1–1,11239.0,Karim Abed,2017-2018,180
+17.0,Sat,2017-12-09,20:00,Angers,Montpellier,1.4,1.2,1–1,8756.0,Stéphane Jochem,2017-2018,181
+17.0,Sat,2017-12-09,20:00,Guingamp,Dijon,1.7,0.3,4–0,13825.0,Mikael Lesage,2017-2018,182
+17.0,Sat,2017-12-09,20:00,Monaco,Troyes,1.2,1.6,3–2,8935.0,Franck Schneider,2017-2018,183
+17.0,Sun,2017-12-10,15:00,Amiens,Lyon,2.3,1.0,1–2,9130.0,Olivier Thual,2017-2018,184
+17.0,Sun,2017-12-10,17:00,Nantes,Nice,2.0,0.7,1–2,19723.0,Jérôme Miguelgorry,2017-2018,185
+17.0,Sun,2017-12-10,21:00,Marseille,Saint-Étienne,2.6,0.3,3–0,41943.0,Nicolas Rainville,2017-2018,186
+18.0,Fri,2017-12-15,20:45,Saint-Étienne,Monaco,0.3,2.1,0–4,23107.0,Amaury Delerue,2017-2018,188
+18.0,Sat,2017-12-16,17:00,Rennes,Paris S-G,2.1,3.6,1–4,29194.0,Antony Gautier,2017-2018,189
+18.0,Sat,2017-12-16,20:00,Troyes,Amiens,2.5,0.7,1–0,14505.0,François Letexier,2017-2018,190
+18.0,Sat,2017-12-16,20:00,Montpellier,Metz,0.4,0.9,1–3,14055.0,Benoît Millot,2017-2018,191
+18.0,Sat,2017-12-16,20:00,Strasbourg,Toulouse,1.7,1.2,2–1,23315.0,Jérôme Miguelgorry,2017-2018,192
+18.0,Sat,2017-12-16,20:00,Caen,Guingamp,0.8,0.3,0–0,17173.0,Nicolas Rainville,2017-2018,193
+18.0,Sat,2017-12-16,20:00,Dijon,Lille,0.6,0.7,3–0,10634.0,Thomas Léonard,2017-2018,194
+18.0,Sun,2017-12-17,15:00,Nantes,Angers,1.3,0.3,1–0,24285.0,Karim Abed,2017-2018,195
+18.0,Sun,2017-12-17,17:00,Nice,Bordeaux,1.7,0.7,1–0,22831.0,Ruddy Buquet,2017-2018,196
+18.0,Sun,2017-12-17,21:00,Lyon,Marseille,0.9,1.3,2–0,57206.0,Benoît Bastien,2017-2018,197
+19.0,Wed,2017-12-20,20:50,Bordeaux,Montpellier,0.5,1.1,0–2,16429.0,Sébastien Desiage,2017-2018,199
+19.0,Wed,2017-12-20,20:50,Monaco,Rennes,1.9,1.3,2–1,7542.0,Benoît Bastien,2017-2018,200
+19.0,Wed,2017-12-20,20:50,Lille,Nice,0.8,0.9,1–1,26450.0,Franck Schneider,2017-2018,201
+19.0,Wed,2017-12-20,20:50,Toulouse,Lyon,2.4,2.2,1–2,15853.0,François Letexier,2017-2018,202
+19.0,Wed,2017-12-20,20:50,Paris S-G,Caen,2.2,1.1,3–1,47490.0,Karim Abed,2017-2018,203
+19.0,Wed,2017-12-20,20:50,Guingamp,Saint-Étienne,2.4,0.4,2–1,14165.0,Johan Hamel,2017-2018,204
+19.0,Wed,2017-12-20,20:50,Metz,Strasbourg,2.2,1.9,3–0,16874.0,Clément Turpin,2017-2018,205
+19.0,Wed,2017-12-20,20:50,Angers,Dijon,2.8,1.3,2–1,8017.0,Amaury Delerue,2017-2018,206
+19.0,Wed,2017-12-20,20:50,Amiens,Nantes,0.9,1.1,0–1,8865.0,Jérôme Brisard,2017-2018,207
+19.0,Wed,2017-12-20,20:50,Marseille,Troyes,1.7,1.3,3–1,37949.0,Olivier Thual,2017-2018,208
+20.0,Fri,2018-01-12,20:45,Strasbourg,Guingamp,0.8,1.7,0–2,22578.0,Sébastien Moreira,2017-2018,210
+20.0,Sat,2018-01-13,17:00,Rennes,Marseille,1.8,2.2,0–3,23700.0,Clément Turpin,2017-2018,211
+20.0,Sat,2018-01-13,20:00,Nice,Amiens,1.4,0.7,1–0,17340.0,Amaury Delerue,2017-2018,212
+20.0,Sat,2018-01-13,20:00,Troyes,Bordeaux,1.4,0.8,0–1,10822.0,Jérôme Brisard,2017-2018,213
+20.0,Sat,2018-01-13,20:00,Montpellier,Monaco,1.0,0.8,0–0,14643.0,Antony Gautier,2017-2018,214
+20.0,Sat,2018-01-13,20:00,Dijon,Metz,1.1,0.8,1–1,10668.0,François Letexier,2017-2018,215
+20.0,Sat,2018-01-13,20:00,Caen,Lille,1.4,1.3,0–1,18283.0,Johan Hamel,2017-2018,216
+20.0,Sun,2018-01-14,15:00,Saint-Étienne,Toulouse,2.5,1.3,2–0,23295.0,Mikael Lesage,2017-2018,217
+20.0,Sun,2018-01-14,17:00,Lyon,Angers,1.2,1.2,1–1,36691.0,Franck Schneider,2017-2018,218
+20.0,Sun,2018-01-14,21:00,Nantes,Paris S-G,0.9,2.1,0–1,34486.0,Tony Chapron,2017-2018,219
+21.0,Tue,2018-01-16,19:00,Marseille,Strasbourg,3.0,0.2,2–0,38099.0,Ruddy Buquet,2017-2018,221
+21.0,Tue,2018-01-16,19:00,Bordeaux,Caen,0.6,1.1,0–2,14368.0,Stéphane Jochem,2017-2018,222
+21.0,Tue,2018-01-16,21:00,Monaco,Nice,1.6,1.2,2–2,10533.0,François Letexier,2017-2018,223
+21.0,Wed,2018-01-17,19:00,Lille,Rennes,0.6,1.8,1–2,27816.0,Mikael Lesage,2017-2018,224
+21.0,Wed,2018-01-17,19:00,Amiens,Montpellier,0.6,1.1,1–1,8233.0,Karim Abed,2017-2018,225
+21.0,Wed,2018-01-17,19:00,Metz,Saint-Étienne,2.8,0.7,3–0,12702.0,Benoît Millot,2017-2018,226
+21.0,Wed,2018-01-17,19:00,Toulouse,Nantes,1.6,0.5,1–1,13742.0,Thomas Léonard,2017-2018,227
+21.0,Wed,2018-01-17,19:00,Guingamp,Lyon,0.5,2.1,0–2,14638.0,Nicolas Rainville,2017-2018,228
+21.0,Wed,2018-01-17,19:00,Angers,Troyes,1.5,0.4,3–1,8046.0,Amaury Delerue,2017-2018,229
+21.0,Wed,2018-01-17,21:00,Paris S-G,Dijon,3.9,0.2,8–0,47483.0,Olivier Thual,2017-2018,230
+22.0,Fri,2018-01-19,20:45,Caen,Marseille,0.2,2.2,0–2,20249.0,François Letexier,2017-2018,232
+22.0,Sat,2018-01-20,17:00,Nantes,Bordeaux,0.7,0.4,0–1,26076.0,Johan Hamel,2017-2018,233
+22.0,Sat,2018-01-20,20:00,Rennes,Angers,1.1,0.4,1–0,21186.0,Sébastien Moreira,2017-2018,234
+22.0,Sat,2018-01-20,20:00,Amiens,Guingamp,2.0,0.3,3–1,8686.0,Sébastien Desiage,2017-2018,235
+22.0,Sat,2018-01-20,20:00,Montpellier,Toulouse,2.4,1.0,2–1,10652.0,Jérôme Brisard,2017-2018,236
+22.0,Sat,2018-01-20,20:00,Troyes,Lille,0.8,0.6,1–0,9269.0,Stéphane Jochem,2017-2018,237
+22.0,Sat,2018-01-20,20:00,Strasbourg,Dijon,2.4,1.2,3–2,21067.0,Antony Gautier,2017-2018,238
+22.0,Sun,2018-01-21,15:00,Nice,Saint-Étienne,0.3,0.5,1–0,23254.0,Franck Schneider,2017-2018,239
+22.0,Sun,2018-01-21,17:00,Monaco,Metz,2.4,0.1,3–1,6333.0,Mikael Lesage,2017-2018,240
+22.0,Sun,2018-01-21,21:00,Lyon,Paris S-G,0.8,0.6,2–1,57582.0,Clément Turpin,2017-2018,241
+23.0,Fri,2018-01-26,20:45,Dijon,Rennes,1.5,0.9,2–1,10091.0,Jérôme Brisard,2017-2018,243
+23.0,Sat,2018-01-27,17:00,Paris S-G,Montpellier,4.1,0.8,4–0,47379.0,Franck Schneider,2017-2018,244
+23.0,Sat,2018-01-27,20:00,Saint-Étienne,Caen,0.5,1.3,2–1,21559.0,Sébastien Moreira,2017-2018,245
+23.0,Sat,2018-01-27,20:00,Metz,Nice,0.8,2.0,2–1,13200.0,Johan Hamel,2017-2018,246
+23.0,Sat,2018-01-27,20:00,Toulouse,Troyes,1.9,0.0,1–0,19028.0,Benoît Bastien,2017-2018,247
+23.0,Sat,2018-01-27,20:00,Angers,Amiens,1.4,0.1,1–0,8914.0,Olivier Thual,2017-2018,248
+23.0,Sat,2018-01-27,20:00,Guingamp,Nantes,0.4,1.8,0–3,13761.0,Benoît Millot,2017-2018,249
+23.0,Sun,2018-01-28,15:00,Lille,Strasbourg,0.8,1.2,2–1,27462.0,Sébastien Desiage,2017-2018,250
+23.0,Sun,2018-01-28,17:00,Bordeaux,Lyon,2.6,0.5,3–1,29310.0,François Letexier,2017-2018,251
+23.0,Sun,2018-01-28,21:00,Marseille,Monaco,2.4,1.5,2–2,51279.0,Antony Gautier,2017-2018,252
+24.0,Fri,2018-02-02,20:45,Marseille,Metz,5.4,1.4,6–3,32745.0,Olivier Thual,2017-2018,254
+24.0,Sat,2018-02-03,17:00,Lille,Paris S-G,0.3,1.7,0–3,49082.0,Johan Hamel,2017-2018,255
+24.0,Sat,2018-02-03,20:00,Amiens,Saint-Étienne,0.3,2.6,0–2,9255.0,Thomas Léonard,2017-2018,256
+24.0,Sat,2018-02-03,20:00,Strasbourg,Bordeaux,0.4,0.5,0–2,24662.0,Jérôme Brisard,2017-2018,257
+24.0,Sat,2018-02-03,20:00,Montpellier,Angers,0.4,1.1,2–1,9549.0,Stéphane Jochem,2017-2018,258
+24.0,Sat,2018-02-03,20:00,Nice,Toulouse,0.9,0.3,0–1,17231.0,Antony Gautier,2017-2018,259
+24.0,Sun,2018-02-04,15:00,Rennes,Guingamp,2.3,0.7,0–1,28705.0,Ruddy Buquet,2017-2018,260
+24.0,Sun,2018-02-04,17:00,Caen,Nantes,1.6,0.9,3–2,16121.0,Karim Abed,2017-2018,261
+24.0,Sun,2018-02-04,21:00,Monaco,Lyon,1.4,0.9,3–2,10301.0,Benoît Bastien,2017-2018,262
+25.0,Fri,2018-02-09,20:45,Saint-Étienne,Marseille,1.9,0.8,2–2,30162.0,Franck Schneider,2017-2018,264
+25.0,Sat,2018-02-10,17:00,Toulouse,Paris S-G,0.1,1.8,0–1,31909.0,Ruddy Buquet,2017-2018,265
+25.0,Sat,2018-02-10,20:00,Metz,Montpellier,1.0,1.4,0–1,12304.0,Sébastien Desiage,2017-2018,266
+25.0,Sat,2018-02-10,20:00,Guingamp,Caen,0.3,0.9,0–0,13988.0,Stéphane Jochem,2017-2018,267
+25.0,Sat,2018-02-10,20:00,Dijon,Nice,2.1,1.1,3–2,11901.0,Nicolas Rainville,2017-2018,268
+25.0,Sat,2018-02-10,20:00,Angers,Monaco,0.6,1.8,0–4,12759.0,Thomas Léonard,2017-2018,269
+25.0,Sat,2018-02-10,20:00,Bordeaux,Amiens,2.2,1.6,3–2,19889.0,Benoît Bastien,2017-2018,270
+25.0,Sun,2018-02-11,15:00,Strasbourg,Troyes,0.9,1.6,2–1,22926.0,François Letexier,2017-2018,271
+25.0,Sun,2018-02-11,17:00,Nantes,Lille,2.1,0.4,2–2,22655.0,Mikael Lesage,2017-2018,272
+25.0,Sun,2018-02-11,21:00,Lyon,Rennes,1.1,1.0,0–2,39189.0,Amaury Delerue,2017-2018,273
+26.0,Fri,2018-02-16,20:45,Monaco,Dijon,2.3,0.4,4–0,6418.0,Johan Hamel,2017-2018,275
+26.0,Sat,2018-02-17,17:00,Paris S-G,Strasbourg,4.5,0.7,5–2,47059.0,Thomas Léonard,2017-2018,276
+26.0,Sat,2018-02-17,20:00,Montpellier,Guingamp,1.6,1.0,1–1,9936.0,Karim Abed,2017-2018,277
+26.0,Sat,2018-02-17,20:00,Amiens,Toulouse,0.4,0.8,0–0,8730.0,Franck Schneider,2017-2018,278
+26.0,Sat,2018-02-17,20:00,Caen,Rennes,3.2,1.5,2–2,16083.0,Sandro Schärer,2017-2018,279
+26.0,Sat,2018-02-17,20:00,Troyes,Metz,2.0,1.4,1–0,11337.0,Olivier Thual,2017-2018,280
+26.0,Sat,2018-02-17,20:00,Angers,Saint-Étienne,2.0,0.6,0–1,11166.0,Antony Gautier,2017-2018,281
+26.0,Sun,2018-02-18,15:00,Nice,Nantes,1.0,1.3,1–1,20966.0,Clément Turpin,2017-2018,282
+26.0,Sun,2018-02-18,17:00,Lille,Lyon,0.7,2.0,2–2,39523.0,Benoît Millot,2017-2018,283
+26.0,Sun,2018-02-18,21:00,Marseille,Bordeaux,1.2,0.3,1–0,47287.0,Mikael Lesage,2017-2018,284
+24.0,Tue,2018-02-20,18:30,Troyes,Dijon,0.5,0.4,0–0,10269.0,Amaury Delerue,2017-2018,286
+27.0,Fri,2018-02-23,20:45,Strasbourg,Montpellier,0.6,0.7,0–0,23305.0,Amaury Delerue,2017-2018,288
+27.0,Sat,2018-02-24,17:00,Toulouse,Monaco,1.5,2.2,3–3,13184.0,Benoît Millot,2017-2018,289
+27.0,Sat,2018-02-24,20:00,Nantes,Amiens,1.4,0.5,0–1,18830.0,Stéphane Jochem,2017-2018,290
+27.0,Sat,2018-02-24,20:00,Guingamp,Metz,2.1,1.0,2–2,14447.0,Jérôme Brisard,2017-2018,291
+27.0,Sat,2018-02-24,20:00,Lille,Angers,0.8,1.6,1–2,28629.0,François Letexier,2017-2018,292
+27.0,Sat,2018-02-24,20:00,Dijon,Caen,1.7,0.8,2–0,10524.0,Sébastien Desiage,2017-2018,293
+27.0,Sat,2018-02-24,20:00,Rennes,Troyes,1.7,0.4,2–0,17536.0,Thomas Léonard,2017-2018,294
+27.0,Sun,2018-02-25,15:00,Bordeaux,Nice,2.1,0.2,0–0,23027.0,Franck Schneider,2017-2018,295
+27.0,Sun,2018-02-25,17:00,Lyon,Saint-Étienne,0.8,1.5,1–1,58069.0,Ruddy Buquet,2017-2018,296
+27.0,Sun,2018-02-25,21:00,Paris S-G,Marseille,0.8,1.2,3–0,47490.0,Benoît Bastien,2017-2018,297
+28.0,Fri,2018-03-02,19:00,Nice,Lille,1.8,0.9,2–1,20314.0,Thomas Léonard,2017-2018,299
+28.0,Fri,2018-03-02,20:45,Monaco,Bordeaux,3.5,0.5,2–1,7419.0,Ruddy Buquet,2017-2018,300
+28.0,Sat,2018-03-03,17:00,Troyes,Paris S-G,0.4,2.0,0–2,20006.0,Karim Abed,2017-2018,301
+28.0,Sat,2018-03-03,20:00,Metz,Toulouse,1.2,2.0,1–1,11287.0,Mikael Lesage,2017-2018,302
+28.0,Sat,2018-03-03,20:00,Saint-Étienne,Dijon,1.9,1.8,2–2,25150.0,Benoît Millot,2017-2018,303
+28.0,Sat,2018-03-03,20:00,Amiens,Rennes,1.6,1.1,0–2,10241.0,Nicolas Rainville,2017-2018,304
+28.0,Sat,2018-03-03,20:00,Angers,Guingamp,2.0,1.0,3–0,9842.0,Clément Turpin,2017-2018,305
+28.0,Sun,2018-03-04,15:00,Caen,Strasbourg,1.2,0.8,2–0,16464.0,Johan Hamel,2017-2018,306
+28.0,Sun,2018-03-04,17:00,Montpellier,Lyon,1.2,1.3,1–1,15160.0,Benoît Bastien,2017-2018,307
+28.0,Sun,2018-03-04,21:00,Marseille,Nantes,1.8,1.1,1–1,44203.0,Antony Gautier,2017-2018,308
+29.0,Fri,2018-03-09,20:45,Strasbourg,Monaco,2.6,1.1,1–3,23814.0,Antony Gautier,2017-2018,310
+29.0,Sat,2018-03-10,17:00,Paris S-G,Metz,4.0,0.4,5–0,47227.0,Amaury Delerue,2017-2018,311
+29.0,Sat,2018-03-10,20:00,Lille,Montpellier,0.7,0.8,1–1,28609.0,Sébastien Moreira,2017-2018,312
+29.0,Sat,2018-03-10,20:00,Rennes,Saint-Étienne,1.5,1.6,1–1,25655.0,Benoît Bastien,2017-2018,313
+29.0,Sat,2018-03-10,20:00,Nantes,Troyes,1.4,0.4,1–0,17776.0,Jérôme Brisard,2017-2018,314
+29.0,Sat,2018-03-10,20:00,Bordeaux,Angers,1.0,0.6,0–0,17194.0,Johan Hamel,2017-2018,315
+29.0,Sat,2018-03-10,20:00,Dijon,Amiens,1.0,1.0,1–1,12332.0,Mikael Lesage,2017-2018,316
+29.0,Sun,2018-03-11,15:00,Guingamp,Nice,1.7,1.5,2–5,13656.0,Stéphane Jochem,2017-2018,317
+29.0,Sun,2018-03-11,17:00,Lyon,Caen,1.4,0.3,1–0,39530.0,Clément Turpin,2017-2018,318
+29.0,Sun,2018-03-11,21:00,Toulouse,Marseille,1.2,3.1,1–2,26320.0,François Letexier,2017-2018,319
+31.0,Wed,2018-03-14,17:00,Paris S-G,Angers,1.7,2.0,2–1,46757.0,Sébastien Desiage,2017-2018,321
+30.0,Fri,2018-03-16,20:45,Monaco,Lille,1.7,0.9,2–1,7147.0,Clément Turpin,2017-2018,323
+30.0,Sat,2018-03-17,17:00,Bordeaux,Rennes,0.5,1.0,0–2,32626.0,Mikael Lesage,2017-2018,324
+30.0,Sat,2018-03-17,20:00,Angers,Caen,1.9,0.4,3–0,10342.0,Olivier Thual,2017-2018,325
+30.0,Sat,2018-03-17,20:00,Montpellier,Dijon,2.4,1.1,2–2,14747.0,Thomas Léonard,2017-2018,326
+30.0,Sat,2018-03-17,20:00,Toulouse,Strasbourg,1.6,0.9,2–2,14273.0,Sébastien Moreira,2017-2018,327
+30.0,Sat,2018-03-17,20:00,Amiens,Troyes,1.1,1.7,1–1,9221.0,Stéphane Jochem,2017-2018,328
+30.0,Sun,2018-03-18,13:00,Nice,Paris S-G,1.4,2.3,1–2,33478.0,François Letexier,2017-2018,329
+30.0,Sun,2018-03-18,15:00,Metz,Nantes,1.0,1.1,1–1,13058.0,Benoît Millot,2017-2018,330
+30.0,Sun,2018-03-18,17:00,Saint-Étienne,Guingamp,1.0,0.4,2–0,25073.0,Amaury Delerue,2017-2018,331
+30.0,Sun,2018-03-18,21:00,Marseille,Lyon,1.7,1.2,2–3,60009.0,Ruddy Buquet,2017-2018,332
+31.0,Sat,2018-03-31,17:00,Dijon,Marseille,0.6,3.4,1–3,15157.0,Jérôme Brisard,2017-2018,334
+31.0,Sun,2018-04-01,15:00,Guingamp,Bordeaux,1.0,2.4,2–1,15427.0,Sébastien Moreira,2017-2018,335
+31.0,Sun,2018-04-01,17:00,Nantes,Saint-Étienne,2.1,1.6,0–3,31043.0,Stephan Klossner,2017-2018,337
+31.0,Sun,2018-04-01,17:00,Strasbourg,Metz,1.9,1.8,2–2,25627.0,Ruddy Buquet,2017-2018,338
+31.0,Sun,2018-04-01,17:00,Caen,Montpellier,1.4,1.8,1–3,17686.0,Sébastien Desiage,2017-2018,339
+31.0,Sun,2018-04-01,17:00,Troyes,Nice,0.5,2.2,0–2,11013.0,Johan Hamel,2017-2018,340
+31.0,Sun,2018-04-01,21:00,Lyon,Toulouse,2.5,0.4,2–0,48548.0,Benoît Bastien,2017-2018,341
+31.0,Wed,2018-04-04,18:45,Rennes,Monaco,2.1,1.1,1–1,17448.0,Amaury Delerue,2017-2018,342
+32.0,Fri,2018-04-06,20:45,Saint-Étienne,Paris S-G,3.0,1.1,1–1,37602.0,Nicolas Rainville,2017-2018,344
+32.0,Sat,2018-04-07,17:00,Monaco,Nantes,0.3,0.4,2–1,8557.0,François Letexier,2017-2018,345
+32.0,Sat,2018-04-07,20:00,Guingamp,Troyes,2.6,0.4,4–0,14604.0,Franck Schneider,2017-2018,346
+32.0,Sat,2018-04-07,20:00,Bordeaux,Lille,2.1,0.7,2–1,34997.0,Thomas Léonard,2017-2018,347
+32.0,Sat,2018-04-07,20:00,Angers,Strasbourg,0.9,1.7,1–1,11893.0,Stéphane Jochem,2017-2018,348
+32.0,Sat,2018-04-07,20:00,Amiens,Caen,1.7,2.1,3–0,9506.0,Benoît Millot,2017-2018,349
+32.0,Sat,2018-04-07,20:00,Toulouse,Dijon,0.9,0.8,0–1,17246.0,Hakim Ben El Hadj Salem,2017-2018,350
+32.0,Sun,2018-04-08,15:00,Nice,Rennes,0.6,0.9,1–1,23827.0,Jérôme Brisard,2017-2018,351
+32.0,Sun,2018-04-08,17:00,Metz,Lyon,0.5,2.3,0–5,15540.0,Antony Gautier,2017-2018,352
+32.0,Sun,2018-04-08,21:00,Marseille,Montpellier,1.1,0.3,0–0,39163.0,Mikael Lesage,2017-2018,353
+33.0,Fri,2018-04-13,20:45,Angers,Nice,1.4,1.3,1–1,12754.0,Clément Turpin,2017-2018,355
+33.0,Sat,2018-04-14,17:00,Lyon,Amiens,2.8,0.2,3–0,47513.0,Johan Hamel,2017-2018,356
+33.0,Sat,2018-04-14,20:00,Nantes,Dijon,1.4,0.5,1–1,19209.0,Olivier Thual,2017-2018,357
+33.0,Sat,2018-04-14,20:00,Strasbourg,Saint-Étienne,1.4,0.3,0–1,25377.0,Mikael Lesage,2017-2018,358
+33.0,Sat,2018-04-14,20:00,Lille,Guingamp,1.9,0.5,2–2,33461.0,Benoît Bastien,2017-2018,359
+33.0,Sat,2018-04-14,20:00,Rennes,Metz,2.1,1.2,1–2,22855.0,Hakim Ben El Hadj Salem,2017-2018,360
+33.0,Sun,2018-04-15,15:00,Montpellier,Bordeaux,1.9,1.5,1–3,13520.0,Karim Abed,2017-2018,361
+33.0,Sun,2018-04-15,17:00,Troyes,Marseille,1.6,1.5,2–3,18011.0,Sébastien Moreira,2017-2018,362
+33.0,Sun,2018-04-15,21:00,Paris S-G,Monaco,2.9,1.9,7–1,46869.0,Ruddy Buquet,2017-2018,363
+34.0,Fri,2018-04-20,19:30,Nantes,Rennes,1.5,0.9,1–1,32431.0,Benoît Bastien,2017-2018,365
+34.0,Fri,2018-04-20,21:00,Dijon,Lyon,0.8,3.5,2–5,15102.0,Franck Schneider,2017-2018,366
+34.0,Sat,2018-04-21,17:00,Marseille,Lille,2.9,1.1,5–1,51098.0,Amaury Delerue,2017-2018,367
+34.0,Sat,2018-04-21,20:00,Metz,Caen,1.0,0.7,1–1,16518.0,Karim Abed,2017-2018,368
+34.0,Sat,2018-04-21,20:00,Toulouse,Angers,2.6,0.7,2–0,14414.0,Jérôme Brisard,2017-2018,369
+34.0,Sat,2018-04-21,20:00,Guingamp,Monaco,3.3,0.2,3–1,14968.0,Benoît Millot,2017-2018,370
+34.0,Sat,2018-04-21,20:00,Amiens,Strasbourg,0.8,2.1,3–1,9784.0,Olivier Thual,2017-2018,371
+34.0,Sun,2018-04-22,15:00,Nice,Montpellier,1.3,0.9,1–0,21285.0,Ruddy Buquet,2017-2018,372
+34.0,Sun,2018-04-22,17:00,Saint-Étienne,Troyes,2.1,0.8,2–1,31692.0,Stéphane Jochem,2017-2018,373
+34.0,Sun,2018-04-22,21:00,Bordeaux,Paris S-G,1.2,0.8,0–1,41290.0,Antony Gautier,2017-2018,374
+33.0,Wed,2018-04-25,18:45,Caen,Toulouse,0.3,0.6,0–0,18658.0,Benoît Millot,2017-2018,376
+35.0,Fri,2018-04-27,20:45,Montpellier,Saint-Étienne,1.7,1.4,0–1,15814.0,Thomas Léonard,2017-2018,378
+35.0,Sat,2018-04-28,17:00,Lyon,Nantes,2.7,0.5,2–0,50443.0,Antony Gautier,2017-2018,379
+35.0,Sat,2018-04-28,20:00,Troyes,Caen,1.1,0.6,3–1,14019.0,Hakim Ben El Hadj Salem,2017-2018,380
+35.0,Sat,2018-04-28,20:00,Monaco,Amiens,0.8,0.7,0–0,8164.0,Mikael Lesage,2017-2018,381
+35.0,Sat,2018-04-28,20:00,Bordeaux,Dijon,1.9,1.4,3–1,22584.0,Johan Hamel,2017-2018,382
+35.0,Sat,2018-04-28,20:00,Strasbourg,Nice,1.0,1.3,1–1,25386.0,Amaury Delerue,2017-2018,383
+35.0,Sat,2018-04-28,20:00,Lille,Metz,2.1,0.8,3–1,38429.0,François Letexier,2017-2018,384
+35.0,Sun,2018-04-29,15:00,Rennes,Toulouse,1.7,1.0,2–1,20138.0,Stéphane Jochem,2017-2018,385
+35.0,Sun,2018-04-29,17:00,Angers,Marseille,1.1,2.0,1–1,15794.0,Nicolas Rainville,2017-2018,386
+35.0,Sun,2018-04-29,21:00,Paris S-G,Guingamp,2.1,2.0,2–2,47759.0,Sébastien Moreira,2017-2018,387
+36.0,Fri,2018-05-04,20:45,Amiens,Paris S-G,0.6,2.2,2–2,11676.0,Hakim Ben El Hadj Salem,2017-2018,389
+36.0,Sun,2018-05-06,15:00,Saint-Étienne,Bordeaux,2.2,2.4,1–3,33741.0,Sébastien Moreira,2017-2018,390
+36.0,Sun,2018-05-06,16:30,Lyon,Troyes,1.5,1.3,3–0,54274.0,Nicolas Rainville,2017-2018,391
+36.0,Sun,2018-05-06,17:00,Toulouse,Lille,0.8,2.8,2–3,26251.0,Clément Turpin,2017-2018,392
+36.0,Sun,2018-05-06,17:00,Metz,Angers,1.4,1.9,1–2,13295.0,Olivier Thual,2017-2018,393
+36.0,Sun,2018-05-06,17:00,Nantes,Montpellier,1.2,0.5,0–2,19895.0,Franck Schneider,2017-2018,394
+36.0,Sun,2018-05-06,17:00,Rennes,Strasbourg,2.6,0.8,2–1,23554.0,Benoît Millot,2017-2018,395
+36.0,Sun,2018-05-06,17:00,Dijon,Guingamp,2.3,0.5,3–1,13157.0,Karim Abed,2017-2018,396
+36.0,Sun,2018-05-06,17:00,Caen,Monaco,1.3,1.3,1–2,17468.0,Ruddy Buquet,2017-2018,397
+36.0,Sun,2018-05-06,21:05,Marseille,Nice,2.0,0.9,2–1,51443.0,Antony Gautier,2017-2018,398
+37.0,Fri,2018-05-11,20:45,Guingamp,Marseille,3.4,1.8,3–3,18378.0,Amaury Delerue,2017-2018,400
+37.0,Sat,2018-05-12,21:00,Strasbourg,Lyon,1.0,1.1,3–2,25503.0,Clément Turpin,2017-2018,401
+37.0,Sat,2018-05-12,21:00,Montpellier,Troyes,0.8,0.4,1–1,12125.0,François Letexier,2017-2018,402
+37.0,Sat,2018-05-12,21:00,Bordeaux,Toulouse,2.6,0.9,4–2,38630.0,Ruddy Buquet,2017-2018,403
+37.0,Sat,2018-05-12,21:00,Amiens,Metz,1.5,1.3,2–0,10969.0,Johan Hamel,2017-2018,404
+37.0,Sat,2018-05-12,21:00,Lille,Dijon,2.3,1.6,2–1,46342.0,Nicolas Rainville,2017-2018,405
+37.0,Sat,2018-05-12,21:00,Nice,Caen,2.3,0.7,4–1,22570.0,Franck Schneider,2017-2018,406
+37.0,Sat,2018-05-12,21:00,Paris S-G,Rennes,1.0,1.1,0–2,47352.0,Jérôme Brisard,2017-2018,407
+37.0,Sat,2018-05-12,21:00,Angers,Nantes,0.7,1.0,0–2,15567.0,Benoît Millot,2017-2018,408
+37.0,Sat,2018-05-12,21:00,Monaco,Saint-Étienne,2.2,0.7,1–0,10742.0,Benoît Bastien,2017-2018,409
+38.0,Sat,2018-05-19,21:00,Saint-Étienne,Lille,1.9,0.5,5–0,22665.0,François Letexier,2017-2018,411
+38.0,Sat,2018-05-19,21:00,Caen,Paris S-G,0.9,1.1,0–0,19999.0,Antony Gautier,2017-2018,412
+38.0,Sat,2018-05-19,21:00,Dijon,Angers,0.7,2.1,2–1,14270.0,Thomas Léonard,2017-2018,413
+38.0,Sat,2018-05-19,21:00,Marseille,Amiens,2.5,0.6,2–1,56120.0,Jérôme Brisard,2017-2018,414
+38.0,Sat,2018-05-19,21:00,Rennes,Montpellier,0.5,0.7,1–1,28126.0,Karim Abed,2017-2018,415
+38.0,Sat,2018-05-19,21:00,Nantes,Strasbourg,0.6,0.5,1–0,19595.0,Ruddy Buquet,2017-2018,416
+38.0,Sat,2018-05-19,21:00,Metz,Bordeaux,0.4,1.9,0–4,12400.0,Hakim Ben El Hadj Salem,2017-2018,417
+38.0,Sat,2018-05-19,21:00,Lyon,Nice,2.3,1.1,3–2,56953.0,Benoît Bastien,2017-2018,418
+38.0,Sat,2018-05-19,21:00,Toulouse,Guingamp,2.1,0.7,2–1,24306.0,Mikael Lesage,2017-2018,419
+38.0,Sat,2018-05-19,21:00,Troyes,Monaco,0.9,2.5,0–3,14585.0,Clément Turpin,2017-2018,420

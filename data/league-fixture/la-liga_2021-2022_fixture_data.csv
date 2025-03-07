@@ -1,0 +1,381 @@
+Wk,Day,Date,Time,Home,Away,xG,xG.1,Score,Attendance,Referee,season,game_id
+1.0,Fri,2021-08-13,21:00,Valencia,Getafe,1.5,1.4,1–0,9868.0,Jesús Gil,2021-2022,0
+1.0,Sat,2021-08-14,19:30,Mallorca,Betis,0.5,0.6,1–1,6279.0,Antonio Matéu Lahoz,2021-2022,1
+1.0,Sat,2021-08-14,19:30,Cádiz,Levante,0.6,0.9,1–1,6941.0,Santiago Jaime,2021-2022,2
+1.0,Sat,2021-08-14,22:00,Alavés,Real Madrid,1.7,1.7,1–4,3968.0,César Soto,2021-2022,3
+1.0,Sat,2021-08-14,22:00,Osasuna,Espanyol,0.9,0.5,0–0,6715.0,Miguel Ángel Ortiz Arias,2021-2022,4
+1.0,Sun,2021-08-15,17:30,Celta Vigo,Atlético Madrid,2.3,1.5,1–2,5401.0,José Luis Munuera,2021-2022,5
+1.0,Sun,2021-08-15,20:00,Barcelona,Real Sociedad,2.8,0.8,4–2,20384.0,Alejandro Hernández,2021-2022,6
+1.0,Sun,2021-08-15,22:15,Sevilla,Rayo Vallecano,3.7,0.4,3–0,13962.0,Isidro Díaz de Mera,2021-2022,7
+1.0,Mon,2021-08-16,20:00,Villarreal,Granada,1.1,0.3,0–0,7837.0,Pablo González,2021-2022,8
+1.0,Mon,2021-08-16,22:00,Elche,Athletic Club,1.1,0.6,0–0,9145.0,Adrián Cordero,2021-2022,9
+2.0,Fri,2021-08-20,21:00,Betis,Cádiz,1.1,1.6,1–1,23745.0,Valentín Pizarro,2021-2022,11
+2.0,Sat,2021-08-21,17:00,Alavés,Mallorca,0.5,0.7,0–1,2896.0,Alejandro Muñíz,2021-2022,12
+2.0,Sat,2021-08-21,19:30,Espanyol,Villarreal,1.3,0.6,0–0,11095.0,Jorge Figueroa,2021-2022,13
+2.0,Sat,2021-08-21,19:30,Granada,Valencia,1.1,1.5,1–1,6267.0,Carlos del Cerro,2021-2022,14
+2.0,Sat,2021-08-21,22:00,Athletic Club,Barcelona,1.4,1.0,1–1,9394.0,Juan Martínez,2021-2022,15
+2.0,Sun,2021-08-22,17:00,Real Sociedad,Rayo Vallecano,1.9,0.5,1–0,7652.0,Santiago Jaime,2021-2022,16
+2.0,Sun,2021-08-22,19:30,Atlético Madrid,Elche,1.2,0.2,1–0,24926.0,Ricardo de Burgos,2021-2022,17
+2.0,Sun,2021-08-22,22:00,Levante,Real Madrid,1.9,1.6,3–3,9838.0,Guillermo Cuadra,2021-2022,18
+2.0,Mon,2021-08-23,20:00,Getafe,Sevilla,0.5,1.2,0–1,4810.0,José Sánchez,2021-2022,19
+2.0,Mon,2021-08-23,22:00,Osasuna,Celta Vigo,2.0,0.1,0–0,7189.0,Hsu Jason,2021-2022,20
+3.0,Fri,2021-08-27,20:00,Mallorca,Espanyol,1.0,0.4,1–0,7529.0,Isidro Díaz de Mera,2021-2022,22
+3.0,Fri,2021-08-27,22:15,Valencia,Alavés,1.6,0.4,3–0,10627.0,Miguel Ángel Ortiz Arias,2021-2022,23
+3.0,Sat,2021-08-28,17:00,Celta Vigo,Athletic Club,1.1,1.4,0–1,5492.0,Antonio Matéu Lahoz,2021-2022,24
+3.0,Sat,2021-08-28,19:30,Real Sociedad,Levante,1.0,0.4,1–0,7758.0,José Luis Munuera,2021-2022,25
+3.0,Sat,2021-08-28,19:30,Elche,Sevilla,0.5,1.3,1–1,10385.0,Valentín Pizarro,2021-2022,26
+3.0,Sat,2021-08-28,22:00,Betis,Real Madrid,0.6,0.9,0–1,22590.0,Alejandro Hernández,2021-2022,27
+3.0,Sun,2021-08-29,17:00,Barcelona,Getafe,1.1,0.4,2–1,26543.0,Pablo González,2021-2022,28
+3.0,Sun,2021-08-29,19:30,Rayo Vallecano,Granada,2.2,0.5,4–0,583.0,Jesús Gil,2021-2022,29
+3.0,Sun,2021-08-29,19:30,Cádiz,Osasuna,1.6,2.4,2–3,7452.0,Adrián Cordero,2021-2022,30
+3.0,Sun,2021-08-29,22:00,Atlético Madrid,Villarreal,1.7,0.3,2–2,26840.0,César Soto,2021-2022,31
+4.0,Sat,2021-09-11,18:30,Levante,Rayo Vallecano,1.0,2.2,1–1,12974.0,Hsu Jason,2021-2022,33
+4.0,Sat,2021-09-11,21:00,Athletic Club,Mallorca,1.4,0.2,2–0,14566.0,Jorge Figueroa,2021-2022,34
+4.0,Sun,2021-09-12,14:00,Espanyol,Atlético Madrid,0.4,0.8,1–2,15321.0,Juan Martínez,2021-2022,35
+4.0,Sun,2021-09-12,16:15,Osasuna,Valencia,0.6,0.9,1–4,13940.0,Ricardo de Burgos,2021-2022,36
+4.0,Sun,2021-09-12,18:30,Cádiz,Real Sociedad,0.3,1.9,0–2,11826.0,Alejandro Muñíz,2021-2022,37
+4.0,Sun,2021-09-12,21:00,Real Madrid,Celta Vigo,3.2,1.8,5–2,19874.0,José Sánchez,2021-2022,38
+4.0,Mon,2021-09-13,20:00,Getafe,Elche,0.3,0.8,0–1,6853.0,Mario Melero,2021-2022,39
+4.0,Mon,2021-09-13,22:00,Granada,Betis,0.6,2.3,1–2,10201.0,Guillermo Cuadra,2021-2022,40
+5.0,Fri,2021-09-17,21:00,Celta Vigo,Cádiz,1.0,1.1,1–2,6754.0,Isidro Díaz de Mera,2021-2022,42
+5.0,Sat,2021-09-18,14:00,Rayo Vallecano,Getafe,2.2,1.1,3–0,3280.0,Adrián Cordero,2021-2022,43
+5.0,Sat,2021-09-18,16:15,Atlético Madrid,Athletic Club,0.9,1.0,0–0,38798.0,Jesús Gil,2021-2022,44
+5.0,Sat,2021-09-18,18:30,Elche,Levante,0.4,1.1,1–1,11507.0,Miguel Ángel Ortiz Arias,2021-2022,45
+5.0,Sat,2021-09-18,21:00,Alavés,Osasuna,0.5,1.4,0–2,8176.0,Alejandro Hernández,2021-2022,46
+5.0,Sun,2021-09-19,14:00,Mallorca,Villarreal,0.5,1.4,0–0,9168.0,Carlos del Cerro,2021-2022,47
+5.0,Sun,2021-09-19,16:15,Real Sociedad,Sevilla,1.3,0.5,0–0,23757.0,Antonio Matéu Lahoz,2021-2022,48
+5.0,Sun,2021-09-19,18:30,Betis,Espanyol,1.9,1.1,2–2,30189.0,César Soto,2021-2022,49
+5.0,Sun,2021-09-19,21:00,Valencia,Real Madrid,0.9,1.3,1–2,26689.0,Pablo González,2021-2022,50
+5.0,Mon,2021-09-20,21:00,Barcelona,Granada,1.8,0.8,1–1,27097.0,Santiago Jaime,2021-2022,51
+6.0,Tue,2021-09-21,19:30,Getafe,Atlético Madrid,0.3,1.1,1–2,8950.0,Guillermo Cuadra,2021-2022,53
+6.0,Tue,2021-09-21,22:00,Levante,Celta Vigo,1.7,0.7,0–2,11989.0,Jorge Figueroa,2021-2022,54
+6.0,Tue,2021-09-21,22:00,Athletic Club,Rayo Vallecano,0.9,1.0,1–2,16236.0,José Luis Munuera,2021-2022,55
+6.0,Wed,2021-09-22,19:30,Sevilla,Valencia,1.0,0.4,3–1,23654.0,José Sánchez,2021-2022,56
+6.0,Wed,2021-09-22,19:30,Espanyol,Alavés,1.7,0.5,1–0,14254.0,Mario Melero,2021-2022,57
+6.0,Wed,2021-09-22,22:00,Real Madrid,Mallorca,2.6,1.4,6–1,20113.0,Hsu Jason,2021-2022,58
+6.0,Wed,2021-09-22,22:00,Villarreal,Elche,3.2,1.2,4–1,8234.0,Alejandro Muñíz,2021-2022,59
+6.0,Thu,2021-09-23,19:30,Osasuna,Betis,1.0,2.4,1–3,13758.0,Juan Martínez,2021-2022,60
+6.0,Thu,2021-09-23,19:30,Granada,Real Sociedad,1.3,1.7,2–3,9552.0,Valentín Pizarro,2021-2022,61
+6.0,Thu,2021-09-23,22:00,Cádiz,Barcelona,1.3,0.4,0–0,12180.0,Carlos del Cerro,2021-2022,62
+7.0,Sat,2021-09-25,14:00,Alavés,Atlético Madrid,0.7,0.7,1–0,9836.0,Antonio Matéu Lahoz,2021-2022,64
+7.0,Sat,2021-09-25,16:15,Valencia,Athletic Club,0.9,0.8,1–1,13680.0,Alejandro Hernández,2021-2022,65
+7.0,Sat,2021-09-25,18:30,Sevilla,Espanyol,1.8,0.7,2–0,23956.0,Pablo González,2021-2022,66
+7.0,Sat,2021-09-25,21:00,Real Madrid,Villarreal,1.1,0.5,0–0,23985.0,Jesús Gil,2021-2022,67
+7.0,Sun,2021-09-26,14:00,Mallorca,Osasuna,2.6,0.9,2–3,9359.0,Miguel Ángel Ortiz Arias,2021-2022,68
+7.0,Sun,2021-09-26,16:15,Barcelona,Levante,2.9,0.8,3–0,35334.0,Isidro Díaz de Mera,2021-2022,69
+7.0,Sun,2021-09-26,18:30,Rayo Vallecano,Cádiz,1.3,1.0,3–1,5903.0,Ricardo de Burgos,2021-2022,70
+7.0,Sun,2021-09-26,18:30,Real Sociedad,Elche,2.4,0.5,1–0,23941.0,Adrián Cordero,2021-2022,71
+7.0,Sun,2021-09-26,21:00,Betis,Getafe,1.9,0.6,2–0,29825.0,Santiago Jaime,2021-2022,72
+7.0,Mon,2021-09-27,21:00,Celta Vigo,Granada,1.3,0.8,1–0,6375.0,César Soto,2021-2022,73
+8.0,Fri,2021-10-01,21:00,Athletic Club,Alavés,2.0,0.9,1–0,28665.0,Carlos del Cerro,2021-2022,75
+8.0,Sat,2021-10-02,14:00,Osasuna,Rayo Vallecano,0.5,0.2,1–0,19238.0,Mario Melero,2021-2022,76
+8.0,Sat,2021-10-02,16:15,Mallorca,Levante,0.6,1.2,1–0,11803.0,Alejandro Muñíz,2021-2022,77
+8.0,Sat,2021-10-02,18:30,Cádiz,Valencia,0.2,1.1,0–0,14794.0,Valentín Pizarro,2021-2022,78
+8.0,Sat,2021-10-02,21:00,Atlético Madrid,Barcelona,1.2,0.7,2–0,60594.0,César Soto,2021-2022,79
+8.0,Sun,2021-10-03,14:00,Elche,Celta Vigo,1.3,0.5,1–0,11299.0,José Luis Munuera,2021-2022,80
+8.0,Sun,2021-10-03,16:15,Espanyol,Real Madrid,1.2,1.6,2–1,23377.0,Guillermo Cuadra,2021-2022,81
+8.0,Sun,2021-10-03,18:30,Getafe,Real Sociedad,0.7,0.7,1–1,8463.0,Jorge Figueroa,2021-2022,82
+8.0,Sun,2021-10-03,18:30,Villarreal,Betis,2.6,0.5,2–0,16719.0,José Sánchez,2021-2022,83
+8.0,Sun,2021-10-03,21:00,Granada,Sevilla,0.1,1.3,1–0,12334.0,Hsu Jason,2021-2022,84
+9.0,Sat,2021-10-16,18:30,Levante,Getafe,0.9,0.6,0–0,14551.0,Mario Melero,2021-2022,86
+9.0,Sat,2021-10-16,21:00,Real Sociedad,Mallorca,0.4,0.2,1–0,30831.0,Pablo González,2021-2022,87
+9.0,Sun,2021-10-17,14:00,Rayo Vallecano,Elche,1.2,0.4,2–1,6989.0,Santiago Jaime,2021-2022,88
+9.0,Sun,2021-10-17,16:15,Celta Vigo,Sevilla,1.2,1.0,0–1,10774.0,Ricardo de Burgos,2021-2022,89
+9.0,Sun,2021-10-17,18:30,Villarreal,Osasuna,0.5,0.6,1–2,14831.0,Adrián Cordero,2021-2022,90
+9.0,Sun,2021-10-17,21:00,Barcelona,Valencia,1.9,0.4,3–1,47317.0,Jesús Gil,2021-2022,91
+9.0,Mon,2021-10-18,19:00,Alavés,Betis,0.9,1.4,0–1,10227.0,Miguel Ángel Ortiz Arias,2021-2022,92
+9.0,Mon,2021-10-18,21:00,Espanyol,Cádiz,1.3,0.4,2–0,15678.0,Antonio Matéu Lahoz,2021-2022,93
+10.0,Fri,2021-10-22,21:00,Osasuna,Granada,1.0,0.5,1–1,21128.0,Alejandro Muñíz,2021-2022,95
+10.0,Sat,2021-10-23,14:00,Valencia,Mallorca,1.8,0.6,2–2,29139.0,Carlos del Cerro,2021-2022,96
+10.0,Sat,2021-10-23,16:15,Cádiz,Alavés,1.5,1.3,0–2,13790.0,Hsu Jason,2021-2022,97
+10.0,Sat,2021-10-23,18:30,Elche,Espanyol,0.9,0.8,2–2,13449.0,Jorge Figueroa,2021-2022,98
+10.0,Sat,2021-10-23,21:00,Athletic Club,Villarreal,2.8,0.5,2–1,38698.0,Guillermo Cuadra,2021-2022,99
+10.0,Sun,2021-10-24,14:00,Sevilla,Levante,1.6,1.9,5–3,30601.0,Valentín Pizarro,2021-2022,100
+10.0,Sun,2021-10-24,16:15,Barcelona,Real Madrid,1.6,1.5,1–2,86422.0,José Sánchez,2021-2022,101
+10.0,Sun,2021-10-24,18:30,Betis,Rayo Vallecano,1.4,1.0,3–2,45362.0,Ricardo de Burgos,2021-2022,102
+10.0,Sun,2021-10-24,21:00,Atlético Madrid,Real Sociedad,1.7,0.8,2–2,50032.0,José Luis Munuera,2021-2022,103
+10.0,Mon,2021-10-25,21:00,Getafe,Celta Vigo,0.5,1.6,0–3,7630.0,Juan Martínez,2021-2022,104
+11.0,Tue,2021-10-26,19:00,Alavés,Elche,1.7,0.3,1–0,10206.0,Jesús Gil,2021-2022,106
+11.0,Tue,2021-10-26,21:00,Espanyol,Athletic Club,1.3,3.3,1–1,16196.0,Miguel Ángel Ortiz Arias,2021-2022,107
+11.0,Tue,2021-10-26,21:30,Villarreal,Cádiz,1.7,1.4,3–3,12190.0,Alejandro Hernández,2021-2022,108
+11.0,Wed,2021-10-27,19:00,Rayo Vallecano,Barcelona,0.8,2.5,1–0,9340.0,Antonio Matéu Lahoz,2021-2022,109
+11.0,Wed,2021-10-27,19:00,Mallorca,Sevilla,1.5,0.8,1–1,15125.0,Santiago Jaime,2021-2022,110
+11.0,Wed,2021-10-27,20:00,Betis,Valencia,2.0,1.6,4–1,43123.0,Isidro Díaz de Mera,2021-2022,111
+11.0,Wed,2021-10-27,21:30,Real Madrid,Osasuna,0.7,0.5,0–0,35691.0,César Soto,2021-2022,112
+11.0,Thu,2021-10-28,19:00,Celta Vigo,Real Sociedad,1.4,1.7,0–2,8726.0,Mario Melero,2021-2022,113
+11.0,Thu,2021-10-28,20:00,Granada,Getafe,2.0,0.4,1–1,13651.0,Adrián Cordero,2021-2022,114
+11.0,Thu,2021-10-28,21:30,Levante,Atlético Madrid,1.8,0.9,2–2,16298.0,Pablo González,2021-2022,115
+12.0,Sat,2021-10-30,14:00,Elche,Real Madrid,1.1,1.1,1–2,23010.0,Ricardo de Burgos,2021-2022,117
+12.0,Sat,2021-10-30,16:15,Sevilla,Osasuna,2.0,0.6,2–0,20335.0,Carlos del Cerro,2021-2022,118
+12.0,Sat,2021-10-30,18:30,Valencia,Villarreal,1.1,0.8,2–0,31487.0,José Luis Munuera,2021-2022,119
+12.0,Sat,2021-10-30,21:00,Barcelona,Alavés,1.3,0.9,1–1,37278.0,Jorge Figueroa,2021-2022,120
+12.0,Sun,2021-10-31,14:00,Cádiz,Mallorca,1.7,0.9,1–1,11790.0,Valentín Pizarro,2021-2022,121
+12.0,Sun,2021-10-31,16:15,Atlético Madrid,Betis,2.3,0.5,3–0,56838.0,Hsu Jason,2021-2022,122
+12.0,Sun,2021-10-31,18:30,Getafe,Espanyol,0.8,0.6,2–1,4721.0,Alejandro Muñíz,2021-2022,123
+12.0,Sun,2021-10-31,21:00,Real Sociedad,Athletic Club,1.1,1.0,1–1,37066.0,Juan Martínez,2021-2022,124
+12.0,Mon,2021-11-01,18:30,Rayo Vallecano,Celta Vigo,0.6,0.6,0–0,9580.0,Adrián Cordero,2021-2022,125
+12.0,Mon,2021-11-01,21:00,Levante,Granada,1.1,1.0,0–3,14512.0,José Sánchez,2021-2022,126
+13.0,Fri,2021-11-05,21:00,Athletic Club,Cádiz,0.5,0.5,0–1,37581.0,Santiago Jaime,2021-2022,128
+13.0,Sat,2021-11-06,14:00,Espanyol,Granada,1.6,2.0,2–0,19050.0,Isidro Díaz de Mera,2021-2022,129
+13.0,Sat,2021-11-06,16:15,Celta Vigo,Barcelona,1.5,0.9,3–3,13146.0,Alejandro Hernández,2021-2022,130
+13.0,Sat,2021-11-06,18:30,Alavés,Levante,1.5,0.8,2–1,12176.0,Adrián Cordero,2021-2022,131
+13.0,Sat,2021-11-06,21:00,Real Madrid,Rayo Vallecano,2.1,1.4,2–1,43283.0,Pablo González,2021-2022,132
+13.0,Sun,2021-11-07,14:00,Villarreal,Getafe,1.4,0.2,1–0,13504.0,Jesús Gil,2021-2022,133
+13.0,Sun,2021-11-07,16:15,Valencia,Atlético Madrid,1.1,2.3,3–3,37472.0,César Soto,2021-2022,134
+13.0,Sun,2021-11-07,18:30,Osasuna,Real Sociedad,0.4,1.5,0–2,21741.0,Miguel Ángel Ortiz Arias,2021-2022,135
+13.0,Sun,2021-11-07,18:30,Mallorca,Elche,2.3,0.8,2–2,12933.0,Mario Melero,2021-2022,136
+13.0,Sun,2021-11-07,21:00,Betis,Sevilla,0.3,1.7,0–2,50534.0,Antonio Matéu Lahoz,2021-2022,137
+14.0,Fri,2021-11-19,21:00,Levante,Athletic Club,0.5,0.5,0–0,15230.0,José Luis Munuera,2021-2022,139
+14.0,Sat,2021-11-20,14:00,Celta Vigo,Villarreal,1.0,2.8,1–1,10086.0,Hsu Jason,2021-2022,140
+14.0,Sat,2021-11-20,16:15,Sevilla,Alavés,1.8,1.1,2–2,25208.0,Alejandro Muñíz,2021-2022,141
+14.0,Sat,2021-11-20,18:30,Atlético Madrid,Osasuna,1.0,0.5,1–0,53261.0,José Sánchez,2021-2022,142
+14.0,Sat,2021-11-20,21:00,Barcelona,Espanyol,1.4,1.0,1–0,74418.0,Carlos del Cerro,2021-2022,143
+14.0,Sun,2021-11-21,14:00,Getafe,Cádiz,1.2,0.4,4–0,8825.0,Ricardo de Burgos,2021-2022,144
+14.0,Sun,2021-11-21,16:15,Granada,Real Madrid,0.7,3.5,1–4,17460.0,Juan Martínez,2021-2022,145
+14.0,Sun,2021-11-21,18:30,Elche,Betis,0.8,1.9,0–3,16127.0,Valentín Pizarro,2021-2022,146
+14.0,Sun,2021-11-21,21:00,Real Sociedad,Valencia,0.3,0.7,0–0,28635.0,Mario Melero,2021-2022,147
+14.0,Mon,2021-11-22,21:00,Rayo Vallecano,Mallorca,2.4,0.7,3–1,6708.0,Jorge Figueroa,2021-2022,148
+15.0,Fri,2021-11-26,21:00,Athletic Club,Granada,1.1,1.1,2–2,32651.0,Adrián Cordero,2021-2022,150
+15.0,Sat,2021-11-27,14:00,Alavés,Celta Vigo,0.9,1.2,1–2,10093.0,Pablo González,2021-2022,151
+15.0,Sat,2021-11-27,16:15,Valencia,Rayo Vallecano,1.6,1.2,1–1,30030.0,Alejandro Hernández,2021-2022,152
+15.0,Sat,2021-11-27,18:30,Mallorca,Getafe,0.4,0.8,0–0,8635.0,Santiago Jaime,2021-2022,153
+15.0,Sat,2021-11-27,21:00,Villarreal,Barcelona,1.1,3.2,1–3,19050.0,César Soto,2021-2022,154
+15.0,Sun,2021-11-28,14:00,Betis,Levante,2.6,0.3,3–1,45012.0,Miguel Ángel Ortiz Arias,2021-2022,155
+15.0,Sun,2021-11-28,16:15,Espanyol,Real Sociedad,0.4,1.7,1–0,19935.0,Antonio Matéu Lahoz,2021-2022,156
+15.0,Sun,2021-11-28,18:30,Cádiz,Atlético Madrid,1.0,3.8,1–4,16861.0,Jesús Gil,2021-2022,157
+15.0,Sun,2021-11-28,21:00,Real Madrid,Sevilla,1.2,0.7,2–1,45281.0,José Sánchez,2021-2022,158
+15.0,Mon,2021-11-29,21:00,Osasuna,Elche,1.8,1.4,1–1,16485.0,Isidro Díaz de Mera,2021-2022,159
+9.0,Wed,2021-12-01,21:00,Real Madrid,Athletic Club,1.8,2.4,1–0,33627.0,Isidro Díaz de Mera,2021-2022,161
+16.0,Fri,2021-12-03,21:00,Granada,Alavés,1.0,2.1,2–1,13511.0,Hsu Jason,2021-2022,163
+16.0,Sat,2021-12-04,14:00,Sevilla,Villarreal,0.4,1.7,1–0,30865.0,Carlos del Cerro,2021-2022,164
+16.0,Sat,2021-12-04,16:15,Barcelona,Betis,1.0,0.6,0–1,66529.0,Pablo González,2021-2022,165
+16.0,Sat,2021-12-04,18:30,Atlético Madrid,Mallorca,1.5,0.6,1–2,51009.0,Juan Martínez,2021-2022,166
+16.0,Sat,2021-12-04,21:00,Real Sociedad,Real Madrid,0.7,1.6,0–2,35765.0,Jesús Gil,2021-2022,167
+16.0,Sun,2021-12-05,14:00,Rayo Vallecano,Espanyol,0.4,0.6,1–0,8679.0,José Luis Munuera,2021-2022,168
+16.0,Sun,2021-12-05,16:15,Elche,Cádiz,2.4,1.7,3–1,11879.0,Alejandro Muñíz,2021-2022,169
+16.0,Sun,2021-12-05,18:30,Levante,Osasuna,0.5,0.3,0–0,15361.0,Valentín Pizarro,2021-2022,170
+16.0,Sun,2021-12-05,21:00,Celta Vigo,Valencia,0.9,1.3,1–2,11361.0,Ricardo de Burgos,2021-2022,171
+16.0,Mon,2021-12-06,21:00,Getafe,Athletic Club,1.2,0.5,0–0,9176.0,Jorge Figueroa,2021-2022,172
+17.0,Fri,2021-12-10,21:00,Mallorca,Celta Vigo,0.8,1.0,0–0,10655.0,Isidro Díaz de Mera,2021-2022,174
+17.0,Sat,2021-12-11,14:00,Espanyol,Levante,2.3,2.9,4–3,15193.0,Adrián Cordero,2021-2022,175
+17.0,Sat,2021-12-11,16:15,Alavés,Getafe,0.7,1.0,1–1,10065.0,César Soto,2021-2022,176
+17.0,Sat,2021-12-11,18:30,Valencia,Elche,1.6,0.9,2–1,31662.0,Santiago Jaime,2021-2022,177
+17.0,Sat,2021-12-11,21:00,Athletic Club,Sevilla,1.4,0.2,0–1,36737.0,Alejandro Hernández,2021-2022,178
+17.0,Sun,2021-12-12,14:00,Villarreal,Rayo Vallecano,2.4,1.5,2–0,13133.0,Mario Melero,2021-2022,179
+17.0,Sun,2021-12-12,16:15,Osasuna,Barcelona,0.3,0.9,2–2,21427.0,Juan Martínez,2021-2022,180
+17.0,Sun,2021-12-12,18:30,Betis,Real Sociedad,1.6,0.9,4–0,52158.0,José Sánchez,2021-2022,181
+17.0,Sun,2021-12-12,21:00,Real Madrid,Atlético Madrid,0.4,0.7,2–0,51024.0,Antonio Matéu Lahoz,2021-2022,182
+17.0,Mon,2021-12-13,21:00,Cádiz,Granada,0.7,1.0,1–1,13052.0,Miguel Ángel Ortiz Arias,2021-2022,183
+18.0,Fri,2021-12-17,21:00,Celta Vigo,Espanyol,1.2,0.4,3–1,9526.0,Valentín Pizarro,2021-2022,185
+18.0,Sat,2021-12-18,14:00,Rayo Vallecano,Alavés,1.8,0.2,2–0,7911.0,Antonio Matéu Lahoz,2021-2022,186
+18.0,Sat,2021-12-18,16:15,Real Sociedad,Villarreal,0.9,2.9,1–3,29679.0,Jorge Figueroa,2021-2022,187
+18.0,Sat,2021-12-18,18:30,Barcelona,Elche,2.7,1.3,3–2,41664.0,Hsu Jason,2021-2022,188
+18.0,Sat,2021-12-18,21:00,Sevilla,Atlético Madrid,0.5,1.0,2–1,33241.0,Ricardo de Burgos,2021-2022,189
+18.0,Sun,2021-12-19,14:00,Granada,Mallorca,1.9,0.9,4–1,13014.0,Alejandro Muñíz,2021-2022,190
+18.0,Sun,2021-12-19,16:15,Athletic Club,Betis,1.3,2.1,3–2,38002.0,Jesús Gil,2021-2022,191
+18.0,Sun,2021-12-19,18:30,Getafe,Osasuna,1.1,0.6,1–0,8126.0,José Luis Munuera,2021-2022,192
+18.0,Sun,2021-12-19,21:00,Real Madrid,Cádiz,2.0,0.2,0–0,38818.0,Santiago Jaime,2021-2022,193
+18.0,Mon,2021-12-20,21:00,Levante,Valencia,2.7,2.1,3–4,18851.0,Pablo González,2021-2022,194
+4.0,Tue,2021-12-21,19:00,Villarreal,Alavés,3.3,0.8,5–2,12530.0,Valentín Pizarro,2021-2022,196
+4.0,Tue,2021-12-21,21:30,Sevilla,Barcelona,0.3,1.8,1–1,31358.0,Carlos del Cerro,2021-2022,197
+9.0,Wed,2021-12-22,19:00,Granada,Atlético Madrid,0.6,1.5,2–1,13304.0,Alejandro Hernández,2021-2022,199
+21.0,Wed,2021-12-22,21:30,Athletic Club,Real Madrid,1.0,1.1,1–2,42722.0,César Soto,2021-2022,201
+19.0,Fri,2021-12-31,16:15,Valencia,Espanyol,0.7,2.0,1–2,29566.0,José Sánchez,2021-2022,203
+19.0,Sun,2022-01-02,14:00,Getafe,Real Madrid,0.9,0.7,1–0,11890.0,Mario Melero,2021-2022,204
+19.0,Sun,2022-01-02,16:15,Atlético Madrid,Rayo Vallecano,1.7,0.1,2–0,43029.0,Jorge Figueroa,2021-2022,205
+19.0,Sun,2022-01-02,16:15,Elche,Granada,1.2,1.1,0–0,12160.0,Adrián Cordero,2021-2022,206
+19.0,Sun,2022-01-02,18:30,Alavés,Real Sociedad,1.7,0.9,1–1,13498.0,Carlos del Cerro,2021-2022,207
+19.0,Sun,2022-01-02,18:30,Betis,Celta Vigo,1.4,2.6,0–2,41656.0,César Soto,2021-2022,208
+19.0,Sun,2022-01-02,21:00,Mallorca,Barcelona,0.8,1.3,0–1,14654.0,Antonio Matéu Lahoz,2021-2022,209
+19.0,Mon,2022-01-03,19:00,Villarreal,Levante,3.4,0.4,5–0,13462.0,Alejandro Hernández,2021-2022,210
+19.0,Mon,2022-01-03,21:00,Osasuna,Athletic Club,0.9,1.4,1–3,16206.0,Miguel Ángel Ortiz Arias,2021-2022,211
+19.0,Mon,2022-01-03,21:15,Cádiz,Sevilla,0.2,0.9,0–1,14342.0,Hsu Jason,2021-2022,212
+20.0,Sat,2022-01-08,14:00,Levante,Mallorca,1.2,1.2,2–0,13330.0,Jorge Figueroa,2021-2022,214
+20.0,Sat,2022-01-08,16:15,Real Sociedad,Celta Vigo,1.7,0.4,1–0,27938.0,Guillermo Cuadra,2021-2022,215
+20.0,Sat,2022-01-08,18:30,Granada,Barcelona,0.9,0.6,1–1,14442.0,Pablo González,2021-2022,216
+20.0,Sat,2022-01-08,21:00,Real Madrid,Valencia,3.9,1.3,4–1,40617.0,Alejandro Hernández,2021-2022,217
+20.0,Sun,2022-01-09,14:00,Rayo Vallecano,Betis,1.2,1.3,1–1,8395.0,Alejandro Muñíz,2021-2022,218
+20.0,Sun,2022-01-09,16:15,Sevilla,Getafe,0.7,0.1,1–0,30801.0,Juan Martínez,2021-2022,219
+20.0,Sun,2022-01-09,18:30,Osasuna,Cádiz,2.2,0.2,2–0,16292.0,Ricardo de Burgos,2021-2022,220
+20.0,Sun,2022-01-09,18:30,Alavés,Athletic Club,0.5,0.8,0–0,14103.0,Santiago Jaime,2021-2022,221
+20.0,Sun,2022-01-09,21:00,Villarreal,Atlético Madrid,2.1,0.7,2–2,14127.0,Hsu Jason,2021-2022,222
+20.0,Mon,2022-01-10,21:00,Espanyol,Elche,1.3,1.0,1–2,11870.0,Jesús Gil,2021-2022,223
+21.0,Sun,2022-01-16,14:00,Elche,Villarreal,0.2,0.6,1–0,12433.0,Valentín Pizarro,2021-2022,225
+21.0,Tue,2022-01-18,20:00,Betis,Alavés,2.4,0.3,4–0,38753.0,José Sánchez,2021-2022,226
+21.0,Tue,2022-01-18,21:30,Cádiz,Espanyol,0.9,1.7,2–2,10755.0,Alejandro Muñíz,2021-2022,227
+21.0,Wed,2022-01-19,19:00,Celta Vigo,Osasuna,1.2,0.5,2–0,8837.0,Adrián Cordero,2021-2022,228
+21.0,Wed,2022-01-19,21:30,Valencia,Sevilla,0.5,0.9,1–1,26049.0,César Soto,2021-2022,229
+21.0,Thu,2022-01-20,19:00,Getafe,Granada,0.9,0.7,4–2,7634.0,Isidro Díaz de Mera,2021-2022,230
+22.0,Fri,2022-01-21,21:00,Espanyol,Betis,1.4,2.4,1–4,17637.0,Hsu Jason,2021-2022,232
+22.0,Sat,2022-01-22,14:00,Levante,Cádiz,1.0,0.7,0–2,14063.0,César Soto,2021-2022,233
+22.0,Sat,2022-01-22,16:15,Villarreal,Mallorca,1.9,1.2,3–0,13207.0,Miguel Ángel Ortiz Arias,2021-2022,234
+22.0,Sat,2022-01-22,18:30,Sevilla,Celta Vigo,1.1,0.7,2–2,30059.0,José Sánchez,2021-2022,235
+22.0,Sat,2022-01-22,21:00,Atlético Madrid,Valencia,2.5,0.7,3–2,44999.0,Isidro Díaz de Mera,2021-2022,236
+22.0,Sun,2022-01-23,14:00,Granada,Osasuna,0.7,2.1,0–2,12471.0,Santiago Jaime,2021-2022,237
+22.0,Sun,2022-01-23,16:15,Real Madrid,Elche,3.4,0.6,2–2,39796.0,Ricardo de Burgos,2021-2022,238
+22.0,Sun,2022-01-23,18:30,Real Sociedad,Getafe,0.8,0.3,0–0,27368.0,José Luis Munuera,2021-2022,239
+22.0,Sun,2022-01-23,18:30,Rayo Vallecano,Athletic Club,2.0,0.4,0–1,9034.0,Adrián Cordero,2021-2022,240
+22.0,Sun,2022-01-23,21:00,Alavés,Barcelona,0.6,1.5,0–1,14056.0,Jorge Figueroa,2021-2022,241
+23.0,Fri,2022-02-04,21:00,Getafe,Levante,0.8,0.5,3–0,8475.0,Alejandro Muñíz,2021-2022,243
+23.0,Sat,2022-02-05,14:00,Elche,Alavés,0.9,0.9,3–1,12923.0,Mario Melero,2021-2022,244
+23.0,Sat,2022-02-05,16:15,Mallorca,Cádiz,2.3,0.8,2–1,12226.0,Carlos del Cerro,2021-2022,245
+23.0,Sat,2022-02-05,18:30,Celta Vigo,Rayo Vallecano,0.7,0.8,2–0,12546.0,José Luis Munuera,2021-2022,246
+23.0,Sat,2022-02-05,21:00,Osasuna,Sevilla,0.4,1.3,0–0,17635.0,Valentín Pizarro,2021-2022,247
+23.0,Sun,2022-02-06,14:00,Valencia,Real Sociedad,1.1,0.4,0–0,31351.0,José Sánchez,2021-2022,248
+23.0,Sun,2022-02-06,16:15,Barcelona,Atlético Madrid,1.0,1.3,4–2,74221.0,Jesús Gil,2021-2022,249
+23.0,Sun,2022-02-06,18:30,Betis,Villarreal,0.6,0.9,0–2,44870.0,Pablo González,2021-2022,250
+23.0,Sun,2022-02-06,21:00,Real Madrid,Granada,2.1,0.6,1–0,36665.0,Antonio Matéu Lahoz,2021-2022,251
+23.0,Mon,2022-02-07,21:00,Athletic Club,Espanyol,0.8,0.6,2–1,30753.0,César Soto,2021-2022,252
+24.0,Fri,2022-02-11,21:00,Sevilla,Elche,0.8,0.3,2–0,33411.0,Miguel Ángel Ortiz Arias,2021-2022,254
+24.0,Sat,2022-02-12,14:00,Cádiz,Celta Vigo,0.7,1.0,0–0,15635.0,Antonio Matéu Lahoz,2021-2022,255
+24.0,Sat,2022-02-12,16:15,Villarreal,Real Madrid,0.4,1.7,0–0,17894.0,José Sánchez,2021-2022,256
+24.0,Sat,2022-02-12,18:30,Rayo Vallecano,Osasuna,0.9,1.6,0–3,8596.0,Jorge Figueroa,2021-2022,257
+24.0,Sat,2022-02-12,21:00,Atlético Madrid,Getafe,2.5,2.1,4–3,49375.0,Ricardo de Burgos,2021-2022,258
+24.0,Sun,2022-02-13,14:00,Alavés,Valencia,1.8,1.2,2–1,12845.0,Adrián Cordero,2021-2022,259
+24.0,Sun,2022-02-13,16:15,Levante,Betis,1.7,2.2,2–4,16103.0,Santiago Jaime,2021-2022,260
+24.0,Sun,2022-02-13,18:30,Real Sociedad,Granada,2.9,1.2,2–0,29847.0,Hsu Jason,2021-2022,261
+24.0,Sun,2022-02-13,21:00,Espanyol,Barcelona,1.1,1.5,2–2,25049.0,Alejandro Hernández,2021-2022,262
+24.0,Mon,2022-02-14,21:00,Mallorca,Athletic Club,1.9,1.6,3–2,12904.0,Isidro Díaz de Mera,2021-2022,263
+21.0,Wed,2022-02-16,19:00,Atlético Madrid,Levante,1.3,0.6,0–1,43456.0,José Luis Munuera,2021-2022,265
+25.0,Fri,2022-02-18,21:00,Elche,Rayo Vallecano,2.5,0.7,2–1,14742.0,Alejandro Muñíz,2021-2022,267
+25.0,Sat,2022-02-19,14:00,Granada,Villarreal,2.3,4.9,1–4,13389.0,Jesús Gil,2021-2022,268
+25.0,Sat,2022-02-19,16:15,Osasuna,Atlético Madrid,0.6,1.1,0–3,20040.0,Mario Melero,2021-2022,269
+25.0,Sat,2022-02-19,18:30,Cádiz,Getafe,0.5,0.9,1–1,15948.0,Hsu Jason,2021-2022,270
+25.0,Sat,2022-02-19,21:00,Real Madrid,Alavés,2.9,0.6,3–0,42180.0,José Luis Munuera,2021-2022,271
+25.0,Sun,2022-02-20,14:00,Espanyol,Sevilla,1.5,0.5,1–1,24897.0,Pablo González,2021-2022,272
+25.0,Sun,2022-02-20,16:15,Valencia,Barcelona,0.8,2.0,1–4,38315.0,Carlos del Cerro,2021-2022,273
+25.0,Sun,2022-02-20,18:30,Betis,Mallorca,1.5,0.4,2–1,48652.0,César Soto,2021-2022,274
+25.0,Sun,2022-02-20,21:00,Athletic Club,Real Sociedad,2.8,0.4,4–0,40698.0,Juan Martínez,2021-2022,275
+25.0,Mon,2022-02-21,21:00,Celta Vigo,Levante,1.2,1.7,1–1,9776.0,Valentín Pizarro,2021-2022,276
+26.0,Fri,2022-02-25,21:00,Levante,Elche,2.1,0.6,3–0,14237.0,Pablo González,2021-2022,278
+26.0,Sat,2022-02-26,14:00,Mallorca,Valencia,1.8,0.6,0–1,14417.0,Jorge Figueroa,2021-2022,279
+26.0,Sat,2022-02-26,16:15,Getafe,Alavés,1.1,1.0,2–2,7720.0,Santiago Jaime,2021-2022,280
+26.0,Sat,2022-02-26,18:30,Rayo Vallecano,Real Madrid,0.9,2.1,0–1,9952.0,Isidro Díaz de Mera,2021-2022,281
+26.0,Sat,2022-02-26,21:00,Atlético Madrid,Celta Vigo,0.6,0.8,2–0,48009.0,Alejandro Hernández,2021-2022,282
+26.0,Sun,2022-02-27,14:00,Villarreal,Espanyol,4.4,1.1,5–1,15600.0,Ricardo de Burgos,2021-2022,283
+26.0,Sun,2022-02-27,16:15,Sevilla,Betis,1.4,0.7,2–1,37250.0,Carlos del Cerro,2021-2022,284
+26.0,Sun,2022-02-27,18:30,Real Sociedad,Osasuna,1.0,0.4,1–0,30145.0,Antonio Matéu Lahoz,2021-2022,285
+26.0,Sun,2022-02-27,21:00,Barcelona,Athletic Club,3.1,0.3,4–0,69770.0,Guillermo Cuadra,2021-2022,286
+26.0,Mon,2022-02-28,21:00,Granada,Cádiz,0.2,0.7,0–0,14785.0,José Sánchez,2021-2022,287
+21.0,Wed,2022-03-02,21:00,Mallorca,Real Sociedad,0.5,1.6,0–2,11550.0,Mario Melero,2021-2022,289
+27.0,Fri,2022-03-04,21:00,Alavés,Sevilla,1.4,1.2,0–0,13121.0,Hsu Jason,2021-2022,291
+27.0,Sat,2022-03-05,14:00,Osasuna,Villarreal,0.8,0.5,1–0,16659.0,José Luis Munuera,2021-2022,292
+27.0,Sat,2022-03-05,16:15,Espanyol,Getafe,0.1,0.4,2–0,18519.0,Adrián Cordero,2021-2022,293
+27.0,Sat,2022-03-05,18:30,Valencia,Granada,1.6,0.4,3–1,31227.0,Valentín Pizarro,2021-2022,294
+27.0,Sat,2022-03-05,21:00,Real Madrid,Real Sociedad,2.0,0.8,4–1,52410.0,Jesús Gil,2021-2022,295
+27.0,Sun,2022-03-06,14:00,Cádiz,Rayo Vallecano,1.1,1.1,2–0,15677.0,César Soto,2021-2022,296
+27.0,Sun,2022-03-06,16:15,Elche,Barcelona,1.1,4.1,1–2,30146.0,Alejandro Hernández,2021-2022,297
+27.0,Sun,2022-03-06,18:30,Celta Vigo,Mallorca,2.7,1.5,4–3,11320.0,Miguel Ángel Ortiz Arias,2021-2022,298
+27.0,Sun,2022-03-06,21:00,Betis,Atlético Madrid,1.0,2.8,1–3,44383.0,Guillermo Cuadra,2021-2022,299
+27.0,Mon,2022-03-07,21:00,Athletic Club,Levante,3.1,0.5,3–1,29485.0,Alejandro Muñíz,2021-2022,300
+28.0,Fri,2022-03-11,21:00,Atlético Madrid,Cádiz,0.3,0.8,2–1,50573.0,Pablo González,2021-2022,302
+28.0,Sat,2022-03-12,14:00,Levante,Espanyol,1.1,0.4,1–1,13407.0,Isidro Díaz de Mera,2021-2022,303
+28.0,Sat,2022-03-12,16:15,Granada,Elche,1.4,1.2,0–1,15345.0,Carlos del Cerro,2021-2022,304
+28.0,Sat,2022-03-12,18:30,Villarreal,Celta Vigo,1.3,0.8,1–0,14929.0,Santiago Jaime,2021-2022,305
+28.0,Sat,2022-03-12,21:00,Getafe,Valencia,0.9,0.2,0–0,10349.0,Guillermo Cuadra,2021-2022,306
+28.0,Sun,2022-03-13,14:00,Rayo Vallecano,Sevilla,0.4,0.3,1–1,9073.0,Juan Martínez,2021-2022,307
+28.0,Sun,2022-03-13,16:15,Betis,Athletic Club,0.7,0.5,1–0,48876.0,Antonio Matéu Lahoz,2021-2022,308
+28.0,Sun,2022-03-13,18:30,Real Sociedad,Alavés,2.2,0.8,1–0,31573.0,Jorge Figueroa,2021-2022,309
+28.0,Sun,2022-03-13,21:00,Barcelona,Osasuna,3.6,0.2,4–0,54507.0,Ricardo de Burgos,2021-2022,310
+28.0,Mon,2022-03-14,21:00,Mallorca,Real Madrid,1.4,1.8,0–3,17191.0,José Sánchez,2021-2022,311
+29.0,Fri,2022-03-18,21:00,Athletic Club,Getafe,2.0,0.4,1–1,37367.0,Jesús Gil,2021-2022,313
+29.0,Sat,2022-03-19,14:00,Alavés,Granada,1.7,2.1,2–3,16209.0,Guillermo Cuadra,2021-2022,314
+29.0,Sat,2022-03-19,16:15,Elche,Valencia,0.6,0.9,0–1,15780.0,Miguel Ángel Ortiz Arias,2021-2022,315
+29.0,Sat,2022-03-19,18:30,Osasuna,Levante,2.3,1.0,3–1,19429.0,Hsu Jason,2021-2022,316
+29.0,Sat,2022-03-19,21:00,Rayo Vallecano,Atlético Madrid,1.4,1.4,0–1,10349.0,José Luis Munuera,2021-2022,317
+29.0,Sun,2022-03-20,14:00,Espanyol,Mallorca,1.3,0.5,1–0,17578.0,Alejandro Muñíz,2021-2022,318
+29.0,Sun,2022-03-20,16:15,Cádiz,Villarreal,1.7,0.2,1–0,13325.0,Alejandro Hernández,2021-2022,319
+29.0,Sun,2022-03-20,16:15,Celta Vigo,Betis,0.9,0.5,0–0,13149.0,Ricardo de Burgos,2021-2022,320
+29.0,Sun,2022-03-20,18:30,Sevilla,Real Sociedad,0.3,1.1,0–0,24861.0,César Soto,2021-2022,321
+29.0,Sun,2022-03-20,21:00,Real Madrid,Barcelona,0.8,3.4,0–4,60017.0,Juan Martínez,2021-2022,322
+30.0,Sat,2022-04-02,14:00,Getafe,Mallorca,1.7,0.4,1–0,8946.0,Antonio Matéu Lahoz,2021-2022,324
+30.0,Sat,2022-04-02,16:15,Levante,Villarreal,2.0,1.2,2–0,14908.0,Adrián Cordero,2021-2022,325
+30.0,Sat,2022-04-02,18:30,Celta Vigo,Real Madrid,1.6,2.9,1–2,15714.0,Pablo González,2021-2022,326
+30.0,Sat,2022-04-02,21:00,Atlético Madrid,Alavés,3.0,0.5,4–1,51467.0,Mario Melero,2021-2022,327
+30.0,Sun,2022-04-03,14:00,Athletic Club,Elche,1.9,0.5,2–1,34572.0,Jorge Figueroa,2021-2022,328
+30.0,Sun,2022-04-03,16:15,Betis,Osasuna,4.4,0.4,4–1,49103.0,Valentín Pizarro,2021-2022,329
+30.0,Sun,2022-04-03,18:30,Granada,Rayo Vallecano,2.1,0.8,2–2,15823.0,Alejandro Hernández,2021-2022,330
+30.0,Sun,2022-04-03,18:30,Valencia,Cádiz,0.2,0.1,0–0,32949.0,Isidro Díaz de Mera,2021-2022,331
+30.0,Sun,2022-04-03,21:00,Barcelona,Sevilla,1.9,0.6,1–0,76112.0,José Sánchez,2021-2022,332
+30.0,Mon,2022-04-04,21:00,Real Sociedad,Espanyol,2.2,0.4,1–0,20869.0,Santiago Jaime,2021-2022,333
+31.0,Fri,2022-04-08,21:00,Sevilla,Granada,2.9,0.9,4–2,33504.0,Miguel Ángel Ortiz Arias,2021-2022,335
+31.0,Sat,2022-04-09,14:00,Cádiz,Betis,1.3,1.3,1–2,18063.0,Jesús Gil,2021-2022,336
+31.0,Sat,2022-04-09,16:15,Mallorca,Atlético Madrid,1.1,0.5,1–0,15437.0,Juan Martínez,2021-2022,337
+31.0,Sat,2022-04-09,18:30,Villarreal,Athletic Club,1.3,1.8,1–1,16603.0,Carlos del Cerro,2021-2022,338
+31.0,Sat,2022-04-09,21:00,Real Madrid,Getafe,1.6,0.4,2–0,50740.0,César Soto,2021-2022,339
+31.0,Sun,2022-04-10,14:00,Osasuna,Alavés,2.1,0.5,1–0,19220.0,Alejandro Muñíz,2021-2022,340
+31.0,Sun,2022-04-10,16:15,Espanyol,Celta Vigo,1.3,0.8,1–0,18471.0,Hsu Jason,2021-2022,341
+31.0,Sun,2022-04-10,18:30,Elche,Real Sociedad,0.6,1.7,1–2,17011.0,Guillermo Cuadra,2021-2022,342
+31.0,Sun,2022-04-10,21:00,Levante,Barcelona,3.4,1.2,2–3,20785.0,José Luis Munuera,2021-2022,343
+31.0,Mon,2022-04-11,21:00,Rayo Vallecano,Valencia,0.6,0.5,1–1,9302.0,Ricardo de Burgos,2021-2022,344
+32.0,Fri,2022-04-15,21:00,Real Sociedad,Betis,0.9,0.5,0–0,28893.0,Isidro Díaz de Mera,2021-2022,346
+32.0,Sat,2022-04-16,14:00,Elche,Mallorca,1.6,1.5,3–0,20257.0,José Sánchez,2021-2022,347
+32.0,Sat,2022-04-16,16:15,Alavés,Rayo Vallecano,0.5,1.0,1–0,10165.0,Juan Martínez,2021-2022,348
+32.0,Sat,2022-04-16,18:30,Valencia,Osasuna,1.3,1.1,1–2,30148.0,Mario Melero,2021-2022,349
+32.0,Sat,2022-04-16,21:00,Getafe,Villarreal,0.9,2.7,1–2,9657.0,Pablo González,2021-2022,350
+32.0,Sun,2022-04-17,14:00,Granada,Levante,1.0,3.9,1–4,15323.0,Valentín Pizarro,2021-2022,351
+32.0,Sun,2022-04-17,16:15,Atlético Madrid,Espanyol,1.2,0.7,2–1,54011.0,Jorge Figueroa,2021-2022,352
+32.0,Sun,2022-04-17,18:30,Athletic Club,Celta Vigo,0.5,0.4,0–2,35541.0,Alejandro Hernández,2021-2022,353
+32.0,Sun,2022-04-17,21:00,Sevilla,Real Madrid,0.9,1.2,2–3,40629.0,Guillermo Cuadra,2021-2022,354
+32.0,Mon,2022-04-18,21:00,Barcelona,Cádiz,1.2,1.7,0–1,57495.0,Santiago Jaime,2021-2022,355
+33.0,Tue,2022-04-19,19:00,Mallorca,Alavés,0.8,0.6,2–1,15264.0,César Soto,2021-2022,357
+33.0,Tue,2022-04-19,21:00,Betis,Elche,1.2,0.6,0–1,43257.0,Hsu Jason,2021-2022,358
+33.0,Tue,2022-04-19,21:30,Villarreal,Valencia,2.4,0.3,2–0,13570.0,José Luis Munuera,2021-2022,359
+33.0,Wed,2022-04-20,19:00,Atlético Madrid,Granada,1.1,0.2,0–0,43517.0,Jesús Gil,2021-2022,360
+33.0,Wed,2022-04-20,20:00,Celta Vigo,Getafe,0.4,1.1,0–2,9934.0,Santiago Jaime,2021-2022,361
+33.0,Wed,2022-04-20,21:30,Osasuna,Real Madrid,1.1,4.5,1–3,21360.0,Ricardo de Burgos,2021-2022,362
+33.0,Thu,2022-04-21,19:00,Levante,Sevilla,2.7,1.8,2–3,18107.0,Isidro Díaz de Mera,2021-2022,363
+33.0,Thu,2022-04-21,19:00,Espanyol,Rayo Vallecano,0.4,0.6,0–1,11873.0,Antonio Matéu Lahoz,2021-2022,364
+33.0,Thu,2022-04-21,20:00,Cádiz,Athletic Club,3.1,1.6,2–3,17360.0,Valentín Pizarro,2021-2022,365
+33.0,Thu,2022-04-21,21:30,Real Sociedad,Barcelona,0.8,1.1,0–1,35128.0,Carlos del Cerro,2021-2022,366
+21.0,Sun,2022-04-24,21:00,Barcelona,Rayo Vallecano,1.7,0.3,0–1,57023.0,Isidro Díaz de Mera,2021-2022,368
+34.0,Fri,2022-04-29,21:00,Sevilla,Cádiz,0.7,0.9,1–1,37113.0,José Sánchez,2021-2022,370
+34.0,Sat,2022-04-30,14:00,Alavés,Villarreal,2.4,1.3,2–1,12579.0,Miguel Ángel Ortiz Arias,2021-2022,371
+34.0,Sat,2022-04-30,16:15,Real Madrid,Espanyol,1.8,1.3,4–0,58686.0,José Luis Munuera,2021-2022,372
+34.0,Sat,2022-04-30,18:30,Valencia,Levante,0.5,1.3,1–1,35099.0,Jorge Figueroa,2021-2022,373
+34.0,Sat,2022-04-30,21:00,Athletic Club,Atlético Madrid,1.3,0.7,2–0,43398.0,Antonio Matéu Lahoz,2021-2022,374
+34.0,Sun,2022-05-01,14:00,Elche,Osasuna,0.6,1.1,1–1,16305.0,Carlos del Cerro,2021-2022,375
+34.0,Sun,2022-05-01,16:15,Granada,Celta Vigo,0.7,1.1,1–1,15036.0,Juan Martínez,2021-2022,376
+34.0,Sun,2022-05-01,18:30,Rayo Vallecano,Real Sociedad,1.4,0.7,1–1,9395.0,Alejandro Muñíz,2021-2022,377
+34.0,Sun,2022-05-01,21:00,Barcelona,Mallorca,1.2,1.0,2–1,62789.0,Pablo González,2021-2022,378
+34.0,Mon,2022-05-02,21:00,Getafe,Betis,0.7,0.2,0–0,9916.0,Adrián Cordero,2021-2022,379
+35.0,Fri,2022-05-06,21:00,Levante,Real Sociedad,2.1,2.1,2–1,17278.0,Hsu Jason,2021-2022,381
+35.0,Sat,2022-05-07,14:00,Mallorca,Granada,1.4,1.6,2–6,18466.0,Ricardo de Burgos,2021-2022,382
+35.0,Sat,2022-05-07,16:15,Athletic Club,Valencia,1.3,0.1,0–0,41091.0,Isidro Díaz de Mera,2021-2022,383
+35.0,Sat,2022-05-07,18:30,Cádiz,Elche,1.8,0.1,3–0,17615.0,Alejandro Hernández,2021-2022,384
+35.0,Sat,2022-05-07,18:30,Celta Vigo,Alavés,1.9,0.5,4–0,10567.0,Guillermo Cuadra,2021-2022,385
+35.0,Sat,2022-05-07,21:00,Betis,Barcelona,0.7,1.2,1–2,46132.0,Antonio Matéu Lahoz,2021-2022,386
+35.0,Sun,2022-05-08,14:00,Getafe,Rayo Vallecano,0.6,0.7,0–0,10125.0,Mario Melero,2021-2022,387
+35.0,Sun,2022-05-08,16:15,Villarreal,Sevilla,2.2,0.8,1–1,17461.0,Jesús Gil,2021-2022,388
+35.0,Sun,2022-05-08,18:30,Espanyol,Osasuna,0.6,0.6,1–1,18903.0,Santiago Jaime,2021-2022,389
+35.0,Sun,2022-05-08,21:00,Atlético Madrid,Real Madrid,2.3,1.1,1–0,63874.0,César Soto,2021-2022,390
+36.0,Tue,2022-05-10,19:00,Valencia,Betis,1.2,1.6,0–3,28091.0,Carlos del Cerro,2021-2022,392
+36.0,Tue,2022-05-10,20:00,Granada,Athletic Club,0.9,0.3,1–0,16638.0,José Sánchez,2021-2022,393
+36.0,Tue,2022-05-10,21:30,Barcelona,Celta Vigo,1.1,0.7,3–1,55899.0,Miguel Ángel Ortiz Arias,2021-2022,394
+36.0,Wed,2022-05-11,19:00,Osasuna,Getafe,0.6,0.3,1–1,17850.0,Alejandro Muñíz,2021-2022,395
+36.0,Wed,2022-05-11,19:00,Alavés,Espanyol,2.6,0.9,2–1,12729.0,Valentín Pizarro,2021-2022,396
+36.0,Wed,2022-05-11,20:30,Sevilla,Mallorca,1.5,0.6,0–0,33242.0,Alejandro Hernández,2021-2022,397
+36.0,Wed,2022-05-11,21:30,Elche,Atlético Madrid,0.2,1.9,0–2,21266.0,Pablo González,2021-2022,398
+36.0,Thu,2022-05-12,19:00,Real Sociedad,Cádiz,3.0,0.7,3–0,29014.0,Juan Martínez,2021-2022,399
+36.0,Thu,2022-05-12,20:00,Rayo Vallecano,Villarreal,1.8,2.4,1–5,7945.0,Isidro Díaz de Mera,2021-2022,400
+36.0,Thu,2022-05-12,21:30,Real Madrid,Levante,3.5,1.0,6–0,38421.0,Adrián Cordero,2021-2022,401
+37.0,Sat,2022-05-14,18:30,Espanyol,Valencia,0.7,1.6,1–1,14990.0,Alejandro Muñíz,2021-2022,403
+37.0,Sun,2022-05-15,19:30,Levante,Alavés,1.9,0.5,3–1,12438.0,Guillermo Cuadra,2021-2022,404
+37.0,Sun,2022-05-15,19:30,Villarreal,Real Sociedad,0.7,2.1,1–2,16689.0,Pablo González,2021-2022,405
+37.0,Sun,2022-05-15,19:30,Getafe,Barcelona,0.3,0.2,0–0,13072.0,Jesús Gil,2021-2022,406
+37.0,Sun,2022-05-15,19:30,Athletic Club,Osasuna,1.1,0.9,2–0,37869.0,Jorge Figueroa,2021-2022,407
+37.0,Sun,2022-05-15,19:30,Atlético Madrid,Sevilla,1.2,0.7,1–1,58138.0,José Sánchez,2021-2022,408
+37.0,Sun,2022-05-15,19:30,Betis,Granada,2.3,1.1,2–0,45016.0,Ricardo de Burgos,2021-2022,409
+37.0,Sun,2022-05-15,19:30,Celta Vigo,Elche,2.1,0.5,1–0,10773.0,Mario Melero,2021-2022,410
+37.0,Sun,2022-05-15,19:30,Mallorca,Rayo Vallecano,0.8,1.2,2–1,17930.0,José Luis Munuera,2021-2022,411
+37.0,Sun,2022-05-15,19:30,Cádiz,Real Madrid,2.7,1.6,1–1,19643.0,Antonio Matéu Lahoz,2021-2022,412
+38.0,Fri,2022-05-20,21:00,Real Madrid,Betis,1.2,0.9,0–0,52232.0,Santiago Jaime,2021-2022,414
+38.0,Fri,2022-05-20,21:00,Rayo Vallecano,Levante,2.5,2.5,2–4,8446.0,Mario Melero,2021-2022,415
+38.0,Sat,2022-05-21,17:30,Valencia,Celta Vigo,1.5,0.9,2–0,16189.0,Adrián Cordero,2021-2022,416
+38.0,Sun,2022-05-22,17:30,Elche,Getafe,2.7,1.3,3–1,17336.0,Guillermo Cuadra,2021-2022,417
+38.0,Sun,2022-05-22,20:00,Osasuna,Mallorca,0.8,1.2,0–2,18717.0,César Soto,2021-2022,418
+38.0,Sun,2022-05-22,20:00,Granada,Espanyol,1.7,0.3,0–0,17951.0,Alejandro Hernández,2021-2022,419
+38.0,Sun,2022-05-22,20:00,Alavés,Cádiz,0.4,1.8,0–1,11138.0,José Sánchez,2021-2022,420
+38.0,Sun,2022-05-22,22:00,Barcelona,Villarreal,0.6,0.8,0–2,54850.0,José Luis Munuera,2021-2022,421
+38.0,Sun,2022-05-22,22:00,Sevilla,Athletic Club,1.2,0.7,1–0,31305.0,Carlos del Cerro,2021-2022,422
+38.0,Sun,2022-05-22,22:00,Real Sociedad,Atlético Madrid,2.5,0.7,1–2,23586.0,Jesús Gil,2021-2022,423
