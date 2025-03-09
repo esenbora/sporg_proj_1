@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup as soup
+import json
 import requests
 import pandas as pd
 import time
@@ -47,7 +48,7 @@ def get_fixture_data(url, league, season):
     fixturedata.reset_index(drop=True).to_csv(f"data\\league-fixture\\{league.lower()}_{season.lower()}_fixture_data.csv",
                                               header=True, index=False, mode="w")
     print("Fixture data collected...")
-    time.sleep(3)
+    time.sleep(5)
 
 def get_match_links(url, league):
     print("Getting player data...")
@@ -137,7 +138,19 @@ def main():
 
 if __name__ == "__main__":
     try:
-        main()
+        # main()
+        print("ttry")
     except HTTPError:
         print("The website refused access, try again later")
         time.sleep(5)
+
+dict = {}
+# for csv in files:
+data = pd.read_csv("data\\league-fixture\\bundesliga_2017-2018_fixture_data.csv")
+dict[1] = data.to_json(orient="columns", indent=4)
+print(dict[1])
+
+with open('data\\league-fixture\\bundesliga_2017-2018_fixture_data.json', 'w') as fp:
+    fp.write(dict[1])
+
+

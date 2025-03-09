@@ -1,0 +1,5 @@
+Wk,Day,Date,Time,Home,Away,xG,xG.1,Score,Attendance,Referee,season,game_id
+1.0,Sat,2020-08-22,21:00,Lille,Rennes,0.4,1.6,1–1,3975.0,Clément Turpin,2020-2021,2
+2.0,Sun,2020-08-30,15:00,Metz,Monaco,0.7,0.2,0–1,4463.0,Jeremy Stinat,2020-2021,12
+4.0,Fri,2020-09-18,21:00,Lyon,Nîmes,1.4,0.7,0–0,4385.0,Amaury Delerue,2020-2021,34
+8.0,Sun,2020-10-25,15:00,Metz,Saint-Étienne,0.4,0.5,2–0,5000.0,Karim Abed,2020-2021,84

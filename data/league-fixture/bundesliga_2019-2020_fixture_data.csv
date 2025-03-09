@@ -1,0 +1,224 @@
+Wk,Day,Date,Time,Home,Away,xG,xG.1,Score,Attendance,Referee,season,game_id
+1.0,Fri,2019-08-16,20:30,Bayern Munich,Hertha BSC,2.5,1.1,2–2,75000.0,Harm Osmers,2019-2020,0
+1.0,Sat,2019-08-17,15:30,Wolfsburg,Köln,1.0,1.2,2–1,25099.0,Sven Jablonski,2019-2020,1
+1.0,Sat,2019-08-17,15:30,Freiburg,Mainz 05,2.3,1.0,3–0,24000.0,Robert Hartmann,2019-2020,2
+1.0,Sat,2019-08-17,15:30,Dortmund,Augsburg,3.2,0.9,5–1,81365.0,Frank Willenborg,2019-2020,3
+1.0,Sat,2019-08-17,15:30,Leverkusen,Paderborn 07,2.5,1.2,3–2,26208.0,Tobias Stieler,2019-2020,4
+1.0,Sat,2019-08-17,15:30,Werder Bremen,Düsseldorf,1.9,1.0,1–3,42100.0,Felix Zwayer,2019-2020,5
+1.0,Sat,2019-08-17,18:30,Gladbach,Schalke 04,1.5,0.8,0–0,54022.0,Felix Brych,2019-2020,6
+1.0,Sun,2019-08-18,15:30,Eint Frankfurt,Hoffenheim,1.8,0.8,1–0,50200.0,Daniel Siebert,2019-2020,7
+1.0,Sun,2019-08-18,18:00,Union Berlin,RB Leipzig,1.0,3.4,0–4,22467.0,Markus Schmidt,2019-2020,8
+2.0,Fri,2019-08-23,20:30,Köln,Dortmund,0.9,2.2,1–3,50000.0,Christian Dingert,2019-2020,10
+2.0,Sat,2019-08-24,15:30,Paderborn 07,Freiburg,2.3,2.3,1–3,14322.0,Tobias Welz,2019-2020,11
+2.0,Sat,2019-08-24,15:30,Düsseldorf,Leverkusen,1.0,1.6,1–3,44538.0,Patrick Ittrich,2019-2020,12
+2.0,Sat,2019-08-24,15:30,Hoffenheim,Werder Bremen,0.9,1.2,3–2,27333.0,Sascha Stegemann,2019-2020,13
+2.0,Sat,2019-08-24,15:30,Augsburg,Union Berlin,1.5,1.1,1–1,27703.0,Robert Schröder,2019-2020,14
+2.0,Sat,2019-08-24,15:30,Mainz 05,Gladbach,1.7,1.9,1–3,28005.0,Martin Petersen,2019-2020,15
+2.0,Sat,2019-08-24,18:30,Schalke 04,Bayern Munich,0.8,1.5,0–3,62271.0,Marco Fritz,2019-2020,16
+2.0,Sun,2019-08-25,15:30,RB Leipzig,Eint Frankfurt,1.4,1.0,2–1,40108.0,Benjamin Cortus,2019-2020,17
+2.0,Sun,2019-08-25,18:00,Hertha BSC,Wolfsburg,0.9,1.3,0–3,42738.0,Guido Winkmann,2019-2020,18
+3.0,Fri,2019-08-30,20:30,Gladbach,RB Leipzig,1.6,2.9,1–3,47327.0,Sven Jablonski,2019-2020,20
+3.0,Sat,2019-08-31,15:30,Wolfsburg,Paderborn 07,1.1,0.5,1–1,23750.0,Daniel Schlager,2019-2020,21
+3.0,Sat,2019-08-31,15:30,Schalke 04,Hertha BSC,1.3,0.8,3–0,58875.0,Tobias Stieler,2019-2020,22
+3.0,Sat,2019-08-31,15:30,Leverkusen,Hoffenheim,0.9,0.6,0–0,26506.0,Felix Zwayer,2019-2020,23
+3.0,Sat,2019-08-31,15:30,Freiburg,Köln,1.1,1.7,1–2,24000.0,Robert Kampka,2019-2020,24
+3.0,Sat,2019-08-31,15:30,Bayern Munich,Mainz 05,2.9,0.8,6–1,75000.0,Markus Schmidt,2019-2020,25
+3.0,Sat,2019-08-31,18:30,Union Berlin,Dortmund,1.4,1.7,3–1,22012.0,Felix Brych,2019-2020,26
+3.0,Sun,2019-09-01,15:30,Werder Bremen,Augsburg,2.3,1.4,3–2,40041.0,Sören Storks,2019-2020,27
+3.0,Sun,2019-09-01,18:00,Eint Frankfurt,Düsseldorf,1.7,0.9,2–1,49800.0,Frank Willenborg,2019-2020,28
+4.0,Fri,2019-09-13,20:30,Düsseldorf,Wolfsburg,0.7,2.1,1–1,36758.0,Manuel Gräfe,2019-2020,30
+4.0,Sat,2019-09-14,15:30,Mainz 05,Hertha BSC,1.2,2.2,2–1,22798.0,Marco Fritz,2019-2020,31
+4.0,Sat,2019-09-14,15:30,Köln,Gladbach,0.9,1.4,0–1,50000.0,Deniz Aytekin,2019-2020,32
+4.0,Sat,2019-09-14,15:30,Augsburg,Eint Frankfurt,1.3,1.1,2–1,28513.0,Harm Osmers,2019-2020,33
+4.0,Sat,2019-09-14,15:30,Dortmund,Leverkusen,2.9,0.9,4–0,81365.0,Daniel Siebert,2019-2020,34
+4.0,Sat,2019-09-14,15:30,Union Berlin,Werder Bremen,1.7,2.2,1–2,22012.0,Tobias Welz,2019-2020,35
+4.0,Sat,2019-09-14,18:30,RB Leipzig,Bayern Munich,1.5,1.4,1–1,42146.0,Sascha Stegemann,2019-2020,36
+4.0,Sun,2019-09-15,15:30,Hoffenheim,Freiburg,1.4,1.6,0–3,29395.0,Guido Winkmann,2019-2020,37
+4.0,Sun,2019-09-15,18:00,Paderborn 07,Schalke 04,0.9,2.2,1–5,15000.0,Robert Schröder,2019-2020,38
+5.0,Fri,2019-09-20,20:30,Schalke 04,Mainz 05,1.0,0.8,2–1,58687.0,Daniel Schlager,2019-2020,40
+5.0,Sat,2019-09-21,15:30,Freiburg,Augsburg,1.3,1.0,1–1,23800.0,Bastian Dankert,2019-2020,41
+5.0,Sat,2019-09-21,15:30,Bayern Munich,Köln,2.7,1.2,4–0,75000.0,Patrick Ittrich,2019-2020,42
+5.0,Sat,2019-09-21,15:30,Leverkusen,Union Berlin,1.4,0.2,2–0,27430.0,Robert Hartmann,2019-2020,43
+5.0,Sat,2019-09-21,15:30,Hertha BSC,Paderborn 07,1.2,1.9,2–1,43588.0,Frank Willenborg,2019-2020,44
+5.0,Sat,2019-09-21,18:30,Werder Bremen,RB Leipzig,0.7,1.5,0–3,40550.0,Tobias Stieler,2019-2020,45
+5.0,Sun,2019-09-22,15:30,Gladbach,Düsseldorf,3.5,1.2,2–1,52413.0,Christian Dingert,2019-2020,46
+5.0,Sun,2019-09-22,18:00,Eint Frankfurt,Dortmund,1.3,1.9,2–2,51500.0,Markus Schmidt,2019-2020,47
+5.0,Mon,2019-09-23,20:30,Wolfsburg,Hoffenheim,0.9,0.7,1–1,21120.0,Benjamin Cortus,2019-2020,48
+6.0,Fri,2019-09-27,20:30,Union Berlin,Eint Frankfurt,0.9,2.0,1–2,22012.0,Sascha Stegemann,2019-2020,50
+6.0,Sat,2019-09-28,15:30,Augsburg,Leverkusen,0.3,0.9,0–3,27113.0,Robert Kampka,2019-2020,51
+6.0,Sat,2019-09-28,15:30,Mainz 05,Wolfsburg,1.3,0.8,0–1,24303.0,Felix Brych,2019-2020,52
+6.0,Sat,2019-09-28,15:30,Hoffenheim,Gladbach,1.3,2.8,0–3,29030.0,Harm Osmers,2019-2020,53
+6.0,Sat,2019-09-28,15:30,Paderborn 07,Bayern Munich,0.3,3.1,2–3,15000.0,Felix Zwayer,2019-2020,54
+6.0,Sat,2019-09-28,15:30,RB Leipzig,Schalke 04,1.3,3.2,1–3,42146.0,Manuel Gräfe,2019-2020,55
+6.0,Sat,2019-09-28,18:30,Dortmund,Werder Bremen,1.5,0.8,2–2,81365.0,Deniz Aytekin,2019-2020,56
+6.0,Sun,2019-09-29,15:30,Düsseldorf,Freiburg,1.5,1.7,1–2,39244.0,Daniel Siebert,2019-2020,57
+6.0,Sun,2019-09-29,18:00,Köln,Hertha BSC,0.8,1.8,0–4,49700.0,Sören Storks,2019-2020,58
+7.0,Fri,2019-10-04,20:30,Hertha BSC,Düsseldorf,2.0,1.3,3–1,37128.0,Martin Petersen,2019-2020,60
+7.0,Sat,2019-10-05,15:30,Paderborn 07,Mainz 05,1.6,2.9,1–2,14217.0,Patrick Ittrich,2019-2020,61
+7.0,Sat,2019-10-05,15:30,Freiburg,Dortmund,0.3,0.8,2–2,24000.0,Sven Jablonski,2019-2020,62
+7.0,Sat,2019-10-05,15:30,Bayern Munich,Hoffenheim,2.1,0.8,1–2,75000.0,Tobias Stieler,2019-2020,63
+7.0,Sat,2019-10-05,15:30,Leverkusen,RB Leipzig,1.8,2.7,1–1,26355.0,Marco Fritz,2019-2020,64
+7.0,Sat,2019-10-05,18:30,Schalke 04,Köln,1.6,0.9,1–1,61883.0,Tobias Welz,2019-2020,65
+7.0,Sun,2019-10-06,13:30,Gladbach,Augsburg,3.0,1.4,5–1,50352.0,Robert Schröder,2019-2020,66
+7.0,Sun,2019-10-06,15:30,Wolfsburg,Union Berlin,1.8,0.7,1–0,27012.0,Bastian Dankert,2019-2020,67
+7.0,Sun,2019-10-06,18:00,Eint Frankfurt,Werder Bremen,2.9,1.8,2–2,51500.0,Guido Winkmann,2019-2020,68
+8.0,Fri,2019-10-18,20:30,Eint Frankfurt,Leverkusen,2.7,1.7,3–0,50800.0,Christian Dingert,2019-2020,70
+8.0,Sat,2019-10-19,15:30,Werder Bremen,Hertha BSC,0.9,0.5,1–1,41447.0,Felix Brych,2019-2020,71
+8.0,Sat,2019-10-19,15:30,RB Leipzig,Wolfsburg,1.2,1.3,1–1,39182.0,Deniz Aytekin,2019-2020,72
+8.0,Sat,2019-10-19,15:30,Augsburg,Bayern Munich,2.3,3.1,2–2,30660.0,Daniel Siebert,2019-2020,73
+8.0,Sat,2019-10-19,15:30,Düsseldorf,Mainz 05,1.6,0.3,1–0,40660.0,Felix Zwayer,2019-2020,74
+8.0,Sat,2019-10-19,15:30,Union Berlin,Freiburg,1.5,0.7,2–0,22012.0,Benjamin Cortus,2019-2020,75
+8.0,Sat,2019-10-19,18:30,Dortmund,Gladbach,1.5,2.6,1–0,81365.0,Sascha Stegemann,2019-2020,76
+8.0,Sun,2019-10-20,15:30,Köln,Paderborn 07,2.4,0.4,3–0,50000.0,Manuel Gräfe,2019-2020,77
+8.0,Sun,2019-10-20,18:00,Hoffenheim,Schalke 04,0.9,0.8,2–0,29477.0,Robert Hartmann,2019-2020,78
+9.0,Fri,2019-10-25,20:30,Mainz 05,Köln,1.8,1.3,3–1,31999.0,Frank Willenborg,2019-2020,80
+9.0,Sat,2019-10-26,15:30,Paderborn 07,Düsseldorf,0.8,1.4,2–0,14182.0,Bastian Dankert,2019-2020,81
+9.0,Sat,2019-10-26,15:30,Freiburg,RB Leipzig,2.1,2.5,2–1,24000.0,Harm Osmers,2019-2020,82
+9.0,Sat,2019-10-26,15:30,Bayern Munich,Union Berlin,2.7,1.7,2–1,75000.0,Marco Fritz,2019-2020,83
+9.0,Sat,2019-10-26,15:30,Hertha BSC,Hoffenheim,2.5,2.2,2–3,44702.0,Markus Schmidt,2019-2020,84
+9.0,Sat,2019-10-26,15:30,Schalke 04,Dortmund,1.1,0.3,0–0,61873.0,Felix Brych,2019-2020,85
+9.0,Sat,2019-10-26,18:30,Leverkusen,Werder Bremen,2.9,0.9,2–2,30210.0,Martin Petersen,2019-2020,86
+9.0,Sun,2019-10-27,15:30,Wolfsburg,Augsburg,1.1,1.0,0–0,22630.0,Tobias Stieler,2019-2020,87
+9.0,Sun,2019-10-27,18:00,Gladbach,Eint Frankfurt,1.7,1.2,4–2,52300.0,Daniel Schlager,2019-2020,88
+10.0,Fri,2019-11-01,20:30,Hoffenheim,Paderborn 07,2.1,0.6,3–0,23629.0,Robert Schröder,2019-2020,90
+10.0,Sat,2019-11-02,15:30,Dortmund,Wolfsburg,2.2,1.5,3–0,80200.0,Tobias Welz,2019-2020,91
+10.0,Sat,2019-11-02,15:30,Leverkusen,Gladbach,2.3,2.6,1–2,30210.0,Daniel Siebert,2019-2020,92
+10.0,Sat,2019-11-02,15:30,Eint Frankfurt,Bayern Munich,3.3,1.7,5–1,51500.0,Markus Schmidt,2019-2020,93
+10.0,Sat,2019-11-02,15:30,Werder Bremen,Freiburg,1.5,1.2,2–2,41000.0,Christian Dingert,2019-2020,94
+10.0,Sat,2019-11-02,15:30,RB Leipzig,Mainz 05,3.3,0.6,8–0,38517.0,Guido Winkmann,2019-2020,95
+10.0,Sat,2019-11-02,18:30,Union Berlin,Hertha BSC,1.6,0.4,1–0,22012.0,Deniz Aytekin,2019-2020,96
+10.0,Sun,2019-11-03,15:30,Düsseldorf,Köln,2.0,1.3,2–0,51155.0,Sven Jablonski,2019-2020,97
+10.0,Sun,2019-11-03,18:00,Augsburg,Schalke 04,1.6,0.5,2–3,30361.0,Patrick Ittrich,2019-2020,98
+11.0,Fri,2019-11-08,20:30,Köln,Hoffenheim,0.9,2.1,1–2,49100.0,Robert Kampka,2019-2020,100
+11.0,Sat,2019-11-09,15:30,Mainz 05,Union Berlin,2.3,1.1,2–3,24349.0,Harm Osmers,2019-2020,101
+11.0,Sat,2019-11-09,15:30,Hertha BSC,RB Leipzig,0.6,2.0,2–4,48532.0,Sören Storks,2019-2020,102
+11.0,Sat,2019-11-09,15:30,Paderborn 07,Augsburg,1.2,1.0,0–1,13758.0,Marco Fritz,2019-2020,103
+11.0,Sat,2019-11-09,15:30,Schalke 04,Düsseldorf,1.3,2.1,3–3,61831.0,Robert Hartmann,2019-2020,104
+11.0,Sat,2019-11-09,18:30,Bayern Munich,Dortmund,3.7,0.7,4–0,75000.0,Felix Zwayer,2019-2020,105
+11.0,Sun,2019-11-10,13:30,Gladbach,Werder Bremen,1.9,1.7,3–1,54022.0,Tobias Stieler,2019-2020,106
+11.0,Sun,2019-11-10,15:30,Wolfsburg,Leverkusen,0.9,1.0,0–2,24112.0,Manuel Gräfe,2019-2020,107
+11.0,Sun,2019-11-10,18:00,Freiburg,Eint Frankfurt,0.9,1.4,1–0,24000.0,Felix Brych,2019-2020,108
+12.0,Fri,2019-11-22,20:30,Dortmund,Paderborn 07,1.8,2.1,3–3,81365.0,Christian Dingert,2019-2020,110
+12.0,Sat,2019-11-23,15:30,Düsseldorf,Bayern Munich,0.7,3.7,0–4,53000.0,Frank Willenborg,2019-2020,111
+12.0,Sat,2019-11-23,15:30,Union Berlin,Gladbach,1.8,1.2,2–0,22012.0,Felix Brych,2019-2020,112
+12.0,Sat,2019-11-23,15:30,Leverkusen,Freiburg,4.1,1.1,1–1,29032.0,Deniz Aytekin,2019-2020,113
+12.0,Sat,2019-11-23,15:30,Eint Frankfurt,Wolfsburg,0.9,1.3,0–2,50700.0,Daniel Siebert,2019-2020,114
+12.0,Sat,2019-11-23,15:30,Werder Bremen,Schalke 04,2.0,0.7,1–2,42100.0,Benjamin Cortus,2019-2020,115
+12.0,Sat,2019-11-23,18:30,RB Leipzig,Köln,2.3,0.6,4–1,42036.0,Robert Schröder,2019-2020,116
+12.0,Sun,2019-11-24,15:30,Augsburg,Hertha BSC,1.9,0.5,4–0,29233.0,Sascha Stegemann,2019-2020,117
+12.0,Sun,2019-11-24,18:00,Hoffenheim,Mainz 05,2.0,2.5,1–5,23129.0,Bastian Dankert,2019-2020,118
+13.0,Fri,2019-11-29,20:30,Schalke 04,Union Berlin,1.5,1.6,2–1,61837.0,Daniel Schlager,2019-2020,120
+13.0,Sat,2019-11-30,15:30,Hoffenheim,Düsseldorf,2.1,0.9,1–1,25427.0,Martin Petersen,2019-2020,121
+13.0,Sat,2019-11-30,15:30,Köln,Augsburg,1.2,2.1,1–1,49200.0,Tobias Stieler,2019-2020,122
+13.0,Sat,2019-11-30,15:30,Hertha BSC,Dortmund,1.0,1.2,1–2,74667.0,Sven Jablonski,2019-2020,123
+13.0,Sat,2019-11-30,15:30,Paderborn 07,RB Leipzig,1.6,1.8,2–3,13253.0,Bibiana Steinhaus,2019-2020,124
+13.0,Sat,2019-11-30,18:30,Bayern Munich,Leverkusen,2.8,1.3,1–2,75000.0,Guido Winkmann,2019-2020,125
+13.0,Sun,2019-12-01,15:30,Gladbach,Freiburg,5.0,1.5,4–2,51080.0,Felix Zwayer,2019-2020,126
+13.0,Sun,2019-12-01,18:00,Wolfsburg,Werder Bremen,2.2,1.3,2–3,26012.0,Robert Kampka,2019-2020,127
+13.0,Mon,2019-12-02,20:30,Mainz 05,Eint Frankfurt,1.9,2.0,2–1,33134.0,Manuel Gräfe,2019-2020,128
+14.0,Fri,2019-12-06,20:30,Eint Frankfurt,Hertha BSC,2.2,1.3,2–2,50000.0,Christian Dingert,2019-2020,130
+14.0,Sat,2019-12-07,15:30,RB Leipzig,Hoffenheim,3.6,1.5,3–1,38407.0,Deniz Aytekin,2019-2020,131
+14.0,Sat,2019-12-07,15:30,Augsburg,Mainz 05,3.2,0.5,2–1,26950.0,Markus Schmidt,2019-2020,132
+14.0,Sat,2019-12-07,15:30,Dortmund,Düsseldorf,3.7,0.1,5–0,81365.0,Daniel Siebert,2019-2020,133
+14.0,Sat,2019-12-07,15:30,Gladbach,Bayern Munich,1.2,1.5,2–1,54022.0,Marco Fritz,2019-2020,134
+14.0,Sat,2019-12-07,15:30,Freiburg,Wolfsburg,0.5,1.6,1–0,23800.0,Bastian Dankert,2019-2020,135
+14.0,Sat,2019-12-07,18:30,Leverkusen,Schalke 04,2.8,1.1,2–1,30210.0,Harm Osmers,2019-2020,136
+14.0,Sun,2019-12-08,15:30,Union Berlin,Köln,1.9,1.2,2–0,22012.0,Patrick Ittrich,2019-2020,137
+14.0,Sun,2019-12-08,18:00,Werder Bremen,Paderborn 07,1.0,1.4,0–1,39870.0,Sascha Stegemann,2019-2020,138
+15.0,Fri,2019-12-13,20:30,Hoffenheim,Augsburg,2.1,2.4,2–4,23309.0,Bibiana Steinhaus,2019-2020,140
+15.0,Sat,2019-12-14,15:30,Hertha BSC,Freiburg,1.0,0.9,1–0,37343.0,Frank Willenborg,2019-2020,141
+15.0,Sat,2019-12-14,15:30,Bayern Munich,Werder Bremen,5.5,0.6,6–1,75000.0,Robert Schröder,2019-2020,142
+15.0,Sat,2019-12-14,15:30,Paderborn 07,Union Berlin,1.4,1.9,1–1,14414.0,Sven Jablonski,2019-2020,143
+15.0,Sat,2019-12-14,15:30,Mainz 05,Dortmund,0.3,1.4,0–4,33305.0,Benjamin Cortus,2019-2020,144
+15.0,Sat,2019-12-14,15:30,Köln,Leverkusen,1.7,0.2,2–0,49500.0,Manuel Gräfe,2019-2020,145
+15.0,Sat,2019-12-14,18:30,Düsseldorf,RB Leipzig,0.2,3.6,0–3,35387.0,Robert Hartmann,2019-2020,146
+15.0,Sun,2019-12-15,15:30,Wolfsburg,Gladbach,1.3,0.8,2–1,25580.0,Felix Brych,2019-2020,147
+15.0,Sun,2019-12-15,18:00,Schalke 04,Eint Frankfurt,1.0,0.9,1–0,60811.0,Felix Zwayer,2019-2020,148
+16.0,Tue,2019-12-17,18:30,Werder Bremen,Mainz 05,1.0,2.0,0–5,37720.0,Frank Willenborg,2019-2020,150
+16.0,Tue,2019-12-17,20:30,Dortmund,RB Leipzig,1.8,2.2,3–3,80200.0,Tobias Stieler,2019-2020,151
+16.0,Tue,2019-12-17,20:30,Union Berlin,Hoffenheim,1.5,0.8,0–2,20350.0,Sören Storks,2019-2020,152
+16.0,Tue,2019-12-17,20:30,Augsburg,Düsseldorf,1.4,0.6,3–0,27763.0,Marco Fritz,2019-2020,153
+16.0,Wed,2019-12-18,18:30,Leverkusen,Hertha BSC,1.0,1.5,0–1,24472.0,Bastian Dankert,2019-2020,154
+16.0,Wed,2019-12-18,20:30,Eint Frankfurt,Köln,1.4,1.9,2–4,50300.0,Deniz Aytekin,2019-2020,155
+16.0,Wed,2019-12-18,20:30,Freiburg,Bayern Munich,2.1,4.3,1–3,24000.0,Sascha Stegemann,2019-2020,156
+16.0,Wed,2019-12-18,20:30,Gladbach,Paderborn 07,2.8,0.6,2–0,44494.0,Robert Kampka,2019-2020,157
+16.0,Wed,2019-12-18,20:30,Wolfsburg,Schalke 04,3.0,1.6,1–1,24651.0,Martin Petersen,2019-2020,158
+17.0,Fri,2019-12-20,20:30,Hoffenheim,Dortmund,1.3,2.2,2–1,30150.0,Felix Zwayer,2019-2020,160
+17.0,Sat,2019-12-21,15:30,Mainz 05,Leverkusen,2.4,1.3,0–1,24345.0,Patrick Ittrich,2019-2020,161
+17.0,Sat,2019-12-21,15:30,Köln,Werder Bremen,0.8,0.3,1–0,50000.0,Daniel Schlager,2019-2020,162
+17.0,Sat,2019-12-21,15:30,RB Leipzig,Augsburg,3.8,0.7,3–1,40562.0,Daniel Siebert,2019-2020,163
+17.0,Sat,2019-12-21,15:30,Schalke 04,Freiburg,2.0,3.0,2–2,61867.0,Felix Brych,2019-2020,164
+17.0,Sat,2019-12-21,15:30,Bayern Munich,Wolfsburg,1.5,0.9,2–0,75000.0,Christian Dingert,2019-2020,165
+17.0,Sat,2019-12-21,18:30,Hertha BSC,Gladbach,0.9,1.0,0–0,50208.0,Harm Osmers,2019-2020,166
+17.0,Sun,2019-12-22,15:30,Düsseldorf,Union Berlin,1.3,2.2,2–1,45490.0,Benjamin Cortus,2019-2020,167
+17.0,Sun,2019-12-22,18:00,Paderborn 07,Eint Frankfurt,1.9,1.9,2–1,15000.0,Markus Schmidt,2019-2020,168
+18.0,Fri,2020-01-17,20:30,Schalke 04,Gladbach,2.1,1.0,2–0,62271.0,Deniz Aytekin,2019-2020,170
+18.0,Sat,2020-01-18,15:30,Düsseldorf,Werder Bremen,1.1,0.7,0–1,46000.0,Felix Brych,2019-2020,171
+18.0,Sat,2020-01-18,15:30,Augsburg,Dortmund,1.8,3.7,3–5,30660.0,Manuel Gräfe,2019-2020,172
+18.0,Sat,2020-01-18,15:30,Mainz 05,Freiburg,1.8,1.7,1–2,23138.0,Sven Jablonski,2019-2020,173
+18.0,Sat,2020-01-18,15:30,Hoffenheim,Eint Frankfurt,1.0,2.0,1–2,29610.0,Sascha Stegemann,2019-2020,174
+18.0,Sat,2020-01-18,15:30,Köln,Wolfsburg,1.1,1.8,3–1,49100.0,Marco Fritz,2019-2020,175
+18.0,Sat,2020-01-18,18:30,RB Leipzig,Union Berlin,1.7,0.9,3–1,42146.0,Bastian Dankert,2019-2020,176
+18.0,Sun,2020-01-19,15:30,Hertha BSC,Bayern Munich,1.0,3.3,0–4,74667.0,Tobias Stieler,2019-2020,177
+18.0,Sun,2020-01-19,18:00,Paderborn 07,Leverkusen,1.5,1.7,1–4,14889.0,Daniel Siebert,2019-2020,178
+19.0,Fri,2020-01-24,20:30,Dortmund,Köln,2.8,1.1,5–1,81365.0,Harm Osmers,2019-2020,180
+19.0,Sat,2020-01-25,15:30,Freiburg,Paderborn 07,1.8,1.9,0–2,23500.0,Christian Dingert,2019-2020,181
+19.0,Sat,2020-01-25,15:30,Wolfsburg,Hertha BSC,1.4,1.7,1–2,24894.0,Markus Schmidt,2019-2020,182
+19.0,Sat,2020-01-25,15:30,Eint Frankfurt,RB Leipzig,1.2,1.6,2–0,50300.0,Daniel Siebert,2019-2020,183
+19.0,Sat,2020-01-25,15:30,Gladbach,Mainz 05,2.6,1.0,3–1,49175.0,Felix Zwayer,2019-2020,184
+19.0,Sat,2020-01-25,15:30,Union Berlin,Augsburg,0.8,1.6,2–0,22012.0,Bibiana Steinhaus,2019-2020,185
+19.0,Sat,2020-01-25,18:30,Bayern Munich,Schalke 04,3.7,0.4,5–0,75000.0,Manuel Gräfe,2019-2020,186
+19.0,Sun,2020-01-26,15:30,Werder Bremen,Hoffenheim,0.8,1.5,0–3,40000.0,Martin Petersen,2019-2020,187
+19.0,Sun,2020-01-26,18:00,Leverkusen,Düsseldorf,3.8,0.9,3–0,26250.0,Daniel Schlager,2019-2020,188
+20.0,Fri,2020-01-31,20:30,Hertha BSC,Schalke 04,0.5,1.1,0–0,47863.0,Sascha Stegemann,2019-2020,190
+20.0,Sat,2020-02-01,15:30,Augsburg,Werder Bremen,1.2,0.7,2–1,29432.0,Marco Fritz,2019-2020,191
+20.0,Sat,2020-02-01,15:30,Dortmund,Union Berlin,2.9,0.4,5–0,81365.0,Benjamin Cortus,2019-2020,192
+20.0,Sat,2020-02-01,15:30,Düsseldorf,Eint Frankfurt,0.4,1.1,1–1,45018.0,Frank Willenborg,2019-2020,193
+20.0,Sat,2020-02-01,15:30,Mainz 05,Bayern Munich,0.4,2.0,1–3,33305.0,Bastian Dankert,2019-2020,194
+20.0,Sat,2020-02-01,15:30,Hoffenheim,Leverkusen,2.6,3.0,2–1,24489.0,Deniz Aytekin,2019-2020,195
+20.0,Sat,2020-02-01,18:30,RB Leipzig,Gladbach,1.5,0.9,2–2,42146.0,Tobias Stieler,2019-2020,196
+20.0,Sun,2020-02-02,15:30,Köln,Freiburg,3.7,0.8,4–0,50000.0,Robert Kampka,2019-2020,197
+20.0,Sun,2020-02-02,18:00,Paderborn 07,Wolfsburg,0.9,1.5,2–4,13926.0,Patrick Ittrich,2019-2020,198
+21.0,Fri,2020-02-07,20:30,Eint Frankfurt,Augsburg,1.9,0.7,5–0,48800.0,Manuel Gräfe,2019-2020,200
+21.0,Sat,2020-02-08,15:30,Hertha BSC,Mainz 05,0.7,2.8,1–3,35049.0,Martin Petersen,2019-2020,201
+21.0,Sat,2020-02-08,15:30,Schalke 04,Paderborn 07,1.2,0.7,1–1,61614.0,Felix Brych,2019-2020,202
+21.0,Sat,2020-02-08,15:30,Wolfsburg,Düsseldorf,1.2,0.7,1–1,23445.0,Tobias Stieler,2019-2020,203
+21.0,Sat,2020-02-08,15:30,Werder Bremen,Union Berlin,1.0,2.3,0–2,42100.0,Daniel Schlager,2019-2020,204
+21.0,Sat,2020-02-08,15:30,Freiburg,Hoffenheim,2.0,1.7,1–0,24000.0,Sven Jablonski,2019-2020,205
+21.0,Sat,2020-02-08,18:30,Leverkusen,Dortmund,1.3,0.9,4–3,30210.0,Markus Schmidt,2019-2020,206
+21.0,Sun,2020-02-09,18:00,Bayern Munich,RB Leipzig,1.3,1.5,0–0,75000.0,Marco Fritz,2019-2020,207
+22.0,Fri,2020-02-14,20:30,Dortmund,Eint Frankfurt,1.7,0.0,4–0,81365.0,Bastian Dankert,2019-2020,209
+22.0,Sat,2020-02-15,15:30,Union Berlin,Leverkusen,2.0,1.7,2–3,22012.0,Harm Osmers,2019-2020,210
+22.0,Sat,2020-02-15,15:30,Hoffenheim,Wolfsburg,3.3,3.5,2–3,22506.0,Sören Storks,2019-2020,211
+22.0,Sat,2020-02-15,15:30,Paderborn 07,Hertha BSC,1.2,1.9,1–2,14687.0,Bibiana Steinhaus,2019-2020,212
+22.0,Sat,2020-02-15,15:30,RB Leipzig,Werder Bremen,2.1,0.3,3–0,41308.0,Benjamin Cortus,2019-2020,213
+22.0,Sat,2020-02-15,15:30,Augsburg,Freiburg,0.7,1.3,1–1,26822.0,Patrick Ittrich,2019-2020,214
+22.0,Sat,2020-02-15,18:30,Düsseldorf,Gladbach,0.8,3.0,1–4,51000.0,Daniel Siebert,2019-2020,215
+22.0,Sun,2020-02-16,15:30,Köln,Bayern Munich,2.5,2.6,1–4,50000.0,Felix Zwayer,2019-2020,216
+22.0,Sun,2020-02-16,18:00,Mainz 05,Schalke 04,1.5,0.7,0–0,27482.0,Guido Winkmann,2019-2020,217
+23.0,Fri,2020-02-21,20:30,Bayern Munich,Paderborn 07,3.1,1.7,3–2,75000.0,Markus Schmidt,2019-2020,219
+23.0,Sat,2020-02-22,15:30,Hertha BSC,Köln,0.6,2.4,0–5,46207.0,Daniel Schlager,2019-2020,220
+23.0,Sat,2020-02-22,15:30,Freiburg,Düsseldorf,1.1,0.9,0–2,24000.0,Frank Willenborg,2019-2020,221
+23.0,Sat,2020-02-22,15:30,Gladbach,Hoffenheim,2.3,1.6,1–1,50250.0,Felix Brych,2019-2020,222
+23.0,Sat,2020-02-22,15:30,Werder Bremen,Dortmund,0.3,1.5,0–2,42100.0,Marco Fritz,2019-2020,223
+23.0,Sat,2020-02-22,18:30,Schalke 04,RB Leipzig,0.2,2.5,0–5,61433.0,Sascha Stegemann,2019-2020,224
+23.0,Sun,2020-02-23,15:30,Leverkusen,Augsburg,1.1,0.7,2–0,23703.0,Sven Jablonski,2019-2020,225
+23.0,Sun,2020-02-23,18:00,Wolfsburg,Mainz 05,2.8,1.1,4–0,21058.0,Benjamin Cortus,2019-2020,226
+23.0,Mon,2020-02-24,20:30,Eint Frankfurt,Union Berlin,2.6,1.1,1–2,47000.0,Deniz Aytekin,2019-2020,227
+24.0,Fri,2020-02-28,20:30,Düsseldorf,Hertha BSC,1.4,2.7,3–3,31632.0,Tobias Stieler,2019-2020,229
+24.0,Sat,2020-02-29,15:30,Dortmund,Freiburg,1.3,0.9,1–0,81365.0,Robert Hartmann,2019-2020,230
+24.0,Sat,2020-02-29,15:30,Mainz 05,Paderborn 07,0.9,0.7,2–0,24231.0,Harm Osmers,2019-2020,231
+24.0,Sat,2020-02-29,15:30,Augsburg,Gladbach,0.8,3.0,2–3,29303.0,Markus Schmidt,2019-2020,232
+24.0,Sat,2020-02-29,15:30,Hoffenheim,Bayern Munich,0.3,4.2,0–6,30150.0,Christian Dingert,2019-2020,233
+24.0,Sat,2020-02-29,18:30,Köln,Schalke 04,1.3,0.8,3–0,50000.0,Manuel Gräfe,2019-2020,234
+24.0,Sun,2020-03-01,13:30,Union Berlin,Wolfsburg,0.7,1.9,2–2,22012.0,Bastian Dankert,2019-2020,235
+24.0,Sun,2020-03-01,15:30,RB Leipzig,Leverkusen,0.8,1.3,1–1,41216.0,Felix Zwayer,2019-2020,236
+25.0,Fri,2020-03-06,20:00,Paderborn 07,Köln,0.7,2.5,1–2,15000.0,Daniel Siebert,2019-2020,238
+25.0,Sat,2020-03-07,15:30,Wolfsburg,RB Leipzig,0.7,1.2,0–0,27195.0,Daniel Schlager,2019-2020,239
+25.0,Sat,2020-03-07,15:30,Freiburg,Union Berlin,1.4,0.7,3–1,24000.0,Marco Fritz,2019-2020,240
+25.0,Sat,2020-03-07,15:30,Leverkusen,Eint Frankfurt,2.4,0.8,4–0,30210.0,Felix Brych,2019-2020,241
+25.0,Sat,2020-03-07,15:30,Schalke 04,Hoffenheim,1.1,0.6,1–1,58324.0,Sven Jablonski,2019-2020,242
+25.0,Sat,2020-03-07,15:30,Hertha BSC,Werder Bremen,1.0,1.1,2–2,58028.0,Guido Winkmann,2019-2020,243
+25.0,Sat,2020-03-07,18:30,Gladbach,Dortmund,2.4,1.2,1–2,53877.0,Sascha Stegemann,2019-2020,244
+25.0,Sun,2020-03-08,15:30,Bayern Munich,Augsburg,3.5,0.7,2–0,75000.0,Bibiana Steinhaus,2019-2020,245
+25.0,Sun,2020-03-08,18:00,Mainz 05,Düsseldorf,0.9,2.0,1–1,21409.0,Harm Osmers,2019-2020,246

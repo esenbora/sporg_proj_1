@@ -1,0 +1,150 @@
+Wk,Day,Date,Time,Home,Away,xG,xG.1,Score,Attendance,Referee,season,game_id
+1.0,Sun,2024-08-18,17:00,Toulouse,Nantes,1.7,0.5,0–0,25491.0,Jeremy Stinat,2024-2025,6
+2.0,Sun,2024-08-25,17:00,Nantes,Auxerre,1.4,1.1,2–0,31077.0,Gaël Angoula,2024-2025,16
+3.0,Fri,2024-08-30,20:45,Lyon,Strasbourg,2.9,2.7,4–3,43805.0,Thomas Léonard,2024-2025,20
+3.0,Sat,2024-08-31,17:00,Brest,Saint-Étienne,3.1,0.2,4–0,14885.0,Gaël Angoula,2024-2025,21
+3.0,Sat,2024-08-31,19:00,Montpellier,Nantes,0.9,1.5,1–3,13000.0,Benoît Millot,2024-2025,22
+3.0,Sat,2024-08-31,21:00,Toulouse,Marseille,1.0,0.8,1–3,19178.0,Stéphanie Frappart,2024-2025,23
+3.0,Sun,2024-09-01,15:00,Monaco,Lens,1.0,2.2,1–1,9030.0,Willy Delajod,2024-2025,24
+3.0,Sun,2024-09-01,17:00,Le Havre,Auxerre,2.8,0.6,3–1,19715.0,Marc Bollengier,2024-2025,25
+3.0,Sun,2024-09-01,17:00,Reims,Rennes,1.4,0.8,2–1,12856.0,Mathieu Vernice,2024-2025,26
+3.0,Sun,2024-09-01,17:00,Angers,Nice,1.4,2.2,1–4,9168.0,Jeremy Stinat,2024-2025,27
+3.0,Sun,2024-09-01,20:45,Lille,Paris S-G,1.4,2.6,1–3,45434.0,Benoît Bastien,2024-2025,28
+4.0,Fri,2024-09-13,20:45,Saint-Étienne,Lille,1.2,1.2,1–0,23000.0,François Letexier,2024-2025,30
+4.0,Sat,2024-09-14,17:00,Marseille,Nice,0.7,1.9,2–0,65803.0,Benoît Millot,2024-2025,31
+4.0,Sat,2024-09-14,19:00,Auxerre,Monaco,0.6,3.4,0–3,17045.0,Abdelatif Kherradji,2024-2025,32
+4.0,Sat,2024-09-14,21:00,Paris S-G,Brest,2.8,1.0,3–1,47000.0,Clément Turpin,2024-2025,33
+4.0,Sun,2024-09-15,15:00,Rennes,Montpellier,1.3,0.3,3–0,27451.0,Jérémie Pignard,2024-2025,34
+4.0,Sun,2024-09-15,17:00,Strasbourg,Angers,2.3,0.9,1–1,19135.0,Hakim Ben El Hadj Salem,2024-2025,35
+4.0,Sun,2024-09-15,17:00,Nantes,Reims,1.5,0.5,1–2,29811.0,Willy Delajod,2024-2025,36
+4.0,Sun,2024-09-15,17:00,Toulouse,Le Havre,1.3,0.2,2–0,30097.0,Eric Wattellier,2024-2025,37
+4.0,Sun,2024-09-15,20:45,Lens,Lyon,1.0,0.6,0–0,38116.0,Bastien Dechepy,2024-2025,38
+5.0,Fri,2024-09-20,20:45,Nice,Saint-Étienne,4.7,0.3,8–0,30024.0,Thomas Léonard,2024-2025,40
+5.0,Sat,2024-09-21,17:00,Lille,Strasbourg,2.6,3.2,3–3,39516.0,Jérôme Brisard,2024-2025,41
+5.0,Sat,2024-09-21,19:00,Rennes,Lens,1.4,0.6,1–1,28500.0,Jeremy Stinat,2024-2025,42
+5.0,Sat,2024-09-21,21:00,Reims,Paris S-G,0.3,1.6,1–1,20220.0,Jérémie Pignard,2024-2025,43
+5.0,Sun,2024-09-22,15:00,Monaco,Le Havre,1.9,0.6,3–1,6000.0,Stéphanie Frappart,2024-2025,44
+5.0,Sun,2024-09-22,17:00,Angers,Nantes,0.9,0.6,1–1,16960.0,Mathieu Vernice,2024-2025,45
+5.0,Sun,2024-09-22,17:00,Brest,Toulouse,0.5,2.7,2–0,14580.0,Florent Batta,2024-2025,46
+5.0,Sun,2024-09-22,17:00,Montpellier,Auxerre,2.0,1.2,3–2,11643.0,Hakim Ben El Hadj Salem,2024-2025,47
+5.0,Sun,2024-09-22,20:45,Lyon,Marseille,3.0,0.8,2–3,53928.0,Benoît Bastien,2024-2025,48
+6.0,Fri,2024-09-27,19:00,Auxerre,Brest,2.5,0.8,3–0,15381.0,Jeremy Stinat,2024-2025,50
+6.0,Fri,2024-09-27,21:00,Paris S-G,Rennes,3.0,1.4,3–1,47000.0,Hakim Ben El Hadj Salem,2024-2025,51
+6.0,Sat,2024-09-28,17:00,Lens,Nice,1.9,1.1,0–0,37301.0,François Letexier,2024-2025,52
+6.0,Sat,2024-09-28,19:00,Le Havre,Lille,0.4,3.1,0–3,21369.0,Bastien Dechepy,2024-2025,53
+6.0,Sat,2024-09-28,21:00,Monaco,Montpellier,3.2,0.9,2–1,13065.0,Marc Bollengier,2024-2025,54
+6.0,Sun,2024-09-29,15:00,Toulouse,Lyon,0.9,0.4,1–2,30026.0,Gaël Angoula,2024-2025,55
+6.0,Sun,2024-09-29,17:00,Angers,Reims,1.1,2.9,1–3,8526.0,Eric Wattellier,2024-2025,56
+6.0,Sun,2024-09-29,17:00,Nantes,Saint-Étienne,1.8,1.0,2–2,34005.0,Abdelatif Kherradji,2024-2025,57
+6.0,Sun,2024-09-29,20:45,Strasbourg,Marseille,1.3,0.5,1–0,19790.0,Willy Delajod,2024-2025,58
+7.0,Fri,2024-10-04,20:45,Marseille,Angers,0.9,0.8,1–1,54568.0,Romain Lissorgue,2024-2025,60
+7.0,Sat,2024-10-05,17:00,Saint-Étienne,Auxerre,2.7,0.8,3–1,31445.0,Mathieu Vernice,2024-2025,61
+7.0,Sat,2024-10-05,19:00,Lille,Toulouse,1.6,1.1,2–1,36947.0,Clément Turpin,2024-2025,62
+7.0,Sat,2024-10-05,21:00,Rennes,Monaco,0.7,0.6,1–2,26533.0,Thomas Léonard,2024-2025,63
+7.0,Sun,2024-10-06,15:00,Lyon,Nantes,3.2,0.9,2–0,51888.0,Marc Bollengier,2024-2025,64
+7.0,Sun,2024-10-06,17:00,Strasbourg,Lens,1.2,1.0,2–2,19968.0,Stéphanie Frappart,2024-2025,65
+7.0,Sun,2024-10-06,17:00,Reims,Montpellier,3.0,0.5,4–2,14903.0,Benoît Bastien,2024-2025,66
+7.0,Sun,2024-10-06,17:00,Brest,Le Havre,0.7,1.0,2–0,14572.0,Benoît Millot,2024-2025,67
+7.0,Sun,2024-10-06,20:45,Nice,Paris S-G,0.5,1.3,1–1,30247.0,Jérôme Brisard,2024-2025,68
+8.0,Fri,2024-10-18,20:45,Monaco,Lille,1.2,0.2,0–0,7263.0,Eric Wattellier,2024-2025,70
+8.0,Sat,2024-10-19,17:00,Brest,Rennes,1.5,1.2,1–1,15099.0,Bastien Dechepy,2024-2025,71
+8.0,Sat,2024-10-19,19:00,Saint-Étienne,Lens,0.8,1.2,0–2,36832.0,Romain Lissorgue,2024-2025,72
+8.0,Sat,2024-10-19,21:00,Paris S-G,Strasbourg,3.5,1.9,4–2,47590.0,Jeremy Stinat,2024-2025,73
+8.0,Sun,2024-10-20,15:00,Le Havre,Lyon,0.4,2.7,0–4,22490.0,Abdelatif Kherradji,2024-2025,74
+8.0,Sun,2024-10-20,17:00,Auxerre,Reims,2.8,1.1,2–1,17016.0,Florent Batta,2024-2025,75
+8.0,Sun,2024-10-20,17:00,Nantes,Nice,0.5,0.8,1–1,28141.0,Gaël Angoula,2024-2025,76
+8.0,Sun,2024-10-20,17:00,Toulouse,Angers,2.0,1.4,1–1,24107.0,Willy Delajod,2024-2025,77
+8.0,Sun,2024-10-20,20:45,Montpellier,Marseille,1.3,3.2,0–5,18000.0,Clément Turpin,2024-2025,78
+9.0,Fri,2024-10-25,20:45,Rennes,Le Havre,1.5,0.4,1–0,27130.0,Florent Batta,2024-2025,80
+9.0,Sat,2024-10-26,17:00,Angers,Saint-Étienne,2.9,1.5,4–2,13796.0,Marc Bollengier,2024-2025,81
+9.0,Sat,2024-10-26,19:00,Reims,Brest,0.7,1.5,1–2,17172.0,Jérôme Brisard,2024-2025,82
+9.0,Sat,2024-10-26,21:00,Lens,Lille,1.0,1.8,0–2,38223.0,Benoît Bastien,2024-2025,83
+9.0,Sun,2024-10-27,15:00,Lyon,Auxerre,2.0,1.5,2–2,54868.0,Jeremy Stinat,2024-2025,84
+9.0,Sun,2024-10-27,17:00,Montpellier,Toulouse,0.2,1.9,0–3,14111.0,Thomas Léonard,2024-2025,85
+9.0,Sun,2024-10-27,17:00,Nice,Monaco,1.6,0.5,2–1,29795.0,Jérémie Pignard,2024-2025,86
+9.0,Sun,2024-10-27,17:00,Strasbourg,Nantes,1.7,0.7,3–1,19398.0,Hakim Ben El Hadj Salem,2024-2025,87
+9.0,Sun,2024-10-27,20:45,Marseille,Paris S-G,0.2,3.1,0–3,66115.0,François Letexier,2024-2025,88
+10.0,Fri,2024-11-01,19:00,Monaco,Angers,1.4,0.5,0–1,10540.0,Abdelatif Kherradji,2024-2025,90
+10.0,Fri,2024-11-01,21:00,Lille,Lyon,1.7,1.2,1–1,45084.0,Jérôme Brisard,2024-2025,91
+10.0,Sat,2024-11-02,17:00,Paris S-G,Lens,2.9,0.7,1–0,47926.0,Willy Delajod,2024-2025,92
+10.0,Sat,2024-11-02,19:00,Brest,Nice,1.0,1.4,0–1,14534.0,Clément Turpin,2024-2025,93
+10.0,Sat,2024-11-02,21:00,Saint-Étienne,Strasbourg,2.8,0.5,2–0,33043.0,Eric Wattellier,2024-2025,94
+10.0,Sun,2024-11-03,15:00,Toulouse,Reims,0.9,1.1,1–0,23769.0,Mathieu Vernice,2024-2025,95
+10.0,Sun,2024-11-03,17:00,Le Havre,Montpellier,2.2,1.0,1–0,18703.0,Stéphanie Frappart,2024-2025,96
+10.0,Sun,2024-11-03,17:00,Auxerre,Rennes,2.8,0.9,4–0,16366.0,Gaël Angoula,2024-2025,97
+10.0,Sun,2024-11-03,20:45,Nantes,Marseille,1.4,1.2,1–2,33248.0,Bastien Dechepy,2024-2025,98
+11.0,Fri,2024-11-08,20:45,Marseille,Auxerre,2.5,1.9,1–3,64184.0,Marc Bollengier,2024-2025,100
+11.0,Sat,2024-11-09,17:00,Strasbourg,Monaco,0.6,3.8,1–3,19451.0,Bastien Dechepy,2024-2025,101
+11.0,Sat,2024-11-09,19:00,Lens,Nantes,2.9,1.4,3–2,38202.0,Clément Turpin,2024-2025,102
+11.0,Sat,2024-11-09,21:00,Angers,Paris S-G,1.1,3.4,2–4,17212.0,Benoît Millot,2024-2025,103
+11.0,Sun,2024-11-10,15:00,Nice,Lille,2.1,1.7,2–2,25063.0,Jeremy Stinat,2024-2025,104
+11.0,Sun,2024-11-10,17:00,Le Havre,Reims,1.4,2.6,0–3,19256.0,Hakim Ben El Hadj Salem,2024-2025,105
+11.0,Sun,2024-11-10,17:00,Montpellier,Brest,2.5,0.9,3–1,12936.0,Jérémie Pignard,2024-2025,106
+11.0,Sun,2024-11-10,17:00,Rennes,Toulouse,0.6,1.4,0–2,27525.0,Romain Lissorgue,2024-2025,107
+11.0,Sun,2024-11-10,20:45,Lyon,Saint-Étienne,1.1,0.6,1–0,58082.0,Willy Delajod,2024-2025,108
+12.0,Fri,2024-11-22,19:00,Monaco,Brest,2.6,1.0,3–2,5800.0,Thomas Léonard,2024-2025,110
+12.0,Fri,2024-11-22,21:00,Paris S-G,Toulouse,1.1,1.4,3–0,47000.0,Gaël Angoula,2024-2025,111
+12.0,Sat,2024-11-23,17:00,Lens,Marseille,2.5,1.2,1–3,38823.0,Eric Wattellier,2024-2025,112
+12.0,Sat,2024-11-23,19:00,Saint-Étienne,Montpellier,1.5,0.9,1–0,33008.0,Florent Batta,2024-2025,113
+12.0,Sat,2024-11-23,21:00,Reims,Lyon,1.0,1.7,1–1,18500.0,Stéphanie Frappart,2024-2025,114
+12.0,Sun,2024-11-24,15:00,Lille,Rennes,0.4,0.2,1–0,46019.0,Mathieu Vernice,2024-2025,115
+12.0,Sun,2024-11-24,17:00,Nantes,Le Havre,0.9,0.9,0–2,26936.0,Jérôme Brisard,2024-2025,116
+12.0,Sun,2024-11-24,17:00,Auxerre,Angers,0.6,0.9,1–0,16120.0,François Letexier,2024-2025,117
+12.0,Sun,2024-11-24,20:45,Nice,Strasbourg,2.1,0.4,2–1,18389.0,Benoît Bastien,2024-2025,118
+13.0,Fri,2024-11-29,20:45,Reims,Lens,0.8,1.8,0–2,18555.0,Abdelatif Kherradji,2024-2025,120
+13.0,Sat,2024-11-30,17:00,Rennes,Saint-Étienne,3.2,0.1,5–0,27586.0,Marc Bollengier,2024-2025,121
+13.0,Sat,2024-11-30,19:00,Brest,Strasbourg,2.5,1.0,3–1,14600.0,Romain Lissorgue,2024-2025,122
+13.0,Sat,2024-11-30,21:00,Paris S-G,Nantes,2.6,0.8,1–1,47926.0,Jeremy Stinat,2024-2025,123
+13.0,Sun,2024-12-01,15:00,Montpellier,Lille,1.4,2.2,2–2,14000.0,Benoît Millot,2024-2025,124
+13.0,Sun,2024-12-01,17:00,Lyon,Nice,2.7,2.1,4–1,59977.0,Bastien Dechepy,2024-2025,125
+13.0,Sun,2024-12-01,17:00,Le Havre,Angers,0.3,2.1,0–1,20018.0,Willy Delajod,2024-2025,126
+13.0,Sun,2024-12-01,17:00,Toulouse,Auxerre,2.3,0.2,2–0,23525.0,Hakim Ben El Hadj Salem,2024-2025,127
+13.0,Sun,2024-12-01,20:45,Marseille,Monaco,1.9,1.0,2–1,64277.0,Clément Turpin,2024-2025,128
+14.0,Fri,2024-12-06,19:00,Lille,Brest,2.5,0.7,3–1,38128.0,Benoît Bastien,2024-2025,130
+14.0,Fri,2024-12-06,21:00,Auxerre,Paris S-G,0.3,2.5,0–0,17028.0,Jérémie Pignard,2024-2025,131
+14.0,Sat,2024-12-07,17:00,Monaco,Toulouse,3.2,0.5,2–0,6868.0,Stéphanie Frappart,2024-2025,132
+14.0,Sat,2024-12-07,19:00,Nice,Le Havre,2.0,1.1,2–1,21248.0,François Letexier,2024-2025,133
+14.0,Sat,2024-12-07,21:00,Angers,Lyon,0.6,2.0,0–3,16301.0,Marc Bollengier,2024-2025,134
+14.0,Sun,2024-12-08,15:00,Lens,Montpellier,1.3,1.0,2–0,37317.0,Mathieu Vernice,2024-2025,135
+14.0,Sun,2024-12-08,17:00,Strasbourg,Reims,0.8,1.1,0–0,19369.0,Thomas Léonard,2024-2025,136
+14.0,Sun,2024-12-08,17:00,Nantes,Rennes,1.2,0.4,1–0,28418.0,Eric Wattellier,2024-2025,137
+14.0,Sun,2024-12-08,20:45,Saint-Étienne,Marseille,0.1,2.5,0–2,35350.0,Jérôme Brisard,2024-2025,138
+15.0,Fri,2024-12-13,20:45,Toulouse,Saint-Étienne,1.4,0.5,2–1,25350.0,Thomas Léonard,2024-2025,140
+15.0,Sat,2024-12-14,17:00,Marseille,Lille,1.2,1.4,1–1,64380.0,Willy Delajod,2024-2025,141
+15.0,Sat,2024-12-14,19:00,Auxerre,Lens,0.6,1.6,2–2,17052.0,Jeremy Stinat,2024-2025,142
+15.0,Sat,2024-12-14,21:00,Reims,Monaco,1.5,1.3,0–0,15859.0,Romain Lissorgue,2024-2025,143
+15.0,Sun,2024-12-15,15:00,Montpellier,Nice,2.0,1.4,2–2,11612.0,Clément Turpin,2024-2025,144
+15.0,Sun,2024-12-15,17:00,Brest,Nantes,2.0,1.1,4–1,15019.0,Gaël Angoula,2024-2025,145
+15.0,Sun,2024-12-15,17:00,Le Havre,Strasbourg,0.9,0.9,0–3,17071.0,Abdelatif Kherradji,2024-2025,146
+15.0,Sun,2024-12-15,17:00,Rennes,Angers,0.6,0.4,2–0,27781.0,Hakim Ben El Hadj Salem,2024-2025,147
+15.0,Sun,2024-12-15,20:45,Paris S-G,Lyon,2.9,1.5,3–1,47000.0,Benoît Bastien,2024-2025,148
+16.0,Wed,2024-12-18,21:00,Monaco,Paris S-G,2.4,1.8,2–4,12095.0,François Letexier,2024-2025,150
+16.0,Fri,2025-01-03,21:00,Nice,Rennes,1.5,1.7,3–2,21332.0,Jérôme Brisard,2024-2025,151
+16.0,Sat,2025-01-04,17:00,Saint-Étienne,Reims,2.2,1.1,3–1,14201.0,Stéphanie Frappart,2024-2025,152
+16.0,Sat,2025-01-04,19:00,Lille,Nantes,1.2,1.3,1–1,41635.0,Jérémie Pignard,2024-2025,153
+16.0,Sat,2025-01-04,21:00,Lyon,Montpellier,1.4,1.2,1–0,48162.0,Jeremy Stinat,2024-2025,154
+16.0,Sun,2025-01-05,15:00,Lens,Toulouse,1.4,2.0,0–1,37461.0,Hakim Ben El Hadj Salem,2024-2025,155
+16.0,Sun,2025-01-05,15:00,Angers,Brest,1.8,1.0,2–0,12691.0,Benoît Millot,2024-2025,156
+16.0,Sun,2025-01-05,15:00,Strasbourg,Auxerre,2.9,1.4,3–1,19471.0,Florent Batta,2024-2025,157
+16.0,Sun,2025-01-05,20:45,Marseille,Le Havre,3.2,0.4,5–1,64092.0,Thomas Léonard,2024-2025,158
+17.0,Fri,2025-01-10,19:00,Nantes,Monaco,0.8,3.4,2–2,25380.0,Marc Bollengier,2024-2025,160
+17.0,Fri,2025-01-10,21:05,Auxerre,Lille,0.8,1.5,0–0,15599.0,Gaël Angoula,2024-2025,161
+17.0,Sat,2025-01-11,17:00,Brest,Lyon,1.1,1.4,2–1,14735.0,Eric Wattellier,2024-2025,162
+17.0,Sat,2025-01-11,19:00,Reims,Nice,0.8,2.5,2–4,12270.0,Willy Delajod,2024-2025,163
+17.0,Sat,2025-01-11,21:05,Rennes,Marseille,1.2,1.7,1–2,26837.0,Abdelatif Kherradji,2024-2025,164
+17.0,Sun,2025-01-12,15:00,Le Havre,Lens,1.5,2.7,1–2,19617.0,Clément Turpin,2024-2025,165
+17.0,Sun,2025-01-12,17:15,Montpellier,Angers,1.2,3.8,1–3,11719.0,Romain Lissorgue,2024-2025,166
+17.0,Sun,2025-01-12,17:15,Toulouse,Strasbourg,1.2,2.3,1–2,22042.0,Benoît Bastien,2024-2025,167
+17.0,Sun,2025-01-12,20:45,Paris S-G,Saint-Étienne,4.1,0.4,2–1,47580.0,Benoît Millot,2024-2025,168
+18.0,Fri,2025-01-17,19:00,Montpellier,Monaco,2.4,1.8,2–1,11371.0,Jérôme Brisard,2024-2025,170
+18.0,Fri,2025-01-17,21:05,Lille,Nice,1.1,2.8,2–1,38325.0,François Letexier,2024-2025,171
+18.0,Sat,2025-01-18,17:00,Lens,Paris S-G,0.7,1.2,1–2,38120.0,Jérémie Pignard,2024-2025,172
+18.0,Sat,2025-01-18,19:00,Rennes,Brest,1.5,1.0,1–2,28238.0,Thomas Léonard,2024-2025,173
+18.0,Sat,2025-01-18,21:05,Lyon,Toulouse,0.7,1.1,0–0,42750.0,Benoît Millot,2024-2025,174
+18.0,Sun,2025-01-19,15:00,Saint-Étienne,Nantes,0.8,1.3,1–1,14094.0,Florent Batta,2024-2025,175
+18.0,Sun,2025-01-19,17:15,Angers,Auxerre,0.9,0.7,2–0,9938.0,Stéphanie Frappart,2024-2025,176
+18.0,Sun,2025-01-19,17:15,Reims,Le Havre,0.8,0.8,1–1,11278.0,Mathieu Vernice,2024-2025,177
+18.0,Sun,2025-01-19,20:45,Marseille,Strasbourg,2.8,0.9,1–1,61000.0,Bastien Dechepy,2024-2025,178
+20.0,Sun,2025-02-02,15:00,Toulouse,Nice,1.4,1.7,1–1,23522.0,Thomas Léonard,2024-2025,194
+21.0,Sun,2025-02-09,15:00,Lyon,Reims,3.3,0.4,4–0,43489.0,François Letexier,2024-2025,205
+22.0,Sun,2025-02-16,17:15,Lens,Strasbourg,0.4,2.4,0–2,38113.0,Benoît Millot,2024-2025,216

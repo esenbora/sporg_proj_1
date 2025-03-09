@@ -1,0 +1,279 @@
+Wk,Day,Date,Time,Home,Away,xG,xG.1,Score,Attendance,Referee,season,game_id
+1.0,Fri,2019-08-09,20:45,Monaco,Lyon,0.6,0.8,0–3,10000.0,Ruddy Buquet,2019-2020,0
+1.0,Sat,2019-08-10,17:30,Marseille,Reims,0.9,1.2,0–2,52887.0,Jérôme Brisard,2019-2020,1
+1.0,Sat,2019-08-10,20:00,Montpellier,Rennes,2.9,1.2,0–1,15212.0,Willy Delajod,2019-2020,2
+1.0,Sat,2019-08-10,20:00,Dijon,Saint-Étienne,2.1,1.0,1–2,14334.0,Thomas Léonard,2019-2020,3
+1.0,Sat,2019-08-10,20:00,Angers,Bordeaux,1.6,1.0,3–1,10749.0,Hakim Ben El Hadj Salem,2019-2020,4
+1.0,Sat,2019-08-10,20:00,Brest,Toulouse,2.2,1.5,1–1,14238.0,Olivier Thual,2019-2020,5
+1.0,Sat,2019-08-10,20:00,Nice,Amiens,1.8,0.8,2–1,17719.0,Jérémie Pignard,2019-2020,6
+1.0,Sun,2019-08-11,15:00,Lille,Nantes,1.3,0.6,2–1,34494.0,Mikael Lesage,2019-2020,7
+1.0,Sun,2019-08-11,17:00,Strasbourg,Metz,1.7,0.3,1–1,25476.0,Antony Gautier,2019-2020,8
+1.0,Sun,2019-08-11,21:00,Paris S-G,Nîmes,3.5,0.3,3–0,47151.0,Clément Turpin,2019-2020,9
+2.0,Fri,2019-08-16,20:45,Lyon,Angers,1.1,0.4,6–0,49871.0,Benoît Millot,2019-2020,11
+2.0,Sat,2019-08-17,17:30,Nantes,Marseille,0.5,1.2,0–0,34832.0,Benoît Bastien,2019-2020,12
+2.0,Sat,2019-08-17,20:00,Bordeaux,Montpellier,1.2,0.8,1–1,30192.0,Franck Schneider,2019-2020,13
+2.0,Sat,2019-08-17,20:00,Nîmes,Nice,1.5,1.9,1–2,13243.0,François Letexier,2019-2020,14
+2.0,Sat,2019-08-17,20:00,Toulouse,Dijon,1.5,1.3,1–0,10583.0,Ruddy Buquet,2019-2020,15
+2.0,Sat,2019-08-17,20:00,Metz,Monaco,2.6,0.8,3–0,19088.0,Eric Wattellier,2019-2020,16
+2.0,Sat,2019-08-17,20:00,Amiens,Lille,1.0,0.3,1–0,12481.0,Karim Abed,2019-2020,17
+2.0,Sun,2019-08-18,15:00,Saint-Étienne,Brest,2.3,0.5,1–1,28645.0,Johan Hamel,2019-2020,18
+2.0,Sun,2019-08-18,17:00,Reims,Strasbourg,0.5,0.4,0–0,13714.0,Florent Batta,2019-2020,19
+2.0,Sun,2019-08-18,21:00,Rennes,Paris S-G,1.2,1.0,2–1,28596.0,Antony Gautier,2019-2020,20
+3.0,Sat,2019-08-24,20:00,Amiens,Nantes,0.4,2.4,1–2,11393.0,Jeremy Stinat,2019-2020,22
+3.0,Sat,2019-08-24,20:00,Dijon,Bordeaux,0.4,0.6,0–2,12471.0,François Letexier,2019-2020,23
+3.0,Sat,2019-08-24,20:00,Brest,Reims,0.5,1.0,1–0,13958.0,Hakim Ben El Hadj Salem,2019-2020,24
+3.0,Sat,2019-08-24,20:00,Angers,Metz,1.9,0.2,3–0,9001.0,Stéphanie Frappart,2019-2020,25
+3.0,Sun,2019-08-25,15:00,Monaco,Nîmes,2.0,2.5,2–2,7438.0,Amaury Delerue,2019-2020,26
+3.0,Sun,2019-08-25,17:00,Strasbourg,Rennes,1.9,0.6,0–2,24951.0,Ruddy Buquet,2019-2020,27
+3.0,Sun,2019-08-25,21:00,Paris S-G,Toulouse,4.1,0.4,4–0,47325.0,Jérôme Brisard,2019-2020,28
+3.0,Tue,2019-08-27,19:00,Montpellier,Lyon,2.1,0.9,1–0,19387.0,Mikael Lesage,2019-2020,29
+3.0,Wed,2019-08-28,19:00,Lille,Saint-Étienne,2.4,0.8,3–0,36138.0,Olivier Thual,2019-2020,30
+3.0,Wed,2019-08-28,21:00,Nice,Marseille,1.7,1.7,1–2,31825.0,Clément Turpin,2019-2020,31
+4.0,Fri,2019-08-30,20:45,Metz,Paris S-G,0.4,1.6,0–2,20685.0,Franck Schneider,2019-2020,33
+4.0,Sat,2019-08-31,17:30,Lyon,Bordeaux,0.7,1.1,1–1,52327.0,Antony Gautier,2019-2020,34
+4.0,Sat,2019-08-31,20:00,Toulouse,Amiens,1.3,0.4,2–0,10184.0,Florent Batta,2019-2020,35
+4.0,Sat,2019-08-31,20:00,Angers,Dijon,1.4,0.7,2–0,8988.0,Jérémie Pignard,2019-2020,36
+4.0,Sat,2019-08-31,20:00,Nîmes,Brest,2.4,0.7,3–0,12488.0,Thomas Léonard,2019-2020,37
+4.0,Sat,2019-08-31,20:00,Nantes,Montpellier,0.9,0.5,1–0,18980.0,Karim Abed,2019-2020,38
+4.0,Sun,2019-09-01,15:00,Rennes,Nice,0.8,1.8,1–2,26721.0,Johan Hamel,2019-2020,39
+4.0,Sun,2019-09-01,15:00,Reims,Lille,2.1,1.6,2–0,14477.0,Eric Wattellier,2019-2020,40
+4.0,Sun,2019-09-01,17:00,Strasbourg,Monaco,1.5,2.9,2–2,24556.0,Willy Delajod,2019-2020,41
+4.0,Sun,2019-09-01,21:00,Marseille,Saint-Étienne,0.7,0.8,1–0,44074.0,Benoît Millot,2019-2020,42
+5.0,Fri,2019-09-13,19:00,Lille,Angers,1.4,0.7,2–1,32834.0,Ruddy Buquet,2019-2020,44
+5.0,Fri,2019-09-13,20:45,Amiens,Lyon,0.5,2.0,2–2,12577.0,Benoît Bastien,2019-2020,45
+5.0,Sat,2019-09-14,17:30,Paris S-G,Strasbourg,0.8,0.5,1–0,47505.0,Amaury Delerue,2019-2020,46
+5.0,Sat,2019-09-14,20:00,Brest,Rennes,0.5,0.4,0–0,14937.0,Clément Turpin,2019-2020,47
+5.0,Sat,2019-09-14,20:00,Dijon,Nîmes,1.3,0.4,0–0,11413.0,Stéphanie Frappart,2019-2020,48
+5.0,Sat,2019-09-14,20:00,Montpellier,Nice,1.8,1.0,2–1,12765.0,Olivier Thual,2019-2020,49
+5.0,Sat,2019-09-14,20:00,Bordeaux,Metz,1.4,1.2,2–0,14352.0,Mikael Lesage,2019-2020,50
+5.0,Sun,2019-09-15,15:00,Nantes,Reims,0.4,0.7,1–0,18897.0,Willy Delajod,2019-2020,51
+5.0,Sun,2019-09-15,17:00,Saint-Étienne,Toulouse,1.1,1.9,2–2,24240.0,Jeremy Stinat,2019-2020,52
+5.0,Sun,2019-09-15,21:00,Monaco,Marseille,2.5,1.6,3–4,9147.0,Antony Gautier,2019-2020,53
+6.0,Fri,2019-09-20,20:45,Strasbourg,Nantes,2.0,0.6,2–1,24013.0,Florent Batta,2019-2020,55
+6.0,Sat,2019-09-21,17:30,Marseille,Montpellier,1.2,0.1,1–1,48007.0,Amaury Delerue,2019-2020,56
+6.0,Sat,2019-09-21,20:00,Nîmes,Toulouse,1.4,0.7,1–0,12258.0,Karim Abed,2019-2020,57
+6.0,Sat,2019-09-21,20:00,Nice,Dijon,1.1,1.2,2–1,16255.0,Willy Delajod,2019-2020,58
+6.0,Sat,2019-09-21,20:00,Reims,Monaco,1.3,0.6,0–0,14426.0,Olivier Thual,2019-2020,59
+6.0,Sat,2019-09-21,20:00,Bordeaux,Brest,1.7,1.3,2–2,15213.0,Benoît Millot,2019-2020,60
+6.0,Sat,2019-09-21,20:00,Metz,Amiens,1.3,1.3,1–2,15106.0,Hakim Ben El Hadj Salem,2019-2020,61
+6.0,Sun,2019-09-22,15:00,Rennes,Lille,0.9,1.1,1–1,25772.0,Jérôme Brisard,2019-2020,62
+6.0,Sun,2019-09-22,17:00,Angers,Saint-Étienne,2.0,0.8,4–1,9831.0,Franck Schneider,2019-2020,63
+6.0,Sun,2019-09-22,21:00,Lyon,Paris S-G,0.5,1.5,0–1,54583.0,Ruddy Buquet,2019-2020,64
+7.0,Tue,2019-09-24,19:00,Dijon,Marseille,1.4,0.9,0–0,15061.0,Jeremy Stinat,2019-2020,66
+7.0,Tue,2019-09-24,21:00,Monaco,Nice,2.3,0.7,3–1,9358.0,Mikael Lesage,2019-2020,67
+7.0,Wed,2019-09-25,19:00,Toulouse,Angers,0.3,1.6,0–2,10177.0,Olivier Thual,2019-2020,68
+7.0,Wed,2019-09-25,19:00,Brest,Lyon,0.7,1.2,2–2,14472.0,Amaury Delerue,2019-2020,69
+7.0,Wed,2019-09-25,19:00,Nantes,Rennes,1.4,1.1,1–0,26952.0,Antony Gautier,2019-2020,70
+7.0,Wed,2019-09-25,19:00,Amiens,Bordeaux,1.5,0.7,1–3,11367.0,Willy Delajod,2019-2020,71
+7.0,Wed,2019-09-25,19:00,Saint-Étienne,Metz,1.3,0.8,0–1,19712.0,Eric Wattellier,2019-2020,72
+7.0,Wed,2019-09-25,19:00,Montpellier,Nîmes,0.6,0.8,1–0,16445.0,Benoît Bastien,2019-2020,73
+7.0,Wed,2019-09-25,19:00,Lille,Strasbourg,2.8,0.3,2–0,30103.0,Johan Hamel,2019-2020,74
+7.0,Wed,2019-09-25,21:00,Paris S-G,Reims,0.6,1.0,0–2,47376.0,François Letexier,2019-2020,75
+8.0,Sat,2019-09-28,13:30,Lyon,Nantes,1.1,0.6,0–1,46647.0,Benoît Millot,2019-2020,77
+8.0,Sat,2019-09-28,17:30,Bordeaux,Paris S-G,0.1,2.8,0–1,39215.0,Jérôme Brisard,2019-2020,78
+8.0,Sat,2019-09-28,20:00,Reims,Dijon,1.2,1.8,1–2,11033.0,Jérémie Pignard,2019-2020,79
+8.0,Sat,2019-09-28,20:00,Metz,Toulouse,1.4,1.4,2–2,15054.0,Florent Batta,2019-2020,80
+8.0,Sat,2019-09-28,20:00,Nice,Lille,1.2,1.4,1–1,18295.0,Clément Turpin,2019-2020,81
+8.0,Sat,2019-09-28,20:00,Monaco,Brest,3.6,0.5,4–1,4576.0,Ruddy Buquet,2019-2020,82
+8.0,Sat,2019-09-28,20:00,Angers,Amiens,1.4,1.2,1–1,9331.0,Karim Abed,2019-2020,83
+8.0,Sun,2019-09-29,15:00,Strasbourg,Montpellier,0.4,1.4,1–0,25010.0,Hakim Ben El Hadj Salem,2019-2020,84
+8.0,Sun,2019-09-29,17:00,Nîmes,Saint-Étienne,1.8,0.7,0–1,13802.0,Thomas Léonard,2019-2020,85
+8.0,Sun,2019-09-29,21:00,Marseille,Rennes,0.8,0.9,1–1,44281.0,Franck Schneider,2019-2020,86
+9.0,Fri,2019-10-04,20:45,Amiens,Marseille,2.9,0.5,3–1,12737.0,Johan Hamel,2019-2020,88
+9.0,Sat,2019-10-05,17:30,Paris S-G,Angers,3.4,0.6,4–0,47700.0,Willy Delajod,2019-2020,89
+9.0,Sat,2019-10-05,20:00,Montpellier,Monaco,3.1,1.3,3–1,15532.0,François Letexier,2019-2020,90
+9.0,Sat,2019-10-05,20:00,Dijon,Strasbourg,1.1,0.8,1–0,12124.0,Olivier Thual,2019-2020,91
+9.0,Sat,2019-10-05,20:00,Nantes,Nice,1.3,0.3,1–0,15532.0,Amaury Delerue,2019-2020,92
+9.0,Sat,2019-10-05,20:00,Brest,Metz,0.7,0.5,2–0,12682.0,Antony Gautier,2019-2020,93
+9.0,Sat,2019-10-05,20:00,Toulouse,Bordeaux,1.1,0.8,1–3,20084.0,Benoît Bastien,2019-2020,94
+9.0,Sun,2019-10-06,15:00,Lille,Nîmes,2.6,1.8,2–2,31542.0,Mikael Lesage,2019-2020,95
+9.0,Sun,2019-10-06,17:00,Rennes,Reims,1.1,1.6,0–1,20950.0,Stéphanie Frappart,2019-2020,96
+9.0,Sun,2019-10-06,21:00,Saint-Étienne,Lyon,0.9,0.6,1–0,34071.0,Clément Turpin,2019-2020,97
+10.0,Fri,2019-10-18,20:45,Nice,Paris S-G,0.8,3.5,1–4,32705.0,François Letexier,2019-2020,99
+10.0,Sat,2019-10-19,17:30,Lyon,Dijon,2.1,0.4,0–0,48454.0,Franck Schneider,2019-2020,100
+10.0,Sat,2019-10-19,20:00,Metz,Nantes,0.8,0.6,1–0,16533.0,Jérémie Pignard,2019-2020,101
+10.0,Sat,2019-10-19,20:00,Toulouse,Lille,2.5,0.8,2–1,12277.0,Stéphanie Frappart,2019-2020,102
+10.0,Sat,2019-10-19,20:00,Reims,Montpellier,0.9,0.9,1–0,12187.0,Florent Batta,2019-2020,103
+10.0,Sat,2019-10-19,20:00,Nîmes,Amiens,0.5,1.2,1–1,12189.0,Jeremy Stinat,2019-2020,104
+10.0,Sat,2019-10-19,20:00,Angers,Brest,1.7,0.3,0–1,10369.0,Eric Wattellier,2019-2020,105
+10.0,Sun,2019-10-20,15:00,Bordeaux,Saint-Étienne,1.0,0.9,0–1,25952.0,Ruddy Buquet,2019-2020,106
+10.0,Sun,2019-10-20,17:00,Monaco,Rennes,1.4,1.5,3–2,6763.0,Jérôme Brisard,2019-2020,107
+10.0,Sun,2019-10-20,21:00,Marseille,Strasbourg,1.6,0.5,2–0,50203.0,Hakim Ben El Hadj Salem,2019-2020,108
+11.0,Fri,2019-10-25,20:45,Nantes,Monaco,1.7,0.9,0–1,30656.0,Thomas Léonard,2019-2020,110
+11.0,Sat,2019-10-26,17:30,Lille,Bordeaux,1.8,0.3,3–0,35925.0,Willy Delajod,2019-2020,111
+11.0,Sat,2019-10-26,20:00,Lyon,Metz,1.9,0.8,2–0,48889.0,Johan Hamel,2019-2020,112
+11.0,Sat,2019-10-26,20:00,Strasbourg,Nice,2.1,0.8,1–0,25007.0,Mikael Lesage,2019-2020,113
+11.0,Sat,2019-10-26,20:00,Reims,Nîmes,0.6,0.7,0–0,12329.0,Clément Turpin,2019-2020,114
+11.0,Sat,2019-10-26,20:00,Brest,Dijon,1.9,1.2,2–0,14232.0,Jérémie Pignard,2019-2020,115
+11.0,Sat,2019-10-26,20:00,Montpellier,Angers,1.2,1.0,0–0,12678.0,Benoît Millot,2019-2020,116
+11.0,Sun,2019-10-27,15:00,Rennes,Toulouse,2.1,1.2,3–2,22918.0,Antony Gautier,2019-2020,117
+11.0,Sun,2019-10-27,17:00,Saint-Étienne,Amiens,0.8,2.2,2–2,18877.0,Amaury Delerue,2019-2020,118
+11.0,Sun,2019-10-27,21:00,Paris S-G,Marseille,3.0,0.6,4–0,47926.0,Benoît Bastien,2019-2020,119
+12.0,Fri,2019-11-01,20:45,Dijon,Paris S-G,1.0,3.2,2–1,14859.0,Ruddy Buquet,2019-2020,121
+12.0,Sat,2019-11-02,17:30,Marseille,Lille,0.7,0.4,2–1,53321.0,Hakim Ben El Hadj Salem,2019-2020,122
+12.0,Sat,2019-11-02,20:00,Toulouse,Lyon,1.3,1.8,2–3,16225.0,Karim Abed,2019-2020,123
+12.0,Sat,2019-11-02,20:00,Amiens,Brest,1.4,0.9,1–0,12246.0,Franck Schneider,2019-2020,124
+12.0,Sat,2019-11-02,20:00,Metz,Montpellier,1.9,1.0,2–2,14644.0,Stéphanie Frappart,2019-2020,125
+12.0,Sat,2019-11-02,20:00,Angers,Strasbourg,1.2,1.2,1–0,9681.0,Florent Batta,2019-2020,126
+12.0,Sun,2019-11-03,15:00,Bordeaux,Nantes,1.0,0.7,2–0,19545.0,François Letexier,2019-2020,127
+12.0,Sun,2019-11-03,17:00,Nice,Reims,1.0,0.8,2–0,15468.0,Jeremy Stinat,2019-2020,128
+12.0,Sun,2019-11-03,21:00,Saint-Étienne,Monaco,1.7,1.0,1–0,15685.0,Jérôme Brisard,2019-2020,129
+13.0,Fri,2019-11-08,20:45,Nice,Bordeaux,1.5,1.7,1–1,16173.0,Johan Hamel,2019-2020,131
+13.0,Sat,2019-11-09,17:30,Brest,Paris S-G,1.1,2.4,1–2,15144.0,Mikael Lesage,2019-2020,132
+13.0,Sat,2019-11-09,20:00,Monaco,Dijon,2.0,1.2,1–0,5223.0,Eric Wattellier,2019-2020,133
+13.0,Sat,2019-11-09,20:00,Reims,Angers,0.5,1.0,0–0,10876.0,Hakim Ben El Hadj Salem,2019-2020,134
+13.0,Sat,2019-11-09,20:00,Lille,Metz,1.4,0.1,0–0,33425.0,Florent Batta,2019-2020,135
+13.0,Sat,2019-11-09,20:00,Strasbourg,Nîmes,3.5,0.5,4–1,24745.0,Ruddy Buquet,2019-2020,136
+13.0,Sun,2019-11-10,15:00,Rennes,Amiens,3.4,0.8,3–1,20677.0,Benoît Bastien,2019-2020,137
+13.0,Sun,2019-11-10,17:00,Nantes,Saint-Étienne,0.9,0.9,2–3,34191.0,Clément Turpin,2019-2020,138
+13.0,Sun,2019-11-10,17:00,Montpellier,Toulouse,1.0,0.3,3–0,12734.0,Thomas Léonard,2019-2020,139
+13.0,Sun,2019-11-10,21:00,Marseille,Lyon,1.2,1.1,2–1,65421.0,Antony Gautier,2019-2020,140
+14.0,Fri,2019-11-22,20:45,Paris S-G,Lille,2.6,1.0,2–0,47476.0,Willy Delajod,2019-2020,142
+14.0,Sat,2019-11-23,17:30,Lyon,Nice,1.3,1.7,2–1,49401.0,Amaury Delerue,2019-2020,143
+14.0,Sat,2019-11-23,20:00,Metz,Reims,1.1,1.8,1–1,14445.0,Antony Gautier,2019-2020,144
+14.0,Sat,2019-11-23,20:00,Angers,Nîmes,1.1,0.6,1–0,8714.0,Thomas Léonard,2019-2020,145
+14.0,Sat,2019-11-23,20:00,Amiens,Strasbourg,0.3,2.0,0–4,10358.0,Alain Bieri,2019-2020,146
+14.0,Sat,2019-11-23,20:00,Brest,Nantes,1.0,1.5,1–1,14232.0,Ruddy Buquet,2019-2020,147
+14.0,Sat,2019-11-23,20:00,Dijon,Rennes,1.3,0.9,2–1,12084.0,Jérôme Brisard,2019-2020,148
+14.0,Sun,2019-11-24,15:00,Bordeaux,Monaco,1.6,1.7,2–1,34554.0,Benoît Millot,2019-2020,149
+14.0,Sun,2019-11-24,17:00,Saint-Étienne,Montpellier,0.5,1.0,0–0,24336.0,Franck Schneider,2019-2020,150
+14.0,Sun,2019-11-24,21:00,Toulouse,Marseille,0.9,1.6,0–2,23002.0,François Letexier,2019-2020,151
+15.0,Fri,2019-11-29,20:45,Marseille,Brest,5.0,0.7,2–1,50014.0,Johan Hamel,2019-2020,153
+15.0,Sat,2019-11-30,17:30,Strasbourg,Lyon,0.5,0.7,1–2,25455.0,Mikael Lesage,2019-2020,154
+15.0,Sat,2019-11-30,20:00,Nice,Angers,1.2,0.6,3–1,15814.0,Antony Gautier,2019-2020,155
+15.0,Sat,2019-11-30,20:00,Montpellier,Amiens,1.5,1.0,4–2,11744.0,Jérémie Pignard,2019-2020,156
+15.0,Sat,2019-11-30,20:00,Lille,Dijon,1.7,0.8,1–0,40074.0,Jeremy Stinat,2019-2020,157
+15.0,Sat,2019-11-30,20:00,Nîmes,Metz,0.7,0.8,1–1,12180.0,Hakim Ben El Hadj Salem,2019-2020,158
+15.0,Sat,2019-11-30,20:00,Reims,Bordeaux,1.4,0.3,1–1,12949.0,Jérôme Brisard,2019-2020,159
+15.0,Sun,2019-12-01,15:00,Nantes,Toulouse,2.8,1.1,2–1,13751.0,Florent Batta,2019-2020,160
+15.0,Sun,2019-12-01,17:00,Rennes,Saint-Étienne,1.4,0.5,2–1,26738.0,Eric Wattellier,2019-2020,161
+16.0,Tue,2019-12-03,19:00,Brest,Strasbourg,2.0,0.8,5–0,12437.0,Jérôme Brisard,2019-2020,163
+16.0,Tue,2019-12-03,19:00,Angers,Marseille,0.7,1.8,0–2,12455.0,Franck Schneider,2019-2020,164
+16.0,Tue,2019-12-03,19:00,Bordeaux,Nîmes,2.1,0.3,6–0,12419.0,Clément Turpin,2019-2020,165
+16.0,Tue,2019-12-03,21:05,Lyon,Lille,0.8,0.9,0–1,42535.0,Ruddy Buquet,2019-2020,166
+16.0,Wed,2019-12-04,19:00,Saint-Étienne,Nice,2.7,1.2,4–1,20138.0,Thomas Léonard,2019-2020,167
+16.0,Wed,2019-12-04,19:00,Dijon,Montpellier,1.5,1.1,2–2,11926.0,François Letexier,2019-2020,168
+16.0,Wed,2019-12-04,19:00,Metz,Rennes,0.9,1.1,0–1,14214.0,Karim Abed,2019-2020,169
+16.0,Wed,2019-12-04,19:00,Toulouse,Monaco,1.8,4.3,1–2,13030.0,Willy Delajod,2019-2020,170
+16.0,Wed,2019-12-04,21:05,Paris S-G,Nantes,1.9,0.6,2–0,47485.0,Amaury Delerue,2019-2020,171
+17.0,Fri,2019-12-06,19:00,Lille,Brest,2.6,0.3,1–0,32682.0,Eric Wattellier,2019-2020,173
+17.0,Fri,2019-12-06,20:45,Nîmes,Lyon,0.2,3.2,0–4,12801.0,Olivier Thual,2019-2020,174
+17.0,Sat,2019-12-07,17:30,Montpellier,Paris S-G,0.4,1.2,1–3,20197.0,Antony Gautier,2019-2020,175
+17.0,Sat,2019-12-07,20:00,Strasbourg,Toulouse,2.3,1.7,4–2,23634.0,Johan Hamel,2019-2020,176
+17.0,Sat,2019-12-07,20:00,Monaco,Amiens,2.4,0.4,3–0,4203.0,Jeremy Stinat,2019-2020,177
+17.0,Sat,2019-12-07,20:00,Nice,Metz,1.6,1.7,4–1,14967.0,Jérémie Pignard,2019-2020,178
+17.0,Sat,2019-12-07,20:00,Rennes,Angers,1.2,0.8,2–1,25656.0,Amaury Delerue,2019-2020,179
+17.0,Sun,2019-12-08,15:00,Reims,Saint-Étienne,1.2,0.6,3–1,14512.0,Stéphanie Frappart,2019-2020,180
+17.0,Sun,2019-12-08,17:00,Nantes,Dijon,1.2,0.5,1–0,16001.0,Hakim Ben El Hadj Salem,2019-2020,181
+17.0,Sun,2019-12-08,21:00,Marseille,Bordeaux,1.9,0.1,3–1,52079.0,Mikael Lesage,2019-2020,182
+18.0,Fri,2019-12-13,20:45,Lille,Montpellier,2.0,1.3,2–1,30170.0,Jérôme Brisard,2019-2020,184
+18.0,Sat,2019-12-14,17:30,Metz,Marseille,1.1,1.8,1–1,20586.0,Willy Delajod,2019-2020,185
+18.0,Sat,2019-12-14,20:00,Angers,Monaco,1.1,0.4,0–0,9959.0,Hakim Ben El Hadj Salem,2019-2020,186
+18.0,Sat,2019-12-14,20:00,Brest,Nice,2.0,1.2,0–0,13042.0,Franck Schneider,2019-2020,187
+18.0,Sat,2019-12-14,20:00,Toulouse,Reims,0.8,1.3,0–1,12577.0,Clément Turpin,2019-2020,188
+18.0,Sat,2019-12-14,20:00,Nîmes,Nantes,0.8,1.4,0–1,12098.0,Karim Abed,2019-2020,189
+18.0,Sat,2019-12-14,20:00,Amiens,Dijon,0.4,1.0,1–1,10530.0,Thomas Léonard,2019-2020,190
+18.0,Sun,2019-12-15,15:00,Bordeaux,Strasbourg,1.4,0.6,0–1,18710.0,Florent Batta,2019-2020,191
+18.0,Sun,2019-12-15,17:00,Lyon,Rennes,0.6,2.1,0–1,45010.0,Benoît Bastien,2019-2020,192
+18.0,Sun,2019-12-15,21:00,Saint-Étienne,Paris S-G,1.1,4.3,0–4,36391.0,Ruddy Buquet,2019-2020,193
+19.0,Sat,2019-12-21,20:45,Montpellier,Brest,2.1,0.9,4–0,12975.0,Jeremy Stinat,2019-2020,195
+19.0,Sat,2019-12-21,20:45,Strasbourg,Saint-Étienne,0.6,1.6,2–1,25471.0,Olivier Thual,2019-2020,196
+19.0,Sat,2019-12-21,20:45,Monaco,Lille,3.4,0.8,5–1,5388.0,Mikael Lesage,2019-2020,197
+19.0,Sat,2019-12-21,20:45,Dijon,Metz,1.2,1.1,2–2,12309.0,Johan Hamel,2019-2020,198
+19.0,Sat,2019-12-21,20:45,Nantes,Angers,0.4,1.3,1–2,29807.0,Jérémie Pignard,2019-2020,199
+19.0,Sat,2019-12-21,20:45,Paris S-G,Amiens,4.6,0.6,4–1,47693.0,Eric Wattellier,2019-2020,200
+19.0,Sat,2019-12-21,20:45,Reims,Lyon,1.5,1.5,1–1,17257.0,Amaury Delerue,2019-2020,201
+19.0,Sat,2019-12-21,20:45,Rennes,Bordeaux,0.9,0.7,1–0,26403.0,Thomas Léonard,2019-2020,202
+19.0,Sat,2019-12-21,20:45,Marseille,Nîmes,2.0,1.0,3–1,59043.0,François Letexier,2019-2020,203
+19.0,Sat,2019-12-21,20:45,Nice,Toulouse,1.6,0.5,3–0,17945.0,Stéphanie Frappart,2019-2020,204
+20.0,Fri,2020-01-10,20:45,Rennes,Marseille,0.6,0.7,0–1,28896.0,Benoît Millot,2019-2020,206
+20.0,Sat,2020-01-11,17:30,Bordeaux,Lyon,0.8,2.6,1–2,28737.0,Clément Turpin,2019-2020,207
+20.0,Sat,2020-01-11,20:00,Angers,Nice,1.1,1.2,1–1,9105.0,Willy Delajod,2019-2020,208
+20.0,Sat,2020-01-11,20:00,Nîmes,Reims,1.7,0.3,2–0,11867.0,Olivier Thual,2019-2020,209
+20.0,Sat,2020-01-11,20:00,Amiens,Montpellier,0.9,0.7,1–2,10205.0,Karim Abed,2019-2020,210
+20.0,Sat,2020-01-11,20:00,Metz,Strasbourg,0.9,1.1,1–0,18079.0,Jérôme Brisard,2019-2020,211
+20.0,Sat,2020-01-11,20:00,Toulouse,Brest,0.9,1.8,2–5,13666.0,Hakim Ben El Hadj Salem,2019-2020,212
+20.0,Sun,2020-01-12,17:00,Dijon,Lille,1.2,0.6,1–0,12115.0,Franck Schneider,2019-2020,214
+20.0,Sun,2020-01-12,21:00,Paris S-G,Monaco,2.5,2.3,3–3,47580.0,Antony Gautier,2019-2020,215
+12.0,Wed,2020-01-15,19:00,Nîmes,Rennes,0.3,0.6,0–1,12388.0,Willy Delajod,2019-2020,217
+16.0,Wed,2020-01-15,19:00,Amiens,Reims,1.0,0.3,1–1,10712.0,Johan Hamel,2019-2020,219
+15.0,Wed,2020-01-15,21:00,Monaco,Paris S-G,1.1,3.6,1–4,11214.0,François Letexier,2019-2020,221
+21.0,Fri,2020-01-24,20:45,Nice,Rennes,2.1,2.4,1–1,15199.0,Hakim Ben El Hadj Salem,2019-2020,223
+21.0,Sat,2020-01-25,17:30,Marseille,Angers,0.4,0.2,0–0,55761.0,Johan Hamel,2019-2020,224
+21.0,Sat,2020-01-25,20:00,Montpellier,Dijon,1.7,0.4,2–1,11129.0,Jérôme Miguelgorry,2019-2020,225
+21.0,Sat,2020-01-25,20:00,Monaco,Strasbourg,1.0,1.1,1–3,4800.0,Eric Wattellier,2019-2020,226
+21.0,Sat,2020-01-25,20:00,Reims,Metz,0.8,1.1,0–1,11818.0,Jérémie Pignard,2019-2020,227
+21.0,Sat,2020-01-25,20:00,Saint-Étienne,Nîmes,2.0,0.9,2–1,23927.0,Jeremy Stinat,2019-2020,228
+21.0,Sat,2020-01-25,20:00,Brest,Amiens,0.8,1.1,2–1,12866.0,Thomas Léonard,2019-2020,229
+21.0,Sun,2020-01-26,15:00,Lyon,Toulouse,0.8,0.4,3–0,42582.0,Antony Gautier,2019-2020,230
+21.0,Sun,2020-01-26,17:00,Nantes,Bordeaux,0.2,0.7,0–1,29839.0,Karim Abed,2019-2020,231
+21.0,Sun,2020-01-26,21:00,Lille,Paris S-G,0.5,2.0,0–2,49132.0,Amaury Delerue,2019-2020,232
+22.0,Fri,2020-01-31,20:45,Rennes,Nantes,2.3,0.9,3–2,27836.0,Benoît Millot,2019-2020,234
+22.0,Sat,2020-02-01,17:30,Paris S-G,Montpellier,2.9,0.2,5–0,47701.0,Jérôme Brisard,2019-2020,235
+22.0,Sat,2020-02-01,20:00,Angers,Reims,1.3,1.4,1–4,8467.0,Amaury Delerue,2019-2020,236
+22.0,Sat,2020-02-01,20:00,Strasbourg,Lille,1.3,1.5,1–2,25139.0,Stéphanie Frappart,2019-2020,237
+22.0,Sat,2020-02-01,20:00,Nîmes,Monaco,1.9,0.9,3–1,12580.0,Mikael Lesage,2019-2020,238
+22.0,Sat,2020-02-01,20:00,Amiens,Toulouse,0.9,1.0,0–0,10992.0,François Letexier,2019-2020,239
+22.0,Sat,2020-02-01,20:00,Dijon,Brest,1.5,1.4,3–0,11212.0,Olivier Thual,2019-2020,240
+22.0,Sun,2020-02-02,15:00,Nice,Lyon,1.5,1.7,2–1,23553.0,Benoît Bastien,2019-2020,241
+22.0,Sun,2020-02-02,17:00,Metz,Saint-Étienne,0.9,2.4,3–1,15636.0,Antony Gautier,2019-2020,242
+22.0,Sun,2020-02-02,21:00,Bordeaux,Marseille,1.3,0.6,0–0,36196.0,Ruddy Buquet,2019-2020,243
+23.0,Tue,2020-02-04,19:00,Monaco,Angers,0.3,1.2,1–0,3585.0,Jeremy Stinat,2019-2020,245
+23.0,Tue,2020-02-04,19:00,Lille,Rennes,0.8,0.5,1–0,35030.0,Johan Hamel,2019-2020,246
+23.0,Tue,2020-02-04,21:05,Nantes,Paris S-G,2.7,3.6,1–2,34307.0,Franck Schneider,2019-2020,247
+23.0,Wed,2020-02-05,19:00,Brest,Bordeaux,2.1,1.1,1–1,13034.0,Willy Delajod,2019-2020,248
+23.0,Wed,2020-02-05,19:00,Lyon,Amiens,0.5,0.3,0–0,36670.0,Jérôme Miguelgorry,2019-2020,249
+23.0,Wed,2020-02-05,19:00,Montpellier,Metz,0.5,1.7,1–1,10786.0,Hakim Ben El Hadj Salem,2019-2020,250
+23.0,Wed,2020-02-05,19:00,Reims,Nice,1.6,0.8,1–1,11384.0,Eric Wattellier,2019-2020,251
+23.0,Wed,2020-02-05,19:00,Nîmes,Dijon,1.4,0.6,2–0,11705.0,Florent Batta,2019-2020,252
+23.0,Wed,2020-02-05,19:00,Toulouse,Strasbourg,0.8,1.4,0–1,16596.0,Karim Abed,2019-2020,253
+23.0,Wed,2020-02-05,21:00,Saint-Étienne,Marseille,0.6,0.5,0–2,29074.0,Jérôme Brisard,2019-2020,254
+24.0,Fri,2020-02-07,20:45,Angers,Lille,0.6,1.6,0–2,9145.0,Benoît Bastien,2019-2020,256
+24.0,Sat,2020-02-08,17:30,Marseille,Toulouse,0.8,1.7,1–0,53995.0,Stéphanie Frappart,2019-2020,257
+24.0,Sat,2020-02-08,20:00,Nice,Nîmes,0.7,1.3,1–3,15603.0,Antony Gautier,2019-2020,258
+24.0,Sat,2020-02-08,20:00,Metz,Bordeaux,0.7,2.3,1–2,15054.0,François Letexier,2019-2020,259
+24.0,Sat,2020-02-08,20:00,Dijon,Nantes,1.2,0.6,3–3,11780.0,Jérémie Pignard,2019-2020,260
+24.0,Sat,2020-02-08,20:00,Amiens,Monaco,0.4,1.3,1–2,11683.0,Olivier Thual,2019-2020,261
+24.0,Sat,2020-02-08,20:00,Rennes,Brest,1.0,0.5,0–0,28436.0,Ruddy Buquet,2019-2020,262
+24.0,Sun,2020-02-09,15:00,Montpellier,Saint-Étienne,0.7,1.5,1–0,14669.0,Amaury Delerue,2019-2020,263
+24.0,Sun,2020-02-09,17:00,Strasbourg,Reims,2.8,0.3,3–0,25241.0,Thomas Léonard,2019-2020,264
+24.0,Sun,2020-02-09,21:00,Paris S-G,Lyon,1.7,1.0,4–2,47000.0,Clément Turpin,2019-2020,265
+25.0,Fri,2020-02-14,20:45,Monaco,Montpellier,1.9,1.0,1–0,4384.0,Ruddy Buquet,2019-2020,267
+25.0,Sat,2020-02-15,17:30,Amiens,Paris S-G,1.3,3.2,4–4,12964.0,Hakim Ben El Hadj Salem,2019-2020,268
+25.0,Sat,2020-02-15,20:00,Bordeaux,Dijon,1.4,0.9,2–2,13701.0,Mikael Lesage,2019-2020,269
+25.0,Sat,2020-02-15,20:00,Toulouse,Nice,2.3,1.4,0–2,12903.0,Jérôme Miguelgorry,2019-2020,270
+25.0,Sat,2020-02-15,20:00,Nantes,Metz,1.4,0.4,0–0,20444.0,Jeremy Stinat,2019-2020,271
+25.0,Sat,2020-02-15,20:00,Nîmes,Angers,1.2,0.5,1–0,12417.0,Karim Abed,2019-2020,272
+25.0,Sun,2020-02-16,15:00,Lyon,Strasbourg,1.0,1.4,1–1,45141.0,Johan Hamel,2019-2020,273
+25.0,Sun,2020-02-16,17:00,Brest,Saint-Étienne,2.0,1.7,3–2,13399.0,Eric Wattellier,2019-2020,274
+25.0,Sun,2020-02-16,17:00,Reims,Rennes,1.3,0.2,1–0,13026.0,Florent Batta,2019-2020,275
+25.0,Sun,2020-02-16,21:00,Lille,Marseille,1.3,1.6,1–2,47314.0,Franck Schneider,2019-2020,276
+26.0,Fri,2020-02-21,19:00,Nice,Brest,1.8,0.8,2–2,15856.0,Jérémie Pignard,2019-2020,278
+26.0,Fri,2020-02-21,20:45,Metz,Lyon,0.3,1.9,0–2,18247.0,Eric Wattellier,2019-2020,279
+26.0,Sat,2020-02-22,17:30,Marseille,Nantes,0.9,0.7,1–3,60430.0,Jérôme Miguelgorry,2019-2020,280
+26.0,Sat,2020-02-22,20:00,Lille,Toulouse,2.3,0.4,3–0,37034.0,Thomas Léonard,2019-2020,281
+26.0,Sat,2020-02-22,20:00,Dijon,Monaco,1.9,2.1,1–1,13657.0,François Letexier,2019-2020,282
+26.0,Sat,2020-02-22,20:00,Strasbourg,Amiens,0.8,0.1,0–0,26109.0,Amaury Delerue,2019-2020,283
+26.0,Sat,2020-02-22,20:00,Angers,Montpellier,1.1,0.8,1–0,9453.0,Antony Gautier,2019-2020,284
+26.0,Sun,2020-02-23,15:00,Saint-Étienne,Reims,0.6,1.2,1–1,24868.0,Benoît Bastien,2019-2020,285
+26.0,Sun,2020-02-23,17:00,Rennes,Nîmes,2.5,0.4,2–1,28084.0,Stéphanie Frappart,2019-2020,286
+26.0,Sun,2020-02-23,21:00,Paris S-G,Bordeaux,5.1,1.5,4–3,47771.0,Willy Delajod,2019-2020,287
+27.0,Fri,2020-02-28,20:45,Nîmes,Marseille,1.8,1.9,2–3,13755.0,Clément Turpin,2019-2020,289
+27.0,Sat,2020-02-29,17:30,Paris S-G,Dijon,3.6,0.4,4–0,47542.0,Karim Abed,2019-2020,290
+27.0,Sat,2020-02-29,20:00,Brest,Angers,1.2,0.3,0–1,13313.0,Florent Batta,2019-2020,291
+27.0,Sat,2020-02-29,20:00,Monaco,Reims,2.1,1.2,1–1,4237.0,Hakim Ben El Hadj Salem,2019-2020,292
+27.0,Sat,2020-02-29,20:00,Montpellier,Strasbourg,3.5,0.9,3–0,11799.0,Mikael Lesage,2019-2020,293
+27.0,Sat,2020-02-29,20:00,Amiens,Metz,1.3,0.8,0–1,12375.0,Johan Hamel,2019-2020,294
+27.0,Sat,2020-02-29,20:00,Toulouse,Rennes,0.9,1.2,0–2,13301.0,Jeremy Stinat,2019-2020,295
+27.0,Sun,2020-03-01,15:00,Nantes,Lille,0.4,2.2,0–1,20704.0,Willy Delajod,2019-2020,296
+27.0,Sun,2020-03-01,17:00,Bordeaux,Nice,1.8,0.5,1–1,15799.0,Benoît Millot,2019-2020,297
+27.0,Sun,2020-03-01,21:00,Lyon,Saint-Étienne,2.9,0.4,2–0,52772.0,Franck Schneider,2019-2020,298
+28.0,Fri,2020-03-06,21:00,Marseille,Amiens,1.1,2.1,2–2,49748.0,François Letexier,2019-2020,300
+28.0,Sat,2020-03-07,20:00,Nice,Monaco,1.7,1.4,2–1,21001.0,Amaury Delerue,2019-2020,301
+28.0,Sat,2020-03-07,20:00,Angers,Nantes,0.8,1.4,2–0,12132.0,Stéphanie Frappart,2019-2020,302
+28.0,Sat,2020-03-07,20:00,Dijon,Toulouse,1.0,1.0,2–1,12549.0,Jérôme Brisard,2019-2020,303
+28.0,Sat,2020-03-07,20:00,Metz,Nîmes,1.2,1.3,2–1,14797.0,Ruddy Buquet,2019-2020,304
+28.0,Sat,2020-03-07,20:00,Reims,Brest,1.7,1.3,1–0,11062.0,Karim Abed,2019-2020,305
+28.0,Sun,2020-03-08,15:00,Saint-Étienne,Bordeaux,0.9,0.8,1–1,24912.0,Thomas Léonard,2019-2020,306
+28.0,Sun,2020-03-08,17:00,Rennes,Montpellier,3.1,1.0,5–0,24818.0,Jérémie Pignard,2019-2020,307
+28.0,Sun,2020-03-08,21:00,Lille,Lyon,1.1,1.3,1–0,40164.0,Benoît Bastien,2019-2020,308

@@ -1,0 +1,381 @@
+Wk,Day,Date,Time,Home,Away,xG,xG.1,Score,Attendance,Referee,season,game_id
+1.0,Fri,2022-08-05,21:00,Lyon,Ajaccio,1.3,1.5,2–1,48516.0,Benoît Bastien,2022-2023,0
+1.0,Sat,2022-08-06,17:00,Strasbourg,Monaco,0.8,2.8,1–2,25359.0,François Letexier,2022-2023,1
+1.0,Sat,2022-08-06,21:00,Clermont Foot,Paris S-G,0.3,3.5,0–5,12203.0,Jeremy Stinat,2022-2023,2
+1.0,Sun,2022-08-07,13:00,Toulouse,Nice,0.9,1.2,1–1,20567.0,Johan Hamel,2022-2023,3
+1.0,Sun,2022-08-07,15:00,Lens,Brest,2.5,1.2,3–2,37015.0,Thomas Léonard,2022-2023,4
+1.0,Sun,2022-08-07,15:00,Angers,Nantes,1.5,1.5,0–0,12000.0,Hakim Ben El Hadj Salem,2022-2023,5
+1.0,Sun,2022-08-07,15:00,Lille,Auxerre,2.4,0.6,4–1,32292.0,Eric Wattellier,2022-2023,6
+1.0,Sun,2022-08-07,15:00,Montpellier,Troyes,1.7,2.0,3–2,12003.0,Pierre Gaillouste,2022-2023,7
+1.0,Sun,2022-08-07,17:05,Rennes,Lorient,1.8,1.1,0–1,28177.0,Bastien Dechepy,2022-2023,8
+1.0,Sun,2022-08-07,20:45,Marseille,Reims,2.1,0.9,4–1,62738.0,Jérôme Brisard,2022-2023,9
+2.0,Fri,2022-08-12,21:00,Nantes,Lille,1.0,2.0,1–1,30689.0,Bastien Dechepy,2022-2023,11
+2.0,Sat,2022-08-13,17:00,Monaco,Rennes,1.8,2.1,1–1,8000.0,Jérémie Pignard,2022-2023,12
+2.0,Sat,2022-08-13,21:00,Paris S-G,Montpellier,3.2,0.9,5–2,46000.0,Willy Delajod,2022-2023,13
+2.0,Sun,2022-08-14,15:00,Ajaccio,Lens,0.5,1.4,0–0,9070.0,Stéphanie Frappart,2022-2023,14
+2.0,Sun,2022-08-14,15:00,Reims,Clermont Foot,2.7,1.9,2–4,9456.0,Johan Hamel,2022-2023,15
+2.0,Sun,2022-08-14,15:00,Auxerre,Angers,0.8,1.4,2–2,15577.0,Ruddy Buquet,2022-2023,16
+2.0,Sun,2022-08-14,15:00,Troyes,Toulouse,1.0,1.5,0–3,6000.0,Marc Bollengier,2022-2023,17
+2.0,Sun,2022-08-14,17:05,Nice,Strasbourg,1.6,0.9,1–1,24707.0,Hakim Ben El Hadj Salem,2022-2023,18
+2.0,Sun,2022-08-14,20:45,Brest,Marseille,2.0,0.7,1–1,13709.0,Jeremy Stinat,2022-2023,19
+3.0,Fri,2022-08-19,21:00,Lyon,Troyes,2.6,1.0,4–1,43000.0,Eric Wattellier,2022-2023,21
+3.0,Sat,2022-08-20,17:00,Monaco,Lens,1.6,2.5,1–4,8700.0,Willy Delajod,2022-2023,22
+3.0,Sat,2022-08-20,21:00,Marseille,Nantes,1.1,2.2,2–1,63147.0,Jérémie Pignard,2022-2023,23
+3.0,Sun,2022-08-21,13:00,Strasbourg,Reims,1.2,2.0,1–1,25175.0,Ruddy Buquet,2022-2023,24
+3.0,Sun,2022-08-21,15:00,Montpellier,Auxerre,1.0,1.3,1–2,13137.0,Mathieu Vernice,2022-2023,25
+3.0,Sun,2022-08-21,15:00,Clermont Foot,Nice,0.7,1.4,1–0,11500.0,Thomas Léonard,2022-2023,26
+3.0,Sun,2022-08-21,15:00,Angers,Brest,0.6,1.8,1–3,8735.0,Jérôme Brisard,2022-2023,27
+3.0,Sun,2022-08-21,15:00,Toulouse,Lorient,1.8,2.5,2–2,23862.0,Gustavo Correia,2022-2023,28
+3.0,Sun,2022-08-21,17:05,Rennes,Ajaccio,1.2,1.4,2–1,27592.0,Hakim Ben El Hadj Salem,2022-2023,29
+3.0,Sun,2022-08-21,20:45,Lille,Paris S-G,1.7,3.4,1–7,47526.0,Clément Turpin,2022-2023,30
+4.0,Fri,2022-08-26,21:00,Ajaccio,Lille,1.5,1.7,1–3,9070.0,Thomas Léonard,2022-2023,32
+4.0,Sat,2022-08-27,17:00,Auxerre,Strasbourg,0.6,1.3,1–0,16059.0,Johan Hamel,2022-2023,33
+4.0,Sat,2022-08-27,21:00,Lens,Rennes,1.3,1.0,2–1,37848.0,Jérôme Brisard,2022-2023,34
+4.0,Sun,2022-08-28,13:00,Nantes,Toulouse,1.5,0.6,3–1,26574.0,Mathieu Vernice,2022-2023,35
+4.0,Sun,2022-08-28,15:00,Lorient,Clermont Foot,2.9,0.6,2–1,10591.0,Willy Delajod,2022-2023,36
+4.0,Sun,2022-08-28,15:00,Brest,Montpellier,0.3,2.5,0–7,11546.0,Marc Bollengier,2022-2023,37
+4.0,Sun,2022-08-28,15:00,Nice,Marseille,1.0,1.4,0–3,31418.0,François Letexier,2022-2023,38
+4.0,Sun,2022-08-28,15:00,Troyes,Angers,1.9,0.7,3–1,6673.0,Stéphanie Frappart,2022-2023,39
+4.0,Sun,2022-08-28,17:05,Reims,Lyon,0.4,1.1,1–1,14930.0,Jeremy Stinat,2022-2023,40
+4.0,Sun,2022-08-28,20:45,Paris S-G,Monaco,2.7,1.2,1–1,46000.0,Benoît Bastien,2022-2023,41
+5.0,Wed,2022-08-31,19:00,Strasbourg,Nantes,0.4,1.2,1–1,25162.0,Clément Turpin,2022-2023,43
+5.0,Wed,2022-08-31,19:00,Monaco,Troyes,1.2,2.2,2–4,4045.0,Ruddy Buquet,2022-2023,44
+5.0,Wed,2022-08-31,19:00,Lyon,Auxerre,2.6,0.7,2–1,38609.0,Pierre Gaillouste,2022-2023,45
+5.0,Wed,2022-08-31,19:00,Angers,Reims,1.7,2.3,2–4,6500.0,Jérémie Pignard,2022-2023,46
+5.0,Wed,2022-08-31,19:00,Montpellier,Ajaccio,1.7,1.2,2–0,10051.0,Bastien Dechepy,2022-2023,47
+5.0,Wed,2022-08-31,21:00,Toulouse,Paris S-G,0.8,2.8,0–3,31700.0,Hakim Ben El Hadj Salem,2022-2023,48
+5.0,Wed,2022-08-31,21:00,Lille,Nice,0.9,1.6,1–2,30254.0,Jeremy Stinat,2022-2023,49
+5.0,Wed,2022-08-31,21:00,Rennes,Brest,1.5,0.5,3–1,27392.0,Benoît Millot,2022-2023,50
+5.0,Wed,2022-08-31,21:00,Marseille,Clermont Foot,2.5,0.1,1–0,62763.0,Eric Wattellier,2022-2023,51
+5.0,Wed,2022-08-31,21:00,Lens,Lorient,3.0,1.1,5–2,37161.0,Benoît Bastien,2022-2023,52
+6.0,Sat,2022-09-03,17:00,Auxerre,Marseille,0.6,1.6,0–2,17025.0,Willy Delajod,2022-2023,54
+6.0,Sat,2022-09-03,19:00,Lyon,Angers,1.4,1.0,5–0,39586.0,Thomas Léonard,2022-2023,55
+6.0,Sat,2022-09-03,21:00,Nantes,Paris S-G,0.4,2.7,0–3,34406.0,Pierre Gaillouste,2022-2023,56
+6.0,Sun,2022-09-04,13:00,Montpellier,Lille,0.5,1.6,1–3,12215.0,Jérôme Brisard,2022-2023,57
+6.0,Sun,2022-09-04,15:00,Clermont Foot,Toulouse,1.3,1.3,2–0,10085.0,François Letexier,2022-2023,58
+6.0,Sun,2022-09-04,15:00,Reims,Lens,2.1,1.9,1–1,15761.0,Eric Wattellier,2022-2023,59
+6.0,Sun,2022-09-04,15:00,Brest,Strasbourg,0.8,2.4,1–1,11003.0,Bastien Dechepy,2022-2023,60
+6.0,Sun,2022-09-04,15:00,Ajaccio,Lorient,0.5,0.8,0–1,7000.0,Jeremy Stinat,2022-2023,61
+6.0,Sun,2022-09-04,17:05,Troyes,Rennes,0.9,2.4,1–1,8000.0,Mathieu Vernice,2022-2023,62
+6.0,Sun,2022-09-04,20:45,Nice,Monaco,0.7,1.1,0–1,24125.0,Benoît Millot,2022-2023,63
+2.0,Wed,2022-09-07,19:00,Lorient,Lyon,1.0,2.2,3–1,13685.0,Bastien Dechepy,2022-2023,65
+7.0,Fri,2022-09-09,21:00,Lens,Troyes,1.4,0.7,1–0,37344.0,Hakim Ben El Hadj Salem,2022-2023,67
+7.0,Sat,2022-09-10,17:00,Paris S-G,Brest,1.7,1.1,1–0,45000.0,Jérémie Pignard,2022-2023,68
+7.0,Sat,2022-09-10,21:00,Marseille,Lille,2.2,1.0,2–1,62985.0,Benoît Millot,2022-2023,69
+7.0,Sun,2022-09-11,13:00,Strasbourg,Clermont Foot,1.2,0.8,0–0,25089.0,Marc Bollengier,2022-2023,70
+7.0,Sun,2022-09-11,15:00,Angers,Montpellier,2.5,0.7,2–1,6165.0,François Letexier,2022-2023,71
+7.0,Sun,2022-09-11,15:00,Lorient,Nantes,1.3,0.5,3–2,15081.0,Johan Hamel,2022-2023,72
+7.0,Sun,2022-09-11,15:00,Toulouse,Reims,1.3,1.0,1–0,21315.0,Stéphanie Frappart,2022-2023,73
+7.0,Sun,2022-09-11,15:00,Ajaccio,Nice,1.2,1.2,0–1,7068.0,Eric Wattellier,2022-2023,74
+7.0,Sun,2022-09-11,17:05,Rennes,Auxerre,1.6,0.7,5–0,27837.0,Thomas Léonard,2022-2023,75
+7.0,Sun,2022-09-11,20:45,Monaco,Lyon,1.7,2.0,2–1,7000.0,Clément Turpin,2022-2023,76
+8.0,Fri,2022-09-16,21:00,Auxerre,Lorient,2.0,2.5,1–3,14866.0,Ruddy Buquet,2022-2023,78
+8.0,Sat,2022-09-17,17:00,Montpellier,Strasbourg,1.8,0.6,2–1,10780.0,Jeremy Stinat,2022-2023,79
+8.0,Sat,2022-09-17,21:00,Lille,Toulouse,1.0,0.8,2–1,33635.0,Pierre Gaillouste,2022-2023,80
+8.0,Sun,2022-09-18,13:00,Reims,Monaco,0.6,1.7,0–3,10000.0,Marc Bollengier,2022-2023,81
+8.0,Sun,2022-09-18,15:00,Brest,Ajaccio,0.6,0.5,0–1,11153.0,Stéphanie Frappart,2022-2023,82
+8.0,Sun,2022-09-18,15:00,Clermont Foot,Troyes,1.0,1.5,1–3,10753.0,Jérôme Brisard,2022-2023,83
+8.0,Sun,2022-09-18,15:00,Nice,Angers,1.3,1.5,0–1,18545.0,Bastien Dechepy,2022-2023,84
+8.0,Sun,2022-09-18,15:00,Marseille,Rennes,1.6,1.2,1–1,62753.0,Benoît Bastien,2022-2023,85
+8.0,Sun,2022-09-18,17:05,Nantes,Lens,0.9,0.9,0–0,28854.0,Willy Delajod,2022-2023,86
+8.0,Sun,2022-09-18,20:45,Lyon,Paris S-G,1.0,1.6,0–1,58230.0,François Letexier,2022-2023,87
+9.0,Fri,2022-09-30,21:00,Angers,Marseille,1.2,1.6,0–3,19000.0,Johan Hamel,2022-2023,89
+9.0,Sat,2022-10-01,17:00,Strasbourg,Rennes,1.3,3.2,1–3,25226.0,Eric Wattellier,2022-2023,90
+9.0,Sat,2022-10-01,21:00,Paris S-G,Nice,1.0,0.5,2–1,47000.0,Jérôme Brisard,2022-2023,91
+9.0,Sun,2022-10-02,13:00,Lorient,Lille,0.6,2.2,2–1,14916.0,Hakim Ben El Hadj Salem,2022-2023,92
+9.0,Sun,2022-10-02,15:00,Auxerre,Brest,1.4,0.6,1–1,14630.0,Florent Batta,2022-2023,93
+9.0,Sun,2022-10-02,15:00,Troyes,Reims,1.6,1.0,2–2,10164.0,Benoît Millot,2022-2023,94
+9.0,Sun,2022-10-02,15:00,Toulouse,Montpellier,1.7,1.2,4–2,21820.0,Jérémie Pignard,2022-2023,95
+9.0,Sun,2022-10-02,15:00,Ajaccio,Clermont Foot,1.5,1.0,1–3,6610.0,Clément Turpin,2022-2023,96
+9.0,Sun,2022-10-02,17:05,Monaco,Nantes,2.1,0.5,4–1,5202.0,Thomas Léonard,2022-2023,97
+9.0,Sun,2022-10-02,20:45,Lens,Lyon,2.9,0.1,1–0,36674.0,Benoît Bastien,2022-2023,98
+10.0,Fri,2022-10-07,21:00,Lyon,Toulouse,1.4,0.5,1–1,41295.0,Ruddy Buquet,2022-2023,100
+10.0,Sat,2022-10-08,17:00,Marseille,Ajaccio,1.7,0.2,1–2,63312.0,Willy Delajod,2022-2023,101
+10.0,Sat,2022-10-08,21:00,Reims,Paris S-G,1.8,1.2,0–0,20543.0,Pierre Gaillouste,2022-2023,102
+10.0,Sun,2022-10-09,13:00,Montpellier,Monaco,0.7,1.2,0–2,13048.0,Benoît Millot,2022-2023,103
+10.0,Sun,2022-10-09,15:00,Brest,Lorient,0.9,1.1,1–2,9819.0,Bastien Dechepy,2022-2023,104
+10.0,Sun,2022-10-09,15:00,Angers,Strasbourg,2.1,2.0,2–3,8000.0,Clément Turpin,2022-2023,105
+10.0,Sun,2022-10-09,15:00,Clermont Foot,Auxerre,1.1,1.0,2–1,11119.0,Mathieu Vernice,2022-2023,106
+10.0,Sun,2022-10-09,15:00,Nice,Troyes,2.6,1.5,3–2,18053.0,Johan Hamel,2022-2023,107
+10.0,Sun,2022-10-09,17:05,Rennes,Nantes,1.8,0.5,3–0,27844.0,Florent Batta,2022-2023,108
+10.0,Sun,2022-10-09,20:45,Lille,Lens,2.6,1.2,1–0,48527.0,François Letexier,2022-2023,109
+11.0,Fri,2022-10-14,21:00,Strasbourg,Lille,0.6,2.3,0–3,25313.0,Jérémie Pignard,2022-2023,111
+11.0,Sat,2022-10-15,17:00,Lorient,Reims,0.8,0.6,0–0,15776.0,Mathieu Vernice,2022-2023,112
+11.0,Sat,2022-10-15,21:00,Lens,Montpellier,1.8,0.7,1–0,37320.0,Hakim Ben El Hadj Salem,2022-2023,113
+11.0,Sun,2022-10-16,13:00,Toulouse,Angers,2.4,1.2,3–2,21141.0,Benoît Bastien,2022-2023,114
+11.0,Sun,2022-10-16,15:00,Rennes,Lyon,1.6,1.1,3–2,28152.0,Stéphanie Frappart,2022-2023,115
+11.0,Sun,2022-10-16,15:00,Troyes,Ajaccio,0.6,2.4,1–1,7731.0,Jérôme Brisard,2022-2023,116
+11.0,Sun,2022-10-16,15:00,Auxerre,Nice,0.8,1.6,1–1,14125.0,Eric Wattellier,2022-2023,117
+11.0,Sun,2022-10-16,15:00,Nantes,Brest,2.9,0.7,4–1,25759.0,Marc Bollengier,2022-2023,118
+11.0,Sun,2022-10-16,17:05,Monaco,Clermont Foot,1.1,1.9,1–1,4731.0,Ruddy Buquet,2022-2023,119
+11.0,Sun,2022-10-16,20:45,Paris S-G,Marseille,2.5,1.2,1–0,47000.0,Clément Turpin,2022-2023,120
+12.0,Fri,2022-10-21,21:00,Ajaccio,Paris S-G,0.3,2.5,0–3,10000.0,Johan Hamel,2022-2023,122
+12.0,Sat,2022-10-22,17:00,Montpellier,Lyon,1.1,2.7,1–2,15339.0,Thomas Léonard,2022-2023,123
+12.0,Sat,2022-10-22,21:00,Marseille,Lens,1.8,0.9,0–1,56414.0,Benoît Millot,2022-2023,124
+12.0,Sun,2022-10-23,13:00,Angers,Rennes,1.2,2.2,1–2,11500.0,Pierre Gaillouste,2022-2023,125
+12.0,Sun,2022-10-23,15:00,Troyes,Lorient,0.8,1.4,2–2,10000.0,Marc Bollengier,2022-2023,126
+12.0,Sun,2022-10-23,15:00,Clermont Foot,Brest,1.0,3.0,1–3,7275.0,Jérémie Pignard,2022-2023,127
+12.0,Sun,2022-10-23,15:00,Reims,Auxerre,2.4,0.7,2–1,11411.0,Hakim Ben El Hadj Salem,2022-2023,128
+12.0,Sun,2022-10-23,15:00,Toulouse,Strasbourg,2.2,1.8,2–2,21622.0,Jeremy Stinat,2022-2023,129
+12.0,Sun,2022-10-23,17:05,Nice,Nantes,1.4,1.0,1–1,20166.0,François Letexier,2022-2023,130
+12.0,Sun,2022-10-23,20:45,Lille,Monaco,2.5,1.1,4–3,35362.0,Willy Delajod,2022-2023,131
+13.0,Fri,2022-10-28,21:00,Lens,Toulouse,2.4,0.7,3–0,37488.0,Florent Batta,2022-2023,133
+13.0,Sat,2022-10-29,17:00,Paris S-G,Troyes,2.9,2.0,4–3,47000.0,Eric Wattellier,2022-2023,134
+13.0,Sat,2022-10-29,21:00,Strasbourg,Marseille,1.1,2.0,2–2,25687.0,Ruddy Buquet,2022-2023,135
+13.0,Sun,2022-10-30,13:00,Auxerre,Ajaccio,1.5,0.4,1–0,15092.0,Benoît Millot,2022-2023,136
+13.0,Sun,2022-10-30,15:00,Rennes,Montpellier,1.2,0.9,3–0,26617.0,Bastien Dechepy,2022-2023,137
+13.0,Sun,2022-10-30,15:00,Monaco,Angers,1.8,0.6,2–0,7069.0,Stéphanie Frappart,2022-2023,138
+13.0,Sun,2022-10-30,15:00,Brest,Reims,1.5,1.0,0–0,11008.0,Willy Delajod,2022-2023,139
+13.0,Sun,2022-10-30,15:00,Nantes,Clermont Foot,1.7,0.7,1–1,30894.0,Benoît Bastien,2022-2023,140
+13.0,Sun,2022-10-30,17:05,Lorient,Nice,1.8,1.8,1–2,16034.0,Clément Turpin,2022-2023,141
+13.0,Sun,2022-10-30,20:45,Lyon,Lille,1.6,1.5,1–0,55790.0,Jérôme Brisard,2022-2023,142
+14.0,Fri,2022-11-04,21:00,Troyes,Auxerre,1.9,1.4,1–1,12689.0,Pierre Gaillouste,2022-2023,144
+14.0,Sat,2022-11-05,17:00,Ajaccio,Strasbourg,3.7,0.9,4–2,7203.0,Mathieu Vernice,2022-2023,145
+14.0,Sat,2022-11-05,21:00,Angers,Lens,0.5,1.8,1–2,11585.0,Thomas Léonard,2022-2023,146
+14.0,Sun,2022-11-06,13:00,Lorient,Paris S-G,0.8,1.6,1–2,16778.0,Benoît Bastien,2022-2023,147
+14.0,Sun,2022-11-06,15:00,Toulouse,Monaco,0.7,2.4,0–2,23005.0,Benoît Millot,2022-2023,148
+14.0,Sun,2022-11-06,15:00,Reims,Nantes,2.8,0.7,1–0,11477.0,Ruddy Buquet,2022-2023,149
+14.0,Sun,2022-11-06,15:00,Nice,Brest,1.1,1.1,1–0,19035.0,Jeremy Stinat,2022-2023,150
+14.0,Sun,2022-11-06,15:00,Clermont Foot,Montpellier,3.4,1.2,1–1,10990.0,Marc Bollengier,2022-2023,151
+14.0,Sun,2022-11-06,17:05,Lille,Rennes,2.4,0.9,1–1,35539.0,Johan Hamel,2022-2023,152
+14.0,Sun,2022-11-06,20:45,Marseille,Lyon,0.8,0.9,1–0,62975.0,François Letexier,2022-2023,153
+15.0,Fri,2022-11-11,21:00,Lyon,Nice,1.3,1.6,1–1,57000.0,Eric Wattellier,2022-2023,155
+15.0,Sat,2022-11-12,17:00,Lens,Clermont Foot,1.5,0.2,2–1,37519.0,Hakim Ben El Hadj Salem,2022-2023,156
+15.0,Sat,2022-11-12,21:00,Rennes,Toulouse,2.1,1.0,2–1,26835.0,Willy Delajod,2022-2023,157
+15.0,Sun,2022-11-13,13:00,Paris S-G,Auxerre,2.0,0.7,5–0,45000.0,Thomas Léonard,2022-2023,158
+15.0,Sun,2022-11-13,15:00,Lille,Angers,0.6,0.6,1–0,36360.0,Miguel Nogueira,2022-2023,159
+15.0,Sun,2022-11-13,15:00,Montpellier,Reims,1.7,2.1,1–1,11778.0,Florent Batta,2022-2023,160
+15.0,Sun,2022-11-13,15:00,Brest,Troyes,2.4,1.0,2–1,10642.0,Ruddy Buquet,2022-2023,161
+15.0,Sun,2022-11-13,15:00,Nantes,Ajaccio,1.1,2.5,2–2,29407.0,Jérémie Pignard,2022-2023,162
+15.0,Sun,2022-11-13,17:05,Strasbourg,Lorient,2.3,0.5,1–1,25117.0,Pierre Gaillouste,2022-2023,163
+15.0,Sun,2022-11-13,20:45,Monaco,Marseille,2.0,1.9,2–3,10631.0,Benoît Bastien,2022-2023,164
+16.0,Wed,2022-12-28,15:00,Ajaccio,Angers,1.6,1.9,1–0,7088.0,Jeremy Stinat,2022-2023,166
+16.0,Wed,2022-12-28,15:00,Troyes,Nantes,0.2,1.5,0–0,9043.0,Stéphanie Frappart,2022-2023,167
+16.0,Wed,2022-12-28,17:00,Auxerre,Monaco,1.3,1.3,2–3,16503.0,Marc Bollengier,2022-2023,168
+16.0,Wed,2022-12-28,19:00,Clermont Foot,Lille,0.7,1.6,0–2,13122.0,François Letexier,2022-2023,169
+16.0,Wed,2022-12-28,21:00,Brest,Lyon,1.3,3.1,2–4,14601.0,Bastien Dechepy,2022-2023,170
+16.0,Wed,2022-12-28,21:00,Paris S-G,Strasbourg,2.1,1.3,2–1,47000.0,Clément Turpin,2022-2023,171
+16.0,Thu,2022-12-29,17:00,Lorient,Montpellier,1.0,1.7,0–2,15963.0,Willy Delajod,2022-2023,172
+16.0,Thu,2022-12-29,19:00,Reims,Rennes,1.4,1.6,3–1,13262.0,Hakim Ben El Hadj Salem,2022-2023,173
+16.0,Thu,2022-12-29,21:00,Marseille,Toulouse,2.6,1.8,6–1,61371.0,Jérémie Pignard,2022-2023,174
+16.0,Thu,2022-12-29,21:00,Nice,Lens,1.0,1.0,0–0,24672.0,Benoît Millot,2022-2023,175
+17.0,Sun,2023-01-01,15:00,Toulouse,Ajaccio,1.1,0.0,2–0,25957.0,Pierre Gaillouste,2022-2023,177
+17.0,Sun,2023-01-01,15:00,Monaco,Brest,1.4,0.8,1–0,6150.0,Jeremy Stinat,2022-2023,178
+17.0,Sun,2023-01-01,15:00,Angers,Lorient,2.3,0.6,1–2,6000.0,Florent Batta,2022-2023,179
+17.0,Sun,2023-01-01,15:00,Nantes,Auxerre,1.0,0.8,1–0,23266.0,Benoît Bastien,2022-2023,180
+17.0,Sun,2023-01-01,17:00,Lyon,Clermont Foot,0.7,1.2,0–1,30000.0,Stéphanie Frappart,2022-2023,181
+17.0,Sun,2023-01-01,20:45,Lens,Paris S-G,1.8,1.6,3–1,38047.0,Jérôme Brisard,2022-2023,182
+17.0,Mon,2023-01-02,15:00,Strasbourg,Troyes,1.1,1.2,2–3,25135.0,Benoît Millot,2022-2023,183
+17.0,Mon,2023-01-02,17:00,Lille,Reims,2.3,0.8,1–1,31086.0,Eric Wattellier,2022-2023,184
+17.0,Mon,2023-01-02,19:00,Montpellier,Marseille,1.4,1.4,1–2,18971.0,Ruddy Buquet,2022-2023,185
+17.0,Mon,2023-01-02,21:00,Rennes,Nice,1.9,0.4,2–1,27427.0,Thomas Léonard,2022-2023,186
+18.0,Wed,2023-01-11,19:00,Clermont Foot,Rennes,1.7,1.1,2–1,10648.0,Clément Turpin,2022-2023,188
+18.0,Wed,2023-01-11,19:00,Ajaccio,Reims,1.0,0.9,0–1,6648.0,Willy Delajod,2022-2023,189
+18.0,Wed,2023-01-11,19:00,Auxerre,Toulouse,1.1,2.2,0–5,12405.0,Florent Batta,2022-2023,190
+18.0,Wed,2023-01-11,19:00,Brest,Lille,0.3,0.7,0–0,11452.0,Mathieu Vernice,2022-2023,191
+18.0,Wed,2023-01-11,19:00,Nantes,Lyon,1.1,0.5,0–0,27657.0,Marc Bollengier,2022-2023,192
+18.0,Wed,2023-01-11,21:00,Troyes,Marseille,0.2,1.9,0–2,14222.0,Hakim Ben El Hadj Salem,2022-2023,193
+18.0,Wed,2023-01-11,21:00,Nice,Montpellier,2.5,0.2,6–1,17500.0,Bastien Dechepy,2022-2023,194
+18.0,Wed,2023-01-11,21:00,Paris S-G,Angers,1.3,0.5,2–0,47000.0,Eric Wattellier,2022-2023,195
+18.0,Wed,2023-01-11,21:00,Lorient,Monaco,1.3,1.8,2–2,14521.0,Jérôme Brisard,2022-2023,196
+18.0,Wed,2023-01-11,21:00,Strasbourg,Lens,0.8,1.9,2–2,25624.0,François Letexier,2022-2023,197
+19.0,Sat,2023-01-14,17:00,Lens,Auxerre,2.0,0.3,1–0,38208.0,Willy Delajod,2022-2023,199
+19.0,Sat,2023-01-14,19:00,Marseille,Lorient,2.2,0.5,3–1,62276.0,Bastien Dechepy,2022-2023,200
+19.0,Sat,2023-01-14,21:00,Lyon,Strasbourg,2.8,1.1,1–2,38473.0,Jeremy Stinat,2022-2023,201
+19.0,Sun,2023-01-15,13:00,Lille,Troyes,3.8,0.9,5–1,31254.0,Pierre Gaillouste,2022-2023,202
+19.0,Sun,2023-01-15,15:00,Toulouse,Brest,1.4,1.0,1–1,20637.0,Benoît Millot,2022-2023,203
+19.0,Sun,2023-01-15,15:00,Montpellier,Nantes,0.9,0.6,0–3,10947.0,Thomas Léonard,2022-2023,204
+19.0,Sun,2023-01-15,15:00,Reims,Nice,0.9,0.8,0–0,11383.0,François Letexier,2022-2023,205
+19.0,Sun,2023-01-15,15:00,Angers,Clermont Foot,0.6,1.7,1–2,12160.0,Mathieu Vernice,2022-2023,206
+19.0,Sun,2023-01-15,17:05,Monaco,Ajaccio,3.7,0.3,7–1,8000.0,Ruddy Buquet,2022-2023,207
+19.0,Sun,2023-01-15,20:45,Rennes,Paris S-G,0.8,1.0,1–0,27566.0,Benoît Bastien,2022-2023,208
+20.0,Fri,2023-01-27,21:00,Lorient,Rennes,0.9,1.5,2–1,16782.0,Benoît Millot,2022-2023,210
+20.0,Sat,2023-01-28,17:00,Troyes,Lens,1.2,2.9,1–1,13500.0,Clément Turpin,2022-2023,211
+20.0,Sat,2023-01-28,21:00,Marseille,Monaco,1.6,1.5,1–1,64502.0,Jérémie Pignard,2022-2023,212
+20.0,Sun,2023-01-29,13:00,Nice,Lille,1.6,1.6,1–0,22126.0,Eric Wattellier,2022-2023,213
+20.0,Sun,2023-01-29,15:00,Clermont Foot,Nantes,0.7,0.1,0–0,11015.0,Florent Batta,2022-2023,214
+20.0,Sun,2023-01-29,15:00,Brest,Angers,1.6,0.8,4–0,12629.0,Marc Bollengier,2022-2023,215
+20.0,Sun,2023-01-29,15:00,Auxerre,Montpellier,1.8,0.7,0–2,14206.0,Jeremy Stinat,2022-2023,216
+20.0,Sun,2023-01-29,15:00,Strasbourg,Toulouse,1.3,1.2,1–2,25196.0,Willy Delajod,2022-2023,217
+20.0,Sun,2023-01-29,17:05,Ajaccio,Lyon,1.7,1.9,0–2,6788.0,Thomas Léonard,2022-2023,218
+20.0,Sun,2023-01-29,20:45,Paris S-G,Reims,1.6,2.5,1–1,46000.0,Ruddy Buquet,2022-2023,219
+21.0,Wed,2023-02-01,19:00,Lille,Clermont Foot,1.3,1.4,0–0,32498.0,Jeremy Stinat,2022-2023,221
+21.0,Wed,2023-02-01,19:00,Nantes,Marseille,1.2,1.7,0–2,34125.0,Willy Delajod,2022-2023,222
+21.0,Wed,2023-02-01,19:00,Toulouse,Troyes,2.2,1.2,4–1,17725.0,Mathieu Vernice,2022-2023,223
+21.0,Wed,2023-02-01,19:00,Angers,Ajaccio,0.4,1.4,1–2,7255.0,Bastien Dechepy,2022-2023,224
+21.0,Wed,2023-02-01,19:00,Reims,Lorient,3.8,0.6,4–2,10746.0,Florent Batta,2022-2023,225
+21.0,Wed,2023-02-01,21:00,Lyon,Brest,2.5,0.6,0–0,30837.0,Ruddy Buquet,2022-2023,226
+21.0,Wed,2023-02-01,21:00,Monaco,Auxerre,1.2,1.4,3–2,3561.0,Eric Wattellier,2022-2023,227
+21.0,Wed,2023-02-01,21:00,Montpellier,Paris S-G,0.5,4.4,1–3,17454.0,Jérémie Pignard,2022-2023,228
+21.0,Wed,2023-02-01,21:00,Lens,Nice,0.6,2.1,0–1,37437.0,Thomas Léonard,2022-2023,229
+21.0,Wed,2023-02-01,21:00,Rennes,Strasbourg,1.1,0.1,3–0,26176.0,Marc Bollengier,2022-2023,230
+22.0,Sat,2023-02-04,17:00,Paris S-G,Toulouse,1.9,0.8,2–1,45000.0,Bastien Dechepy,2022-2023,232
+22.0,Sat,2023-02-04,19:00,Troyes,Lyon,1.0,0.8,1–3,10240.0,François Letexier,2022-2023,233
+22.0,Sat,2023-02-04,21:00,Rennes,Lille,1.8,2.2,1–3,28082.0,Florent Batta,2022-2023,234
+22.0,Sun,2023-02-05,13:00,Clermont Foot,Monaco,0.4,1.4,0–2,11598.0,Marc Bollengier,2022-2023,235
+22.0,Sun,2023-02-05,15:00,Strasbourg,Montpellier,0.9,0.9,2–0,25028.0,Stéphanie Frappart,2022-2023,236
+22.0,Sun,2023-02-05,15:00,Ajaccio,Nantes,0.3,1.2,0–2,6908.0,Ruddy Buquet,2022-2023,237
+22.0,Sun,2023-02-05,15:00,Auxerre,Reims,1.2,0.6,0–0,14680.0,Pierre Gaillouste,2022-2023,238
+22.0,Sun,2023-02-05,15:00,Lorient,Angers,1.0,0.7,0–0,12705.0,Willy Delajod,2022-2023,239
+22.0,Sun,2023-02-05,17:05,Brest,Lens,2.0,2.5,1–1,11639.0,Benoît Bastien,2022-2023,240
+22.0,Sun,2023-02-05,20:45,Marseille,Nice,2.3,1.4,1–3,65234.0,Clément Turpin,2022-2023,241
+23.0,Fri,2023-02-10,21:00,Nice,Ajaccio,0.6,0.4,3–0,20163.0,Stéphanie Frappart,2022-2023,243
+23.0,Sat,2023-02-11,17:00,Monaco,Paris S-G,2.9,0.8,3–1,16500.0,Clément Turpin,2022-2023,244
+23.0,Sat,2023-02-11,21:00,Clermont Foot,Marseille,0.8,2.6,0–2,13576.0,Ruddy Buquet,2022-2023,245
+23.0,Sun,2023-02-12,13:00,Toulouse,Rennes,2.1,1.3,3–1,21783.0,Jeremy Stinat,2022-2023,246
+23.0,Sun,2023-02-12,15:00,Angers,Auxerre,0.9,2.6,1–1,7873.0,Thomas Léonard,2022-2023,247
+23.0,Sun,2023-02-12,15:00,Lille,Strasbourg,2.7,0.3,2–0,30812.0,Hakim Ben El Hadj Salem,2022-2023,248
+23.0,Sun,2023-02-12,15:00,Montpellier,Brest,2.5,0.8,3–0,12901.0,Florent Batta,2022-2023,249
+23.0,Sun,2023-02-12,15:00,Reims,Troyes,2.3,0.9,4–0,8115.0,Jérémie Pignard,2022-2023,250
+23.0,Sun,2023-02-12,17:05,Nantes,Lorient,1.0,1.1,1–0,33579.0,Mathieu Vernice,2022-2023,251
+23.0,Sun,2023-02-12,20:45,Lyon,Lens,1.4,1.1,2–1,53426.0,Eric Wattellier,2022-2023,252
+24.0,Fri,2023-02-17,21:00,Auxerre,Lyon,1.5,0.8,2–1,16396.0,Jérôme Brisard,2022-2023,254
+24.0,Sat,2023-02-18,17:00,Nice,Reims,1.2,1.6,0–0,18102.0,Marc Bollengier,2022-2023,255
+24.0,Sat,2023-02-18,21:00,Strasbourg,Angers,1.7,1.2,2–1,25062.0,François Letexier,2022-2023,256
+24.0,Sun,2023-02-19,13:00,Paris S-G,Lille,2.0,2.4,4–3,46000.0,Willy Delajod,2022-2023,257
+24.0,Sun,2023-02-19,15:00,Troyes,Montpellier,0.1,1.6,0–1,7745.0,Benoît Bastien,2022-2023,258
+24.0,Sun,2023-02-19,15:00,Lorient,Ajaccio,2.5,0.7,3–0,12918.0,Eric Wattellier,2022-2023,259
+24.0,Sun,2023-02-19,15:00,Brest,Monaco,0.9,1.5,1–2,13203.0,Hakim Ben El Hadj Salem,2022-2023,260
+24.0,Sun,2023-02-19,15:00,Rennes,Clermont Foot,2.4,1.1,2–0,27798.0,Bastien Dechepy,2022-2023,261
+24.0,Sun,2023-02-19,17:05,Lens,Nantes,2.4,0.3,3–1,37984.0,Pierre Gaillouste,2022-2023,262
+24.0,Sun,2023-02-19,20:45,Toulouse,Marseille,2.0,1.0,2–3,29218.0,Stéphanie Frappart,2022-2023,263
+25.0,Fri,2023-02-24,21:00,Lille,Brest,1.0,0.2,2–1,30257.0,Pierre Gaillouste,2022-2023,265
+25.0,Sat,2023-02-25,17:00,Angers,Lyon,1.5,1.1,1–3,12031.0,Florent Batta,2022-2023,266
+25.0,Sat,2023-02-25,21:00,Montpellier,Lens,0.6,1.9,1–1,17074.0,Jérôme Brisard,2022-2023,267
+25.0,Sun,2023-02-26,13:00,Lorient,Auxerre,1.5,0.7,0–1,13089.0,Benoît Millot,2022-2023,268
+25.0,Sun,2023-02-26,15:00,Clermont Foot,Strasbourg,1.2,1.2,1–1,10221.0,Willy Delajod,2022-2023,269
+25.0,Sun,2023-02-26,15:00,Ajaccio,Troyes,3.8,1.5,2–1,5983.0,Marc Bollengier,2022-2023,270
+25.0,Sun,2023-02-26,15:00,Reims,Toulouse,2.7,1.1,3–0,12139.0,Mathieu Vernice,2022-2023,271
+25.0,Sun,2023-02-26,15:00,Nantes,Rennes,2.6,1.1,0–1,34467.0,Jérémie Pignard,2022-2023,272
+25.0,Sun,2023-02-26,17:05,Monaco,Nice,1.0,2.3,0–3,9000.0,Benoît Bastien,2022-2023,273
+25.0,Sun,2023-02-26,20:45,Marseille,Paris S-G,1.6,2.0,0–3,65894.0,Clément Turpin,2022-2023,274
+26.0,Fri,2023-03-03,21:00,Nice,Auxerre,1.6,0.5,1–1,21133.0,Bastien Dechepy,2022-2023,276
+26.0,Sat,2023-03-04,17:00,Lens,Lille,0.9,1.6,1–1,37974.0,François Letexier,2022-2023,277
+26.0,Sat,2023-03-04,21:00,Paris S-G,Nantes,1.4,0.4,4–2,47926.0,Jeremy Stinat,2022-2023,278
+26.0,Sun,2023-03-05,13:00,Troyes,Monaco,0.9,3.0,2–2,9160.0,Stéphanie Frappart,2022-2023,279
+26.0,Sun,2023-03-05,15:00,Montpellier,Angers,2.9,0.9,5–0,11664.0,Benoît Millot,2022-2023,280
+26.0,Sun,2023-03-05,15:00,Toulouse,Clermont Foot,1.0,0.8,0–1,20620.0,Florent Batta,2022-2023,281
+26.0,Sun,2023-03-05,15:00,Strasbourg,Brest,1.2,0.8,0–1,25123.0,Ruddy Buquet,2022-2023,282
+26.0,Sun,2023-03-05,15:00,Reims,Ajaccio,0.6,0.4,1–0,12855.0,Pierre Gaillouste,2022-2023,283
+26.0,Sun,2023-03-05,17:05,Lyon,Lorient,2.2,1.0,0–0,38568.0,Thomas Léonard,2022-2023,284
+26.0,Sun,2023-03-05,20:45,Rennes,Marseille,1.0,1.6,0–1,28515.0,Eric Wattellier,2022-2023,285
+27.0,Fri,2023-03-10,21:00,Lille,Lyon,2.3,0.8,3–3,40314.0,Benoît Bastien,2022-2023,287
+27.0,Sat,2023-03-11,17:00,Auxerre,Rennes,0.7,0.5,0–0,15695.0,Mathieu Vernice,2022-2023,288
+27.0,Sat,2023-03-11,21:00,Brest,Paris S-G,0.6,2.6,1–2,14935.0,Marc Bollengier,2022-2023,289
+27.0,Sun,2023-03-12,13:00,Clermont Foot,Lens,1.2,2.0,0–4,12311.0,Jeremy Stinat,2022-2023,290
+27.0,Sun,2023-03-12,15:00,Lorient,Troyes,1.9,0.7,2–0,13889.0,Clément Turpin,2022-2023,291
+27.0,Sun,2023-03-12,15:00,Ajaccio,Montpellier,0.2,1.0,0–1,6889.0,Hakim Ben El Hadj Salem,2022-2023,292
+27.0,Sun,2023-03-12,15:00,Nantes,Nice,1.6,1.2,2–2,33568.0,Willy Delajod,2022-2023,293
+27.0,Sun,2023-03-12,15:00,Angers,Toulouse,1.7,1.6,0–2,6487.0,Pierre Gaillouste,2022-2023,294
+27.0,Sun,2023-03-12,17:05,Monaco,Reims,0.9,1.9,0–1,5383.0,Thomas Léonard,2022-2023,295
+27.0,Sun,2023-03-12,20:45,Marseille,Strasbourg,1.6,2.1,2–2,63380.0,Jérémie Pignard,2022-2023,296
+28.0,Fri,2023-03-17,21:00,Lyon,Nantes,1.4,1.7,1–1,38880.0,Benoît Millot,2022-2023,298
+28.0,Sat,2023-03-18,17:00,Toulouse,Lille,2.3,1.4,0–2,23006.0,Hakim Ben El Hadj Salem,2022-2023,299
+28.0,Sat,2023-03-18,21:00,Lens,Angers,1.6,0.5,3–0,37410.0,Bastien Dechepy,2022-2023,300
+28.0,Sun,2023-03-19,13:00,Ajaccio,Monaco,1.1,1.1,0–2,7198.0,Jeremy Stinat,2022-2023,301
+28.0,Sun,2023-03-19,15:00,Nice,Lorient,1.2,0.7,1–1,20762.0,Ruddy Buquet,2022-2023,302
+28.0,Sun,2023-03-19,15:00,Strasbourg,Auxerre,2.8,0.7,2–0,25530.0,Eric Wattellier,2022-2023,303
+28.0,Sun,2023-03-19,15:00,Troyes,Brest,1.1,1.3,2–2,9012.0,Florent Batta,2022-2023,304
+28.0,Sun,2023-03-19,15:00,Montpellier,Clermont Foot,3.3,1.8,2–1,13166.0,Pierre Gaillouste,2022-2023,305
+28.0,Sun,2023-03-19,17:05,Paris S-G,Rennes,1.7,1.5,0–2,47000.0,Willy Delajod,2022-2023,306
+28.0,Sun,2023-03-19,20:45,Reims,Marseille,1.6,1.2,1–2,20479.0,François Letexier,2022-2023,307
+29.0,Fri,2023-03-31,21:00,Marseille,Montpellier,1.3,0.9,1–1,58231.0,Thomas Léonard,2022-2023,309
+29.0,Sat,2023-04-01,17:00,Auxerre,Troyes,1.1,1.5,1–0,16512.0,Jérôme Brisard,2022-2023,310
+29.0,Sat,2023-04-01,21:00,Rennes,Lens,1.0,1.5,0–1,28556.0,Clément Turpin,2022-2023,311
+29.0,Sun,2023-04-02,13:00,Lille,Lorient,2.0,0.2,3–1,32862.0,Jérémie Pignard,2022-2023,312
+29.0,Sun,2023-04-02,15:00,Brest,Toulouse,1.7,1.2,3–1,12325.0,Stéphanie Frappart,2022-2023,313
+29.0,Sun,2023-04-02,15:00,Angers,Nice,0.9,1.5,1–1,6649.0,Eric Wattellier,2022-2023,314
+29.0,Sun,2023-04-02,15:00,Clermont Foot,Ajaccio,2.4,0.4,2–1,9436.0,Mathieu Vernice,2022-2023,315
+29.0,Sun,2023-04-02,15:00,Nantes,Reims,1.3,2.2,0–3,26285.0,Marc Bollengier,2022-2023,316
+29.0,Sun,2023-04-02,17:05,Monaco,Strasbourg,1.4,1.5,4–3,5356.0,Willy Delajod,2022-2023,317
+29.0,Sun,2023-04-02,20:45,Paris S-G,Lyon,1.1,1.6,0–1,47000.0,François Letexier,2022-2023,318
+30.0,Fri,2023-04-07,21:00,Lens,Strasbourg,1.0,0.8,2–1,38223.0,Pierre Gaillouste,2022-2023,320
+30.0,Sat,2023-04-08,17:00,Angers,Lille,1.0,1.4,1–0,7469.0,Mathieu Vernice,2022-2023,321
+30.0,Sat,2023-04-08,21:00,Nice,Paris S-G,1.5,1.2,0–2,34456.0,Jérémie Pignard,2022-2023,322
+30.0,Sun,2023-04-09,13:00,Lyon,Rennes,1.1,1.1,3–1,45000.0,Benoît Bastien,2022-2023,323
+30.0,Sun,2023-04-09,15:00,Montpellier,Toulouse,1.9,2.1,1–2,17283.0,Florent Batta,2022-2023,324
+30.0,Sun,2023-04-09,15:00,Ajaccio,Auxerre,1.1,0.8,0–3,6742.0,Bastien Dechepy,2022-2023,325
+30.0,Sun,2023-04-09,15:00,Reims,Brest,3.4,1.4,1–1,12023.0,Benoît Millot,2022-2023,326
+30.0,Sun,2023-04-09,15:00,Troyes,Clermont Foot,0.4,1.3,0–2,7777.0,Jeremy Stinat,2022-2023,327
+30.0,Sun,2023-04-09,17:05,Nantes,Monaco,1.1,1.3,2–2,30050.0,Clément Turpin,2022-2023,328
+30.0,Sun,2023-04-09,20:45,Lorient,Marseille,0.4,0.9,0–0,16767.0,Willy Delajod,2022-2023,329
+31.0,Fri,2023-04-14,21:00,Toulouse,Lyon,1.2,2.3,1–2,28302.0,François Letexier,2022-2023,331
+31.0,Sat,2023-04-15,17:00,Rennes,Reims,2.9,0.4,3–0,27936.0,Jeremy Stinat,2022-2023,332
+31.0,Sat,2023-04-15,21:00,Paris S-G,Lens,1.2,1.8,3–1,47120.0,Willy Delajod,2022-2023,333
+31.0,Sun,2023-04-16,13:00,Lille,Montpellier,2.1,0.4,2–1,34200.0,Jérôme Brisard,2022-2023,334
+31.0,Sun,2023-04-16,15:00,Auxerre,Nantes,2.6,0.9,2–1,15714.0,Eric Wattellier,2022-2023,335
+31.0,Sun,2023-04-16,15:00,Strasbourg,Ajaccio,1.6,0.4,3–1,25130.0,Stéphanie Frappart,2022-2023,336
+31.0,Sun,2023-04-16,15:00,Brest,Nice,1.3,0.8,1–0,12615.0,Benoît Bastien,2022-2023,337
+31.0,Sun,2023-04-16,15:00,Clermont Foot,Angers,2.1,0.3,2–1,10589.0,Thomas Léonard,2022-2023,338
+31.0,Sun,2023-04-16,17:05,Monaco,Lorient,1.9,1.1,3–1,6930.0,Bastien Dechepy,2022-2023,339
+31.0,Sun,2023-04-16,20:45,Marseille,Troyes,3.7,0.4,3–1,63486.0,Benoît Millot,2022-2023,340
+32.0,Fri,2023-04-21,21:00,Angers,Paris S-G,1.8,1.6,1–2,16914.0,Eric Wattellier,2022-2023,342
+32.0,Sat,2023-04-22,17:00,Auxerre,Lille,1.5,2.2,1–1,16779.0,Stéphanie Frappart,2022-2023,343
+32.0,Sat,2023-04-22,21:00,Lens,Monaco,2.3,1.6,3–0,38223.0,François Letexier,2022-2023,344
+32.0,Sun,2023-04-23,13:00,Reims,Strasbourg,1.4,0.8,0–2,13737.0,Clément Turpin,2022-2023,345
+32.0,Sun,2023-04-23,15:00,Nantes,Troyes,1.7,1.8,2–2,34082.0,Jérémie Pignard,2022-2023,346
+32.0,Sun,2023-04-23,15:00,Nice,Clermont Foot,1.3,1.0,1–2,20578.0,Benoît Millot,2022-2023,347
+32.0,Sun,2023-04-23,15:00,Ajaccio,Brest,0.3,0.6,0–0,6879.0,Jeremy Stinat,2022-2023,348
+32.0,Sun,2023-04-23,15:00,Lorient,Toulouse,0.6,1.1,0–1,15948.0,Marc Bollengier,2022-2023,349
+32.0,Sun,2023-04-23,17:05,Montpellier,Rennes,0.9,1.1,1–0,15537.0,Ruddy Buquet,2022-2023,350
+32.0,Sun,2023-04-23,20:45,Lyon,Marseille,1.0,2.0,1–2,57509.0,Jérôme Brisard,2022-2023,351
+33.0,Fri,2023-04-28,21:00,Strasbourg,Lyon,1.3,0.8,1–2,25360.0,Ruddy Buquet,2022-2023,353
+33.0,Sat,2023-04-29,17:00,Lille,Ajaccio,1.6,0.5,3–0,35490.0,François Letexier,2022-2023,354
+33.0,Sun,2023-04-30,13:00,Monaco,Montpellier,1.1,1.9,0–4,6069.0,Marc Bollengier,2022-2023,355
+33.0,Sun,2023-04-30,15:00,Troyes,Nice,0.7,3.3,0–1,8399.0,Eric Wattellier,2022-2023,356
+33.0,Sun,2023-04-30,15:00,Clermont Foot,Reims,1.6,0.8,1–0,11446.0,Stéphanie Frappart,2022-2023,357
+33.0,Sun,2023-04-30,15:00,Rennes,Angers,2.1,1.0,4–2,28028.0,Florent Batta,2022-2023,358
+33.0,Sun,2023-04-30,17:05,Paris S-G,Lorient,1.8,2.9,1–3,41454.0,Jérôme Brisard,2022-2023,359
+33.0,Sun,2023-04-30,20:45,Marseille,Auxerre,2.6,0.5,2–1,64532.0,Jérémie Pignard,2022-2023,360
+33.0,Tue,2023-05-02,21:00,Toulouse,Lens,0.6,1.2,0–1,30866.0,Bastien Dechepy,2022-2023,361
+33.0,Wed,2023-05-03,21:00,Brest,Nantes,0.6,1.0,2–0,14470.0,Willy Delajod,2022-2023,362
+34.0,Sat,2023-05-06,17:00,Nice,Rennes,1.6,1.3,2–1,22601.0,Willy Delajod,2022-2023,364
+34.0,Sat,2023-05-06,19:00,Reims,Lille,2.0,1.7,1–0,17911.0,Thomas Léonard,2022-2023,365
+34.0,Sat,2023-05-06,21:00,Lens,Marseille,0.7,1.3,2–1,38220.0,Clément Turpin,2022-2023,366
+34.0,Sun,2023-05-07,13:00,Angers,Monaco,1.0,2.1,1–2,9223.0,Jeremy Stinat,2022-2023,367
+34.0,Sun,2023-05-07,15:00,Ajaccio,Toulouse,0.3,1.7,0–0,6735.0,Florent Batta,2022-2023,368
+34.0,Sun,2023-05-07,15:00,Lorient,Brest,1.0,1.5,2–1,16338.0,Benoît Millot,2022-2023,369
+34.0,Sun,2023-05-07,15:00,Nantes,Strasbourg,0.8,2.2,0–2,28563.0,Benoît Bastien,2022-2023,370
+34.0,Sun,2023-05-07,15:00,Auxerre,Clermont Foot,1.2,1.5,1–1,16330.0,Marc Bollengier,2022-2023,371
+34.0,Sun,2023-05-07,17:05,Lyon,Montpellier,2.9,1.8,5–4,49531.0,Bastien Dechepy,2022-2023,372
+34.0,Sun,2023-05-07,20:45,Troyes,Paris S-G,0.7,4.1,1–3,18890.0,Ruddy Buquet,2022-2023,373
+35.0,Fri,2023-05-12,21:00,Lens,Reims,1.5,1.7,2–1,37701.0,Jérémie Pignard,2022-2023,375
+35.0,Sat,2023-05-13,17:00,Strasbourg,Nice,2.0,0.5,2–0,25147.0,Jeremy Stinat,2022-2023,376
+35.0,Sat,2023-05-13,21:00,Paris S-G,Ajaccio,2.3,0.4,5–0,47926.0,Pierre Gaillouste,2022-2023,377
+35.0,Sun,2023-05-14,13:00,Clermont Foot,Lyon,1.8,1.7,2–1,13191.0,Ruddy Buquet,2022-2023,378
+35.0,Sun,2023-05-14,15:00,Montpellier,Lorient,1.6,0.6,1–1,12595.0,Mathieu Vernice,2022-2023,379
+35.0,Sun,2023-05-14,15:00,Toulouse,Nantes,1.3,1.0,0–0,27033.0,Jérôme Brisard,2022-2023,380
+35.0,Sun,2023-05-14,15:00,Brest,Auxerre,1.6,0.6,1–0,15028.0,Eric Wattellier,2022-2023,381
+35.0,Sun,2023-05-14,15:00,Rennes,Troyes,3.9,0.4,4–0,27836.0,Stéphanie Frappart,2022-2023,382
+35.0,Sun,2023-05-14,17:05,Monaco,Lille,0.7,0.9,0–0,6805.0,Benoît Bastien,2022-2023,383
+35.0,Sun,2023-05-14,20:45,Marseille,Angers,2.7,0.3,3–1,63329.0,Benoît Millot,2022-2023,384
+36.0,Fri,2023-05-19,21:00,Lyon,Monaco,2.1,1.8,3–1,53980.0,Benoît Millot,2022-2023,386
+36.0,Sat,2023-05-20,17:00,Nantes,Montpellier,0.9,1.8,0–3,30170.0,Ruddy Buquet,2022-2023,387
+36.0,Sat,2023-05-20,21:00,Lille,Marseille,1.7,0.7,2–1,47399.0,Jérôme Brisard,2022-2023,388
+36.0,Sun,2023-05-21,13:00,Ajaccio,Rennes,0.1,1.3,0–5,6637.0,Eric Wattellier,2022-2023,389
+36.0,Sun,2023-05-21,15:00,Brest,Clermont Foot,1.3,0.5,2–1,13751.0,Bastien Dechepy,2022-2023,390
+36.0,Sun,2023-05-21,15:00,Reims,Angers,1.5,1.2,2–2,11242.0,Florent Batta,2022-2023,391
+36.0,Sun,2023-05-21,15:00,Nice,Toulouse,2.2,0.8,0–0,20041.0,Jérémie Pignard,2022-2023,392
+36.0,Sun,2023-05-21,15:00,Troyes,Strasbourg,0.6,1.6,1–1,9834.0,Clément Turpin,2022-2023,393
+36.0,Sun,2023-05-21,17:05,Lorient,Lens,1.3,1.9,1–3,16724.0,Stéphanie Frappart,2022-2023,394
+36.0,Sun,2023-05-21,20:45,Auxerre,Paris S-G,0.9,2.1,1–2,16682.0,Benoît Bastien,2022-2023,395
+37.0,Sat,2023-05-27,21:00,Lille,Nantes,2.1,1.0,2–1,41136.0,Eric Wattellier,2022-2023,397
+37.0,Sat,2023-05-27,21:00,Rennes,Monaco,1.3,0.5,2–0,28344.0,Clément Turpin,2022-2023,398
+37.0,Sat,2023-05-27,21:00,Lyon,Reims,2.6,1.1,3–0,56874.0,Jeremy Stinat,2022-2023,399
+37.0,Sat,2023-05-27,21:00,Angers,Troyes,1.2,0.3,2–1,7419.0,Karim Abed,2022-2023,400
+37.0,Sat,2023-05-27,21:00,Lens,Ajaccio,2.3,0.2,3–0,37601.0,Thomas Léonard,2022-2023,401
+37.0,Sat,2023-05-27,21:00,Montpellier,Nice,2.3,3.4,2–3,16340.0,Benoît Millot,2022-2023,402
+37.0,Sat,2023-05-27,21:00,Clermont Foot,Lorient,1.4,1.1,2–0,13050.0,Florent Batta,2022-2023,403
+37.0,Sat,2023-05-27,21:00,Strasbourg,Paris S-G,1.2,1.0,1–1,25828.0,Jérôme Brisard,2022-2023,404
+37.0,Sat,2023-05-27,21:00,Toulouse,Auxerre,0.8,0.9,1–1,25172.0,Mathieu Vernice,2022-2023,405
+37.0,Sat,2023-05-27,21:00,Marseille,Brest,1.1,1.0,1–2,61732.0,Stéphanie Frappart,2022-2023,406
+38.0,Sat,2023-06-03,21:00,Paris S-G,Clermont Foot,2.2,3.1,2–3,47926.0,Thomas Léonard,2022-2023,408
+38.0,Sat,2023-06-03,21:00,Monaco,Toulouse,2.2,2.6,1–2,5670.0,Stéphanie Frappart,2022-2023,409
+38.0,Sat,2023-06-03,21:00,Ajaccio,Marseille,0.1,1.4,1–0,9500.0,Benoît Bastien,2022-2023,410
+38.0,Sat,2023-06-03,21:00,Reims,Montpellier,1.5,2.3,1–3,15036.0,Pierre Gaillouste,2022-2023,411
+38.0,Sat,2023-06-03,21:00,Nantes,Angers,1.1,0.3,1–0,27650.0,Clément Turpin,2022-2023,412
+38.0,Sat,2023-06-03,21:00,Nice,Lyon,2.3,1.8,3–1,25243.0,Eric Wattellier,2022-2023,413
+38.0,Sat,2023-06-03,21:00,Troyes,Lille,0.4,1.4,1–1,11006.0,Jeremy Stinat,2022-2023,414
+38.0,Sat,2023-06-03,21:00,Auxerre,Lens,3.3,2.8,1–3,17246.0,Benoît Millot,2022-2023,415
+38.0,Sat,2023-06-03,21:00,Lorient,Strasbourg,0.5,1.0,2–1,16351.0,Bastien Dechepy,2022-2023,416
+38.0,Sat,2023-06-03,21:00,Brest,Rennes,1.5,1.9,1–2,15143.0,Jérôme Brisard,2022-2023,417

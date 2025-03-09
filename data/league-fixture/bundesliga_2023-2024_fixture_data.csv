@@ -1,0 +1,307 @@
+Wk,Day,Date,Time,Home,Away,xG,xG.1,Score,Attendance,Referee,season,game_id
+1.0,Fri,2023-08-18,20:30,Werder Bremen,Bayern Munich,0.6,2.8,0–4,42100.0,Felix Zwayer,2023-2024,0
+1.0,Sat,2023-08-19,15:30,Leverkusen,RB Leipzig,1.4,1.6,3–2,29464.0,Felix Brych,2023-2024,1
+1.0,Sat,2023-08-19,15:30,Wolfsburg,Heidenheim,2.2,1.2,2–0,22620.0,Florian Badstübner,2023-2024,2
+1.0,Sat,2023-08-19,15:30,Stuttgart,Bochum,3.0,0.8,5–0,53000.0,Daniel Siebert,2023-2024,3
+1.0,Sat,2023-08-19,15:30,Augsburg,Gladbach,2.3,1.7,4–4,30660.0,Daniel Schlager,2023-2024,4
+1.0,Sat,2023-08-19,15:30,Hoffenheim,Freiburg,1.4,2.6,1–2,25890.0,Sven Jablonski,2023-2024,5
+1.0,Sat,2023-08-19,18:30,Dortmund,Köln,1.8,1.2,1–0,81365.0,Deniz Aytekin,2023-2024,6
+1.0,Sun,2023-08-20,15:30,Union Berlin,Mainz 05,1.9,2.3,4–1,22012.0,Tobias Stieler,2023-2024,7
+1.0,Sun,2023-08-20,17:30,Eint Frankfurt,Darmstadt 98,1.5,0.5,1–0,54000.0,Harm Osmers,2023-2024,8
+2.0,Fri,2023-08-25,20:30,RB Leipzig,Stuttgart,1.8,1.1,5–1,46084.0,Frank Willenborg,2023-2024,10
+2.0,Sat,2023-08-26,15:30,Bochum,Dortmund,1.0,1.3,1–1,26000.0,Robert Schröder,2023-2024,11
+2.0,Sat,2023-08-26,15:30,Darmstadt 98,Union Berlin,2.3,1.7,1–4,17810.0,Patrick Ittrich,2023-2024,12
+2.0,Sat,2023-08-26,15:30,Freiburg,Werder Bremen,2.4,1.0,1–0,34700.0,Benjamin Brand,2023-2024,13
+2.0,Sat,2023-08-26,15:30,Köln,Wolfsburg,0.9,1.7,1–2,49500.0,Matthias Jöllenbeck,2023-2024,14
+2.0,Sat,2023-08-26,15:30,Heidenheim,Hoffenheim,2.4,3.0,2–3,15000.0,Robert Hartmann,2023-2024,15
+2.0,Sat,2023-08-26,18:30,Gladbach,Leverkusen,0.9,2.7,0–3,54042.0,Christian Dingert,2023-2024,16
+2.0,Sun,2023-08-27,15:30,Mainz 05,Eint Frankfurt,1.2,1.1,1–1,33305.0,Bastian Dankert,2023-2024,17
+2.0,Sun,2023-08-27,17:30,Bayern Munich,Augsburg,2.8,0.7,3–1,75000.0,Daniel Siebert,2023-2024,18
+3.0,Fri,2023-09-01,20:30,Dortmund,Heidenheim,3.4,2.1,2–2,81365.0,Tobias Reichel,2023-2024,20
+3.0,Sat,2023-09-02,15:30,Werder Bremen,Mainz 05,2.7,0.5,4–0,41000.0,Robert Schröder,2023-2024,21
+3.0,Sat,2023-09-02,15:30,Hoffenheim,Wolfsburg,2.0,1.2,3–1,17500.0,Felix Zwayer,2023-2024,22
+3.0,Sat,2023-09-02,15:30,Leverkusen,Darmstadt 98,2.8,0.4,5–1,29653.0,Sven Jablonski,2023-2024,23
+3.0,Sat,2023-09-02,15:30,Augsburg,Bochum,1.9,1.6,2–2,27424.0,Martin Petersen,2023-2024,24
+3.0,Sat,2023-09-02,15:30,Stuttgart,Freiburg,1.7,1.0,5–0,54300.0,Felix Brych,2023-2024,25
+3.0,Sat,2023-09-02,18:30,Gladbach,Bayern Munich,0.3,2.4,1–2,54042.0,Deniz Aytekin,2023-2024,26
+3.0,Sun,2023-09-03,15:30,Eint Frankfurt,Köln,1.1,0.9,1–1,54000.0,Florian Badstübner,2023-2024,27
+3.0,Sun,2023-09-03,17:30,Union Berlin,RB Leipzig,0.3,1.2,0–3,22012.0,Daniel Schlager,2023-2024,28
+4.0,Fri,2023-09-15,20:30,Bayern Munich,Leverkusen,2.1,2.1,2–2,75000.0,Daniel Schlager,2023-2024,30
+4.0,Sat,2023-09-16,15:30,Wolfsburg,Union Berlin,0.4,1.1,2–1,21917.0,Felix Brych,2023-2024,31
+4.0,Sat,2023-09-16,15:30,Mainz 05,Stuttgart,0.9,1.6,1–3,30500.0,Harm Osmers,2023-2024,32
+4.0,Sat,2023-09-16,15:30,Freiburg,Dortmund,1.0,2.3,2–4,34700.0,Tobias Stieler,2023-2024,33
+4.0,Sat,2023-09-16,15:30,Köln,Hoffenheim,1.0,1.0,1–3,49300.0,Daniel Siebert,2023-2024,34
+4.0,Sat,2023-09-16,15:30,RB Leipzig,Augsburg,1.1,1.7,3–0,44746.0,Sascha Stegemann,2023-2024,35
+4.0,Sat,2023-09-16,18:30,Bochum,Eint Frankfurt,2.0,0.6,1–1,26000.0,Benjamin Brand,2023-2024,36
+4.0,Sun,2023-09-17,15:30,Heidenheim,Werder Bremen,2.2,3.0,4–2,15000.0,Patrick Ittrich,2023-2024,37
+4.0,Sun,2023-09-17,17:30,Darmstadt 98,Gladbach,1.2,3.9,3–3,17810.0,Timo Gerach,2023-2024,38
+5.0,Fri,2023-09-22,20:30,Stuttgart,Darmstadt 98,2.3,0.2,3–1,54000.0,Matthias Jöllenbeck,2023-2024,40
+5.0,Sat,2023-09-23,15:30,Bayern Munich,Bochum,4.8,0.1,7–0,75000.0,Robert Hartmann,2023-2024,41
+5.0,Sat,2023-09-23,15:30,Union Berlin,Hoffenheim,1.6,2.0,0–2,20000.0,Deniz Aytekin,2023-2024,42
+5.0,Sat,2023-09-23,15:30,Augsburg,Mainz 05,0.8,0.6,2–1,27310.0,Marco Fritz,2023-2024,43
+5.0,Sat,2023-09-23,15:30,Dortmund,Wolfsburg,1.7,0.5,1–0,81365.0,Sven Jablonski,2023-2024,44
+5.0,Sat,2023-09-23,15:30,Gladbach,RB Leipzig,0.8,0.7,0–1,50122.0,Robert Schröder,2023-2024,45
+5.0,Sat,2023-09-23,18:30,Werder Bremen,Köln,2.1,1.3,2–1,42100.0,Bastian Dankert,2023-2024,46
+5.0,Sun,2023-09-24,15:30,Leverkusen,Heidenheim,3.4,0.5,4–1,29557.0,Christian Dingert,2023-2024,47
+5.0,Sun,2023-09-24,17:30,Eint Frankfurt,Freiburg,0.6,0.5,0–0,55800.0,Felix Zwayer,2023-2024,48
+6.0,Fri,2023-09-29,20:30,Hoffenheim,Dortmund,1.9,1.6,1–3,30150.0,Florian Badstübner,2023-2024,50
+6.0,Sat,2023-09-30,15:30,Köln,Stuttgart,0.7,2.5,0–2,50000.0,Tobias Stieler,2023-2024,51
+6.0,Sat,2023-09-30,15:30,Heidenheim,Union Berlin,0.8,2.2,1–0,15000.0,Sascha Stegemann,2023-2024,52
+6.0,Sat,2023-09-30,15:30,Wolfsburg,Eint Frankfurt,3.2,1.3,2–0,28323.0,Frank Willenborg,2023-2024,53
+6.0,Sat,2023-09-30,15:30,Bochum,Gladbach,1.7,2.9,1–3,26000.0,Felix Brych,2023-2024,54
+6.0,Sat,2023-09-30,15:30,Mainz 05,Leverkusen,0.5,1.1,0–3,33305.0,Benjamin Brand,2023-2024,55
+6.0,Sat,2023-09-30,18:30,RB Leipzig,Bayern Munich,0.7,2.3,2–2,47069.0,Marco Fritz,2023-2024,56
+6.0,Sun,2023-10-01,15:30,Darmstadt 98,Werder Bremen,2.4,1.5,4–2,17810.0,Martin Petersen,2023-2024,57
+6.0,Sun,2023-10-01,17:30,Freiburg,Augsburg,1.0,0.8,2–0,33134.0,Harm Osmers,2023-2024,58
+7.0,Fri,2023-10-06,20:30,Gladbach,Mainz 05,2.3,0.8,2–2,51529.0,Sven Jablonski,2023-2024,60
+7.0,Sat,2023-10-07,15:30,RB Leipzig,Bochum,2.5,0.4,0–0,44269.0,Timo Gerach,2023-2024,61
+7.0,Sat,2023-10-07,15:30,Dortmund,Union Berlin,1.6,1.4,4–2,81365.0,Patrick Ittrich,2023-2024,62
+7.0,Sat,2023-10-07,15:30,Augsburg,Darmstadt 98,0.9,1.8,1–2,29200.0,Deniz Aytekin,2023-2024,63
+7.0,Sat,2023-10-07,15:30,Stuttgart,Wolfsburg,2.7,1.2,3–1,52000.0,Daniel Siebert,2023-2024,64
+7.0,Sat,2023-10-07,18:30,Werder Bremen,Hoffenheim,0.8,1.9,2–3,41000.0,Christian Dingert,2023-2024,65
+7.0,Sun,2023-10-08,15:30,Leverkusen,Köln,3.2,1.3,3–0,30210.0,Felix Zwayer,2023-2024,66
+7.0,Sun,2023-10-08,17:30,Bayern Munich,Freiburg,2.4,0.1,3–0,75000.0,Robert Schröder,2023-2024,67
+7.0,Sun,2023-10-08,19:30,Eint Frankfurt,Heidenheim,1.9,1.2,2–0,55800.0,Daniel Schlager,2023-2024,68
+8.0,Fri,2023-10-20,20:30,Dortmund,Werder Bremen,2.6,0.4,1–0,81365.0,Felix Brych,2023-2024,70
+8.0,Sat,2023-10-21,15:30,Freiburg,Bochum,2.3,1.5,2–1,33900.0,Tobias Reichel,2023-2024,71
+8.0,Sat,2023-10-21,15:30,Darmstadt 98,RB Leipzig,2.4,1.9,1–3,17810.0,Harm Osmers,2023-2024,72
+8.0,Sat,2023-10-21,15:30,Wolfsburg,Leverkusen,1.4,1.9,1–2,28917.0,Marco Fritz,2023-2024,73
+8.0,Sat,2023-10-21,15:30,Union Berlin,Stuttgart,0.6,1.4,0–3,22012.0,Bastian Dankert,2023-2024,74
+8.0,Sat,2023-10-21,15:30,Hoffenheim,Eint Frankfurt,1.4,2.4,1–3,30150.0,Matthias Jöllenbeck,2023-2024,75
+8.0,Sat,2023-10-21,18:30,Mainz 05,Bayern Munich,1.1,1.8,1–3,33305.0,Sascha Stegemann,2023-2024,76
+8.0,Sun,2023-10-22,15:30,Köln,Gladbach,2.7,0.3,3–1,50000.0,Deniz Aytekin,2023-2024,77
+8.0,Sun,2023-10-22,17:30,Heidenheim,Augsburg,1.5,2.5,2–5,15000.0,Tobias Stieler,2023-2024,78
+9.0,Fri,2023-10-27,20:30,Bochum,Mainz 05,1.4,0.4,2–2,26000.0,Patrick Ittrich,2023-2024,80
+9.0,Sat,2023-10-28,15:30,Gladbach,Heidenheim,1.0,0.4,2–1,51541.0,Robert Hartmann,2023-2024,81
+9.0,Sat,2023-10-28,15:30,Werder Bremen,Union Berlin,0.8,0.6,2–0,42100.0,Tobias Stieler,2023-2024,82
+9.0,Sat,2023-10-28,15:30,Augsburg,Wolfsburg,1.4,1.4,3–2,28000.0,Daniel Schlager,2023-2024,83
+9.0,Sat,2023-10-28,15:30,Stuttgart,Hoffenheim,3.6,1.7,2–3,53200.0,Felix Zwayer,2023-2024,84
+9.0,Sat,2023-10-28,15:30,Bayern Munich,Darmstadt 98,5.8,0.7,8–0,75000.0,Martin Petersen,2023-2024,85
+9.0,Sat,2023-10-28,18:30,RB Leipzig,Köln,4.2,0.9,6–0,46480.0,Benjamin Brand,2023-2024,86
+9.0,Sun,2023-10-29,15:30,Eint Frankfurt,Dortmund,2.2,2.2,3–3,56500.0,Robert Schröder,2023-2024,87
+9.0,Sun,2023-10-29,17:30,Leverkusen,Freiburg,1.4,0.9,2–1,30210.0,Daniel Siebert,2023-2024,88
+10.0,Fri,2023-11-03,20:30,Darmstadt 98,Bochum,0.7,1.2,1–2,17810.0,Marco Fritz,2023-2024,90
+10.0,Sat,2023-11-04,15:30,Mainz 05,RB Leipzig,0.9,0.5,2–0,30100.0,Bastian Dankert,2023-2024,91
+10.0,Sat,2023-11-04,15:30,Freiburg,Gladbach,3.3,2.2,3–3,34700.0,Felix Brych,2023-2024,92
+10.0,Sat,2023-11-04,15:30,Köln,Augsburg,2.0,2.6,1–1,49300.0,Christian Dingert,2023-2024,93
+10.0,Sat,2023-11-04,15:30,Hoffenheim,Leverkusen,1.7,1.0,2–3,30150.0,Frank Willenborg,2023-2024,94
+10.0,Sat,2023-11-04,15:30,Union Berlin,Eint Frankfurt,0.7,1.6,0–3,22012.0,Sven Jablonski,2023-2024,95
+10.0,Sat,2023-11-04,18:30,Dortmund,Bayern Munich,1.0,3.2,0–4,81365.0,Deniz Aytekin,2023-2024,96
+10.0,Sun,2023-11-05,15:30,Wolfsburg,Werder Bremen,1.6,1.2,2–2,28917.0,Tobias Reichel,2023-2024,97
+10.0,Sun,2023-11-05,17:30,Heidenheim,Stuttgart,1.2,2.6,2–0,15000.0,Florian Badstübner,2023-2024,98
+11.0,Fri,2023-11-10,20:30,Gladbach,Wolfsburg,1.5,0.5,4–0,45308.0,Felix Zwayer,2023-2024,100
+11.0,Sat,2023-11-11,15:30,Augsburg,Hoffenheim,1.0,0.8,1–1,28260.0,Felix Brych,2023-2024,101
+11.0,Sat,2023-11-11,15:30,Stuttgart,Dortmund,4.2,1.0,2–1,55000.0,Tobias Stieler,2023-2024,102
+11.0,Sat,2023-11-11,15:30,Bayern Munich,Heidenheim,2.0,0.9,4–2,75000.0,Harm Osmers,2023-2024,103
+11.0,Sat,2023-11-11,15:30,Darmstadt 98,Mainz 05,0.5,0.7,0–0,17810.0,Daniel Siebert,2023-2024,104
+11.0,Sat,2023-11-11,18:30,Bochum,Köln,3.7,0.9,1–1,26000.0,Matthias Jöllenbeck,2023-2024,105
+11.0,Sun,2023-11-12,15:30,Leverkusen,Union Berlin,2.4,0.0,4–0,29387.0,Timo Gerach,2023-2024,106
+11.0,Sun,2023-11-12,17:30,Werder Bremen,Eint Frankfurt,1.5,2.0,2–2,42100.0,Benjamin Brand,2023-2024,107
+11.0,Sun,2023-11-12,19:30,RB Leipzig,Freiburg,1.9,0.5,3–1,41117.0,Patrick Ittrich,2023-2024,108
+12.0,Fri,2023-11-24,20:30,Köln,Bayern Munich,0.2,3.5,0–1,50000.0,Marco Fritz,2023-2024,110
+12.0,Sat,2023-11-25,15:30,Freiburg,Darmstadt 98,1.6,0.4,1–1,34300.0,Sascha Stegemann,2023-2024,111
+12.0,Sat,2023-11-25,15:30,Werder Bremen,Leverkusen,0.2,1.0,0–3,42100.0,Martin Petersen,2023-2024,112
+12.0,Sat,2023-11-25,15:30,Wolfsburg,RB Leipzig,0.9,2.7,2–1,25350.0,Robert Hartmann,2023-2024,113
+12.0,Sat,2023-11-25,15:30,Union Berlin,Augsburg,2.1,1.7,1–1,22012.0,Florian Badstübner,2023-2024,114
+12.0,Sat,2023-11-25,15:30,Dortmund,Gladbach,3.2,1.0,4–2,81365.0,Sven Jablonski,2023-2024,115
+12.0,Sat,2023-11-25,18:30,Eint Frankfurt,Stuttgart,0.9,2.3,1–2,58000.0,Felix Brych,2023-2024,116
+12.0,Sun,2023-11-26,15:30,Heidenheim,Bochum,0.8,0.4,0–0,15000.0,Felix Zwayer,2023-2024,117
+12.0,Sun,2023-11-26,17:30,Hoffenheim,Mainz 05,1.2,1.8,1–1,22000.0,Deniz Aytekin,2023-2024,118
+13.0,Fri,2023-12-01,20:30,Darmstadt 98,Köln,0.7,1.5,0–1,17810.0,Patrick Ittrich,2023-2024,120
+13.0,Sat,2023-12-02,15:30,RB Leipzig,Heidenheim,4.0,1.0,2–1,44887.0,Christian Dingert,2023-2024,121
+13.0,Sat,2023-12-02,15:30,Bochum,Wolfsburg,1.5,1.3,3–1,24350.0,Robert Schröder,2023-2024,122
+13.0,Sat,2023-12-02,15:30,Gladbach,Hoffenheim,1.6,1.4,2–1,49341.0,Tobias Reichel,2023-2024,123
+13.0,Sat,2023-12-02,18:30,Stuttgart,Werder Bremen,3.5,0.8,2–0,54500.0,Bastian Dankert,2023-2024,124
+13.0,Sun,2023-12-03,15:30,Mainz 05,Freiburg,2.3,0.9,0–1,30300.0,Tobias Stieler,2023-2024,125
+13.0,Sun,2023-12-03,17:30,Leverkusen,Dortmund,2.1,0.7,1–1,30210.0,Daniel Siebert,2023-2024,126
+13.0,Sun,2023-12-03,19:30,Augsburg,Eint Frankfurt,1.4,1.0,2–1,26107.0,Harm Osmers,2023-2024,127
+14.0,Fri,2023-12-08,20:30,Hoffenheim,Bochum,1.5,1.5,3–1,16023.0,Matthias Jöllenbeck,2023-2024,129
+14.0,Sat,2023-12-09,15:30,Heidenheim,Darmstadt 98,1.4,0.9,3–2,15000.0,Daniel Schlager,2023-2024,130
+14.0,Sat,2023-12-09,15:30,Eint Frankfurt,Bayern Munich,1.3,2.1,5–1,58000.0,Felix Zwayer,2023-2024,131
+14.0,Sat,2023-12-09,15:30,Union Berlin,Gladbach,2.1,1.1,3–1,22012.0,Martin Petersen,2023-2024,132
+14.0,Sat,2023-12-09,15:30,Wolfsburg,Freiburg,1.2,1.1,0–1,20146.0,Marco Fritz,2023-2024,133
+14.0,Sat,2023-12-09,15:30,Werder Bremen,Augsburg,1.5,0.7,2–0,41000.0,Sascha Stegemann,2023-2024,134
+14.0,Sat,2023-12-09,18:30,Dortmund,RB Leipzig,1.5,2.8,2–3,81365.0,Sven Jablonski,2023-2024,135
+14.0,Sun,2023-12-10,15:30,Stuttgart,Leverkusen,2.6,1.3,1–1,54500.0,Deniz Aytekin,2023-2024,136
+14.0,Sun,2023-12-10,17:30,Köln,Mainz 05,0.3,1.4,0–0,50000.0,Frank Willenborg,2023-2024,137
+15.0,Fri,2023-12-15,20:30,Gladbach,Werder Bremen,1.4,1.6,2–2,50660.0,Felix Zwayer,2023-2024,139
+15.0,Sat,2023-12-16,15:30,Darmstadt 98,Wolfsburg,0.6,0.6,0–1,16900.0,Robert Hartmann,2023-2024,140
+15.0,Sat,2023-12-16,15:30,Bochum,Union Berlin,2.8,0.7,3–0,25300.0,Sven Jablonski,2023-2024,141
+15.0,Sat,2023-12-16,15:30,Augsburg,Dortmund,1.8,2.6,1–1,30660.0,Matthias Jöllenbeck,2023-2024,142
+15.0,Sat,2023-12-16,15:30,Mainz 05,Heidenheim,1.6,0.5,0–1,27200.0,Bastian Dankert,2023-2024,143
+15.0,Sat,2023-12-16,18:30,RB Leipzig,Hoffenheim,2.8,0.8,3–1,42946.0,Robert Schröder,2023-2024,144
+15.0,Sun,2023-12-17,15:30,Freiburg,Köln,3.0,1.2,2–0,34700.0,Harm Osmers,2023-2024,145
+15.0,Sun,2023-12-17,17:30,Leverkusen,Eint Frankfurt,2.5,0.2,3–0,30210.0,Christian Dingert,2023-2024,146
+15.0,Sun,2023-12-17,19:30,Bayern Munich,Stuttgart,2.8,0.4,3–0,75000.0,Tobias Stieler,2023-2024,147
+16.0,Tue,2023-12-19,18:30,Werder Bremen,RB Leipzig,1.5,1.7,1–1,41000.0,Tobias Reichel,2023-2024,149
+16.0,Tue,2023-12-19,20:30,Hoffenheim,Darmstadt 98,3.5,0.8,3–3,18125.0,Frank Willenborg,2023-2024,150
+16.0,Tue,2023-12-19,20:30,Dortmund,Mainz 05,1.2,0.9,1–1,80350.0,Marco Fritz,2023-2024,151
+16.0,Wed,2023-12-20,18:30,Union Berlin,Köln,1.5,0.8,2–0,22012.0,Deniz Aytekin,2023-2024,152
+16.0,Wed,2023-12-20,20:30,Heidenheim,Freiburg,1.9,1.8,3–2,15000.0,Benjamin Brand,2023-2024,153
+16.0,Wed,2023-12-20,20:30,Stuttgart,Augsburg,2.6,0.2,3–0,53600.0,Daniel Siebert,2023-2024,154
+16.0,Wed,2023-12-20,20:30,Wolfsburg,Bayern Munich,0.3,2.5,1–2,28917.0,Sascha Stegemann,2023-2024,155
+16.0,Wed,2023-12-20,20:30,Leverkusen,Bochum,3.3,0.4,4–0,30210.0,Daniel Schlager,2023-2024,156
+16.0,Wed,2023-12-20,20:30,Eint Frankfurt,Gladbach,1.4,0.3,2–1,58000.0,Florian Badstübner,2023-2024,157
+17.0,Fri,2024-01-12,20:30,Bayern Munich,Hoffenheim,2.8,1.2,3–0,75000.0,Benjamin Brand,2023-2024,159
+17.0,Sat,2024-01-13,15:30,RB Leipzig,Eint Frankfurt,3.5,1.1,0–1,45867.0,Frank Willenborg,2023-2024,160
+17.0,Sat,2024-01-13,15:30,Freiburg,Union Berlin,1.8,0.5,0–0,33800.0,Christian Dingert,2023-2024,161
+17.0,Sat,2024-01-13,15:30,Augsburg,Leverkusen,0.4,2.0,0–1,30055.0,Sven Jablonski,2023-2024,162
+17.0,Sat,2024-01-13,15:30,Köln,Heidenheim,0.9,0.9,1–1,50000.0,Felix Zwayer,2023-2024,163
+17.0,Sat,2024-01-13,15:30,Mainz 05,Wolfsburg,0.4,0.6,1–1,24000.0,Patrick Ittrich,2023-2024,164
+17.0,Sat,2024-01-13,18:30,Darmstadt 98,Dortmund,1.0,3.1,0–3,17810.0,Deniz Aytekin,2023-2024,165
+17.0,Sun,2024-01-14,15:30,Bochum,Werder Bremen,0.7,0.8,1–1,26000.0,Tobias Stieler,2023-2024,166
+17.0,Sun,2024-01-14,17:30,Gladbach,Stuttgart,1.9,0.9,3–1,53429.0,Harm Osmers,2023-2024,167
+18.0,Sat,2024-01-20,15:30,Darmstadt 98,Eint Frankfurt,1.1,1.2,2–2,17750.0,Daniel Siebert,2023-2024,169
+18.0,Sat,2024-01-20,15:30,Heidenheim,Wolfsburg,1.1,1.1,1–1,15000.0,Timo Gerach,2023-2024,170
+18.0,Sat,2024-01-20,15:30,Köln,Dortmund,1.3,3.4,0–4,50000.0,Daniel Schlager,2023-2024,171
+18.0,Sat,2024-01-20,15:30,Freiburg,Hoffenheim,2.7,1.4,3–2,33600.0,Sascha Stegemann,2023-2024,172
+18.0,Sat,2024-01-20,15:30,Bochum,Stuttgart,0.9,1.4,1–0,26000.0,Bastian Dankert,2023-2024,173
+18.0,Sat,2024-01-20,18:30,RB Leipzig,Leverkusen,1.6,2.0,2–3,46529.0,Matthias Jöllenbeck,2023-2024,174
+18.0,Sun,2024-01-21,15:30,Bayern Munich,Werder Bremen,1.9,0.4,0–1,75000.0,Marco Fritz,2023-2024,175
+18.0,Sun,2024-01-21,17:30,Gladbach,Augsburg,1.7,1.3,1–2,44867.0,Martin Petersen,2023-2024,176
+13.0,Wed,2024-01-24,20:30,Bayern Munich,Union Berlin,2.1,0.2,1–0,75000.0,Frank Willenborg,2023-2024,178
+19.0,Fri,2024-01-26,20:30,Eint Frankfurt,Mainz 05,1.3,0.8,1–0,58000.0,Felix Zwayer,2023-2024,180
+19.0,Sat,2024-01-27,15:30,Werder Bremen,Freiburg,2.5,1.2,3–1,41500.0,Robert Hartmann,2023-2024,181
+19.0,Sat,2024-01-27,15:30,Augsburg,Bayern Munich,2.6,2.3,2–3,30660.0,Christian Dingert,2023-2024,182
+19.0,Sat,2024-01-27,15:30,Wolfsburg,Köln,1.5,0.6,1–1,24525.0,Sören Storks,2023-2024,183
+19.0,Sat,2024-01-27,15:30,Hoffenheim,Heidenheim,2.8,1.1,1–1,20120.0,Tobias Welz,2023-2024,184
+19.0,Sat,2024-01-27,15:30,Stuttgart,RB Leipzig,2.2,0.4,5–2,52100.0,Sven Jablonski,2023-2024,185
+19.0,Sat,2024-01-27,18:30,Leverkusen,Gladbach,2.9,0.3,0–0,30210.0,Deniz Aytekin,2023-2024,186
+19.0,Sun,2024-01-28,15:30,Union Berlin,Darmstadt 98,2.5,1.1,1–0,21786.0,Harm Osmers,2023-2024,187
+19.0,Sun,2024-01-28,17:30,Dortmund,Bochum,2.9,0.5,3–1,81365.0,Benjamin Brand,2023-2024,188
+20.0,Fri,2024-02-02,20:30,Heidenheim,Dortmund,1.2,0.6,0–0,15000.0,Bastian Dankert,2023-2024,190
+20.0,Sat,2024-02-03,15:30,Freiburg,Stuttgart,0.7,1.7,1–3,34700.0,Daniel Siebert,2023-2024,191
+20.0,Sat,2024-02-03,15:30,Bayern Munich,Gladbach,2.1,1.0,3–1,75000.0,Tobias Stieler,2023-2024,192
+20.0,Sat,2024-02-03,15:30,Mainz 05,Werder Bremen,0.8,0.6,0–1,31800.0,Benjamin Brand,2023-2024,193
+20.0,Sat,2024-02-03,15:30,Darmstadt 98,Leverkusen,0.6,1.9,0–2,17810.0,Tobias Reichel,2023-2024,194
+20.0,Sat,2024-02-03,15:30,Bochum,Augsburg,0.9,1.6,1–1,24500.0,Patrick Ittrich,2023-2024,195
+20.0,Sat,2024-02-03,18:30,Köln,Eint Frankfurt,1.3,0.8,2–0,50000.0,Timo Gerach,2023-2024,196
+20.0,Sun,2024-02-04,15:30,Wolfsburg,Hoffenheim,1.7,1.7,2–2,22917.0,Florian Badstübner,2023-2024,197
+20.0,Sun,2024-02-04,17:30,RB Leipzig,Union Berlin,1.1,0.5,2–0,44032.0,Marco Fritz,2023-2024,198
+18.0,Wed,2024-02-07,18:30,Mainz 05,Union Berlin,1.3,1.0,1–1,26200.0,Martin Petersen,2023-2024,200
+21.0,Fri,2024-02-09,20:30,Dortmund,Freiburg,1.9,0.3,3–0,81365.0,Harm Osmers,2023-2024,202
+21.0,Sat,2024-02-10,15:30,Werder Bremen,Heidenheim,1.7,1.8,1–2,41000.0,Robert Schröder,2023-2024,203
+21.0,Sat,2024-02-10,15:30,Union Berlin,Wolfsburg,0.5,1.3,1–0,22000.0,Matthias Jöllenbeck,2023-2024,204
+21.0,Sat,2024-02-10,15:30,Gladbach,Darmstadt 98,1.5,0.7,0–0,46121.0,Sascha Stegemann,2023-2024,205
+21.0,Sat,2024-02-10,15:30,Eint Frankfurt,Bochum,2.4,1.5,1–1,57500.0,Sven Jablonski,2023-2024,206
+21.0,Sat,2024-02-10,15:30,Augsburg,RB Leipzig,0.7,1.3,2–2,28510.0,Benjamin Brand,2023-2024,207
+21.0,Sat,2024-02-10,18:30,Leverkusen,Bayern Munich,1.3,0.6,3–0,30210.0,Felix Zwayer,2023-2024,208
+21.0,Sun,2024-02-11,15:30,Stuttgart,Mainz 05,1.9,1.4,3–1,52005.0,Deniz Aytekin,2023-2024,209
+21.0,Sun,2024-02-11,17:30,Hoffenheim,Köln,1.2,0.1,1–1,23020.0,Christian Dingert,2023-2024,210
+22.0,Fri,2024-02-16,20:30,Köln,Werder Bremen,0.8,1.8,0–1,50000.0,Daniel Siebert,2023-2024,212
+22.0,Sat,2024-02-17,15:30,Mainz 05,Augsburg,2.1,1.0,1–0,24800.0,Tobias Reichel,2023-2024,213
+22.0,Sat,2024-02-17,15:30,Hoffenheim,Union Berlin,1.0,1.4,0–1,19050.0,Robert Hartmann,2023-2024,214
+22.0,Sat,2024-02-17,15:30,Darmstadt 98,Stuttgart,1.7,1.6,1–2,17810.0,Tobias Welz,2023-2024,215
+22.0,Sat,2024-02-17,15:30,Wolfsburg,Dortmund,1.8,1.4,1–1,28917.0,Martin Petersen,2023-2024,216
+22.0,Sat,2024-02-17,15:30,Heidenheim,Leverkusen,0.4,1.9,1–2,15000.0,Harm Osmers,2023-2024,217
+22.0,Sat,2024-02-17,18:30,RB Leipzig,Gladbach,1.7,0.7,2–0,44822.0,Sören Storks,2023-2024,218
+22.0,Sun,2024-02-18,15:30,Freiburg,Eint Frankfurt,2.2,1.0,3–3,34700.0,Tobias Stieler,2023-2024,219
+22.0,Sun,2024-02-18,17:30,Bochum,Bayern Munich,1.7,3.3,3–2,26000.0,Daniel Schlager,2023-2024,220
+23.0,Fri,2024-02-23,20:30,Leverkusen,Mainz 05,1.1,1.1,2–1,30210.0,Timo Gerach,2023-2024,222
+23.0,Sat,2024-02-24,15:30,Union Berlin,Heidenheim,1.1,1.1,2–2,21341.0,Deniz Aytekin,2023-2024,223
+23.0,Sat,2024-02-24,15:30,Werder Bremen,Darmstadt 98,1.8,1.0,1–1,42358.0,Florian Badstübner,2023-2024,224
+23.0,Sat,2024-02-24,15:30,Gladbach,Bochum,3.5,1.6,5–2,53196.0,Frank Willenborg,2023-2024,225
+23.0,Sat,2024-02-24,15:30,Stuttgart,Köln,2.2,0.7,1–1,54500.0,Patrick Ittrich,2023-2024,226
+23.0,Sat,2024-02-24,18:30,Bayern Munich,RB Leipzig,1.5,0.9,2–1,75000.0,Sascha Stegemann,2023-2024,227
+23.0,Sun,2024-02-25,15:30,Eint Frankfurt,Wolfsburg,0.9,1.0,2–2,56500.0,Daniel Schlager,2023-2024,228
+23.0,Sun,2024-02-25,17:30,Dortmund,Hoffenheim,1.9,1.3,2–3,81365.0,Marco Fritz,2023-2024,229
+23.0,Sun,2024-02-25,19:30,Augsburg,Freiburg,1.6,1.6,2–1,28894.0,Bastian Dankert,2023-2024,230
+24.0,Fri,2024-03-01,20:30,Freiburg,Bayern Munich,1.5,1.8,2–2,34700.0,Sven Jablonski,2023-2024,232
+24.0,Sat,2024-03-02,15:30,Bochum,RB Leipzig,0.8,2.1,1–4,24200.0,Harm Osmers,2023-2024,233
+24.0,Sat,2024-03-02,15:30,Heidenheim,Eint Frankfurt,1.0,1.2,1–2,15000.0,Sören Storks,2023-2024,234
+24.0,Sat,2024-03-02,15:30,Mainz 05,Gladbach,1.0,1.0,1–1,33305.0,Robert Schröder,2023-2024,235
+24.0,Sat,2024-03-02,15:30,Union Berlin,Dortmund,1.2,1.6,0–2,22012.0,Christian Dingert,2023-2024,236
+24.0,Sat,2024-03-02,15:30,Darmstadt 98,Augsburg,0.8,2.9,0–6,17810.0,Felix Zwayer,2023-2024,237
+24.0,Sat,2024-03-02,18:30,Wolfsburg,Stuttgart,0.8,1.1,2–3,25000.0,Benjamin Brand,2023-2024,238
+24.0,Sun,2024-03-03,15:30,Köln,Leverkusen,1.0,1.5,0–2,50000.0,Tobias Stieler,2023-2024,239
+24.0,Sun,2024-03-03,17:30,Hoffenheim,Werder Bremen,1.7,1.3,2–1,25000.0,Matthias Jöllenbeck,2023-2024,240
+25.0,Fri,2024-03-08,20:30,Stuttgart,Union Berlin,1.0,0.9,2–0,53800.0,Robert Schröder,2023-2024,242
+25.0,Sat,2024-03-09,15:30,Bayern Munich,Mainz 05,6.2,0.8,8–1,75000.0,Patrick Ittrich,2023-2024,243
+25.0,Sat,2024-03-09,15:30,RB Leipzig,Darmstadt 98,3.2,0.5,2–0,40000.0,Robert Hartmann,2023-2024,244
+25.0,Sat,2024-03-09,15:30,Gladbach,Köln,1.8,0.6,3–3,54042.0,Felix Zwayer,2023-2024,245
+25.0,Sat,2024-03-09,15:30,Augsburg,Heidenheim,0.5,0.4,1–0,30660.0,Frank Willenborg,2023-2024,246
+25.0,Sat,2024-03-09,18:30,Werder Bremen,Dortmund,1.8,1.2,1–2,42100.0,Deniz Aytekin,2023-2024,247
+25.0,Sun,2024-03-10,15:30,Bochum,Freiburg,1.2,1.4,1–2,25594.0,Marco Fritz,2023-2024,248
+25.0,Sun,2024-03-10,17:30,Eint Frankfurt,Hoffenheim,2.4,0.6,3–1,57000.0,Bastian Dankert,2023-2024,249
+25.0,Sun,2024-03-10,19:30,Leverkusen,Wolfsburg,2.1,0.2,2–0,29314.0,Daniel Siebert,2023-2024,250
+26.0,Fri,2024-03-15,20:30,Köln,RB Leipzig,1.2,3.3,1–5,49000.0,Florian Badstübner,2023-2024,252
+26.0,Sat,2024-03-16,15:30,Wolfsburg,Augsburg,1.3,0.7,1–3,21735.0,Timo Gerach,2023-2024,253
+26.0,Sat,2024-03-16,15:30,Heidenheim,Gladbach,1.1,0.5,1–1,15000.0,Martin Petersen,2023-2024,254
+26.0,Sat,2024-03-16,15:30,Union Berlin,Werder Bremen,1.1,1.1,2–1,22012.0,Daniel Schlager,2023-2024,255
+26.0,Sat,2024-03-16,15:30,Mainz 05,Bochum,2.5,0.7,2–0,33000.0,Matthias Jöllenbeck,2023-2024,256
+26.0,Sat,2024-03-16,15:30,Darmstadt 98,Bayern Munich,1.2,3.6,2–5,17810.0,Tobias Reichel,2023-2024,257
+26.0,Sat,2024-03-16,18:30,Hoffenheim,Stuttgart,0.5,3.7,0–3,30150.0,Sascha Stegemann,2023-2024,258
+26.0,Sun,2024-03-17,15:30,Freiburg,Leverkusen,0.9,2.3,2–3,34700.0,Harm Osmers,2023-2024,259
+26.0,Sun,2024-03-17,17:30,Dortmund,Eint Frankfurt,2.3,0.9,3–1,81365.0,Tobias Stieler,2023-2024,260
+27.0,Sat,2024-03-30,15:30,Werder Bremen,Wolfsburg,0.5,2.3,0–2,41500.0,Sascha Stegemann,2023-2024,262
+27.0,Sat,2024-03-30,15:30,Eint Frankfurt,Union Berlin,1.0,1.5,0–0,57100.0,Marco Fritz,2023-2024,263
+27.0,Sat,2024-03-30,15:30,RB Leipzig,Mainz 05,2.5,0.9,0–0,44813.0,Frank Willenborg,2023-2024,264
+27.0,Sat,2024-03-30,15:30,Leverkusen,Hoffenheim,3.1,0.8,2–1,30210.0,Deniz Aytekin,2023-2024,265
+27.0,Sat,2024-03-30,15:30,Gladbach,Freiburg,1.5,1.7,0–3,53259.0,Christian Dingert,2023-2024,266
+27.0,Sat,2024-03-30,18:30,Bayern Munich,Dortmund,1.5,0.9,0–2,75000.0,Harm Osmers,2023-2024,267
+27.0,Sun,2024-03-31,15:30,Augsburg,Köln,2.2,1.3,1–1,37660.0,Sören Storks,2023-2024,268
+27.0,Sun,2024-03-31,17:30,Stuttgart,Heidenheim,3.0,1.3,3–3,60000.0,Felix Zwayer,2023-2024,269
+27.0,Sun,2024-03-31,19:30,Bochum,Darmstadt 98,1.8,0.9,2–2,25023.0,Sven Jablonski,2023-2024,270
+28.0,Fri,2024-04-05,20:30,Eint Frankfurt,Werder Bremen,2.1,1.6,1–1,58000.0,Robert Hartmann,2023-2024,272
+28.0,Sat,2024-04-06,15:30,Freiburg,RB Leipzig,1.6,2.3,1–4,33200.0,Daniel Siebert,2023-2024,273
+28.0,Sat,2024-04-06,15:30,Union Berlin,Leverkusen,0.3,2.8,0–1,22012.0,Benjamin Brand,2023-2024,274
+28.0,Sat,2024-04-06,15:30,Köln,Bochum,1.0,0.6,2–1,50000.0,Tobias Welz,2023-2024,275
+28.0,Sat,2024-04-06,15:30,Mainz 05,Darmstadt 98,3.6,0.5,4–0,33000.0,Daniel Schlager,2023-2024,276
+28.0,Sat,2024-04-06,15:30,Heidenheim,Bayern Munich,1.4,1.9,3–2,15000.0,Robert Schröder,2023-2024,277
+28.0,Sat,2024-04-06,18:30,Dortmund,Stuttgart,2.5,1.6,0–1,81365.0,Matthias Jöllenbeck,2023-2024,278
+28.0,Sun,2024-04-07,15:30,Hoffenheim,Augsburg,1.8,1.2,3–1,28881.0,Florian Exner,2023-2024,279
+28.0,Sun,2024-04-07,17:30,Wolfsburg,Gladbach,1.2,1.1,1–3,26105.0,Bastian Dankert,2023-2024,280
+29.0,Fri,2024-04-12,20:30,Augsburg,Union Berlin,1.6,1.6,2–0,29731.0,Tobias Stieler,2023-2024,282
+29.0,Sat,2024-04-13,15:30,Gladbach,Dortmund,1.1,1.3,1–2,54042.0,Florian Badstübner,2023-2024,283
+29.0,Sat,2024-04-13,15:30,Mainz 05,Hoffenheim,2.1,0.5,4–1,31000.0,Felix Zwayer,2023-2024,284
+29.0,Sat,2024-04-13,15:30,Bochum,Heidenheim,1.2,1.1,1–1,24414.0,Patrick Ittrich,2023-2024,285
+29.0,Sat,2024-04-13,15:30,Bayern Munich,Köln,2.2,0.9,2–0,75000.0,Frank Willenborg,2023-2024,286
+29.0,Sat,2024-04-13,15:30,RB Leipzig,Wolfsburg,1.3,0.4,3–0,45858.0,Christian Dingert,2023-2024,287
+29.0,Sat,2024-04-13,18:30,Stuttgart,Eint Frankfurt,1.2,0.6,3–0,60000.0,Deniz Aytekin,2023-2024,288
+29.0,Sun,2024-04-14,15:30,Darmstadt 98,Freiburg,1.1,0.9,0–1,17810.0,Sascha Stegemann,2023-2024,289
+29.0,Sun,2024-04-14,17:30,Leverkusen,Werder Bremen,3.2,0.7,5–0,30210.0,Harm Osmers,2023-2024,290
+30.0,Fri,2024-04-19,20:30,Eint Frankfurt,Augsburg,1.8,0.5,3–1,57600.0,Martin Petersen,2023-2024,292
+30.0,Sat,2024-04-20,15:30,Wolfsburg,Bochum,0.8,1.3,1–0,26327.0,Tobias Reichel,2023-2024,293
+30.0,Sat,2024-04-20,15:30,Heidenheim,RB Leipzig,1.0,1.8,1–2,15000.0,Tobias Welz,2023-2024,294
+30.0,Sat,2024-04-20,15:30,Hoffenheim,Gladbach,2.3,1.0,4–3,26078.0,Sören Storks,2023-2024,295
+30.0,Sat,2024-04-20,15:30,Köln,Darmstadt 98,1.0,1.8,0–2,50000.0,Matthias Jöllenbeck,2023-2024,296
+30.0,Sat,2024-04-20,18:30,Union Berlin,Bayern Munich,1.4,1.4,1–5,22012.0,Sven Jablonski,2023-2024,297
+30.0,Sun,2024-04-21,15:30,Werder Bremen,Stuttgart,1.5,2.2,2–1,42100.0,Robert Schröder,2023-2024,298
+30.0,Sun,2024-04-21,17:30,Dortmund,Leverkusen,0.5,1.1,1–1,81365.0,Daniel Siebert,2023-2024,299
+30.0,Sun,2024-04-21,19:30,Freiburg,Mainz 05,1.1,1.0,1–1,34300.0,Marco Fritz,2023-2024,300
+31.0,Fri,2024-04-26,20:30,Bochum,Hoffenheim,3.2,1.0,3–2,24300.0,Tobias Stieler,2023-2024,302
+31.0,Sat,2024-04-27,15:30,Augsburg,Werder Bremen,0.6,2.0,0–3,30660.0,Tobias Welz,2023-2024,303
+31.0,Sat,2024-04-27,15:30,Bayern Munich,Eint Frankfurt,3.3,0.5,2–1,75000.0,Daniel Schlager,2023-2024,304
+31.0,Sat,2024-04-27,15:30,Freiburg,Wolfsburg,2.2,0.5,1–2,32800.0,Frank Willenborg,2023-2024,305
+31.0,Sat,2024-04-27,15:30,RB Leipzig,Dortmund,2.6,1.6,4–1,47069.0,Deniz Aytekin,2023-2024,306
+31.0,Sat,2024-04-27,18:30,Leverkusen,Stuttgart,1.4,1.7,2–2,30210.0,Felix Zwayer,2023-2024,307
+31.0,Sun,2024-04-28,15:30,Gladbach,Union Berlin,0.9,1.0,0–0,53723.0,Sascha Stegemann,2023-2024,308
+31.0,Sun,2024-04-28,17:30,Mainz 05,Köln,1.6,2.5,1–1,33305.0,Benjamin Brand,2023-2024,309
+31.0,Sun,2024-04-28,19:30,Darmstadt 98,Heidenheim,0.7,1.6,0–1,17416.0,Bastian Dankert,2023-2024,310
+32.0,Fri,2024-05-03,20:30,Hoffenheim,RB Leipzig,1.6,0.8,1–1,25066.0,Harm Osmers,2023-2024,312
+32.0,Sat,2024-05-04,15:30,Stuttgart,Bayern Munich,1.8,1.7,3–1,60000.0,Tobias Welz,2023-2024,313
+32.0,Sat,2024-05-04,15:30,Werder Bremen,Gladbach,1.4,1.9,2–2,42100.0,Timo Gerach,2023-2024,314
+32.0,Sat,2024-05-04,15:30,Dortmund,Augsburg,4.0,2.5,5–1,81365.0,Robert Schröder,2023-2024,315
+32.0,Sat,2024-05-04,15:30,Wolfsburg,Darmstadt 98,2.2,0.4,3–0,23108.0,Robert Hartmann,2023-2024,316
+32.0,Sat,2024-05-04,18:30,Köln,Freiburg,0.9,0.8,0–0,50000.0,Sören Storks,2023-2024,317
+32.0,Sun,2024-05-05,15:30,Union Berlin,Bochum,0.9,1.4,3–4,22012.0,Marco Fritz,2023-2024,318
+32.0,Sun,2024-05-05,17:30,Eint Frankfurt,Leverkusen,1.9,2.7,1–5,58000.0,Christian Dingert,2023-2024,319
+32.0,Sun,2024-05-05,19:30,Heidenheim,Mainz 05,0.9,1.4,1–1,15000.0,Sven Jablonski,2023-2024,320
+33.0,Fri,2024-05-10,20:30,Augsburg,Stuttgart,0.6,1.9,0–1,30660.0,Patrick Ittrich,2023-2024,322
+33.0,Sat,2024-05-11,15:30,Köln,Union Berlin,3.1,1.6,3–2,50000.0,Deniz Aytekin,2023-2024,323
+33.0,Sat,2024-05-11,15:30,Freiburg,Heidenheim,1.5,0.7,1–1,34700.0,Daniel Siebert,2023-2024,324
+33.0,Sat,2024-05-11,15:30,Gladbach,Eint Frankfurt,0.4,1.5,1–1,54042.0,Robert Schröder,2023-2024,325
+33.0,Sat,2024-05-11,15:30,RB Leipzig,Werder Bremen,1.4,1.1,1–1,47069.0,Sascha Stegemann,2023-2024,326
+33.0,Sat,2024-05-11,18:30,Mainz 05,Dortmund,2.1,0.4,3–0,33305.0,Tobias Stieler,2023-2024,327
+33.0,Sun,2024-05-12,15:30,Darmstadt 98,Hoffenheim,0.6,3.3,0–6,17810.0,Florian Badstübner,2023-2024,328
+33.0,Sun,2024-05-12,17:30,Bayern Munich,Wolfsburg,0.3,0.2,2–0,75000.0,Bastian Dankert,2023-2024,329
+33.0,Sun,2024-05-12,19:30,Bochum,Leverkusen,0.3,4.2,0–5,26000.0,Benjamin Brand,2023-2024,330
+34.0,Sat,2024-05-18,15:30,Union Berlin,Freiburg,2.3,1.0,2–1,22012.0,Christian Dingert,2023-2024,332
+34.0,Sat,2024-05-18,15:30,Werder Bremen,Bochum,3.0,2.1,4–1,42100.0,Martin Petersen,2023-2024,333
+34.0,Sat,2024-05-18,15:30,Dortmund,Darmstadt 98,2.6,0.3,4–0,81365.0,Daniel Siebert,2023-2024,334
+34.0,Sat,2024-05-18,15:30,Stuttgart,Gladbach,1.6,1.3,4–0,60000.0,Daniel Schlager,2023-2024,335
+34.0,Sat,2024-05-18,15:30,Hoffenheim,Bayern Munich,1.8,1.5,4–2,30150.0,Marco Fritz,2023-2024,336
+34.0,Sat,2024-05-18,15:30,Wolfsburg,Mainz 05,0.8,1.8,1–3,26627.0,Frank Willenborg,2023-2024,337
+34.0,Sat,2024-05-18,15:30,Leverkusen,Augsburg,2.4,1.2,2–1,30210.0,Matthias Jöllenbeck,2023-2024,338
+34.0,Sat,2024-05-18,15:30,Heidenheim,Köln,1.0,2.3,4–1,15000.0,Tobias Welz,2023-2024,339
+34.0,Sat,2024-05-18,15:30,Eint Frankfurt,RB Leipzig,2.1,1.6,2–2,57500.0,Felix Zwayer,2023-2024,340

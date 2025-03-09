@@ -1,0 +1,288 @@
+Wk,Day,Date,Time,Home,Away,xG,xG.1,Score,Attendance,Referee,season,game_id
+1.0,Fri,2021-08-13,20:30,Gladbach,Bayern Munich,2.3,2.5,1–1,22925.0,Marco Fritz,2021-2022,0
+1.0,Sat,2021-08-14,15:30,Stuttgart,Greuther Fürth,3.0,1.2,5–1,18109.0,Felix Zwayer,2021-2022,1
+1.0,Sat,2021-08-14,15:30,Union Berlin,Leverkusen,0.5,0.8,1–1,11000.0,Tobias Reichel,2021-2022,2
+1.0,Sat,2021-08-14,15:30,Wolfsburg,Bochum,2.0,0.4,1–0,8536.0,Frank Willenborg,2021-2022,3
+1.0,Sat,2021-08-14,15:30,Arminia,Freiburg,0.4,1.6,0–0,13750.0,Sven Jablonski,2021-2022,4
+1.0,Sat,2021-08-14,15:30,Augsburg,Hoffenheim,0.6,3.8,0–4,9124.0,Felix Brych,2021-2022,5
+1.0,Sat,2021-08-14,18:30,Dortmund,Eint Frankfurt,2.7,1.3,5–2,25000.0,Tobias Stieler,2021-2022,6
+1.0,Sun,2021-08-15,15:30,Mainz 05,RB Leipzig,1.2,1.1,1–0,10500.0,Daniel Siebert,2021-2022,7
+1.0,Sun,2021-08-15,17:30,Köln,Hertha BSC,1.6,1.8,3–1,16500.0,Robert Hartmann,2021-2022,8
+2.0,Fri,2021-08-20,20:30,RB Leipzig,Stuttgart,3.6,1.1,4–0,23100.0,Florian Badstübner,2021-2022,10
+2.0,Sat,2021-08-21,15:30,Hertha BSC,Wolfsburg,1.2,1.0,1–2,18241.0,Matthias Jöllenbeck,2021-2022,11
+2.0,Sat,2021-08-21,15:30,Bochum,Mainz 05,0.8,0.9,2–0,12548.0,Patrick Ittrich,2021-2022,12
+2.0,Sat,2021-08-21,15:30,Greuther Fürth,Arminia,2.5,0.8,1–1,5890.0,Daniel Schlager,2021-2022,13
+2.0,Sat,2021-08-21,15:30,Freiburg,Dortmund,1.3,1.6,2–1,10100.0,Robert Schröder,2021-2022,14
+2.0,Sat,2021-08-21,15:30,Eint Frankfurt,Augsburg,1.6,0.3,0–0,22000.0,Harm Osmers,2021-2022,15
+2.0,Sat,2021-08-21,18:30,Leverkusen,Gladbach,1.9,1.7,4–0,15105.0,Deniz Aytekin,2021-2022,16
+2.0,Sun,2021-08-22,15:30,Hoffenheim,Union Berlin,1.0,1.8,2–2,8014.0,Sascha Stegemann,2021-2022,17
+2.0,Sun,2021-08-22,17:30,Bayern Munich,Köln,2.6,1.1,3–2,20000.0,Martin Petersen,2021-2022,18
+3.0,Fri,2021-08-27,20:30,Dortmund,Hoffenheim,3.4,2.2,3–2,25000.0,Felix Zwayer,2021-2022,20
+3.0,Sat,2021-08-28,15:30,Mainz 05,Greuther Fürth,2.7,0.2,3–0,11500.0,Tobias Reichel,2021-2022,21
+3.0,Sat,2021-08-28,15:30,Stuttgart,Freiburg,1.8,1.3,2–3,25000.0,Frank Willenborg,2021-2022,22
+3.0,Sat,2021-08-28,15:30,Arminia,Eint Frankfurt,0.6,1.5,1–1,13750.0,Bastian Dankert,2021-2022,23
+3.0,Sat,2021-08-28,15:30,Augsburg,Leverkusen,1.8,2.0,1–4,10582.0,Benjamin Brand,2021-2022,24
+3.0,Sat,2021-08-28,15:30,Köln,Bochum,3.2,0.6,2–1,25000.0,Benjamin Cortus,2021-2022,25
+3.0,Sat,2021-08-28,18:30,Bayern Munich,Hertha BSC,2.8,0.4,5–0,25000.0,Sven Jablonski,2021-2022,26
+3.0,Sun,2021-08-29,15:30,Union Berlin,Gladbach,1.9,1.8,2–1,11006.0,Felix Brych,2021-2022,27
+3.0,Sun,2021-08-29,17:30,Wolfsburg,RB Leipzig,0.8,1.1,1–0,12058.0,Tobias Stieler,2021-2022,28
+4.0,Sat,2021-09-11,15:30,Freiburg,Köln,0.8,1.1,1–1,10000.0,Harm Osmers,2021-2022,30
+4.0,Sat,2021-09-11,15:30,Hoffenheim,Mainz 05,0.7,0.9,0–2,8427.0,Marco Fritz,2021-2022,31
+4.0,Sat,2021-09-11,15:30,Union Berlin,Augsburg,1.0,1.0,0–0,10207.0,Martin Petersen,2021-2022,32
+4.0,Sat,2021-09-11,15:30,Leverkusen,Dortmund,0.7,1.8,3–4,17605.0,Daniel Siebert,2021-2022,33
+4.0,Sat,2021-09-11,15:30,Greuther Fürth,Wolfsburg,0.3,1.4,0–2,9000.0,Robert Hartmann,2021-2022,34
+4.0,Sat,2021-09-11,18:30,RB Leipzig,Bayern Munich,0.5,3.9,1–4,34000.0,Deniz Aytekin,2021-2022,35
+4.0,Sun,2021-09-12,15:30,Eint Frankfurt,Stuttgart,1.1,0.9,1–1,25000.0,Matthias Jöllenbeck,2021-2022,36
+4.0,Sun,2021-09-12,17:30,Bochum,Hertha BSC,1.2,0.3,1–3,14000.0,Robert Schröder,2021-2022,37
+4.0,Sun,2021-09-12,19:30,Gladbach,Arminia,1.7,1.8,3–1,24500.0,Sascha Stegemann,2021-2022,38
+5.0,Fri,2021-09-17,20:30,Hertha BSC,Greuther Fürth,0.7,1.4,2–1,21372.0,Tobias Stieler,2021-2022,40
+5.0,Sat,2021-09-18,15:30,Augsburg,Gladbach,0.3,0.6,1–0,12500.0,Florian Badstübner,2021-2022,41
+5.0,Sat,2021-09-18,15:30,Arminia,Hoffenheim,1.1,1.1,0–0,13750.0,Patrick Ittrich,2021-2022,42
+5.0,Sat,2021-09-18,15:30,Bayern Munich,Bochum,5.6,0.4,7–0,25000.0,Tobias Welz,2021-2022,43
+5.0,Sat,2021-09-18,15:30,Mainz 05,Freiburg,0.9,0.4,0–0,13500.0,Benjamin Brand,2021-2022,44
+5.0,Sat,2021-09-18,18:30,Köln,RB Leipzig,1.7,2.7,1–1,25000.0,Felix Brych,2021-2022,45
+5.0,Sun,2021-09-19,15:30,Stuttgart,Leverkusen,1.6,1.4,1–3,23450.0,Benjamin Cortus,2021-2022,46
+5.0,Sun,2021-09-19,17:30,Dortmund,Union Berlin,0.9,1.6,4–2,25000.0,Sven Jablonski,2021-2022,47
+5.0,Sun,2021-09-19,19:30,Wolfsburg,Eint Frankfurt,1.2,0.3,1–1,9266.0,Felix Zwayer,2021-2022,48
+6.0,Fri,2021-09-24,20:30,Greuther Fürth,Bayern Munich,0.7,0.8,1–3,11740.0,Robert Schröder,2021-2022,50
+6.0,Sat,2021-09-25,15:30,Eint Frankfurt,Köln,0.9,0.9,1–1,24000.0,Martin Petersen,2021-2022,51
+6.0,Sat,2021-09-25,15:30,Hoffenheim,Wolfsburg,1.5,0.6,3–1,8523.0,Daniel Siebert,2021-2022,52
+6.0,Sat,2021-09-25,15:30,Leverkusen,Mainz 05,1.5,0.9,1–0,16624.0,Bastian Dankert,2021-2022,53
+6.0,Sat,2021-09-25,15:30,Union Berlin,Arminia,1.2,0.5,1–0,11000.0,Marco Fritz,2021-2022,54
+6.0,Sat,2021-09-25,15:30,RB Leipzig,Hertha BSC,3.8,0.2,6–0,23500.0,Sascha Stegemann,2021-2022,55
+6.0,Sat,2021-09-25,18:30,Gladbach,Dortmund,1.6,0.4,1–0,25000.0,Deniz Aytekin,2021-2022,56
+6.0,Sun,2021-09-26,15:30,Bochum,Stuttgart,0.8,0.3,0–0,15300.0,Christian Dingert,2021-2022,57
+6.0,Sun,2021-09-26,17:30,Freiburg,Augsburg,3.1,0.2,3–0,14400.0,Daniel Schlager,2021-2022,58
+7.0,Fri,2021-10-01,20:30,Köln,Greuther Fürth,2.9,1.3,3–1,40000.0,Matthias Jöllenbeck,2021-2022,60
+7.0,Sat,2021-10-02,15:30,Stuttgart,Hoffenheim,0.8,1.0,3–1,24211.0,Harm Osmers,2021-2022,61
+7.0,Sat,2021-10-02,15:30,Dortmund,Augsburg,3.0,0.8,2–1,41000.0,Tobias Welz,2021-2022,62
+7.0,Sat,2021-10-02,15:30,Hertha BSC,Freiburg,1.0,0.7,1–2,18376.0,Patrick Ittrich,2021-2022,63
+7.0,Sat,2021-10-02,15:30,Wolfsburg,Gladbach,1.3,3.3,1–3,12845.0,Frank Willenborg,2021-2022,64
+7.0,Sat,2021-10-02,18:30,RB Leipzig,Bochum,3.2,1.5,3–0,25598.0,Robert Hartmann,2021-2022,65
+7.0,Sun,2021-10-03,15:30,Mainz 05,Union Berlin,1.1,1.4,1–2,16000.0,Tobias Stieler,2021-2022,66
+7.0,Sun,2021-10-03,17:30,Bayern Munich,Eint Frankfurt,2.2,0.8,1–2,25000.0,Florian Badstübner,2021-2022,67
+7.0,Sun,2021-10-03,19:30,Arminia,Leverkusen,0.4,3.1,0–4,16250.0,Felix Zwayer,2021-2022,68
+8.0,Fri,2021-10-15,20:30,Hoffenheim,Köln,3.7,0.7,5–0,14309.0,Tobias Reichel,2021-2022,70
+8.0,Sat,2021-10-16,15:30,Eint Frankfurt,Hertha BSC,1.6,1.8,1–2,32000.0,Deniz Aytekin,2021-2022,71
+8.0,Sat,2021-10-16,15:30,Union Berlin,Wolfsburg,0.9,1.5,2–0,11000.0,Sascha Stegemann,2021-2022,72
+8.0,Sat,2021-10-16,15:30,Freiburg,RB Leipzig,1.4,1.7,1–1,20000.0,Daniel Siebert,2021-2022,73
+8.0,Sat,2021-10-16,15:30,Greuther Fürth,Bochum,0.8,1.6,0–1,10586.0,Bastian Dankert,2021-2022,74
+8.0,Sat,2021-10-16,15:30,Dortmund,Mainz 05,2.3,0.8,3–1,63812.0,Daniel Schlager,2021-2022,75
+8.0,Sat,2021-10-16,18:30,Gladbach,Stuttgart,2.6,0.3,1–1,41608.0,Felix Brych,2021-2022,76
+8.0,Sun,2021-10-17,15:30,Leverkusen,Bayern Munich,0.7,3.2,1–5,29542.0,Sven Jablonski,2021-2022,77
+8.0,Sun,2021-10-17,17:30,Augsburg,Arminia,0.6,0.3,1–1,17500.0,Robert Schröder,2021-2022,78
+9.0,Fri,2021-10-22,20:30,Mainz 05,Augsburg,3.7,0.9,4–1,19400.0,Robert Hartmann,2021-2022,80
+9.0,Sat,2021-10-23,15:30,Bayern Munich,Hoffenheim,2.8,0.7,4–0,60000.0,Matthias Jöllenbeck,2021-2022,81
+9.0,Sat,2021-10-23,15:30,Wolfsburg,Freiburg,1.3,1.5,0–2,10251.0,Tobias Welz,2021-2022,82
+9.0,Sat,2021-10-23,15:30,RB Leipzig,Greuther Fürth,2.3,1.4,4–1,24758.0,Christian Dingert,2021-2022,83
+9.0,Sat,2021-10-23,15:30,Arminia,Dortmund,1.4,2.4,1–3,25000.0,Benjamin Brand,2021-2022,84
+9.0,Sat,2021-10-23,18:30,Hertha BSC,Gladbach,1.0,0.5,1–0,25000.0,Benjamin Cortus,2021-2022,85
+9.0,Sun,2021-10-24,15:30,Köln,Leverkusen,1.8,0.9,2–2,49600.0,Felix Zwayer,2021-2022,86
+9.0,Sun,2021-10-24,17:30,Stuttgart,Union Berlin,0.5,1.0,1–1,32595.0,Florian Badstübner,2021-2022,87
+9.0,Sun,2021-10-24,19:30,Bochum,Eint Frankfurt,2.1,1.6,2–0,19510.0,Marco Fritz,2021-2022,88
+10.0,Fri,2021-10-29,20:30,Hoffenheim,Hertha BSC,0.9,0.3,2–0,8127.0,Sven Jablonski,2021-2022,90
+10.0,Sat,2021-10-30,15:30,Freiburg,Greuther Fürth,1.5,0.8,3–1,31500.0,Felix Brych,2021-2022,91
+10.0,Sat,2021-10-30,15:30,Leverkusen,Wolfsburg,1.5,1.8,0–2,20132.0,Deniz Aytekin,2021-2022,92
+10.0,Sat,2021-10-30,15:30,Dortmund,Köln,1.4,1.3,2–0,66709.0,Martin Petersen,2021-2022,93
+10.0,Sat,2021-10-30,15:30,Union Berlin,Bayern Munich,0.9,3.2,2–5,16509.0,Harm Osmers,2021-2022,94
+10.0,Sat,2021-10-30,15:30,Arminia,Mainz 05,0.6,2.5,1–2,19477.0,Bastian Dankert,2021-2022,95
+10.0,Sat,2021-10-30,18:30,Eint Frankfurt,RB Leipzig,0.6,3.0,1–1,31000.0,Daniel Schlager,2021-2022,96
+10.0,Sun,2021-10-31,15:30,Augsburg,Stuttgart,2.1,0.9,4–1,17500.0,Patrick Ittrich,2021-2022,97
+10.0,Sun,2021-10-31,17:30,Gladbach,Bochum,1.9,0.8,2–1,42361.0,Tobias Reichel,2021-2022,98
+11.0,Fri,2021-11-05,20:30,Mainz 05,Gladbach,1.1,1.6,1–1,25000.0,Robert Schröder,2021-2022,100
+11.0,Sat,2021-11-06,15:30,Bochum,Hoffenheim,2.9,0.6,2–0,19600.0,Frank Willenborg,2021-2022,101
+11.0,Sat,2021-11-06,15:30,Stuttgart,Arminia,0.9,1.7,0–1,33550.0,Christian Dingert,2021-2022,102
+11.0,Sat,2021-11-06,15:30,Bayern Munich,Freiburg,2.8,1.0,2–1,75000.0,Sascha Stegemann,2021-2022,103
+11.0,Sat,2021-11-06,15:30,Wolfsburg,Augsburg,0.5,0.7,1–0,16095.0,Marco Fritz,2021-2022,104
+11.0,Sat,2021-11-06,18:30,RB Leipzig,Dortmund,2.6,0.9,2–1,43429.0,Felix Zwayer,2021-2022,105
+11.0,Sun,2021-11-07,15:30,Hertha BSC,Leverkusen,0.8,1.0,1–1,22187.0,Robert Hartmann,2021-2022,106
+11.0,Sun,2021-11-07,17:30,Köln,Union Berlin,1.8,1.0,2–2,49000.0,Tobias Stieler,2021-2022,107
+11.0,Sun,2021-11-07,19:30,Greuther Fürth,Eint Frankfurt,2.4,1.2,1–2,10244.0,Daniel Siebert,2021-2022,108
+12.0,Fri,2021-11-19,20:30,Augsburg,Bayern Munich,0.4,1.2,2–1,26000.0,Daniel Siebert,2021-2022,110
+12.0,Sat,2021-11-20,15:30,Hoffenheim,RB Leipzig,3.1,0.2,2–0,13233.0,Tobias Welz,2021-2022,111
+12.0,Sat,2021-11-20,15:30,Dortmund,Stuttgart,2.2,1.6,2–1,57900.0,Harm Osmers,2021-2022,112
+12.0,Sat,2021-11-20,15:30,Leverkusen,Bochum,1.7,0.8,1–0,22538.0,Daniel Schlager,2021-2022,113
+12.0,Sat,2021-11-20,15:30,Arminia,Wolfsburg,1.3,1.9,2–2,19801.0,Martin Petersen,2021-2022,114
+12.0,Sat,2021-11-20,15:30,Gladbach,Greuther Fürth,3.1,0.2,4–0,38621.0,Benjamin Brand,2021-2022,115
+12.0,Sat,2021-11-20,18:30,Union Berlin,Hertha BSC,1.5,0.4,2–0,22012.0,Felix Brych,2021-2022,116
+12.0,Sun,2021-11-21,15:30,Freiburg,Eint Frankfurt,1.4,1.2,0–2,32500.0,Florian Badstübner,2021-2022,117
+12.0,Sun,2021-11-21,17:30,Mainz 05,Köln,0.8,2.2,1–1,25500.0,Deniz Aytekin,2021-2022,118
+13.0,Fri,2021-11-26,20:30,Stuttgart,Mainz 05,0.3,0.8,2–1,25000.0,Matthias Jöllenbeck,2021-2022,120
+13.0,Sat,2021-11-27,15:30,Hertha BSC,Augsburg,1.7,1.2,1–1,14523.0,Frank Willenborg,2021-2022,121
+13.0,Sat,2021-11-27,15:30,Wolfsburg,Dortmund,1.9,2.3,1–3,13281.0,Sven Jablonski,2021-2022,122
+13.0,Sat,2021-11-27,15:30,Bochum,Freiburg,1.1,2.2,2–1,19700.0,Patrick Ittrich,2021-2022,123
+13.0,Sat,2021-11-27,15:30,Köln,Gladbach,1.4,1.0,4–1,50000.0,Robert Schröder,2021-2022,124
+13.0,Sat,2021-11-27,15:30,Greuther Fürth,Hoffenheim,1.1,4.0,3–6,3385.0,Bastian Dankert,2021-2022,125
+13.0,Sat,2021-11-27,18:30,Bayern Munich,Arminia,2.2,0.3,1–0,12000.0,Marco Fritz,2021-2022,126
+13.0,Sun,2021-11-28,15:30,Eint Frankfurt,Union Berlin,1.3,1.1,2–1,24000.0,Sascha Stegemann,2021-2022,127
+14.0,Fri,2021-12-03,20:30,Union Berlin,RB Leipzig,2.4,1.4,2–1,13506.0,Harm Osmers,2021-2022,130
+14.0,Sat,2021-12-04,15:30,Leverkusen,Greuther Fürth,2.8,0.3,7–1,10455.0,Tobias Reichel,2021-2022,131
+14.0,Sat,2021-12-04,15:30,Arminia,Köln,1.1,1.1,1–1,8231.0,Felix Brych,2021-2022,132
+14.0,Sat,2021-12-04,15:30,Mainz 05,Wolfsburg,1.2,0.7,3–0,10000.0,Florian Badstübner,2021-2022,135
+14.0,Sat,2021-12-04,18:30,Dortmund,Bayern Munich,1.2,3.1,2–3,15000.0,Felix Zwayer,2021-2022,136
+14.0,Sun,2021-12-05,15:30,Stuttgart,Hertha BSC,1.4,1.3,2–2,395.0,Benjamin Brand,2021-2022,137
+14.0,Sun,2021-12-05,17:30,Gladbach,Freiburg,0.9,2.0,0–6,10025.0,Robert Hartmann,2021-2022,138
+15.0,Fri,2021-12-10,20:30,Köln,Augsburg,1.0,0.8,0–2,15000.0,Patrick Ittrich,2021-2022,140
+15.0,Sat,2021-12-11,15:30,Hertha BSC,Arminia,2.0,0.5,2–0,5000.0,Tobias Welz,2021-2022,141
+15.0,Sat,2021-12-11,15:30,Freiburg,Hoffenheim,1.6,1.0,1–2,750.0,Frank Willenborg,2021-2022,143
+15.0,Sat,2021-12-11,15:30,Bochum,Dortmund,0.9,2.3,1–1,13799.0,Matthias Jöllenbeck,2021-2022,145
+15.0,Sat,2021-12-11,18:30,Wolfsburg,Stuttgart,1.5,1.2,0–2,5000.0,Sascha Stegemann,2021-2022,146
+15.0,Sun,2021-12-12,17:30,Eint Frankfurt,Leverkusen,1.6,1.7,5–2,12000.0,Marco Fritz,2021-2022,148
+16.0,Tue,2021-12-14,18:30,Stuttgart,Bayern Munich,1.2,3.5,0–5,750.0,Robert Schröder,2021-2022,150
+16.0,Tue,2021-12-14,20:30,Wolfsburg,Köln,2.4,3.1,2–3,5000.0,Robert Hartmann,2021-2022,151
+16.0,Tue,2021-12-14,20:30,Arminia,Bochum,0.7,0.9,2–0,13750.0,Benjamin Brand,2021-2022,152
+16.0,Tue,2021-12-14,20:30,Mainz 05,Hertha BSC,2.9,0.4,4–0,10000.0,Harm Osmers,2021-2022,153
+16.0,Wed,2021-12-15,18:30,Gladbach,Eint Frankfurt,2.0,2.3,2–3,10028.0,Martin Petersen,2021-2022,154
+16.0,Wed,2021-12-15,20:30,Leverkusen,Hoffenheim,2.2,2.0,2–2,13272.0,Tobias Stieler,2021-2022,155
+16.0,Wed,2021-12-15,20:30,Union Berlin,Freiburg,1.7,1.2,0–0,5000.0,Deniz Aytekin,2021-2022,156
+16.0,Wed,2021-12-15,20:30,Dortmund,Greuther Fürth,1.8,0.4,3–0,15000.0,Daniel Schlager,2021-2022,157
+17.0,Sat,2021-12-18,15:30,Bochum,Union Berlin,1.1,0.8,0–1,13500.0,Tobias Reichel,2021-2022,161
+17.0,Sat,2021-12-18,15:30,Hoffenheim,Gladbach,2.1,1.3,1–1,750.0,Sven Jablonski,2021-2022,164
+17.0,Sat,2021-12-18,15:30,Eint Frankfurt,Mainz 05,1.8,0.6,1–0,15000.0,Felix Brych,2021-2022,165
+17.0,Sat,2021-12-18,18:30,Hertha BSC,Dortmund,1.2,1.3,3–2,5000.0,Marco Fritz,2021-2022,166
+17.0,Sun,2021-12-19,15:30,Freiburg,Leverkusen,2.1,0.8,2–1,750.0,Benjamin Cortus,2021-2022,167
+17.0,Sun,2021-12-19,17:30,Köln,Stuttgart,2.0,0.4,1–0,15000.0,Bastian Dankert,2021-2022,168
+18.0,Sat,2022-01-08,15:30,Hoffenheim,Augsburg,2.2,0.9,3–1,500.0,Benjamin Cortus,2021-2022,174
+18.0,Sat,2022-01-08,18:30,Eint Frankfurt,Dortmund,1.4,2.0,2–3,250.0,Robert Schröder,2021-2022,176
+18.0,Sun,2022-01-09,15:30,Hertha BSC,Köln,1.2,1.2,1–3,3000.0,Tobias Stieler,2021-2022,177
+19.0,Fri,2022-01-14,20:30,Dortmund,Freiburg,2.4,0.9,5–1,750.0,Florian Badstübner,2021-2022,180
+19.0,Sat,2022-01-15,15:30,Stuttgart,RB Leipzig,1.0,1.5,0–2,500.0,Daniel Schlager,2021-2022,181
+19.0,Sat,2022-01-15,15:30,Union Berlin,Hoffenheim,1.3,0.8,2–1,3000.0,Martin Petersen,2021-2022,182
+19.0,Sat,2022-01-15,15:30,Köln,Bayern Munich,1.0,3.3,0–4,1000.0,Tobias Welz,2021-2022,183
+19.0,Sat,2022-01-15,15:30,Mainz 05,Bochum,1.7,1.5,1–0,1000.0,Frank Willenborg,2021-2022,184
+19.0,Sat,2022-01-15,15:30,Wolfsburg,Hertha BSC,1.7,0.3,0–0,500.0,Robert Hartmann,2021-2022,185
+19.0,Sat,2022-01-15,18:30,Gladbach,Leverkusen,1.2,5.3,1–2,750.0,Sascha Stegemann,2021-2022,186
+19.0,Sun,2022-01-16,17:30,Arminia,Greuther Fürth,0.5,0.7,2–2,750.0,Christian Dingert,2021-2022,188
+20.0,Fri,2022-01-21,20:30,Eint Frankfurt,Arminia,1.9,1.3,0–2,1000.0,Tobias Reichel,2021-2022,190
+20.0,Sat,2022-01-22,15:30,Leverkusen,Augsburg,2.8,1.5,5–1,750.0,Daniel Schlager,2021-2022,191
+20.0,Sat,2022-01-22,15:30,Gladbach,Union Berlin,1.5,1.1,1–2,750.0,Felix Brych,2021-2022,192
+20.0,Sat,2022-01-22,15:30,Hoffenheim,Dortmund,1.7,1.6,2–3,500.0,Deniz Aytekin,2021-2022,194
+20.0,Sat,2022-01-22,15:30,Freiburg,Stuttgart,1.6,0.3,2–0,500.0,Tobias Stieler,2021-2022,195
+20.0,Sat,2022-01-22,18:30,Bochum,Köln,1.8,1.1,2–2,750.0,Matthias Jöllenbeck,2021-2022,196
+20.0,Sun,2022-01-23,15:30,RB Leipzig,Wolfsburg,1.5,0.8,2–0,1000.0,Daniel Siebert,2021-2022,197
+20.0,Sun,2022-01-23,17:30,Hertha BSC,Bayern Munich,0.9,5.5,1–4,3000.0,Bastian Dankert,2021-2022,198
+21.0,Fri,2022-02-04,20:30,Hertha BSC,Bochum,0.4,1.1,1–1,3000.0,Marco Fritz,2021-2022,200
+21.0,Sat,2022-02-05,15:30,Stuttgart,Eint Frankfurt,1.5,1.1,2–3,10000.0,Sascha Stegemann,2021-2022,201
+21.0,Sat,2022-02-05,15:30,Arminia,Gladbach,0.5,2.0,1–1,10000.0,Benjamin Cortus,2021-2022,202
+21.0,Sat,2022-02-05,15:30,Köln,Freiburg,1.0,0.7,1–0,10000.0,Felix Brych,2021-2022,203
+21.0,Sat,2022-02-05,15:30,Augsburg,Union Berlin,1.8,1.7,2–0,7600.0,Harm Osmers,2021-2022,204
+21.0,Sat,2022-02-05,15:30,Mainz 05,Hoffenheim,2.2,1.6,2–0,6800.0,Christian Dingert,2021-2022,205
+21.0,Sat,2022-02-05,18:30,Bayern Munich,RB Leipzig,3.1,2.1,3–2,10000.0,Sven Jablonski,2021-2022,206
+21.0,Sun,2022-02-06,15:30,Dortmund,Leverkusen,1.7,2.0,2–5,10000.0,Daniel Siebert,2021-2022,207
+21.0,Sun,2022-02-06,17:30,Wolfsburg,Greuther Fürth,2.4,1.1,4–1,500.0,Martin Petersen,2021-2022,208
+22.0,Fri,2022-02-11,20:30,RB Leipzig,Köln,0.9,0.9,3–1,15000.0,Florian Badstübner,2021-2022,210
+22.0,Sat,2022-02-12,15:30,Freiburg,Mainz 05,1.7,2.3,1–1,10000.0,Deniz Aytekin,2021-2022,211
+22.0,Sat,2022-02-12,15:30,Greuther Fürth,Hertha BSC,2.4,2.1,2–1,9000.0,Daniel Schlager,2021-2022,212
+22.0,Sat,2022-02-12,15:30,Gladbach,Augsburg,2.4,1.6,3–2,10000.0,Tobias Welz,2021-2022,213
+22.0,Sat,2022-02-12,15:30,Eint Frankfurt,Wolfsburg,1.0,1.5,0–2,10000.0,Frank Willenborg,2021-2022,214
+22.0,Sat,2022-02-12,15:30,Bochum,Bayern Munich,1.4,1.9,4–2,10000.0,Robert Schröder,2021-2022,215
+22.0,Sat,2022-02-12,18:30,Leverkusen,Stuttgart,1.9,1.0,4–2,10000.0,Felix Brych,2021-2022,216
+22.0,Sun,2022-02-13,15:30,Union Berlin,Dortmund,1.2,2.2,0–3,10000.0,Matthias Jöllenbeck,2021-2022,217
+22.0,Sun,2022-02-13,17:30,Hoffenheim,Arminia,2.8,0.9,2–0,10000.0,Robert Hartmann,2021-2022,218
+23.0,Fri,2022-02-18,20:30,Mainz 05,Leverkusen,0.9,1.0,3–2,10000.0,Benjamin Cortus,2021-2022,220
+23.0,Sat,2022-02-19,15:30,Stuttgart,Bochum,1.2,2.0,1–1,20059.0,Harm Osmers,2021-2022,221
+23.0,Sat,2022-02-19,15:30,Arminia,Union Berlin,0.8,0.9,1–0,10000.0,Daniel Schlager,2021-2022,222
+23.0,Sat,2022-02-19,15:30,Wolfsburg,Hoffenheim,1.5,1.5,1–2,7145.0,Felix Zwayer,2021-2022,223
+23.0,Sat,2022-02-19,15:30,Augsburg,Freiburg,1.1,2.0,1–2,15000.0,Daniel Siebert,2021-2022,224
+23.0,Sat,2022-02-19,18:30,Köln,Eint Frankfurt,1.1,0.6,1–0,10000.0,Christian Dingert,2021-2022,225
+23.0,Sun,2022-02-20,15:30,Bayern Munich,Greuther Fürth,1.8,0.8,4–1,25000.0,Robert Hartmann,2021-2022,226
+23.0,Sun,2022-02-20,17:30,Dortmund,Gladbach,3.8,0.9,6–0,10000.0,Marco Fritz,2021-2022,227
+23.0,Sun,2022-02-20,19:30,Hertha BSC,RB Leipzig,1.0,3.4,1–6,10000.0,Patrick Ittrich,2021-2022,228
+24.0,Fri,2022-02-25,20:30,Hoffenheim,Stuttgart,2.6,1.7,2–1,18099.0,Matthias Jöllenbeck,2021-2022,230
+24.0,Sat,2022-02-26,15:30,Freiburg,Hertha BSC,2.6,1.3,3–0,25000.0,Sven Jablonski,2021-2022,231
+24.0,Sat,2022-02-26,15:30,Leverkusen,Arminia,2.1,0.4,3–0,10000.0,Martin Petersen,2021-2022,232
+24.0,Sat,2022-02-26,15:30,Greuther Fürth,Köln,0.7,0.6,1–1,9200.0,Robert Schörgenhofer,2021-2022,233
+24.0,Sat,2022-02-26,15:30,Gladbach,Wolfsburg,2.4,1.4,2–2,10000.0,Tobias Reichel,2021-2022,234
+24.0,Sat,2022-02-26,15:30,Union Berlin,Mainz 05,1.0,1.0,3–1,10000.0,Bastian Dankert,2021-2022,235
+24.0,Sat,2022-02-26,18:30,Eint Frankfurt,Bayern Munich,0.9,2.4,0–1,25000.0,Florian Badstübner,2021-2022,236
+24.0,Sun,2022-02-27,15:30,Bochum,RB Leipzig,0.8,0.7,0–1,10000.0,Felix Brych,2021-2022,237
+24.0,Sun,2022-02-27,17:30,Augsburg,Dortmund,0.8,0.6,1–1,15330.0,Deniz Aytekin,2021-2022,238
+25.0,Fri,2022-03-04,20:30,Arminia,Augsburg,0.2,0.5,0–1,19460.0,Felix Brych,2021-2022,240
+25.0,Sat,2022-03-05,15:30,RB Leipzig,Freiburg,0.6,0.4,1–1,24758.0,Felix Zwayer,2021-2022,241
+25.0,Sat,2022-03-05,15:30,Bayern Munich,Leverkusen,1.6,2.1,1–1,25000.0,Daniel Siebert,2021-2022,242
+25.0,Sat,2022-03-05,15:30,Wolfsburg,Union Berlin,0.5,1.2,1–0,15703.0,Patrick Ittrich,2021-2022,243
+25.0,Sat,2022-03-05,15:30,Hertha BSC,Eint Frankfurt,0.4,1.2,1–4,25000.0,Harm Osmers,2021-2022,244
+25.0,Sat,2022-03-05,15:30,Bochum,Greuther Fürth,1.6,0.7,2–1,19800.0,Daniel Schlager,2021-2022,245
+25.0,Sat,2022-03-05,18:30,Stuttgart,Gladbach,2.4,0.9,3–2,25000.0,Christian Dingert,2021-2022,246
+25.0,Sun,2022-03-06,17:30,Köln,Hoffenheim,1.6,2.5,0–1,37500.0,Marco Fritz,2021-2022,247
+26.0,Sat,2022-03-12,15:30,Union Berlin,Stuttgart,1.5,1.0,1–1,16509.0,Robert Hartmann,2021-2022,249
+26.0,Sat,2022-03-12,15:30,Hoffenheim,Bayern Munich,1.7,2.9,1–1,25600.0,Robert Schröder,2021-2022,250
+26.0,Sat,2022-03-12,15:30,Freiburg,Wolfsburg,1.3,1.3,3–2,25000.0,Martin Petersen,2021-2022,251
+26.0,Sat,2022-03-12,18:30,Gladbach,Hertha BSC,1.8,0.6,2–0,30675.0,Florian Badstübner,2021-2022,252
+26.0,Sun,2022-03-13,15:30,Leverkusen,Köln,2.4,0.5,0–1,22658.0,Sascha Stegemann,2021-2022,253
+26.0,Sun,2022-03-13,17:30,Dortmund,Arminia,2.0,0.7,1–0,33000.0,Bastian Dankert,2021-2022,254
+26.0,Sun,2022-03-13,17:30,Eint Frankfurt,Bochum,1.8,1.1,2–1,24000.0,Marco Fritz,2021-2022,255
+26.0,Sun,2022-03-13,19:30,Greuther Fürth,RB Leipzig,0.3,1.7,1–6,9418.0,Sven Jablonski,2021-2022,256
+25.0,Wed,2022-03-16,18:30,Mainz 05,Dortmund,0.9,0.8,0–1,25000.0,Sascha Stegemann,2021-2022,258
+27.0,Sat,2022-03-19,15:30,Stuttgart,Augsburg,2.2,1.0,3–2,55785.0,Patrick Ittrich,2021-2022,261
+27.0,Sat,2022-03-19,15:30,Hertha BSC,Hoffenheim,1.3,0.8,3–0,25000.0,Daniel Schlager,2021-2022,262
+27.0,Sat,2022-03-19,15:30,Mainz 05,Arminia,4.3,0.2,4–0,25000.0,Felix Zwayer,2021-2022,263
+27.0,Sat,2022-03-19,15:30,Greuther Fürth,Freiburg,1.0,1.2,0–0,9884.0,Tobias Reichel,2021-2022,264
+27.0,Sat,2022-03-19,18:30,Bayern Munich,Union Berlin,2.7,1.0,4–0,37000.0,Harm Osmers,2021-2022,265
+27.0,Sun,2022-03-20,15:30,RB Leipzig,Eint Frankfurt,1.2,0.2,0–0,43058.0,Christian Dingert,2021-2022,266
+27.0,Sun,2022-03-20,17:30,Wolfsburg,Leverkusen,1.1,1.0,0–2,16554.0,Felix Brych,2021-2022,267
+27.0,Sun,2022-03-20,19:30,Köln,Dortmund,1.1,1.2,1–1,50000.0,Daniel Siebert,2021-2022,268
+28.0,Fri,2022-04-01,20:30,Union Berlin,Köln,1.3,0.3,1–0,22012.0,Florian Badstübner,2021-2022,270
+28.0,Sat,2022-04-02,15:30,Arminia,Stuttgart,1.0,2.2,1–1,26011.0,Patrick Ittrich,2021-2022,271
+28.0,Sat,2022-04-02,15:30,Hoffenheim,Bochum,2.0,2.1,1–2,15014.0,Daniel Siebert,2021-2022,272
+28.0,Sat,2022-04-02,15:30,Leverkusen,Hertha BSC,1.5,0.8,2–1,23557.0,Matthias Jöllenbeck,2021-2022,273
+28.0,Sat,2022-04-02,15:30,Eint Frankfurt,Greuther Fürth,1.2,0.6,0–0,50500.0,Bastian Dankert,2021-2022,274
+28.0,Sat,2022-04-02,15:30,Freiburg,Bayern Munich,0.6,2.1,1–4,34700.0,Christian Dingert,2021-2022,275
+28.0,Sat,2022-04-02,18:30,Dortmund,RB Leipzig,0.7,1.1,1–4,81365.0,Marco Fritz,2021-2022,276
+28.0,Sun,2022-04-03,15:30,Augsburg,Wolfsburg,1.6,1.1,3–0,23143.0,Sascha Stegemann,2021-2022,277
+28.0,Sun,2022-04-03,17:30,Gladbach,Mainz 05,1.5,1.8,1–1,44156.0,Daniel Schlager,2021-2022,278
+26.0,Wed,2022-04-06,18:30,Augsburg,Mainz 05,1.8,1.8,2–1,18122.0,Matthias Jöllenbeck,2021-2022,280
+29.0,Fri,2022-04-08,20:30,Stuttgart,Dortmund,1.7,1.9,0–2,58248.0,Harm Osmers,2021-2022,282
+29.0,Sat,2022-04-09,15:30,Bayern Munich,Augsburg,1.5,0.2,1–0,75000.0,Patrick Ittrich,2021-2022,283
+29.0,Sat,2022-04-09,15:30,Greuther Fürth,Gladbach,0.5,2.7,0–2,13900.0,Tobias Stieler,2021-2022,284
+29.0,Sat,2022-04-09,15:30,Köln,Mainz 05,1.8,0.9,3–2,49800.0,Martin Petersen,2021-2022,285
+29.0,Sat,2022-04-09,15:30,Wolfsburg,Arminia,2.0,0.4,4–0,22512.0,Benjamin Brand,2021-2022,286
+29.0,Sat,2022-04-09,18:30,Hertha BSC,Union Berlin,0.7,1.8,1–4,74667.0,Sven Jablonski,2021-2022,287
+29.0,Sun,2022-04-10,15:30,Bochum,Leverkusen,0.7,1.4,0–0,25000.0,Felix Zwayer,2021-2022,288
+29.0,Sun,2022-04-10,17:30,Eint Frankfurt,Freiburg,0.9,1.0,1–2,47000.0,Felix Brych,2021-2022,289
+29.0,Sun,2022-04-10,19:30,RB Leipzig,Hoffenheim,1.5,0.2,3–0,35112.0,Bastian Dankert,2021-2022,290
+30.0,Sat,2022-04-16,15:30,Dortmund,Wolfsburg,3.0,1.5,6–1,79200.0,Robert Schröder,2021-2022,292
+30.0,Sat,2022-04-16,15:30,Mainz 05,Stuttgart,0.6,0.7,0–0,30128.0,Florian Badstübner,2021-2022,293
+30.0,Sat,2022-04-16,15:30,Freiburg,Bochum,2.2,0.4,3–0,34000.0,Sascha Stegemann,2021-2022,294
+30.0,Sat,2022-04-16,15:30,Augsburg,Hertha BSC,1.0,1.1,0–1,28533.0,Marco Fritz,2021-2022,295
+30.0,Sat,2022-04-16,18:30,Gladbach,Köln,1.2,2.0,1–3,54042.0,Deniz Aytekin,2021-2022,296
+30.0,Sun,2022-04-17,15:30,Arminia,Bayern Munich,0.4,2.7,0–3,26419.0,Matthias Jöllenbeck,2021-2022,297
+30.0,Sun,2022-04-17,17:30,Union Berlin,Eint Frankfurt,1.1,0.5,2–0,22000.0,Frank Willenborg,2021-2022,298
+30.0,Sun,2022-04-17,17:30,Hoffenheim,Greuther Fürth,1.0,0.3,0–0,16110.0,Felix Zwayer,2021-2022,299
+30.0,Sun,2022-04-17,19:30,Leverkusen,RB Leipzig,0.8,0.5,0–1,26119.0,Daniel Siebert,2021-2022,300
+31.0,Fri,2022-04-22,20:30,Wolfsburg,Mainz 05,3.7,0.7,5–0,19055.0,Harm Osmers,2021-2022,302
+31.0,Sat,2022-04-23,15:30,Eint Frankfurt,Hoffenheim,1.3,0.7,2–2,50500.0,Sven Jablonski,2021-2022,303
+31.0,Sat,2022-04-23,15:30,Köln,Arminia,2.0,0.9,3–1,50000.0,Tobias Stieler,2021-2022,304
+31.0,Sat,2022-04-23,15:30,Freiburg,Gladbach,2.3,1.6,3–3,34700.0,Benjamin Brand,2021-2022,305
+31.0,Sat,2022-04-23,15:30,RB Leipzig,Union Berlin,0.6,1.4,1–2,45770.0,Daniel Schlager,2021-2022,306
+31.0,Sat,2022-04-23,15:30,Greuther Fürth,Leverkusen,0.9,2.5,1–4,11579.0,Tobias Reichel,2021-2022,307
+31.0,Sat,2022-04-23,18:30,Bayern Munich,Dortmund,1.7,1.3,3–1,75000.0,Daniel Siebert,2021-2022,308
+31.0,Sun,2022-04-24,15:30,Bochum,Augsburg,1.1,1.9,0–2,23500.0,Bastian Dankert,2021-2022,309
+31.0,Sun,2022-04-24,17:30,Hertha BSC,Stuttgart,1.4,0.6,2–0,54589.0,Felix Brych,2021-2022,310
+32.0,Fri,2022-04-29,20:30,Union Berlin,Greuther Fürth,1.4,0.3,1–1,22012.0,Patrick Ittrich,2021-2022,312
+32.0,Sat,2022-04-30,15:30,Dortmund,Bochum,4.0,1.6,3–4,81365.0,Robert Hartmann,2021-2022,313
+32.0,Sat,2022-04-30,15:30,Stuttgart,Wolfsburg,0.8,1.4,1–1,55000.0,Sven Jablonski,2021-2022,314
+32.0,Sat,2022-04-30,15:30,Arminia,Hertha BSC,0.5,1.5,1–1,26021.0,Deniz Aytekin,2021-2022,315
+32.0,Sat,2022-04-30,15:30,Augsburg,Köln,1.7,2.5,1–4,29511.0,Robert Schröder,2021-2022,316
+32.0,Sat,2022-04-30,15:30,Mainz 05,Bayern Munich,3.3,1.4,3–1,33305.0,Sascha Stegemann,2021-2022,317
+32.0,Sat,2022-04-30,18:30,Hoffenheim,Freiburg,2.0,2.4,3–4,23627.0,Marco Fritz,2021-2022,318
+32.0,Mon,2022-05-02,20:30,Gladbach,RB Leipzig,1.5,1.1,3–1,35324.0,Martin Petersen,2021-2022,319
+32.0,Mon,2022-05-02,20:30,Leverkusen,Eint Frankfurt,1.8,0.3,2–0,26492.0,Benjamin Cortus,2021-2022,320
+33.0,Fri,2022-05-06,20:30,Bochum,Arminia,2.1,0.8,2–1,25000.0,Robert Schröder,2021-2022,322
+33.0,Sat,2022-05-07,15:30,Hoffenheim,Leverkusen,2.5,4.0,2–4,20033.0,Frank Willenborg,2021-2022,323
+33.0,Sat,2022-05-07,15:30,Köln,Wolfsburg,1.2,1.1,0–1,50000.0,Tobias Stieler,2021-2022,324
+33.0,Sat,2022-05-07,15:30,Greuther Fürth,Dortmund,1.3,1.5,1–3,16600.0,Christian Dingert,2021-2022,325
+33.0,Sat,2022-05-07,15:30,Freiburg,Union Berlin,1.8,2.0,1–4,34700.0,Felix Brych,2021-2022,326
+33.0,Sat,2022-05-07,18:30,Hertha BSC,Mainz 05,1.1,0.7,1–2,71548.0,Patrick Ittrich,2021-2022,327
+33.0,Sun,2022-05-08,15:30,Eint Frankfurt,Gladbach,0.8,1.4,1–1,51500.0,Felix Zwayer,2021-2022,328
+33.0,Sun,2022-05-08,17:30,Bayern Munich,Stuttgart,2.6,1.5,2–2,75000.0,Deniz Aytekin,2021-2022,329
+33.0,Sun,2022-05-08,19:30,RB Leipzig,Augsburg,3.2,0.3,4–0,37029.0,Bastian Dankert,2021-2022,330
+34.0,Sat,2022-05-14,15:30,Wolfsburg,Bayern Munich,1.5,2.1,2–2,30000.0,Robert Hartmann,2021-2022,332
+34.0,Sat,2022-05-14,15:30,Stuttgart,Köln,3.9,1.2,2–1,52230.0,Robert Schröder,2021-2022,333
+34.0,Sat,2022-05-14,15:30,Leverkusen,Freiburg,2.2,1.1,2–1,30210.0,Sven Jablonski,2021-2022,334
+34.0,Sat,2022-05-14,15:30,Dortmund,Hertha BSC,1.3,1.0,2–1,80500.0,Tobias Stieler,2021-2022,335
+34.0,Sat,2022-05-14,15:30,Mainz 05,Eint Frankfurt,1.3,1.6,2–2,33000.0,Martin Petersen,2021-2022,336
+34.0,Sat,2022-05-14,15:30,Gladbach,Hoffenheim,3.2,1.6,5–1,50395.0,Harm Osmers,2021-2022,337
+34.0,Sat,2022-05-14,15:30,Union Berlin,Bochum,2.6,0.2,3–2,22012.0,Marco Fritz,2021-2022,338
+34.0,Sat,2022-05-14,15:30,Augsburg,Greuther Fürth,1.1,0.5,2–1,27907.0,Tobias Reichel,2021-2022,339
+34.0,Sat,2022-05-14,15:30,Arminia,RB Leipzig,1.6,3.0,1–1,22719.0,Daniel Siebert,2021-2022,340
