@@ -37,7 +37,8 @@ def get_fixture_data(url, league, season):
     tables = pd.read_html(url)
 
     # get fixtures
-    fixtures = tables[0][["Wk", "Day", "Date", "Time", "Home", "Away", "xG", "xG.1", "Score", "Attendance", "Referee"]].dropna()
+    fixtures = tables[0][
+        ["Wk", "Day", "Date", "Time", "Home", "Away", "xG", "xG.1", "Score", "Attendance", "Referee"]].dropna()
     fixtures["season"] = season  # url.split("/")[6]
     fixturedata = pd.concat([fixturedata, fixtures])
 
@@ -45,16 +46,41 @@ def get_fixture_data(url, league, season):
     fixturedata["game_id"] = fixturedata.index
 
     # export to csv file
-    fixturedata.reset_index(drop=True).to_csv(f"data\\league-fixture\\{league.lower()}_{season.lower()}_fixture_data.csv",
-                                              header=True, index=False, mode="w")
+    fixturedata.reset_index(drop=True).to_csv(
+        f"data\\csv\\league-fixture\\{league.lower()}_{season.lower()}_fixture_data.csv",
+        header=True, index=False, mode="w")
     print("Fixture data collected...")
     time.sleep(5)
+
+
+def generate_json(directory):
+    """
+    Generate json file from all csv files located in a directory
+    :param directory:
+    :return: Success message
+    """
+    try:
+        dic = {}
+        for season in ["2017-2018", "2018-2019", "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024",
+                       "2024-2025"]:
+            for league in ["Premier-League", "La-Liga", "Serie-A", "Ligue-1", "Bundesliga"]:
+                data = pd.read_csv(f"{directory}\\{league.lower()}_{season.lower()}_fixture_data.csv")
+                dic[f"{season}_{league}"] = data.to_dict()
+
+        with open(f'{directory}\\fixture_data.json', 'w') as fp:
+            # fp.write(str(dict))
+            json.dump(dic, fp, indent=4)
+        return "Success"
+    except Exception as e:
+        return e
+
 
 def get_match_links(url, league):
     print("Getting player data...")
     # access and download content from url containing all fixture links
     match_links = []
-    response = requests.get(url, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"})
+    response = requests.get(url, headers={
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"})
     s = soup(response.content, "html.parser")
     links = s.find_all("a")
 
@@ -120,6 +146,8 @@ def main():
         for s in range(8):
             url, league, season = get_data_info(l, s)
             get_fixture_data(url, league, season)
+
+    generate_json()
     # match_links = get_match_links(url, league)
     # player_data(match_links, league, season)
 
@@ -138,19 +166,7 @@ def main():
 
 if __name__ == "__main__":
     try:
-        # main()
-        print("ttry")
+        main()
     except HTTPError:
         print("The website refused access, try again later")
         time.sleep(5)
-
-dict = {}
-# for csv in files:
-data = pd.read_csv("data\\league-fixture\\bundesliga_2017-2018_fixture_data.csv")
-dict[1] = data.to_json(orient="columns", indent=4)
-print(dict[1])
-
-with open('data\\league-fixture\\bundesliga_2017-2018_fixture_data.json', 'w') as fp:
-    fp.write(dict[1])
-
-
