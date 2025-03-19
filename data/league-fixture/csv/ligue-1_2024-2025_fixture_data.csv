@@ -1,5 +1,7 @@
 Wk,Day,Date,Time,Home,Away,xG,xG.1,Score,Attendance,Referee,season,game_id
+1.0,Sun,2024-08-18,15:00,Auxerre,Nice,1.8,0.7,2–1,16354.0,Romain Lissorgue,2024-2025,4
 1.0,Sun,2024-08-18,17:00,Toulouse,Nantes,1.7,0.5,0–0,25491.0,Jeremy Stinat,2024-2025,6
+2.0,Sun,2024-08-25,17:00,Nice,Toulouse,1.3,1.0,1–1,21656.0,Bastien Dechepy,2024-2025,15
 2.0,Sun,2024-08-25,17:00,Nantes,Auxerre,1.4,1.1,2–0,31077.0,Gaël Angoula,2024-2025,16
 3.0,Fri,2024-08-30,20:45,Lyon,Strasbourg,2.9,2.7,4–3,43805.0,Thomas Léonard,2024-2025,20
 3.0,Sat,2024-08-31,17:00,Brest,Saint-Étienne,3.1,0.2,4–0,14885.0,Gaël Angoula,2024-2025,21
@@ -148,3 +150,5 @@ Wk,Day,Date,Time,Home,Away,xG,xG.1,Score,Attendance,Referee,season,game_id
 20.0,Sun,2025-02-02,15:00,Toulouse,Nice,1.4,1.7,1–1,23522.0,Thomas Léonard,2024-2025,194
 21.0,Sun,2025-02-09,15:00,Lyon,Reims,3.3,0.4,4–0,43489.0,François Letexier,2024-2025,205
 22.0,Sun,2025-02-16,17:15,Lens,Strasbourg,0.4,2.4,0–2,38113.0,Benoît Millot,2024-2025,216
+25.0,Sun,2025-03-09,15:00,Brest,Angers,3.5,0.4,2–0,14612.0,Abdelatif Kherradji,2024-2025,244
+26.0,Sat,2025-03-15,21:05,Lens,Rennes,0.7,0.6,1–0,38182.0,Stéphanie Frappart,2024-2025,253
