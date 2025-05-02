@@ -167,11 +167,11 @@ def generate_json(directory):
         dic = {}
         for season in ["2017-2018", "2018-2019", "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024",
                        "2024-2025"]:
-            dic[season] = []
+            dic[season] = {}
             for league in ["Premier-League", "La-Liga", "Serie-A", "Ligue-1", "Bundesliga"]:
                 data = pd.read_csv(f"{directory}\\csv\\{league.lower()}_{season.lower()}_fixture_data.csv")
                 # dic[f"{season}_{league}"] = data.to_dict()
-                dic[season].append({league: data.to_dict()})
+                dic[season].update({league: data.to_dict()})
         with open(f'{directory}\\big_fixture_data.json', 'w') as fp:
             # fp.write(str(dict))
             json.dump(dic, fp, indent=4)
@@ -245,7 +245,7 @@ if __name__ == "__main__":
         # for i in range(1, 2):
         #     url, league, season = get_data_info(i, -6)
         #     get_fixture_data(url, league, season)
-        
+
         generate_json("data\league-fixture")  # compile all csv files to generate a single json file
     except HTTPError:
         time.sleep(5)
