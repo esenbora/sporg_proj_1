@@ -1,5 +1,381 @@
-Wk,Day,Date,Time,Home,Away,xG,xG.1,Score,Attendance,Referee,season,game_id
-37.0,Sun,2021-05-16,18:30,Villarreal,Sevilla,1.2,1.6,4–0,4800.0,Guillermo Cuadra,2020-2021,408
-37.0,Sun,2021-05-16,18:30,Valencia,Eibar,1.3,2.3,4–1,2689.0,Valentín Pizarro,2020-2021,410
-38.0,Sat,2021-05-22,18:00,Elche,Athletic Club,1.0,0.5,2–0,3518.0,Carlos del Cerro,2020-2021,421
-38.0,Sat,2021-05-22,18:00,Celta Vigo,Betis,1.3,2.3,2–3,1738.0,Jesús Gil,2020-2021,422
+Wk,Day,Date,Time,Home,Away,xG,xG.1,Score,Attendance,Referee,season
+1.0,Sat,2020-09-12,16:00,Eibar,Celta Vigo,0.4,0.6,0–0,,Valentín Pizarro,2020-2021
+1.0,Sat,2020-09-12,18:30,Granada,Athletic Club,0.4,0.5,2–0,,Antonio Matéu Lahoz,2020-2021
+1.0,Sat,2020-09-12,21:00,Cádiz,Osasuna,0.7,0.8,0–2,,Isidro Díaz de Mera,2020-2021
+1.0,Sun,2020-09-13,14:00,Alavés,Betis,1.2,0.4,0–1,,Pablo González,2020-2021
+1.0,Sun,2020-09-13,16:00,Valladolid,Real Sociedad,0.8,0.3,1–1,,Mario Melero,2020-2021
+1.0,Sun,2020-09-13,18:30,Villarreal,Huesca,2.5,0.6,1–1,,Daniel Ask,2020-2021
+1.0,Sun,2020-09-13,21:00,Valencia,Levante,1.9,2.0,4–2,,José Sánchez,2020-2021
+2.0,Sat,2020-09-19,16:00,Villarreal,Eibar,2.7,1.5,2–1,,Jorge Figueroa,2020-2021
+2.0,Sat,2020-09-19,18:30,Getafe,Osasuna,0.6,0.5,1–0,,Alejandro Hernández,2020-2021
+2.0,Sat,2020-09-19,21:00,Celta Vigo,Valencia,2.0,0.5,2–1,,Jesús Gil,2020-2021
+2.0,Sun,2020-09-20,16:00,Huesca,Cádiz,0.3,1.2,0–2,,César Soto,2020-2021
+2.0,Sun,2020-09-20,18:30,Granada,Alavés,2.2,0.7,2–1,,Carlos del Cerro,2020-2021
+2.0,Sun,2020-09-20,18:30,Betis,Valladolid,1.6,0.4,2–0,,Santiago Jaime,2020-2021
+2.0,Sun,2020-09-20,21:00,Real Sociedad,Real Madrid,0.6,0.9,0–0,,Juan Martínez,2020-2021
+3.0,Sat,2020-09-26,13:00,Alavés,Getafe,1.3,1.1,0–0,,Hsu Jason,2020-2021
+3.0,Sat,2020-09-26,16:00,Valencia,Huesca,0.6,0.9,1–1,,José Luis Munuera,2020-2021
+3.0,Sat,2020-09-26,18:30,Elche,Real Sociedad,1.0,3.1,0–3,,Isidro Díaz de Mera,2020-2021
+3.0,Sat,2020-09-26,21:00,Betis,Real Madrid,1.2,3.8,2–3,,Ricardo de Burgos,2020-2021
+3.0,Sun,2020-09-27,12:00,Osasuna,Levante,0.7,3.1,1–3,,Mario Melero,2020-2021
+3.0,Sun,2020-09-27,14:00,Eibar,Athletic Club,0.6,0.6,1–2,,Adrián Cordero,2020-2021
+3.0,Sun,2020-09-27,16:00,Atlético Madrid,Granada,3.3,1.6,6–1,,Daniel Ask,2020-2021
+3.0,Sun,2020-09-27,18:30,Valladolid,Celta Vigo,1.5,1.3,1–1,,José Sánchez,2020-2021
+3.0,Sun,2020-09-27,18:30,Cádiz,Sevilla,1.1,2.4,1–3,,David Medié,2020-2021
+3.0,Sun,2020-09-27,21:00,Barcelona,Villarreal,2.6,0.2,4–0,,Guillermo Cuadra,2020-2021
+4.0,Tue,2020-09-29,19:00,Real Sociedad,Valencia,0.5,0.9,0–1,,Jorge Figueroa,2020-2021
+4.0,Tue,2020-09-29,21:30,Getafe,Betis,0.8,0.4,3–0,,Juan Martínez,2020-2021
+4.0,Wed,2020-09-30,19:00,Huesca,Atlético Madrid,0.9,1.6,0–0,,Adrián Cordero,2020-2021
+4.0,Wed,2020-09-30,19:00,Villarreal,Alavés,2.3,1.1,3–1,,David Medié,2020-2021
+4.0,Wed,2020-09-30,21:30,Real Madrid,Valladolid,2.3,0.6,1–0,,César Soto,2020-2021
+4.0,Wed,2020-09-30,21:30,Eibar,Elche,1.2,0.4,0–1,,Santiago Jaime,2020-2021
+4.0,Thu,2020-10-01,19:00,Sevilla,Levante,1.1,0.2,1–0,,Daniel Ask,2020-2021
+4.0,Thu,2020-10-01,19:00,Athletic Club,Cádiz,0.6,0.2,0–1,,Pablo González,2020-2021
+4.0,Thu,2020-10-01,21:30,Celta Vigo,Barcelona,0.5,0.7,0–3,,Carlos del Cerro,2020-2021
+5.0,Sat,2020-10-03,13:00,Valladolid,Eibar,1.1,1.7,1–2,,Isidro Díaz de Mera,2020-2021
+5.0,Sat,2020-10-03,16:00,Atlético Madrid,Villarreal,0.6,0.3,0–0,,Alejandro Hernández,2020-2021
+5.0,Sat,2020-10-03,18:30,Elche,Huesca,0.1,1.6,0–0,,Mario Melero,2020-2021
+5.0,Sat,2020-10-03,18:30,Real Sociedad,Getafe,2.2,0.3,3–0,,Antonio Matéu Lahoz,2020-2021
+5.0,Sat,2020-10-03,21:00,Valencia,Betis,0.5,2.0,0–2,,Guillermo Cuadra,2020-2021
+5.0,Sun,2020-10-04,12:00,Osasuna,Celta Vigo,1.2,0.5,2–0,,Ricardo de Burgos,2020-2021
+5.0,Sun,2020-10-04,14:00,Alavés,Athletic Club,0.6,0.6,1–0,,José Sánchez,2020-2021
+5.0,Sun,2020-10-04,16:00,Levante,Real Madrid,0.5,2.2,0–2,,José Luis Munuera,2020-2021
+5.0,Sun,2020-10-04,18:30,Cádiz,Granada,1.0,0.6,1–1,,Hsu Jason,2020-2021
+5.0,Sun,2020-10-04,21:00,Barcelona,Sevilla,1.0,1.5,1–1,,Jesús Gil,2020-2021
+6.0,Sat,2020-10-17,13:00,Granada,Sevilla,1.3,0.6,1–0,,Pablo González,2020-2021
+6.0,Sat,2020-10-17,16:00,Celta Vigo,Atlético Madrid,1.9,1.4,0–2,,Juan Martínez,2020-2021
+6.0,Sat,2020-10-17,18:30,Real Madrid,Cádiz,1.0,1.6,0–1,,Santiago Jaime,2020-2021
+6.0,Sat,2020-10-17,21:00,Getafe,Barcelona,1.6,0.7,1–0,,César Soto,2020-2021
+6.0,Sun,2020-10-18,12:00,Eibar,Osasuna,0.3,1.0,0–0,,David Medié,2020-2021
+6.0,Sun,2020-10-18,14:00,Athletic Club,Levante,2.3,0.3,2–0,,Hsu Jason,2020-2021
+6.0,Sun,2020-10-18,16:00,Villarreal,Valencia,1.5,0.6,2–1,,Carlos del Cerro,2020-2021
+6.0,Sun,2020-10-18,18:30,Huesca,Valladolid,1.1,1.0,2–2,,Jorge Figueroa,2020-2021
+6.0,Sun,2020-10-18,18:30,Alavés,Elche,1.7,0.8,0–2,,Adrián Cordero,2020-2021
+6.0,Sun,2020-10-18,21:00,Betis,Real Sociedad,0.4,1.7,0–3,,Daniel Ask,2020-2021
+7.0,Fri,2020-10-23,21:00,Elche,Valencia,0.1,1.6,2–1,,César Soto,2020-2021
+7.0,Sat,2020-10-24,16:00,Barcelona,Real Madrid,1.8,3.0,1–3,,Juan Martínez,2020-2021
+7.0,Sat,2020-10-24,18:30,Osasuna,Athletic Club,1.2,0.7,1–0,,Guillermo Cuadra,2020-2021
+7.0,Sat,2020-10-24,18:30,Sevilla,Eibar,1.7,0.2,0–1,,Alejandro Hernández,2020-2021
+7.0,Sat,2020-10-24,21:00,Atlético Madrid,Betis,1.4,1.1,2–0,,Antonio Matéu Lahoz,2020-2021
+7.0,Sun,2020-10-25,14:00,Valladolid,Alavés,0.3,2.5,0–2,,José Luis Munuera,2020-2021
+7.0,Sun,2020-10-25,16:00,Cádiz,Villarreal,0.2,0.8,0–0,,Ricardo de Burgos,2020-2021
+7.0,Sun,2020-10-25,18:30,Getafe,Granada,0.9,1.1,0–1,,Jesús Gil,2020-2021
+7.0,Sun,2020-10-25,21:00,Real Sociedad,Huesca,2.5,0.5,4–1,,Isidro Díaz de Mera,2020-2021
+7.0,Mon,2020-10-26,21:00,Levante,Celta Vigo,1.2,0.8,1–1,,Mario Melero,2020-2021
+8.0,Fri,2020-10-30,21:00,Eibar,Cádiz,0.5,1.0,0–2,,Antonio Matéu Lahoz,2020-2021
+8.0,Sat,2020-10-31,14:00,Real Madrid,Huesca,2.3,1.0,4–1,,Pablo González,2020-2021
+8.0,Sat,2020-10-31,16:15,Athletic Club,Sevilla,1.2,1.1,2–1,,Carlos del Cerro,2020-2021
+8.0,Sat,2020-10-31,18:30,Osasuna,Atlético Madrid,1.1,2.8,1–3,,Daniel Ask,2020-2021
+8.0,Sat,2020-10-31,21:00,Alavés,Barcelona,1.2,1.9,1–1,,Alejandro Hernández,2020-2021
+8.0,Sun,2020-11-01,14:00,Betis,Elche,3.2,0.7,3–1,,David Medié,2020-2021
+8.0,Sun,2020-11-01,16:00,Celta Vigo,Real Sociedad,1.6,2.0,1–4,,Adrián Cordero,2020-2021
+8.0,Sun,2020-11-01,18:30,Granada,Levante,0.2,0.9,1–1,,Santiago Jaime,2020-2021
+8.0,Sun,2020-11-01,21:00,Valencia,Getafe,1.4,2.4,2–2,,Jorge Figueroa,2020-2021
+8.0,Mon,2020-11-02,21:00,Villarreal,Valladolid,1.8,0.7,2–0,,Hsu Jason,2020-2021
+9.0,Fri,2020-11-06,21:00,Elche,Celta Vigo,1.5,2.1,1–1,,Ricardo de Burgos,2020-2021
+9.0,Sat,2020-11-07,14:00,Huesca,Eibar,2.2,0.9,1–1,,Mario Melero,2020-2021
+9.0,Sat,2020-11-07,16:15,Barcelona,Betis,3.4,1.1,5–2,,Guillermo Cuadra,2020-2021
+9.0,Sat,2020-11-07,18:30,Sevilla,Osasuna,1.1,0.7,1–0,,Juan Martínez,2020-2021
+9.0,Sat,2020-11-07,21:00,Atlético Madrid,Cádiz,2.1,0.4,4–0,,Adrián Cordero,2020-2021
+9.0,Sun,2020-11-08,14:00,Getafe,Villarreal,0.7,2.3,1–3,,José Luis Munuera,2020-2021
+9.0,Sun,2020-11-08,16:15,Real Sociedad,Granada,3.4,0.8,2–0,,Carlos del Cerro,2020-2021
+9.0,Sun,2020-11-08,18:30,Levante,Alavés,2.1,0.8,1–1,,Isidro Díaz de Mera,2020-2021
+9.0,Sun,2020-11-08,18:30,Valladolid,Athletic Club,2.1,1.7,2–1,,César Soto,2020-2021
+9.0,Sun,2020-11-08,21:00,Valencia,Real Madrid,2.5,1.3,4–1,,Jesús Gil,2020-2021
+10.0,Fri,2020-11-20,21:00,Osasuna,Huesca,1.0,0.7,1–1,,Valentín Pizarro,2020-2021
+10.0,Sat,2020-11-21,14:00,Levante,Elche,0.7,0.6,1–1,,Jorge Figueroa,2020-2021
+10.0,Sat,2020-11-21,16:15,Villarreal,Real Madrid,1.7,0.6,1–1,,Alejandro Hernández,2020-2021
+10.0,Sat,2020-11-21,18:30,Sevilla,Celta Vigo,2.6,2.1,4–2,,César Soto,2020-2021
+10.0,Sat,2020-11-21,21:00,Atlético Madrid,Barcelona,0.5,0.9,1–0,,José Luis Munuera,2020-2021
+10.0,Sun,2020-11-22,14:00,Eibar,Getafe,1.3,0.4,0–0,,Pablo González,2020-2021
+10.0,Sun,2020-11-22,16:15,Cádiz,Real Sociedad,0.1,1.2,0–1,,Daniel Ask,2020-2021
+10.0,Sun,2020-11-22,18:30,Granada,Valladolid,1.5,1.3,1–3,,David Medié,2020-2021
+10.0,Sun,2020-11-22,21:00,Alavés,Valencia,1.7,1.9,2–2,,Santiago Jaime,2020-2021
+10.0,Mon,2020-11-23,21:00,Athletic Club,Betis,2.5,0.4,4–0,,Hsu Jason,2020-2021
+11.0,Fri,2020-11-27,21:00,Valladolid,Levante,1.6,1.1,1–1,,Valentín Pizarro,2020-2021
+11.0,Sat,2020-11-28,14:00,Elche,Cádiz,0.1,0.5,1–1,,Carlos del Cerro,2020-2021
+11.0,Sat,2020-11-28,16:15,Valencia,Atlético Madrid,0.2,0.9,0–1,,Ricardo de Burgos,2020-2021
+11.0,Sat,2020-11-28,18:30,Huesca,Sevilla,0.2,1.8,0–1,,Guillermo Cuadra,2020-2021
+11.0,Sat,2020-11-28,21:00,Real Madrid,Alavés,1.7,2.2,1–2,,Adrián Cordero,2020-2021
+11.0,Sun,2020-11-29,14:00,Barcelona,Osasuna,3.7,1.5,4–0,,Antonio Matéu Lahoz,2020-2021
+11.0,Sun,2020-11-29,16:15,Getafe,Athletic Club,0.5,0.3,1–1,,Mario Melero,2020-2021
+11.0,Sun,2020-11-29,18:30,Celta Vigo,Granada,4.2,1.6,3–1,,Isidro Díaz de Mera,2020-2021
+11.0,Sun,2020-11-29,21:00,Real Sociedad,Villarreal,1.7,1.2,1–1,,Jesús Gil,2020-2021
+11.0,Mon,2020-11-30,21:00,Betis,Eibar,0.7,2.9,0–2,,Juan Martínez,2020-2021
+12.0,Fri,2020-12-04,21:00,Athletic Club,Celta Vigo,0.5,1.2,0–2,,Jorge Figueroa,2020-2021
+12.0,Sat,2020-12-05,14:00,Levante,Getafe,2.2,0.5,3–0,,David Medié,2020-2021
+12.0,Sat,2020-12-05,16:15,Sevilla,Real Madrid,0.7,1.5,0–1,,José Sánchez,2020-2021
+12.0,Sat,2020-12-05,18:30,Atlético Madrid,Valladolid,1.2,0.7,2–0,,Pablo González,2020-2021
+12.0,Sat,2020-12-05,21:00,Cádiz,Barcelona,2.5,1.5,2–1,,César Soto,2020-2021
+12.0,Sun,2020-12-06,14:00,Granada,Huesca,1.5,1.5,3–3,,Hsu Jason,2020-2021
+12.0,Sun,2020-12-06,16:15,Osasuna,Betis,0.4,1.4,0–2,,Alejandro Hernández,2020-2021
+12.0,Sun,2020-12-06,18:30,Villarreal,Elche,0.6,0.1,0–0,,Santiago Jaime,2020-2021
+12.0,Sun,2020-12-06,21:00,Alavés,Real Sociedad,0.3,1.4,0–0,,José Luis Munuera,2020-2021
+12.0,Mon,2020-12-07,21:00,Eibar,Valencia,1.3,0.5,0–0,,Daniel Ask,2020-2021
+13.0,Fri,2020-12-11,21:00,Valladolid,Osasuna,2.0,1.9,3–2,,Adrián Cordero,2020-2021
+13.0,Sat,2020-12-12,14:00,Valencia,Athletic Club,1.5,1.9,2–2,,Carlos del Cerro,2020-2021
+13.0,Sat,2020-12-12,16:15,Getafe,Sevilla,0.5,0.5,0–1,,Juan Martínez,2020-2021
+13.0,Sat,2020-12-12,18:30,Huesca,Alavés,0.4,0.2,1–0,,Mario Melero,2020-2021
+13.0,Sat,2020-12-12,21:00,Real Madrid,Atlético Madrid,0.9,0.7,2–0,,Antonio Matéu Lahoz,2020-2021
+13.0,Sun,2020-12-13,14:00,Real Sociedad,Eibar,1.2,1.7,1–1,,Isidro Díaz de Mera,2020-2021
+13.0,Sun,2020-12-13,16:15,Betis,Villarreal,0.6,1.2,1–1,,Valentín Pizarro,2020-2021
+13.0,Sun,2020-12-13,18:30,Elche,Granada,0.6,1.6,0–1,,Pablo González,2020-2021
+13.0,Sun,2020-12-13,21:00,Barcelona,Levante,2.1,1.0,1–0,,Ricardo de Burgos,2020-2021
+13.0,Mon,2020-12-14,21:00,Celta Vigo,Cádiz,1.5,0.6,4–0,,Guillermo Cuadra,2020-2021
+19.0,Tue,2020-12-15,22:00,Real Madrid,Athletic Club,2.2,0.8,3–1,,Jesús Gil,2020-2021
+19.0,Wed,2020-12-16,21:00,Barcelona,Real Sociedad,2.5,1.8,2–1,,José Sánchez,2020-2021
+14.0,Fri,2020-12-18,21:00,Athletic Club,Huesca,1.4,0.2,2–0,,Valentín Pizarro,2020-2021
+14.0,Sat,2020-12-19,14:00,Atlético Madrid,Elche,2.2,0.6,3–1,,Daniel Ask,2020-2021
+14.0,Sat,2020-12-19,16:15,Barcelona,Valencia,2.3,1.6,2–2,,Alejandro Hernández,2020-2021
+14.0,Sat,2020-12-19,18:30,Levante,Real Sociedad,1.8,1.8,2–1,,César Soto,2020-2021
+14.0,Sat,2020-12-19,18:30,Osasuna,Villarreal,1.0,2.3,1–3,,Jorge Figueroa,2020-2021
+14.0,Sat,2020-12-19,21:00,Sevilla,Valladolid,1.7,1.0,1–1,,Jesús Gil,2020-2021
+14.0,Sun,2020-12-20,14:00,Celta Vigo,Alavés,1.6,0.7,2–0,,Hsu Jason,2020-2021
+14.0,Sun,2020-12-20,16:15,Granada,Betis,1.4,0.8,2–0,,José Sánchez,2020-2021
+14.0,Sun,2020-12-20,18:30,Cádiz,Getafe,0.4,1.0,0–2,,Santiago Jaime,2020-2021
+14.0,Sun,2020-12-20,21:00,Eibar,Real Madrid,0.7,2.2,1–3,,José Luis Munuera,2020-2021
+15.0,Tue,2020-12-22,17:30,Elche,Osasuna,1.2,1.6,2–2,,Ricardo de Burgos,2020-2021
+15.0,Tue,2020-12-22,17:30,Valencia,Sevilla,0.6,1.8,0–1,,Valentín Pizarro,2020-2021
+15.0,Tue,2020-12-22,19:45,Huesca,Levante,1.4,0.7,1–1,,Isidro Díaz de Mera,2020-2021
+15.0,Tue,2020-12-22,19:45,Real Sociedad,Atlético Madrid,0.3,0.5,0–2,,Guillermo Cuadra,2020-2021
+15.0,Tue,2020-12-22,22:00,Villarreal,Athletic Club,1.4,0.8,1–1,,David Medié,2020-2021
+15.0,Tue,2020-12-22,22:00,Valladolid,Barcelona,0.8,3.0,0–3,,Mario Melero,2020-2021
+15.0,Wed,2020-12-23,17:30,Getafe,Celta Vigo,0.3,0.8,1–1,,Pablo González,2020-2021
+15.0,Wed,2020-12-23,19:45,Real Madrid,Granada,1.8,0.8,2–0,,Juan Martínez,2020-2021
+15.0,Wed,2020-12-23,22:00,Alavés,Eibar,1.9,1.0,2–1,,Carlos del Cerro,2020-2021
+15.0,Wed,2020-12-23,22:00,Betis,Cádiz,0.4,0.3,1–0,,Antonio Matéu Lahoz,2020-2021
+16.0,Tue,2020-12-29,17:00,Sevilla,Villarreal,2.2,0.6,2–0,,César Soto,2020-2021
+16.0,Tue,2020-12-29,19:15,Barcelona,Eibar,2.2,0.6,1–1,,Hsu Jason,2020-2021
+16.0,Tue,2020-12-29,21:30,Cádiz,Valladolid,0.7,0.5,0–0,,Alejandro Hernández,2020-2021
+16.0,Tue,2020-12-29,21:30,Levante,Betis,1.7,2.8,4–3,,Daniel Ask,2020-2021
+16.0,Wed,2020-12-30,17:00,Granada,Valencia,2.2,1.5,2–1,,Adrián Cordero,2020-2021
+16.0,Wed,2020-12-30,19:15,Atlético Madrid,Getafe,1.1,0.8,1–0,,Antonio Matéu Lahoz,2020-2021
+16.0,Wed,2020-12-30,19:15,Celta Vigo,Huesca,2.3,1.3,2–1,,José Luis Munuera,2020-2021
+16.0,Wed,2020-12-30,21:30,Elche,Real Madrid,1.0,1.4,1–1,,Jorge Figueroa,2020-2021
+16.0,Thu,2020-12-31,14:00,Athletic Club,Real Sociedad,0.2,1.6,0–1,,José Sánchez,2020-2021
+16.0,Thu,2020-12-31,16:15,Osasuna,Alavés,0.4,1.6,1–1,,Santiago Jaime,2020-2021
+17.0,Sat,2021-01-02,14:00,Villarreal,Levante,1.6,0.5,2–1,,Pablo González,2020-2021
+17.0,Sat,2021-01-02,16:15,Betis,Sevilla,2.1,0.2,1–1,,Carlos del Cerro,2020-2021
+17.0,Sat,2021-01-02,18:30,Getafe,Valladolid,0.8,1.2,0–1,,Isidro Díaz de Mera,2020-2021
+17.0,Sat,2021-01-02,21:00,Real Madrid,Celta Vigo,1.0,0.7,2–0,,Ricardo de Burgos,2020-2021
+17.0,Sun,2021-01-03,14:00,Athletic Club,Elche,1.4,0.2,1–0,,Mario Melero,2020-2021
+17.0,Sun,2021-01-03,16:15,Alavés,Atlético Madrid,0.3,2.2,1–2,,Juan Martínez,2020-2021
+17.0,Sun,2021-01-03,18:30,Eibar,Granada,1.9,0.9,2–0,,Antonio Matéu Lahoz,2020-2021
+17.0,Sun,2021-01-03,18:30,Real Sociedad,Osasuna,0.8,0.8,1–1,,Valentín Pizarro,2020-2021
+17.0,Sun,2021-01-03,21:00,Huesca,Barcelona,0.8,3.0,0–1,,Guillermo Cuadra,2020-2021
+17.0,Mon,2021-01-04,21:00,Valencia,Cádiz,0.8,0.8,1–1,,David Medié,2020-2021
+2.0,Wed,2021-01-06,21:00,Athletic Club,Barcelona,0.6,1.6,2–3,,Carlos del Cerro,2020-2021
+18.0,Fri,2021-01-08,21:00,Celta Vigo,Villarreal,0.4,2.7,0–4,,Daniel Ask,2020-2021
+18.0,Sat,2021-01-09,14:00,Sevilla,Real Sociedad,2.6,0.8,3–2,,Hsu Jason,2020-2021
+18.0,Sat,2021-01-09,18:30,Granada,Barcelona,0.5,0.9,0–4,,Ricardo de Burgos,2020-2021
+18.0,Sat,2021-01-09,21:00,Osasuna,Real Madrid,0.6,0.4,0–0,,César Soto,2020-2021
+18.0,Sun,2021-01-10,14:00,Levante,Eibar,1.0,1.1,2–1,,Daniel Ask,2020-2021
+18.0,Sun,2021-01-10,16:15,Cádiz,Alavés,2.6,0.9,3–1,,José Sánchez,2020-2021
+18.0,Sun,2021-01-10,21:00,Valladolid,Valencia,0.7,1.2,0–1,,Guillermo Cuadra,2020-2021
+18.0,Mon,2021-01-11,19:00,Elche,Getafe,1.1,3.1,1–3,,José Luis Munuera,2020-2021
+18.0,Mon,2021-01-11,21:00,Huesca,Betis,1.3,2.4,0–2,,Adrián Cordero,2020-2021
+4.0,Tue,2021-01-12,19:00,Granada,Osasuna,0.8,0.7,2–0,,Pablo González,2020-2021
+1.0,Tue,2021-01-12,21:30,Atlético Madrid,Sevilla,0.4,1.8,2–0,,Daniel Ask,2020-2021
+19.0,Tue,2021-01-19,19:00,Cádiz,Levante,0.8,1.9,2–2,,Carlos del Cerro,2020-2021
+19.0,Tue,2021-01-19,19:00,Valladolid,Elche,1.0,0.6,2–2,,Santiago Jaime,2020-2021
+19.0,Tue,2021-01-19,21:30,Alavés,Sevilla,1.6,1.2,1–2,,Isidro Díaz de Mera,2020-2021
+19.0,Wed,2021-01-20,19:00,Getafe,Huesca,0.8,0.8,1–0,,David Medié,2020-2021
+19.0,Wed,2021-01-20,21:00,Betis,Celta Vigo,0.8,1.1,2–1,,Juan Martínez,2020-2021
+19.0,Wed,2021-01-20,21:30,Villarreal,Granada,2.4,0.2,2–2,,Valentín Pizarro,2020-2021
+19.0,Thu,2021-01-21,19:00,Valencia,Osasuna,0.5,1.6,1–1,,Alejandro Hernández,2020-2021
+19.0,Thu,2021-01-21,21:30,Eibar,Atlético Madrid,1.5,1.2,1–2,,Mario Melero,2020-2021
+20.0,Fri,2021-01-22,21:00,Levante,Valladolid,1.0,0.6,2–2,,José Luis Munuera,2020-2021
+20.0,Sat,2021-01-23,14:00,Huesca,Villarreal,0.2,0.5,0–0,,Hsu Jason,2020-2021
+20.0,Sat,2021-01-23,16:15,Sevilla,Cádiz,2.3,0.7,3–0,,Guillermo Cuadra,2020-2021
+20.0,Sat,2021-01-23,18:30,Real Sociedad,Betis,2.2,0.6,2–2,,César Soto,2020-2021
+20.0,Sat,2021-01-23,21:00,Alavés,Real Madrid,0.7,1.4,1–4,,Alejandro Hernández,2020-2021
+20.0,Sun,2021-01-24,14:00,Osasuna,Granada,1.7,0.7,3–1,,Daniel Ask,2020-2021
+20.0,Sun,2021-01-24,16:15,Elche,Barcelona,0.5,2.6,0–2,,Valentín Pizarro,2020-2021
+20.0,Sun,2021-01-24,18:30,Celta Vigo,Eibar,1.6,0.9,1–1,,Pablo González,2020-2021
+20.0,Sun,2021-01-24,21:00,Atlético Madrid,Valencia,1.8,0.3,3–1,,Ricardo de Burgos,2020-2021
+20.0,Mon,2021-01-25,21:00,Athletic Club,Getafe,2.0,1.3,5–1,,Adrián Cordero,2020-2021
+21.0,Fri,2021-01-29,21:00,Valladolid,Huesca,1.8,1.2,1–3,,Ricardo de Burgos,2020-2021
+21.0,Sat,2021-01-30,14:00,Eibar,Sevilla,0.9,1.5,0–2,,José Sánchez,2020-2021
+21.0,Sat,2021-01-30,16:15,Real Madrid,Levante,1.3,1.8,1–2,,David Medié,2020-2021
+21.0,Sat,2021-01-30,18:30,Valencia,Elche,2.8,0.4,1–0,,Pablo González,2020-2021
+21.0,Sat,2021-01-30,21:00,Villarreal,Real Sociedad,0.2,1.3,1–1,,Isidro Díaz de Mera,2020-2021
+21.0,Sun,2021-01-31,14:00,Getafe,Alavés,0.4,0.2,0–0,,Santiago Jaime,2020-2021
+21.0,Sun,2021-01-31,16:15,Cádiz,Atlético Madrid,1.2,1.9,2–4,,Jesús Gil,2020-2021
+21.0,Sun,2021-01-31,18:30,Granada,Celta Vigo,0.3,0.6,0–0,,Carlos del Cerro,2020-2021
+21.0,Sun,2021-01-31,21:00,Barcelona,Athletic Club,1.9,0.3,2–1,,Antonio Matéu Lahoz,2020-2021
+21.0,Mon,2021-02-01,21:00,Betis,Osasuna,1.5,1.4,1–0,,Hsu Jason,2020-2021
+22.0,Fri,2021-02-05,21:00,Alavés,Valladolid,1.5,0.1,1–0,,César Soto,2020-2021
+22.0,Sat,2021-02-06,14:00,Levante,Granada,1.4,1.2,2–2,,Adrián Cordero,2020-2021
+22.0,Sat,2021-02-06,16:15,Huesca,Real Madrid,1.0,3.4,1–2,,Daniel Ask,2020-2021
+22.0,Sat,2021-02-06,18:30,Elche,Villarreal,1.3,1.4,2–2,,Mario Melero,2020-2021
+22.0,Sat,2021-02-06,21:00,Sevilla,Getafe,2.2,0.2,3–0,,Juan Martínez,2020-2021
+22.0,Sun,2021-02-07,14:00,Real Sociedad,Cádiz,4.6,0.5,4–1,,Valentín Pizarro,2020-2021
+22.0,Sun,2021-02-07,16:15,Athletic Club,Valencia,1.2,0.9,1–1,,José Luis Munuera,2020-2021
+22.0,Sun,2021-02-07,18:30,Osasuna,Eibar,1.7,1.2,2–1,,Jorge Figueroa,2020-2021
+22.0,Sun,2021-02-07,21:00,Betis,Barcelona,1.8,1.3,2–3,,Carlos del Cerro,2020-2021
+22.0,Mon,2021-02-08,21:00,Atlético Madrid,Celta Vigo,1.2,1.5,2–2,,Guillermo Cuadra,2020-2021
+1.0,Tue,2021-02-09,21:00,Real Madrid,Getafe,1.6,0.1,2–0,,Hsu Jason,2020-2021
+23.0,Fri,2021-02-12,21:00,Celta Vigo,Elche,2.1,1.1,3–1,,Ricardo de Burgos,2020-2021
+23.0,Sat,2021-02-13,14:00,Granada,Atlético Madrid,0.7,0.7,1–2,,Antonio Matéu Lahoz,2020-2021
+23.0,Sat,2021-02-13,16:15,Sevilla,Huesca,1.5,1.3,1–0,,David Medié,2020-2021
+23.0,Sat,2021-02-13,18:30,Eibar,Valladolid,2.5,1.0,1–1,,Isidro Díaz de Mera,2020-2021
+23.0,Sat,2021-02-13,21:00,Barcelona,Alavés,2.4,0.7,5–1,,Jorge Figueroa,2020-2021
+23.0,Sun,2021-02-14,14:00,Getafe,Real Sociedad,0.4,1.0,0–1,,Pablo González,2020-2021
+23.0,Sun,2021-02-14,16:15,Real Madrid,Valencia,0.8,0.1,2–0,,José Sánchez,2020-2021
+23.0,Sun,2021-02-14,18:30,Levante,Osasuna,1.5,0.7,0–1,,Santiago Jaime,2020-2021
+23.0,Sun,2021-02-14,21:00,Villarreal,Betis,1.3,1.0,1–2,,Jesús Gil,2020-2021
+23.0,Mon,2021-02-15,21:00,Cádiz,Athletic Club,0.5,2.2,0–4,,Alejandro Hernández,2020-2021
+2.0,Wed,2021-02-17,19:00,Levante,Atlético Madrid,0.6,1.1,1–1,,José Luis Munuera,2020-2021
+24.0,Fri,2021-02-19,21:00,Betis,Getafe,2.6,0.4,1–0,,Daniel Ask,2020-2021
+24.0,Sat,2021-02-20,14:00,Elche,Eibar,0.4,1.8,1–0,,Adrián Cordero,2020-2021
+24.0,Sat,2021-02-20,16:15,Atlético Madrid,Levante,2.1,0.8,0–2,,Mario Melero,2020-2021
+24.0,Sat,2021-02-20,18:30,Valencia,Celta Vigo,1.2,0.7,2–0,,Valentín Pizarro,2020-2021
+24.0,Sat,2021-02-20,21:00,Valladolid,Real Madrid,1.0,0.8,0–1,,Guillermo Cuadra,2020-2021
+24.0,Sun,2021-02-21,14:00,Barcelona,Cádiz,2.2,1.4,1–1,,Juan Martínez,2020-2021
+24.0,Sun,2021-02-21,16:15,Real Sociedad,Alavés,2.4,0.8,4–0,,José Luis Munuera,2020-2021
+24.0,Sun,2021-02-21,18:30,Huesca,Granada,2.3,1.0,3–2,,César Soto,2020-2021
+24.0,Sun,2021-02-21,21:00,Athletic Club,Villarreal,2.6,0.1,1–1,,Carlos del Cerro,2020-2021
+24.0,Mon,2021-02-22,21:00,Osasuna,Sevilla,0.5,0.7,0–2,,Hsu Jason,2020-2021
+1.0,Wed,2021-02-24,19:00,Barcelona,Elche,2.7,0.3,3–0,,Isidro Díaz de Mera,2020-2021
+25.0,Fri,2021-02-26,21:00,Levante,Athletic Club,1.2,1.9,1–1,,Isidro Díaz de Mera,2020-2021
+25.0,Sat,2021-02-27,14:00,Eibar,Huesca,1.6,0.5,1–1,,Pablo González,2020-2021
+25.0,Sat,2021-02-27,16:15,Sevilla,Barcelona,0.2,1.6,0–2,,Alejandro Hernández,2020-2021
+25.0,Sat,2021-02-27,18:30,Alavés,Osasuna,0.4,1.5,0–1,,José Sánchez,2020-2021
+25.0,Sat,2021-02-27,21:00,Getafe,Valencia,0.9,0.3,3–0,,Jorge Figueroa,2020-2021
+25.0,Sun,2021-02-28,14:00,Celta Vigo,Valladolid,0.9,0.7,1–1,,David Medié,2020-2021
+25.0,Sun,2021-02-28,16:15,Cádiz,Betis,0.2,0.4,0–1,,Antonio Matéu Lahoz,2020-2021
+25.0,Sun,2021-02-28,18:30,Granada,Elche,1.1,1.2,2–1,,Santiago Jaime,2020-2021
+25.0,Sun,2021-02-28,21:00,Villarreal,Atlético Madrid,1.8,0.6,0–2,,Ricardo de Burgos,2020-2021
+25.0,Mon,2021-03-01,21:00,Real Madrid,Real Sociedad,2.2,0.8,1–1,,Jesús Gil,2020-2021
+26.0,Fri,2021-03-05,21:00,Valencia,Villarreal,1.9,1.9,2–1,,Daniel Ask,2020-2021
+26.0,Sat,2021-03-06,14:00,Valladolid,Getafe,1.2,0.9,2–1,,Mario Melero,2020-2021
+26.0,Sat,2021-03-06,16:15,Elche,Sevilla,0.9,1.2,2–1,,Valentín Pizarro,2020-2021
+26.0,Sat,2021-03-06,18:30,Cádiz,Eibar,1.6,1.7,1–0,,Carlos del Cerro,2020-2021
+26.0,Sat,2021-03-06,21:00,Osasuna,Barcelona,0.8,0.8,0–2,,Guillermo Cuadra,2020-2021
+26.0,Sun,2021-03-07,14:00,Huesca,Celta Vigo,2.2,0.9,3–4,,José Luis Munuera,2020-2021
+26.0,Sun,2021-03-07,16:15,Atlético Madrid,Real Madrid,1.4,1.6,1–1,,Alejandro Hernández,2020-2021
+26.0,Sun,2021-03-07,18:30,Real Sociedad,Levante,4.7,0.2,1–0,,César Soto,2020-2021
+26.0,Sun,2021-03-07,21:00,Athletic Club,Granada,1.3,2.0,2–1,,Juan Martínez,2020-2021
+26.0,Mon,2021-03-08,21:00,Betis,Alavés,2.0,0.8,3–2,,Hsu Jason,2020-2021
+18.0,Wed,2021-03-10,19:00,Atlético Madrid,Athletic Club,1.5,0.6,2–1,,Jesús Gil,2020-2021
+27.0,Fri,2021-03-12,21:00,Levante,Valencia,0.8,0.7,1–0,,Guillermo Cuadra,2020-2021
+27.0,Sat,2021-03-13,14:00,Alavés,Cádiz,1.5,1.5,1–1,,Isidro Díaz de Mera,2020-2021
+27.0,Sat,2021-03-13,16:15,Real Madrid,Elche,1.6,0.5,2–1,,Jorge Figueroa,2020-2021
+27.0,Sat,2021-03-13,18:30,Osasuna,Valladolid,0.6,1.0,0–0,,Ricardo de Burgos,2020-2021
+27.0,Sat,2021-03-13,21:00,Getafe,Atlético Madrid,0.7,1.6,0–0,,José Sánchez,2020-2021
+27.0,Sun,2021-03-14,14:00,Celta Vigo,Athletic Club,1.2,0.7,0–0,,Santiago Jaime,2020-2021
+27.0,Sun,2021-03-14,16:15,Granada,Real Sociedad,0.4,0.4,1–0,,Pablo González,2020-2021
+27.0,Sun,2021-03-14,18:30,Eibar,Villarreal,1.4,2.8,1–3,,David Medié,2020-2021
+27.0,Sun,2021-03-14,21:00,Sevilla,Betis,0.6,0.7,1–0,,Antonio Matéu Lahoz,2020-2021
+27.0,Mon,2021-03-15,21:00,Barcelona,Huesca,1.1,2.2,4–1,,Adrián Cordero,2020-2021
+2.0,Wed,2021-03-17,19:00,Sevilla,Elche,1.5,0.7,2–0,,Hsu Jason,2020-2021
+28.0,Fri,2021-03-19,21:00,Betis,Levante,2.1,0.6,2–0,,Jesús Gil,2020-2021
+28.0,Sat,2021-03-20,14:00,Athletic Club,Eibar,1.6,0.6,1–1,,Valentín Pizarro,2020-2021
+28.0,Sat,2021-03-20,16:15,Celta Vigo,Real Madrid,0.6,2.5,1–3,,Mario Melero,2020-2021
+28.0,Sat,2021-03-20,18:30,Huesca,Osasuna,0.8,0.6,0–0,,Carlos del Cerro,2020-2021
+28.0,Sat,2021-03-20,21:00,Valladolid,Sevilla,0.9,1.0,1–1,,Daniel Ask,2020-2021
+28.0,Sun,2021-03-21,14:00,Getafe,Elche,1.8,1.5,1–1,,Alejandro Hernández,2020-2021
+28.0,Sun,2021-03-21,16:15,Villarreal,Cádiz,2.2,0.9,2–1,,César Soto,2020-2021
+28.0,Sun,2021-03-21,16:15,Valencia,Granada,1.9,1.2,2–1,,Hsu Jason,2020-2021
+28.0,Sun,2021-03-21,18:30,Atlético Madrid,Alavés,0.5,1.2,1–0,,Juan Martínez,2020-2021
+28.0,Sun,2021-03-21,21:00,Real Sociedad,Barcelona,0.9,2.8,1–6,,José Luis Munuera,2020-2021
+29.0,Fri,2021-04-02,21:00,Levante,Huesca,0.6,0.8,0–2,,Jorge Figueroa,2020-2021
+29.0,Sat,2021-04-03,14:00,Granada,Villarreal,1.4,3.2,0–3,,Guillermo Cuadra,2020-2021
+29.0,Sat,2021-04-03,16:15,Real Madrid,Eibar,1.8,0.4,2–0,,Isidro Díaz de Mera,2020-2021
+29.0,Sat,2021-04-03,18:30,Osasuna,Getafe,0.2,0.3,0–0,,Pablo González,2020-2021
+29.0,Sun,2021-04-04,14:00,Alavés,Celta Vigo,2.0,2.0,1–3,,Antonio Matéu Lahoz,2020-2021
+29.0,Sun,2021-04-04,16:15,Elche,Betis,1.0,1.9,1–1,,Adrián Cordero,2020-2021
+29.0,Sun,2021-04-04,18:30,Cádiz,Valencia,0.6,1.2,2–1,,David Medié,2020-2021
+29.0,Sun,2021-04-04,21:00,Sevilla,Atlético Madrid,2.0,0.8,1–0,,Jesús Gil,2020-2021
+29.0,Mon,2021-04-05,21:00,Barcelona,Valladolid,1.6,0.4,1–0,,Santiago Jaime,2020-2021
+29.0,Wed,2021-04-07,21:00,Real Sociedad,Athletic Club,0.9,0.7,1–1,,José Sánchez,2020-2021
+30.0,Fri,2021-04-09,21:00,Huesca,Elche,1.2,1.0,3–1,,Hsu Jason,2020-2021
+30.0,Sat,2021-04-10,14:00,Getafe,Cádiz,2.1,0.7,0–1,,Ricardo de Burgos,2020-2021
+30.0,Sat,2021-04-10,16:15,Athletic Club,Alavés,1.8,0.5,0–0,,Mario Melero,2020-2021
+30.0,Sat,2021-04-10,18:30,Eibar,Levante,0.4,0.3,0–1,,Daniel Ask,2020-2021
+30.0,Sat,2021-04-10,21:00,Real Madrid,Barcelona,1.5,1.3,2–1,,Jesús Gil,2020-2021
+30.0,Sun,2021-04-11,14:00,Villarreal,Osasuna,1.6,1.3,1–2,,José Luis Munuera,2020-2021
+30.0,Sun,2021-04-11,16:15,Valencia,Real Sociedad,2.3,1.0,2–2,,Valentín Pizarro,2020-2021
+30.0,Sun,2021-04-11,18:30,Valladolid,Granada,1.2,1.5,1–2,,Carlos del Cerro,2020-2021
+30.0,Sun,2021-04-11,21:00,Betis,Atlético Madrid,0.8,1.3,1–1,,Guillermo Cuadra,2020-2021
+30.0,Mon,2021-04-12,21:00,Celta Vigo,Sevilla,2.6,1.6,3–4,,Alejandro Hernández,2020-2021
+33.0,Sun,2021-04-18,14:00,Real Sociedad,Sevilla,0.3,3.4,1–2,,Santiago Jaime,2020-2021
+33.0,Sun,2021-04-18,14:00,Osasuna,Elche,0.5,0.7,2–0,,Jorge Figueroa,2020-2021
+33.0,Sun,2021-04-18,16:15,Alavés,Huesca,0.4,0.9,1–0,,Alejandro Hernández,2020-2021
+33.0,Sun,2021-04-18,16:15,Atlético Madrid,Eibar,1.9,0.0,5–0,,César Soto,2020-2021
+33.0,Sun,2021-04-18,18:30,Betis,Valencia,0.7,1.6,2–2,,Hsu Jason,2020-2021
+33.0,Sun,2021-04-18,18:30,Cádiz,Celta Vigo,0.4,0.5,0–0,,Pablo González,2020-2021
+33.0,Sun,2021-04-18,21:00,Getafe,Real Madrid,1.8,0.5,0–0,,José Sánchez,2020-2021
+33.0,Sun,2021-04-18,21:00,Levante,Villarreal,1.0,1.5,1–5,,Ricardo de Burgos,2020-2021
+31.0,Wed,2021-04-21,19:00,Levante,Sevilla,0.3,2.0,0–1,,Valentín Pizarro,2020-2021
+31.0,Wed,2021-04-21,19:00,Osasuna,Valencia,2.9,1.1,3–1,,Mario Melero,2020-2021
+31.0,Wed,2021-04-21,20:00,Betis,Athletic Club,0.2,0.8,0–0,,David Medié,2020-2021
+31.0,Wed,2021-04-21,21:00,Alavés,Villarreal,1.7,1.5,2–1,,Adrián Cordero,2020-2021
+31.0,Wed,2021-04-21,21:00,Elche,Valladolid,1.5,1.1,1–1,,José Sánchez,2020-2021
+31.0,Wed,2021-04-21,22:00,Cádiz,Real Madrid,1.0,3.2,0–3,,Antonio Matéu Lahoz,2020-2021
+31.0,Thu,2021-04-22,19:00,Atlético Madrid,Huesca,2.2,1.5,2–0,,José Luis Munuera,2020-2021
+31.0,Thu,2021-04-22,21:00,Granada,Eibar,1.4,1.7,4–1,,Santiago Jaime,2020-2021
+31.0,Thu,2021-04-22,21:00,Real Sociedad,Celta Vigo,2.2,0.6,2–1,,Jesús Gil,2020-2021
+31.0,Thu,2021-04-22,22:00,Barcelona,Getafe,1.7,1.5,5–2,,Jorge Figueroa,2020-2021
+32.0,Sat,2021-04-24,14:00,Elche,Levante,0.4,0.3,1–0,,David Medié,2020-2021
+32.0,Sat,2021-04-24,16:15,Valladolid,Cádiz,2.9,1.1,1–1,,Hsu Jason,2020-2021
+32.0,Sat,2021-04-24,18:30,Valencia,Alavés,1.0,1.0,1–1,,Guillermo Cuadra,2020-2021
+32.0,Sat,2021-04-24,21:00,Real Madrid,Betis,1.0,0.9,0–0,,Daniel Ask,2020-2021
+32.0,Sun,2021-04-25,14:00,Huesca,Getafe,0.8,0.7,0–2,,Juan Martínez,2020-2021
+32.0,Sun,2021-04-25,16:15,Villarreal,Barcelona,0.9,2.8,1–2,,Carlos del Cerro,2020-2021
+32.0,Sun,2021-04-25,18:30,Celta Vigo,Osasuna,0.7,1.4,2–1,,César Soto,2020-2021
+32.0,Sun,2021-04-25,18:30,Sevilla,Granada,1.3,0.9,2–1,,Ricardo de Burgos,2020-2021
+32.0,Sun,2021-04-25,21:00,Athletic Club,Atlético Madrid,1.2,0.8,2–1,,Pablo González,2020-2021
+32.0,Mon,2021-04-26,21:00,Eibar,Real Sociedad,1.2,0.7,0–1,,Jorge Figueroa,2020-2021
+33.0,Wed,2021-04-28,19:00,Athletic Club,Valladolid,1.5,0.8,2–2,,Adrián Cordero,2020-2021
+33.0,Thu,2021-04-29,19:00,Barcelona,Granada,1.4,0.7,1–2,,Pablo González,2020-2021
+34.0,Fri,2021-04-30,21:00,Celta Vigo,Levante,2.3,1.2,2–0,,Santiago Jaime,2020-2021
+34.0,Sat,2021-05-01,14:00,Eibar,Alavés,1.5,0.2,3–0,,José Luis Munuera,2020-2021
+34.0,Sat,2021-05-01,16:15,Elche,Atlético Madrid,1.2,0.9,0–1,,Mario Melero,2020-2021
+34.0,Sat,2021-05-01,18:30,Huesca,Real Sociedad,0.6,0.3,1–0,,Antonio Matéu Lahoz,2020-2021
+34.0,Sat,2021-05-01,21:00,Real Madrid,Osasuna,1.7,0.1,2–0,,Guillermo Cuadra,2020-2021
+34.0,Sun,2021-05-02,14:00,Valladolid,Betis,1.2,2.2,1–1,,Valentín Pizarro,2020-2021
+34.0,Sun,2021-05-02,16:15,Villarreal,Getafe,0.2,0.6,1–0,,Daniel Ask,2020-2021
+34.0,Sun,2021-05-02,18:30,Granada,Cádiz,0.9,1.2,0–1,,Isidro Díaz de Mera,2020-2021
+34.0,Sun,2021-05-02,21:00,Valencia,Barcelona,1.2,3.0,2–3,,José Sánchez,2020-2021
+34.0,Mon,2021-05-03,21:00,Sevilla,Athletic Club,1.1,0.7,0–1,,Jesús Gil,2020-2021
+35.0,Fri,2021-05-07,21:00,Real Sociedad,Elche,2.4,0.2,2–0,,Adrián Cordero,2020-2021
+35.0,Sat,2021-05-08,14:00,Alavés,Levante,1.2,0.8,2–2,,Carlos del Cerro,2020-2021
+35.0,Sat,2021-05-08,16:15,Barcelona,Atlético Madrid,0.9,0.8,0–0,,Antonio Matéu Lahoz,2020-2021
+35.0,Sat,2021-05-08,18:30,Cádiz,Huesca,0.9,0.7,2–1,,Alejandro Hernández,2020-2021
+35.0,Sat,2021-05-08,21:00,Athletic Club,Osasuna,1.6,1.3,2–2,,Valentín Pizarro,2020-2021
+35.0,Sun,2021-05-09,14:00,Getafe,Eibar,0.8,1.1,0–1,,Hsu Jason,2020-2021
+35.0,Sun,2021-05-09,16:15,Valencia,Valladolid,1.3,1.0,3–0,,Jesús Gil,2020-2021
+35.0,Sun,2021-05-09,18:30,Villarreal,Celta Vigo,3.0,2.0,2–4,,David Medié,2020-2021
+35.0,Sun,2021-05-09,21:00,Real Madrid,Sevilla,0.9,1.2,2–2,,Juan Martínez,2020-2021
+35.0,Mon,2021-05-10,21:00,Betis,Granada,1.7,1.5,2–1,,César Soto,2020-2021
+36.0,Tue,2021-05-11,19:00,Osasuna,Cádiz,2.1,1.7,3–2,,Santiago Jaime,2020-2021
+36.0,Tue,2021-05-11,20:00,Elche,Alavés,0.8,1.6,0–2,,Pablo González,2020-2021
+36.0,Tue,2021-05-11,22:00,Levante,Barcelona,1.1,2.7,3–3,,José Luis Munuera,2020-2021
+36.0,Wed,2021-05-12,19:00,Sevilla,Valencia,0.9,0.4,1–0,,Daniel Ask,2020-2021
+36.0,Wed,2021-05-12,20:00,Celta Vigo,Getafe,0.4,1.3,1–0,,Mario Melero,2020-2021
+36.0,Wed,2021-05-12,20:00,Huesca,Athletic Club,1.2,0.5,1–0,,Jorge Figueroa,2020-2021
+36.0,Wed,2021-05-12,22:00,Atlético Madrid,Real Sociedad,1.4,1.7,2–1,,Guillermo Cuadra,2020-2021
+36.0,Thu,2021-05-13,19:00,Valladolid,Villarreal,1.0,0.6,0–2,,Ricardo de Burgos,2020-2021
+36.0,Thu,2021-05-13,20:00,Eibar,Betis,1.2,0.8,1–1,,Isidro Díaz de Mera,2020-2021
+36.0,Thu,2021-05-13,22:00,Granada,Real Madrid,1.9,1.3,1–4,,Jesús Gil,2020-2021
+37.0,Sun,2021-05-16,18:30,Betis,Huesca,1.1,0.3,1–0,,Pablo González,2020-2021
+37.0,Sun,2021-05-16,18:30,Alavés,Granada,2.4,0.8,4–2,,José Sánchez,2020-2021
+37.0,Sun,2021-05-16,18:30,Valencia,Eibar,1.3,2.3,4–1,2689.0,Valentín Pizarro,2020-2021
+37.0,Sun,2021-05-16,18:30,Barcelona,Celta Vigo,2.5,0.7,1–2,,Ricardo de Burgos,2020-2021
+37.0,Sun,2021-05-16,18:30,Athletic Club,Real Madrid,0.7,1.0,0–1,,Antonio Matéu Lahoz,2020-2021
+37.0,Sun,2021-05-16,18:30,Atlético Madrid,Osasuna,2.6,0.3,2–1,,Juan Martínez,2020-2021
+37.0,Sun,2021-05-16,18:30,Getafe,Levante,0.5,0.5,2–1,,Adrián Cordero,2020-2021
+37.0,Sun,2021-05-16,18:30,Real Sociedad,Valladolid,1.8,1.6,4–1,,Carlos del Cerro,2020-2021
+37.0,Sun,2021-05-16,18:30,Cádiz,Elche,1.1,2.4,1–3,,César Soto,2020-2021
+37.0,Sun,2021-05-16,18:30,Villarreal,Sevilla,1.2,1.6,4–0,4800.0,Guillermo Cuadra,2020-2021
+38.0,Fri,2021-05-21,21:00,Levante,Cádiz,1.5,0.5,2–2,,Daniel Ask,2020-2021
+38.0,Sat,2021-05-22,18:00,Valladolid,Atlético Madrid,1.1,1.4,1–2,,José Sánchez,2020-2021
+38.0,Sat,2021-05-22,18:00,Osasuna,Real Sociedad,0.4,2.0,0–1,,Jorge Figueroa,2020-2021
+38.0,Sat,2021-05-22,18:00,Eibar,Barcelona,1.7,0.3,0–1,,Santiago Jaime,2020-2021
+38.0,Sat,2021-05-22,18:00,Huesca,Valencia,1.3,0.5,0–0,,Guillermo Cuadra,2020-2021
+38.0,Sat,2021-05-22,18:00,Celta Vigo,Betis,1.3,2.3,2–3,1738.0,Jesús Gil,2020-2021
+38.0,Sat,2021-05-22,18:00,Real Madrid,Villarreal,1.2,0.6,2–1,,José Luis Munuera,2020-2021
+38.0,Sat,2021-05-22,18:00,Elche,Athletic Club,1.0,0.5,2–0,3518.0,Carlos del Cerro,2020-2021
+38.0,Sun,2021-05-23,18:30,Granada,Getafe,0.4,0.6,0–0,,David Medié,2020-2021
+38.0,Sun,2021-05-23,21:00,Sevilla,Alavés,0.4,1.1,1–0,,Isidro Díaz de Mera,2020-2021

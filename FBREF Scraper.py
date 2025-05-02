@@ -1,5 +1,6 @@
 import json
 import requests
+import numpy as np
 import urllib
 import pandas as pd
 import time
@@ -31,6 +32,96 @@ def get_data_info(league_index, season_index):
     return url, league, season
 
 
+def get_match_links(url):
+    print("Getting match links for a season...")
+
+    # access and download content from url containing all fixture links
+    req = urllib.request.Request(url)
+    content = urllib.request.urlopen(req).read().decode('utf-8')  # requests is not working
+    soup = BeautifulSoup(content, "lxml")
+
+    rows = soup.find("tbody").find_all("td", attrs={"data-stat": "match_report"})
+    match_links = []
+    for row in rows:
+        if row.find("a"):
+            match_links.append(row.find("a").get("href"))
+
+    time.sleep(5)
+    print("Match links collected...")
+    return match_links
+
+
+def get_match_data(url):
+    print("Getting extra stats...")
+    # access and download content from url containing all fixture links
+    url = f"https://fbref.com{url}"
+    req = urllib.request.Request(url)
+    content = urllib.request.urlopen(req).read().decode('utf-8')  # requests is not working
+    soup = BeautifulSoup(content, "lxml")  # switch to lxml
+
+    cols = ["t1_captain", "t2_captain", "t1_formation", "t2_formation",
+            "t1_possession", "t2_possession", "t1_passing", "t2_passing",
+            "t1_shots", "t2_shots", "t1_saves", "t2_saves", "t1_yellow_cards",
+            "t1_red_cards", "t2_yellow_cards", "t2_red_cards", "t1_fouls",
+            "t2_fouls", "t1_corners", "t2_corners", "t1_crosses", "t2_crosses",
+            "t1_touches", "t2_touches", "t1_tackles", "t2_tackles",
+            "t1_interceptions", "t2_interceptions", "t1_aerials_won",
+            "t2_aerials_won", "t1_clearances", "t2_clearances", "t1_offsides",
+            "t2_offsides", "t1_goal_kicks", "t2_goal_kicks", "t1_throw_ins",
+            "t2_throw_ins", "t1_long_balls", "t2_long_balls"]
+
+    match_stats_df = pd.DataFrame(columns=cols)
+    try:
+        # Getting captains
+        datapoint_divs = soup.find_all("div", class_="datapoint")
+        data_row = []
+        for datapoint in datapoint_divs:
+            if datapoint.a:
+                data_row.append(datapoint.a.text)
+
+        # Getting formations
+        lineup_divs = soup.find_all("div", class_="lineup")
+        for lineup in lineup_divs:
+            data_row.append(re.findall(r"\([-\d]*\)", lineup.find_all("th")[0].text)[0])
+
+        # Getting Possession, Passing, Shots, Saves, Cards
+        team_stats_div = soup.find("div", id="team_stats")
+        td_tags = team_stats_div.find_all("td")
+        for td in td_tags:
+            if not (td.find("div", class_="cards")):
+                data_row.append(td.text.strip("\n"))
+                data_row = list(map(lambda x: x.replace("\xa0", " "), data_row))
+            else:
+                yellow_cards_count = len(td.find_all("span", class_="yellow_card"))
+                double_yellow_cards_count = len(td.find_all("span", class_="yellow_red_card"))
+                red_cards_count = len(td.find_all("span", class_="red_card"))
+
+                data_row.extend([yellow_cards_count + 1.5 * double_yellow_cards_count, red_cards_count])
+
+        # Getting Fouls, Corners, Crosses, Touches, Tackles, Interceptions,
+        # Aerials Won, Clearances, Offsides, Goal Kicks, Throw Ins, Long Balls
+        team_stats_extra_div = soup.find("div", id="team_stats_extra")
+        container_divs = team_stats_extra_div.find_all("div")
+        for i, container in enumerate(container_divs):
+            if len(container) < 20:
+                try:
+                    int(container.text)
+                    data_row.append(container.text)
+                except ValueError:
+                    pass
+
+        match_stats_df.loc[0] = data_row
+
+    except Exception as e:
+        print(e)
+        print(str(len(data_row)), data_row)  # I have to insert an empty row.
+        match_stats_df.loc[0] = np.nan
+        # match_stats_df.reset_index(drop=True).to_csv("match_stats.csv", header=False, index=False, mode="a")
+    time.sleep(5)
+    print("Extra stats collected...")
+    return match_stats_df
+
+
 def get_fixture_data(url, league, season):
     print("Getting fixture data...")
     # create empty data frame and access all tables in url
@@ -39,19 +130,31 @@ def get_fixture_data(url, league, season):
 
     # get fixtures
     fixtures = tables[0][
-        ["Wk", "Day", "Date", "Time", "Home", "Away", "xG", "xG.1", "Score", "Attendance", "Referee"]].dropna()
+        ["Wk", "Day", "Date", "Time", "Home", "Away", "xG", "xG.1", "Score", "Attendance", "Referee"]].dropna(thresh=2)
     fixtures["season"] = season  # url.split("/")[6]
     fixture_data = pd.concat([fixture_data, fixtures])
 
     # assign id for each game
-    fixture_data["game_id"] = fixture_data.index
+    fixture_data.reset_index(drop=True, inplace=True)
+
+    # get extra match stats
+    extra_stats = pd.DataFrame([])
+    match_links = get_match_links(url)
+    for match_report_link in match_links:
+        extra_stats = pd.concat([extra_stats, get_match_data(match_report_link)],
+                                axis=0)
+        if len(extra_stats) % 20 == 0:
+            print(f"{len(extra_stats)}/{len(match_links)} matches collected")
+            extra_stats.to_csv(f"data\\league-fixture\\csv\\{league.lower()}_{season.lower()}_full_stats.csv",)
 
     # export to csv file
+    extra_stats.reset_index(drop=True, inplace=True)
+    fixture_data = pd.concat([fixture_data, extra_stats], axis=1)
     fixture_data.reset_index(drop=True).to_csv(
         f"data\\league-fixture\\csv\\{league.lower()}_{season.lower()}_fixture_data.csv",
         header=True, index=False, mode="w")
-    print("Fixture data collected...")
     time.sleep(5)
+    print("Fixture data collected...")
 
 
 def generate_json(directory):
@@ -64,33 +167,17 @@ def generate_json(directory):
         dic = {}
         for season in ["2017-2018", "2018-2019", "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024",
                        "2024-2025"]:
+            dic[season] = []
             for league in ["Premier-League", "La-Liga", "Serie-A", "Ligue-1", "Bundesliga"]:
                 data = pd.read_csv(f"{directory}\\csv\\{league.lower()}_{season.lower()}_fixture_data.csv")
-                dic[f"{season}_{league}"] = data.to_dict()
-
-        with open(f'{directory}\\fixture_data.json', 'w') as fp:
+                # dic[f"{season}_{league}"] = data.to_dict()
+                dic[season].append({league: data.to_dict()})
+        with open(f'{directory}\\big_fixture_data.json', 'w') as fp:
             # fp.write(str(dict))
             json.dump(dic, fp, indent=4)
         return "Success"
     except Exception as e:
         return e
-
-
-def get_match_links(url):
-    print("Getting match links for a season...")
-    # access and download content from url containing all fixture links
-    match_links = []
-    content = requests.get(url)
-    print(content.status_code)
-
-    soup = BeautifulSoup(content.text, "html.parser")  # switch to lxml
-    rows = soup.find("tbody").find_all("td", attrs={"data-stat": "match_report"})
-    match_links = []
-    for row in rows:
-        if row.find("a").get("href"):
-            match_links.append(row.find("a").get("href"))
-
-    time.sleep(5)
 
 
 # def player_data(match_links, league, season):
@@ -140,70 +227,11 @@ def get_match_links(url):
 #         time.sleep(3)
 
 
-def get_match_data(url):
-    # access and download content from url containing all fixture links
-    req = urllib.request.Request(url)
-    content = urllib.request.urlopen(req).read().decode('utf-8')  # requests is not working
-    soup = BeautifulSoup(content, "lxml")  # switch to lxml
-
-    cols = ["t1_captain", "t2_captain", "t1_formation", "t2_formation",
-            "t1_possesion", "t2_possesion", "t1_passing", "t2_passing",
-            "t1_shots", "t2_shots", "t1_saves", "t2_saves", "t1_cards", "t2_cards",
-            "t1_fouls", "t2_fouls", "t1_corners", "t2_corners", "t1_crosses",
-            "t2_crosses", "t1_touches", "t2_touches", "t1_tackles", "t2_tackles",
-            "t1_interceptions", "t2_interceptions", "t1_aerials_won",
-            "t2_aerials_won", "t1_clearances", "t2_clearances", "t1_offsides",
-            "t2_offsides", "t1_goal_kicks", "t2_goal_kicks", "t1_throw_ins",
-            "t2_throw_ins", "t1_long_balls", "t2_long_balls"]
-
-    match_stats_df = pd.DataFrame(columns=cols)
-    match_stats_df.to_csv("match_stats.csv", header=True, index=False, mode="w")
-    # Getting captains
-    datapoint_divs = soup.find_all("div", class_="datapoint")
-    data_row = []
-    for datapoint in datapoint_divs:
-        if datapoint.a:
-            data_row.append(datapoint.a.text)
-
-    # Getting formations
-    lineup_divs = soup.find_all("div", class_="lineup")
-    for lineup in lineup_divs:
-        data_row.append(re.findall(r"\([-\d]*\)", lineup.find_all("th")[0].text)[0])
-
-    # Getting Possesion, Passing, Shots, Saves, Cards
-    team_stats_div = soup.find("div", id="team_stats")
-    tdatas = team_stats_div.find_all("td")
-    for td in tdatas:
-        data_row.append(td.text.strip("\n"))
-        data_row = list(map(lambda x: x.replace("\xa0", " "), data_row))
-
-    # Getting Fouls, Corners, Crosses, Touches, Tackles, Interceptions,
-    # Aerials Won, Clearances, Offsides, Goal Kicks, Throw Ins, Long Balls
-    team_stats_extra_div = soup.find("div", id="team_stats_extra")
-    container_divs = team_stats_extra_div.find_all("div")
-    for i, container in enumerate(container_divs):
-        if len(container) < 20:
-            try:
-                int(container.text)
-                data_row.append(container.text)
-            except ValueError:
-                pass
-
-    match_stats_df.loc[0] = data_row
-    match_stats_df.reset_index(drop=True).to_csv("match_stats.csv", header=False, index=False, mode="a")
-    time.sleep(5)
-    return match_stats_df
-
 def main():
-    # Get basic per match data
     for l_i in range(5):
         for s_i in range(8):
             url, league, season = get_data_info(l_i, s_i)
             get_fixture_data(url, league, season)
-            # try taking match_links as input and see if they are same length
-            # OR get each match's extra stats simultaneously.
-            
-            # match_links = get_match_links(url)
 
     generate_json("data\league-fixture")  # compile all csv files to generate a single json file
 
@@ -214,8 +242,11 @@ def main():
 if __name__ == "__main__":
     try:
         # main()
-        x = get_match_data("https://fbref.com/en/matches/3a6836b4/Burnley-Manchester-City-August-11-2023-Premier-League")
-        print(x)
+        # for i in range(1, 2):
+        #     url, league, season = get_data_info(i, -6)
+        #     get_fixture_data(url, league, season)
+        
+        generate_json("data\league-fixture")  # compile all csv files to generate a single json file
     except HTTPError:
-        print("The website refused access, try again later")
         time.sleep(5)
+        print("The website refused access, try again later")
