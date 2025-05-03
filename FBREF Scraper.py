@@ -242,11 +242,11 @@ def main():
 if __name__ == "__main__":
     try:
         # main()
-        # for i in range(1, 2):
-        #     url, league, season = get_data_info(i, -6)
-        #     get_fixture_data(url, league, season)
+        for i in range(1, 2):
+            url, league, season = get_data_info(i, -6)
+            get_fixture_data(url, league, season)
 
-        generate_json("data\league-fixture")  # compile all csv files to generate a single json file
+        # generate_json("data\league-fixture")  # compile all csv files to generate a single json file
     except HTTPError:
         time.sleep(5)
         print("The website refused access, try again later")
