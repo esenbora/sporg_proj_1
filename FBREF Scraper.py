@@ -242,7 +242,7 @@ def main():
 if __name__ == "__main__":
     try:
         # main()
-        for i in range(2, 5):
+        for i in range(4, 5):
             url, league, season = get_data_info(i, 2)
             get_fixture_data(url, league, season)
 
