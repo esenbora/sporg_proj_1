@@ -145,7 +145,7 @@ def get_fixture_data(url, league, season):
                                 axis=0)
         if len(extra_stats) % 20 == 0:
             print(f"{len(extra_stats)}/{len(match_links)} matches collected")
-            extra_stats.to_csv(f"data\\league-fixture\\csv\\{league.lower()}_{season.lower()}_full_stats.csv",)
+            extra_stats.to_csv(f"data\\league-fixture\\csv\\{league.lower()}_{season.lower()}_full_stats.csv", )
 
     # export to csv file
     extra_stats.reset_index(drop=True, inplace=True)
@@ -233,7 +233,7 @@ def main():
             url, league, season = get_data_info(l_i, s_i)
             get_fixture_data(url, league, season)
 
-    generate_json("data\league-fixture")  # compile all csv files to generate a single json file
+    generate_json("data/league-fixture")  # compile all csv files to generate a single json file
 
     # player_data(match_links, league, season)
     print("Data collected!")
@@ -242,11 +242,11 @@ def main():
 if __name__ == "__main__":
     try:
         # main()
-        for i in range(4, 5):
-            url, league, season = get_data_info(i, 2)
-            get_fixture_data(url, league, season)
+        # for i in range(4, 5):
+        #     url, league, season = get_data_info(i, 2)
+        #     get_fixture_data(url, league, season)
 
-        # generate_json("data\league-fixture")  # compile all csv files to generate a single json file
+        generate_json("data/league-fixture")  # compile all csv files to generate a single json file
     except HTTPError:
         time.sleep(5)
         print("The website refused access, try again later")
