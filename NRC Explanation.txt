@@ -1,0 +1,18 @@
+NRC Metric:
+	(hhi_value - min_hhi) / (max_hhi - min_hhi)
+	So NRC is just an HHI Min Max Scaler.
+
+
+HHI Value:
+	It has a simple calculation. For any variable we take the summation of { (values / sum of values) * 100 } ^ 2
+	So 20 teams and 38 matches for every team is 380 matches per season. Let's assume all the teams tied every game.
+	Total Points = 38*20=760 => [(38/760) * 100]^2 for every team = 500.
+	Due to the nature of the power transaction. Larger values grow at a faster rate.
+
+Similar to standard deviations, if most points are shared among a few teams,
+we will get a high HHI value, high NRC. On the other hand, 
+if all teams tie or have points close to each other, we will get a low NRC. 
+In this sense it works similar to standard deviation. 
+There is a downside: Two teams drawing against each other contributes 
+to a lower NRC (more comp) than if both teams win each other. 
+In short, NRC rewards draws.
